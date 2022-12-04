@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "63779528",
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "20/03/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4053_2018/",
+        "main_cpv": "35120000-1",
+        "number_companies_win": 0,
+        "procurement_title": "A Semmelweis Egyetem területén technikai védelmi rendszerek tervezése, telepítése, integrálása, fejlesztése, javítása",
+        "registered_name": "ATS Biztonságtechnika Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "47995337",
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "13/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0133_2020/",
+        "main_cpv": "50600000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Biztonságtechnikai eszközök karbantartása, javítása",
+        "registered_name": "ATS Biztonságtechnika Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "112977642",
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "04/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19116_2020/",
+        "main_cpv": "51900000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Technikai védelmi rendszerek telepítése",
+        "registered_name": "ATS Biztonságtechnika Korlátolt Felelősségü Társaság"
+    }
+]

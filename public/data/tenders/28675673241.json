@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "KVGY Kaposvári Villamossági Gyár Korlátolt Felelősségű Társaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság; ZPUE S.A.",
+        "contract_value": "312235458,18",
+        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "date": "27/12/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_24074_2018/",
+        "main_cpv": "31213300-5",
+        "number_companies_win": 3,
+        "procurement_title": "Műanyagházas kábel-elosztó szekrények beszerzése",
+        "registered_name": "SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság"
+    },
+    {
+        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; KONCAR Distributivni i specijalni transformatori d.d.; LEMI TRAFO JSC.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság",
+        "contract_value": "5566655812,75",
+        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "date": "15/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_2669_2019/",
+        "main_cpv": "31174000-6",
+        "number_companies_win": 5,
+        "procurement_title": "KÖF/KIF elosztó-hálózati transzformátorok beszerzése",
+        "registered_name": "SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "112753703,88",
+        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "date": "26/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_4867_2019/",
+        "main_cpv": "31213300-5",
+        "number_companies_win": 0,
+        "procurement_title": "Műanyagházas kábel-elosztó szekrények",
+        "registered_name": "SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "807703238,4",
+        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "date": "28/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_8982_2019/",
+        "main_cpv": "31174000-6",
+        "number_companies_win": 0,
+        "procurement_title": "KÖF/KIF elosztó-hálózati transzformátorok beszerzése",
+        "registered_name": "SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság"
+    },
+    {
+        "company_names": "Hitachi Energy Hungary Korlátolt Felelősségű Társaság; Lemi-Trafo JSC; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság",
+        "contract_value": "2543646143,25",
+        "contracting_authority": "MVM Démász Áramhálózati Kft.",
+        "date": "29/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10157_2020/",
+        "main_cpv": "31174000-6",
+        "number_companies_win": 4,
+        "procurement_title": "Elosztóhálózati KIF/KÖF transzformátorok beszerzés",
+        "registered_name": "SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság"
+    }
+]

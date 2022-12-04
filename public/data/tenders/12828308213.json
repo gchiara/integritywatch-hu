@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "9483216",
+        "contracting_authority": "Készenléti Rendőrség",
+        "date": "17/04/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5060_2018/",
+        "main_cpv": "90911200-8",
+        "number_companies_win": 0,
+        "procurement_title": "A Készenléti Rendőrség objektumainak takarítása",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "55000000",
+        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "date": "03/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24304_2018/",
+        "main_cpv": "90910000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Kőbányai ingatlanok üzemeltetése",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "321808788",
+        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
+        "date": "09/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0100_2019/",
+        "main_cpv": "90911200-8",
+        "number_companies_win": 0,
+        "procurement_title": "Takarítás",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "52000000",
+        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "date": "09/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24520_2019/",
+        "main_cpv": "90910000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Kőbányai ingatlanok üzemeltetése",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "34645700",
+        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "date": "19/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10844_2020/",
+        "main_cpv": "77310000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Zöldterület gondozási feladatok ellátása 2020",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "57200000",
+        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "date": "15/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23182_2020/",
+        "main_cpv": "90910000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Kőbányai ingatlanok üzemeltetése 2021. évre",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "55500000",
+        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "date": "17/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25265_2021/",
+        "main_cpv": "90910000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Kőbányai ingatlanok üzemeltetése 2022. évre",
+        "registered_name": "SABINA 2000 Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+    }
+]

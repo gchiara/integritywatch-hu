@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "17320000",
+        "contracting_authority": "Pannon Egyetem",
+        "date": "29/03/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4708_2018/",
+        "main_cpv": "48614000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Mobil terepi adatgyűjtő rendszer és vízminta vevő beszerzése a Pannon Egyetem részére",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": "12400000",
+        "contracting_authority": "Nemzeti Agrárkutatási és Innovációs Központ",
+        "date": "26/07/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11261_2018/",
+        "main_cpv": "16600000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Ketreces rendszer beszerzése",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": "33650000",
+        "contracting_authority": "Debreceni Egyetem",
+        "date": "19/12/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23470_2018/",
+        "main_cpv": "38900000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Klímaadaptációs műszerközpont létrehozása",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": "81000000",
+        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "date": "24/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_1032_2019/",
+        "main_cpv": "24000000-4",
+        "number_companies_win": 0,
+        "procurement_title": "WTW - vegyszerek beszerzése, karbantartás",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": "134978000",
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "20/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8961_2021/",
+        "main_cpv": "38550000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Vízminőségi monitoring eszközpark fejlesztése",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": "126087000",
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "12/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19544_2021/",
+        "main_cpv": "38550000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Vízminőségi monitoring eszközpark fejlesztése II.",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": "96000000",
+        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "date": "30/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25853_2021/",
+        "main_cpv": "24000000-4",
+        "number_companies_win": 0,
+        "procurement_title": "WTW – vegyszerek beszerzése, karbantartás II.",
+        "registered_name": "Velinor Kereskedelmi és Szolgáltató Kft."
+    }
+]

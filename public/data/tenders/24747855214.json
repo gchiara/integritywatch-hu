@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "30089697,75",
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "date": "27/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_4935_2019/",
+        "main_cpv": "31211310-4",
+        "number_companies_win": 0,
+        "procurement_title": "Kismegszakítók szállítása",
+        "registered_name": "KIF-KÖF Villamosipari Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "KIF-KÖF Villamosipari Korlátolt Felelősségű Társaság; KVGY Kaposvári Villamossági Gyár Korlátolt Felelősségű Társaság",
+        "contract_value": "631497300",
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "date": "17/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12484_2020/",
+        "main_cpv": "31200000-8",
+        "number_companies_win": 2,
+        "procurement_title": "OTR szekrények szállítása",
+        "registered_name": "KIF-KÖF Villamosipari Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "26285000",
+        "contracting_authority": "MVM Démász Áramhálózati Kft.",
+        "date": "10/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22050_2021/",
+        "main_cpv": "31211300-1",
+        "number_companies_win": 0,
+        "procurement_title": "KÖF olvadóbiztosítók beszerzése",
+        "registered_name": "KIF-KÖF Villamosipari Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "30800000",
+        "contracting_authority": "MVM Démász Áramhálózati Kft.",
+        "date": "10/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22050_2021/",
+        "main_cpv": "31211300-1",
+        "number_companies_win": 0,
+        "procurement_title": "KÖF olvadóbiztosítók beszerzése",
+        "registered_name": "KIF-KÖF Villamosipari Korlátolt Felelősségű Társaság"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "30000000",
+        "contracting_authority": "Természettudományi Kutatóközpont",
+        "date": "10/08/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14015_2018/",
+        "main_cpv": "63500000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Az MTA TTK részére repülőjegyek és utazással összefüggő szolgáltatások biztosítása vállalkozási keretszerződés alapján",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "40000000",
+        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "date": "10/09/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15985_2018/",
+        "main_cpv": "63510000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Megbízási keretszerződés szerződés, melynek tárgya Ajánlatkérő részére külföldi és belföldi utazásszervezési szolgáltatások nyújtása.",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "2200000",
+        "contracting_authority": "Müpa Budapest - Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság",
+        "date": "11/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2429_2019/",
+        "main_cpv": "63510000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Nemzetközi útvonaltervezés",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "\"Jet Travel\" Idegenforgalmi Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; IBUSZ Utazási Irodák Kft.; OTP Travel Korlátolt Felelősségű Társaság; UNITED 4 BONAFINI BINDAIR Idegenforgalmi és Kereskedelmi Korlátolt Felelsségű Társaság; Weco-Travel Idegenforgalmi Korlátolt Felelősségű Társaság",
+        "contract_value": "35000000000",
+        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
+        "date": "21/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22017_2019/",
+        "main_cpv": "63510000-7",
+        "number_companies_win": 5,
+        "procurement_title": "Nemzetközi utazásszervezések",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "220000000",
+        "contracting_authority": "Budapesti Corvinus Egyetem",
+        "date": "20/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6577_2020/",
+        "main_cpv": "63510000-7",
+        "number_companies_win": 0,
+        "procurement_title": "BCE - utazásszervezési szolgáltatások beszerzése",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "115000000",
+        "contracting_authority": "Pázmány Péter Katolikus Egyetem",
+        "date": "14/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8257_2020/",
+        "main_cpv": "63510000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Utazásszervezés",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "250000000",
+        "contracting_authority": "EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság, Kisfaludy2030 Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság, Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, MDDÜ Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság, Visit Hungary Nemzeti Turisztikai Szervezet Nonprofit Zrt.",
+        "date": "16/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18622_2020/",
+        "main_cpv": "63500000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Utazás- és szállásszervezés",
+        "registered_name": "OTP Travel Korlátolt Felelősségű Társaság"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "62900000",
+        "contracting_authority": "Újpesti Torna Egylet",
+        "date": "08/02/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1258_2018/",
+        "main_cpv": "37481000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Újpesti Torna Egylet részére jégpálya-karbantartó gépek beszerzése",
+        "registered_name": "SUPLIMUM Szolgáltató Betéti Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "49900000",
+        "contracting_authority": "Nemzeti Sportközpontok",
+        "date": "07/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22882_2019/",
+        "main_cpv": "35100000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Jégcsarnok pályavédelmi rendszer beszerzése.",
+        "registered_name": "SUPLIMUM Szolgáltató Betéti Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "87800000",
+        "contracting_authority": "Nemzeti Sportközpontok",
+        "date": "24/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13179_2020/",
+        "main_cpv": "37481000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Elektromos jégpálya karbantartó gépek - 2020",
+        "registered_name": "SUPLIMUM Szolgáltató Betéti Társaság"
+    }
+]

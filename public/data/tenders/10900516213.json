@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "209500102",
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "date": "31/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_24820_2019/",
+        "main_cpv": "31214000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Segédüzemi berendezések szállítása",
+        "registered_name": "INFOWARE Vállalkozási és Kereskedelmi Zártkörű Részvénytársaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "2652870100",
+        "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
+        "date": "08/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25327_2019/",
+        "main_cpv": "45210000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Smart Grid kivitelezés",
+        "registered_name": "INFOWARE Vállalkozási és Kereskedelmi Zártkörű Részvénytársaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "560000000",
+        "contracting_authority": "MVM Démász Áramhálózati Kft.",
+        "date": "27/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_5057_2020/",
+        "main_cpv": "31434000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Lítium-ion akkumulátoros energiatároló létesítése",
+        "registered_name": "INFOWARE Vállalkozási és Kereskedelmi Zártkörű Részvénytársaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "26950000",
+        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "date": "20/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_18343_2020/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Hajdúszoboszló FGT: AKIR rendszer átalakítása",
+        "registered_name": "INFOWARE Vállalkozási és Kereskedelmi Zártkörű Részvénytársaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "339847349,5",
+        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság",
+        "date": "28/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_1119_2021/",
+        "main_cpv": "31213000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Segédüzemi elosztóberendezések beszerzése",
+        "registered_name": "INFOWARE Vállalkozási és Kereskedelmi Zártkörű Részvénytársaság"
+    }
+]

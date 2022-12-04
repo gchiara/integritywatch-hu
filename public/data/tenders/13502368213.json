@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "41498084",
+        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
+        "date": "25/07/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12944_2018/",
+        "main_cpv": "45111000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Sasadi Óvoda játszóudvar II. ütem felújítása",
+        "registered_name": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság; Harmat Kert Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság",
+        "contract_value": "520000000",
+        "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "23/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13039_2020/",
+        "main_cpv": "77313000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Kaszálási és parkfenntartási munkák",
+        "registered_name": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "14811024",
+        "contracting_authority": "Nagymaros Város Önkormányzata",
+        "date": "10/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10820_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Nagymaros - Strandfejlesztés - 2. ütem",
+        "registered_name": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság; Harmat Kert Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság",
+        "contract_value": "468000000",
+        "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "03/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14543_2021/",
+        "main_cpv": "77313000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Kaszálási munkák 24 hónapra",
+        "registered_name": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság; Harmat Kert Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság",
+        "contract_value": "241800000",
+        "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "15/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17513_2021/",
+        "main_cpv": "77313000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Parkfenntartási munkák 24 hónapra",
+        "registered_name": "BÁLVÁNY-FA 2005 Kereskedelmi és Kertészeti Korlátolt Felelősségű Társaság"
+    }
+]

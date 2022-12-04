@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "82134154",
+        "contracting_authority": "Fedémes Községi Önkormányzat",
+        "date": "10/08/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14249_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Egyedi szennyvízkezelés - Fed",
+        "registered_name": "KONTAKT-R Üzletkötő és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "123361374",
+        "contracting_authority": "Hét Község Önkormányzata",
+        "date": "23/08/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13780_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Hét község egyedi szennyvízkezelés kivitelezése",
+        "registered_name": "KONTAKT-R Üzletkötő és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "156079160",
+        "contracting_authority": "Aka Község Önkormányzata",
+        "date": "15/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20031_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Egyedi szennyvízkezelés megvalósítása Aka községben",
+        "registered_name": "KONTAKT-R Üzletkötő és Kereskedelmi Korlátolt Felelősségű Társaság"
+    }
+]

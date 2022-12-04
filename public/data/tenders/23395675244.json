@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "3500000000",
+        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
+        "date": "22/02/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_508_2018/",
+        "main_cpv": "33690000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Hepatitis-C betegség kezelésére szolgáló, interferonmentes készítmények beszerzésére vonatkozó keretmegállapodás megkötésére irányuló gyorsított nyílt eljárás",
+        "registered_name": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "1400000400",
+        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
+        "date": "27/02/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_617_2018/",
+        "main_cpv": "33690000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Hepatitis-C betegség kezelésére szolgáló, interferonmentes készítmények beszerzésére kötendő keretmegállapodás 3 részben",
+        "registered_name": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "16838939928",
+        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
+        "date": "28/03/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2321_2018/",
+        "main_cpv": "33690000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Tételes elszámolás alá eső hatóanyagokat tartalmazó, természetben biztosítandó egyes gyógyszerek 2018-2019. finanszírozási évre történő beszerzése",
+        "registered_name": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": "2980932864",
+        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
+        "date": "19/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8149_2020/",
+        "main_cpv": "33600000-6",
+        "number_companies_win": 2,
+        "procurement_title": "Venetoklax hatóanyag beszerzése",
+        "registered_name": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": "4850728176",
+        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
+        "date": "06/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14485_2021/",
+        "main_cpv": "33690000-3",
+        "number_companies_win": 2,
+        "procurement_title": "Tételes elszámolású 6 hatóanyag beszerzése",
+        "registered_name": "AbbVie Gyógyszerkereskedelmi Korlátolt Felelősségű Társaság"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Atlantis Rendszerház Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság; ManOPen Irodatechnikai Korlátolt Felelősségű Társaság; PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SLIMLOGIC Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": "1500000000",
+        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
+        "date": "11/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
+        "main_cpv": "30232100-5",
+        "number_companies_win": 10,
+        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
+        "registered_name": "PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "528632",
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "date": "11/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19491_2020/",
+        "main_cpv": "30125000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
+        "registered_name": "PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "183228",
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "date": "25/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2724_2021/",
+        "main_cpv": "30232100-5",
+        "number_companies_win": 0,
+        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
+        "registered_name": "PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "182324",
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "date": "14/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11826_2021/",
+        "main_cpv": "30232100-5",
+        "number_companies_win": 0,
+        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
+        "registered_name": "PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+    }
+]

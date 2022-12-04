@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "256000",
+        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
+        "date": "15/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12728_2018/",
+        "main_cpv": "90921000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Szúnyogirtási, darázs- és méhbefogási, irtási munka",
+        "registered_name": "HORTOBÁGY Környezetvédelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "17000000",
+        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
+        "date": "15/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12728_2018/",
+        "main_cpv": "90921000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Szúnyogirtási, darázs- és méhbefogási, irtási munka",
+        "registered_name": "HORTOBÁGY Környezetvédelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "BOGÁRMÉRNÖKSÉG Kft.; HORTOBÁGY Környezetvédelmi Korlátolt Felelősségű Társaság; Növényvédő és Kártevőirtó Korlátolt Felelősségű Társaság",
+        "contract_value": "350000000",
+        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "date": "25/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10588_2020/",
+        "main_cpv": "77312100-1",
+        "number_companies_win": 3,
+        "procurement_title": "Vegyszeres gyomirtás",
+        "registered_name": "HORTOBÁGY Környezetvédelmi Korlátolt Felelősségű Társaság"
+    }
+]

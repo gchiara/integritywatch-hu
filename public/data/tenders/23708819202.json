@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "270000000",
+        "contracting_authority": "Janus Pannonius Múzeum",
+        "date": "26/09/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16309_2018/",
+        "main_cpv": "45112450-4",
+        "number_companies_win": 0,
+        "procurement_title": "Régészeti bontómunka JPM régészeti megfigyeléseken",
+        "registered_name": "PANNON-INVENIO Régészeti Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "15250000",
+        "contracting_authority": "MANK Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "date": "19/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3725_2019/",
+        "main_cpv": "45110000-1, 45113000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Régészeti feltárásokhoz szükséges régészeti bontómunka",
+        "registered_name": "PANNON-INVENIO Régészeti Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "ÁSATÁRS Kulturális, Régészeti Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PANNON-INVENIO Régészeti Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": "284500000",
+        "contracting_authority": "Janus Pannonius Múzeum",
+        "date": "31/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9473_2021/",
+        "main_cpv": "45112450-4",
+        "number_companies_win": 2,
+        "procurement_title": "Régészeti földmunkák",
+        "registered_name": "PANNON-INVENIO Régészeti Szolgáltató Korlátolt Felelősségű Társaság"
+    }
+]

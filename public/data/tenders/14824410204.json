@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "77498889",
+        "contracting_authority": "Gyula Város Önkormányzata",
+        "date": "02/01/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19125_2017/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Szivárvány Napközi Otthon átalakítása és bővítése",
+        "registered_name": "SZELI-BAU Építőipari Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "INNOCONSYS Korlátolt Felelősségű Társaság; SZELI-BAU Építőipari Korlátolt Felelősségű Társaság",
+        "contract_value": "32164245",
+        "contracting_authority": "Gyula Város Önkormányzata",
+        "date": "12/03/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3916_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Gyula, Városháza homlokzatfelújítás és K-i szárny",
+        "registered_name": "SZELI-BAU Építőipari Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "INNOCONSYS Korlátolt Felelősségű Társaság; SZELI-BAU Építőipari Korlátolt Felelősségű Társaság",
+        "contract_value": "13762505",
+        "contracting_authority": "Gyula Város Önkormányzata",
+        "date": "05/06/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9408_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Gyula, Városháza épület Gerlóczy-szárny homlokzat felújítás",
+        "registered_name": "SZELI-BAU Építőipari Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "159053336",
+        "contracting_authority": "Nyírségi Intézményfenntartó Központ",
+        "date": "22/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10831_2021/",
+        "main_cpv": "45210000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Mini bölcsőde létrehozása Gyulán",
+        "registered_name": "SZELI-BAU Építőipari Korlátolt Felelősségű Társaság"
+    }
+]

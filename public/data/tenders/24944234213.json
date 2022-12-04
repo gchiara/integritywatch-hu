@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "280000000",
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "date": "17/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6123_2019/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 0,
+        "procurement_title": "NIF bontási munkák",
+        "registered_name": "GRANDER HOME Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "GRANDER HOME Korlátolt Felelősségű Társaság; RICHLIK-TRANS Szállító és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": "1800000000",
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "date": "15/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18604_2020/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 2,
+        "procurement_title": "Bontási munkák",
+        "registered_name": "GRANDER HOME Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "135000000",
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "date": "26/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21915_2020/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Bontási munkálatok elvégzése-Érd",
+        "registered_name": "GRANDER HOME Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "95000000",
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "date": "03/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22277_2020/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 0,
+        "procurement_title": "M30 Bontási munkálatok (Miskolc-Tornyosnémeti)",
+        "registered_name": "GRANDER HOME Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "30000000",
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "date": "30/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5332_2021/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 0,
+        "procurement_title": "83.sz.főút Bontási munkálatok (M1-Pápa között)",
+        "registered_name": "GRANDER HOME Korlátolt Felelősségű Társaság"
+    }
+]

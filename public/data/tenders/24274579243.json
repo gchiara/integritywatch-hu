@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "62625000",
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "10/11/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19231_2018/",
+        "main_cpv": "72514100-2",
+        "number_companies_win": 0,
+        "procurement_title": "Informatikai szerverinfrastruktúra üzemeltetése",
+        "registered_name": "DataCare Rendszerintegrációs Zártkörűen Működő Részvénytársaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "51500000",
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "27/12/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24341_2018/",
+        "main_cpv": "72253200-5",
+        "number_companies_win": 0,
+        "procurement_title": "Az OBH és a bíróságok központosított hálózati infrastruktúrájának üzemeltetése",
+        "registered_name": "DataCare Rendszerintegrációs Zártkörűen Működő Részvénytársaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "58380000",
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "11/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16115_2018/",
+        "main_cpv": "72514100-2",
+        "number_companies_win": 0,
+        "procurement_title": "Központi bírósági szerverkörnyezet üzemeltetése",
+        "registered_name": "DataCare Rendszerintegrációs Zártkörűen Működő Részvénytársaság"
+    },
+    {
+        "company_names": "\"ANTENNA HUNGÁRIA\" Magyar Műsorszóró és Rádióhírközlési Zártkörűen Működő Részvénytársaság; DataCare Rendszerintegrációs Zártkörűen Működő Részvénytársaság",
+        "contract_value": "794400000",
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "07/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21405_2019/",
+        "main_cpv": "72514100-2",
+        "number_companies_win": 2,
+        "procurement_title": "Központi infrastruktúra üzemeltetése",
+        "registered_name": "DataCare Rendszerintegrációs Zártkörűen Működő Részvénytársaság"
+    }
+]

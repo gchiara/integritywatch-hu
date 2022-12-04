@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "230951000",
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "date": "06/06/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9211_2018/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Az NGM által használt WorkFlow rendszerhez kapcsolódó fejlesztési feladatok ellátása, szoftverkövetés és gyártói terméktámogatás valamint felhasználói és üzemeltetői támogatás biztosítása",
+        "registered_name": "EastFlow Technology Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "204495000",
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "date": "04/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9104_2020/",
+        "main_cpv": "72200000-7",
+        "number_companies_win": 0,
+        "procurement_title": "PM Workflow rendszerének támogatása",
+        "registered_name": "EastFlow Technology Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "140000000",
+        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
+        "date": "30/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5078_2021/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "WorkflowGen rendszer fejlesztés, üzemeltetés",
+        "registered_name": "EastFlow Technology Korlátolt Felelősségű Társaság"
+    }
+]

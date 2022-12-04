@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "21000000",
+        "contracting_authority": "Szombathely Megyei Jogú Város Polgármesteri Hivatala",
+        "date": "22/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_443/megtekint/portal_1258_2019/",
+        "main_cpv": "72200000-7",
+        "number_companies_win": 0,
+        "procurement_title": "e-Savaria projekt - informatikai fejlesztés",
+        "registered_name": "GEOVIEW SYSTEMS Számitástechnikai Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "21000000",
+        "contracting_authority": "Szombathely Megyei Jogú Város Polgármesteri Hivatala",
+        "date": "05/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3365_2019/",
+        "main_cpv": "72200000-7",
+        "number_companies_win": 0,
+        "procurement_title": "e-Savaria projekt - informatikai fejlesztés",
+        "registered_name": "GEOVIEW SYSTEMS Számitástechnikai Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "90520000",
+        "contracting_authority": "Emberi Erőforrás Támogatáskezelő",
+        "date": "21/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4688_2019/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Az EMET EPER, EPER-BURSA pályázatkezelő rendszereinek e-ügyintézésnek való megfelelés érdekében történő fejlesztése",
+        "registered_name": "GEOVIEW SYSTEMS Számitástechnikai Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "183000000",
+        "contracting_authority": "Emberi Erőforrás Támogatáskezelő",
+        "date": "31/12/2020",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23283_2020/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "EPER szakrendszerhez támogatási szolgáltatások",
+        "registered_name": "GEOVIEW SYSTEMS Számitástechnikai Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "64800000",
+        "contracting_authority": "Emberi Erőforrás Támogatáskezelő",
+        "date": "23/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2304_2021/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "BURSA (EPER-BURSA) alkalmazástámogatás",
+        "registered_name": "GEOVIEW SYSTEMS Számitástechnikai Korlátolt Felelősségü Társaság"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "172092732",
+        "contracting_authority": "Siófok Város Önkormányzata",
+        "date": "05/09/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15275_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Baross G. Szakközép Iskola energetikai korszerűsítése",
+        "registered_name": "ÉSK Innovációs Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "180986426",
+        "contracting_authority": "Balatonföldvár Város Önkormányzata",
+        "date": "05/09/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15284_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Balatonföldvári energetikai korszerűsítés",
+        "registered_name": "ÉSK Innovációs Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "161773123",
+        "contracting_authority": "Zamárdi Város Önkormányzata",
+        "date": "14/11/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20615_2018/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Zamárdi Általános Iskola korszerűsítése",
+        "registered_name": "ÉSK Innovációs Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "299463392",
+        "contracting_authority": "Budapesti Szent Ferenc Korház",
+        "date": "14/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0218_2020/",
+        "main_cpv": "45215100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Szent Ferenc Kórház felújítása 1. ütem",
+        "registered_name": "ÉSK Innovációs Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "ÉSK Innovációs Korlátolt Felelősségű Társaság; ROT-TOR Villamossági és Kereskedelmi és Szolgáltató Korlátolt Felelősségű",
+        "contract_value": "656649117",
+        "contracting_authority": "Budapesti Szent Ferenc Korház",
+        "date": "12/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7985_2020/",
+        "main_cpv": "45262700-8",
+        "number_companies_win": 2,
+        "procurement_title": "Szent Ferenc Kórház felújítása 2. ütem",
+        "registered_name": "ÉSK Innovációs Korlátolt Felelősségű Társaság"
+    }
+]

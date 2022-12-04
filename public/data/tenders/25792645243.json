@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Kantar Hoffmann Korlátolt Felelősségű Társaság; M-METER Kutató és Elemző Korlátolt Felelősségű Társaság",
+        "contract_value": "687490000",
+        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
+        "date": "06/02/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19432_2017/",
+        "main_cpv": "79311200-9",
+        "number_companies_win": 2,
+        "procurement_title": "A Nemzeti Média- és Hírközlési Hatóság részére rádiós közönségmérések teljes körű lebonyolítása",
+        "registered_name": "M-METER Kutató és Elemző Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "GEMIUS Hungary Adatfeldolgozó és Kutató Korlátolt Felelősségű Társaság; Kantar Hoffmann Korlátolt Felelősségű Társaság; M-METER Kutató és Elemző Korlátolt Felelősségű Társaság",
+        "contract_value": "125000000",
+        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
+        "date": "28/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19416_2020/",
+        "main_cpv": "79311000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Műszeres rádióhallgatottság-mérés tesztelése",
+        "registered_name": "M-METER Kutató és Elemző Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "Kantar Hoffmann Korlátolt Felelősségű Társaság; M-METER Kutató és Elemző Korlátolt Felelősségű Társaság",
+        "contract_value": "769343400",
+        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
+        "date": "09/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12822_2021/",
+        "main_cpv": "79311000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Rádiós közönségmérés lebonyolítása",
+        "registered_name": "M-METER Kutató és Elemző Korlátolt Felelősségű Társaság"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "10325600",
+        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "date": "14/05/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7587_2018/",
+        "main_cpv": "45233290-8",
+        "number_companies_win": 0,
+        "procurement_title": "Sérült útirányjelző táblák javítása",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "6298800",
+        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "date": "29/10/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19695_2018/",
+        "main_cpv": "45233290-8",
+        "number_companies_win": 0,
+        "procurement_title": "Sérült útirányjelző táblák javítása II.",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "27961995",
+        "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
+        "date": "06/11/2018",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18261_2018/",
+        "main_cpv": "45233221-4",
+        "number_companies_win": 0,
+        "procurement_title": "Kerékpáros nyomvonalak kijelölése Győr városban",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "ALFA-GIROD Forgalomtechnikai Korlátolt Felelősségű Társaság; HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": "500000000",
+        "contracting_authority": "Győr Megyei Jogú Város Útkezelő Szervezete",
+        "date": "09/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12507_2019/",
+        "main_cpv": "34992200-9, 34992300-0, 45233221-4, 45233291-5",
+        "number_companies_win": 2,
+        "procurement_title": "Győr város közúthálózat jelzőtábla, útburkolati jel",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": "23372825",
+        "contracting_authority": "Mosonmagyaróvár Város Önkormányzata",
+        "date": "16/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13044_2019/",
+        "main_cpv": "45000000-7, 45100000-8, 45200000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Móvár kerékpárút 4.",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "ALFA-GIROD Forgalomtechnikai Korlátolt Felelősségű Társaság; HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": "290000000",
+        "contracting_authority": "Győr Megyei Jogú Város Útkezelő Szervezete",
+        "date": "01/08/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10370_2019/",
+        "main_cpv": "45233221-4",
+        "number_companies_win": 2,
+        "procurement_title": "Győr városi közúthálózat forgalmi rendjének jelzőtáblákkal, és útburkolati jeleivel kapcsolatos fenntartási munkák elvégzése a 2017., 2018., 2019. években",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "ALFA-GIROD Forgalomtechnikai Korlátolt Felelősségű Társaság; HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság; ROAD-PIKTOR Forgalomtechnikai és Útjelfestő Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": "750746166",
+        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "date": "16/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15402_2021/",
+        "main_cpv": "45233221-4",
+        "number_companies_win": 3,
+        "procurement_title": "Burkolatjel-festés 2021-2024",
+        "registered_name": "HEOSCONT HUNGÁRIA Termelési és Kereskedelmi Korlátolt Felelősségű Társaság"
+    }
+]

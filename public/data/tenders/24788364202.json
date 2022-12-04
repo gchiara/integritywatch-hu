@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": "121994169",
+        "contracting_authority": "Boldogasszonyfa Községi Önkormányzat",
+        "date": "14/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7971_2019/",
+        "main_cpv": "45232421-9",
+        "number_companies_win": 0,
+        "procurement_title": "Boldogasszonyfa település szennyvízberuházása",
+        "registered_name": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság; PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": "86378873",
+        "contracting_authority": "Csoma Község Önkormányzata",
+        "date": "10/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24557_2021/",
+        "main_cpv": "45231300-8",
+        "number_companies_win": 2,
+        "procurement_title": "Csoma Község szennyvízkezelése",
+        "registered_name": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság"
+    },
+    {
+        "company_names": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság; PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": "151156458",
+        "contracting_authority": "Baté Községi Önkormányzat",
+        "date": "22/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25454_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Egyedi szennyvízkezelés Batén",
+        "registered_name": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság"
+    }
+]
