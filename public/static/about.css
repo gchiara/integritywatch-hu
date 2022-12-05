@@ -423,66 +423,6 @@ div.dc-html-legend {
   overflow: hidden;
 }
 
-.description-container {
-  background: #2a7aae;
-  color: #fff;
-  text-align: left;
-  padding: 30px 70px 20px 20px;
-  position: relative;
-}
-.description-container h1 {
-  font-size: 30px;
-  margin-bottom: 20px;
-}
-.description-container a {
-  color: #16405c;
-  font-weight: 600;
-}
-.description-container .close-btn {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  cursor: pointer;
-}
-
-.share-container {
-  padding: 20px;
-  background: #fafafa;
-  position: relative;
-}
-.share-container .close-btn {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  cursor: pointer;
-  color: #2c3e50;
-}
-.share-container button {
-  border: none;
-  color: #fff;
-  display: inline-block;
-  margin: 5px 5px;
-  padding: 10px;
-  border-radius: 2px;
-  width: 160px;
-  max-width: 90%;
-  font-size: 13px;
-  font-weight: 600;
-  cursor: pointer;
-}
-.share-container button.twitter-btn {
-  background: #1da1f2;
-}
-.share-container button.twitter-btn:hover {
-  background: #0d91e2;
-}
-.share-container button.facebook-btn {
-  background: #3b5998;
-}
-.share-container button.facebook-btn:hover {
-  background: #2b4988;
-}
-
 .chart-subrow {
   margin: 0;
   padding: 0;
@@ -535,27 +475,6 @@ div.dc-html-legend {
 .chart-container.chart-container-table {
   height: auto;
 }
-.chart-container.meetings_1 {
-  height: 600px;
-}
-.chart-container.meetings_2 {
-  height: 600px;
-}
-.chart-container.meetings_3 {
-  height: 600px;
-}
-.chart-container.meetings_4 {
-  height: 600px;
-}
-.chart-container.meetings_5 {
-  height: 630px;
-}
-.chart-container.meetings_6 {
-  height: 630px;
-}
-.chart-container.meetings_7 {
-  height: 630px;
-}
 .chart-container.organizations_1 {
   height: 530px;
 }
@@ -566,55 +485,13 @@ div.dc-html-legend {
   height: 530px;
 }
 .chart-container.organizations_4 {
-  height: 580px;
-}
-.chart-container.organizations_4 .chart-inner {
-  padding-top: 40px;
+  height: 530px;
 }
 .chart-container.organizations_5 {
-  height: 580px;
-}
-.chart-container.organizations_5 .chart-inner {
-  padding-top: 40px;
+  height: 530px;
 }
 .chart-container.organizations_6 {
-  height: 580px;
-}
-.chart-container.organizations_6 .chart-inner {
-  padding-top: 40px;
-}
-.chart-container.organizations_7 {
-  height: 580px;
-}
-.chart-container.meps_1 {
-  height: 650px;
-}
-.chart-container.meps_2 {
-  height: 650px;
-}
-.chart-container.meps_3 {
-  height: 650px;
-}
-.chart-container.meps_4 {
-  height: 540px;
-}
-.chart-container.meps_5 {
-  height: 540px;
-}
-.chart-container.meps_6 {
-  height: 540px;
-}
-.chart-container.mepmeetings_1 {
-  height: 650px;
-}
-.chart-container.mepmeetings_2 {
-  height: 650px;
-}
-.chart-container.mepmeetings_3 {
-  height: 650px;
-}
-.chart-container.mepmeetings_4 {
-  height: 650px;
+  height: 530px;
 }
 @media only screen and (max-width: 767px) {
   .chart-container {
@@ -623,6 +500,14 @@ div.dc-html-legend {
 }
 
 /* MODAL TABLE */
+.tenders-table-title {
+  font-size: 18px;
+  margin: 20px 0;
+  text-align: left;
+  font-weight: 700;
+  color: #3b95d0;
+}
+
 .tenders-table {
   width: 100% !important;
   margin-bottom: 15px;
@@ -1078,15 +963,16 @@ table.dataTable tbody tr:hover {
   background: #eee;
 }
 
-.unregistered-tag {
-  font-size: 12px;
-  display: inline-block;
-  background: #ddd;
-  border-radius: 2px;
-  padding: 2px 7px;
-  margin: 2px 10px;
-  font-weight: 600;
-  color: #666;
+th:nth-child(3) {
+  min-width: 120px !important;
+}
+
+.dt-body-right {
+  text-align: right !important;
+}
+
+.dt-body-center {
+  text-align: center !important;
 }
 
 /* POPOVER */
@@ -1111,14 +997,6 @@ table.dataTable tbody tr:hover {
 .popover-body a {
   color: #eee;
   text-decoration: underline;
-}
-
-/* Country select */
-.countryselect-container select {
-  padding: 10px;
-  width: 100%;
-  background: #eee;
-  border: none;
 }
 
 /* Mobile changes for tables */
@@ -1147,16 +1025,6 @@ table.dataTable tbody tr:hover {
   padding: 5px;
 }
 
-/* MEETINGS PAGE STYLE */
-.meetings-page .chart-table td:nth-child(2), .meetings-page .chart-table th:nth-child(2) {
-  min-width: 120px;
-}
-@media only screen and (max-width: 768px) {
-  .meetings-page .chart-table td:nth-child(1), .meetings-page .chart-table td:nth-child(4), .meetings-page .chart-table td:nth-child(5), .meetings-page .chart-table th:nth-child(1), .meetings-page .chart-table th:nth-child(4), .meetings-page .chart-table th:nth-child(5) {
-    display: none;
-  }
-}
-
 /* ORGANIZATIONS PAGE STYLE */
 .organizations-page #detailsModal a {
   color: #3b95d0;
@@ -1172,108 +1040,6 @@ table.dataTable tbody tr:hover {
 @media only screen and (max-width: 768px) {
   .organizations-page .chart-table td:nth-child(1), .organizations-page .chart-table td:nth-child(3), .organizations-page .chart-table td:nth-child(4), .organizations-page .chart-table td:nth-child(5), .organizations-page .chart-table td:nth-child(6), .organizations-page .chart-table th:nth-child(1), .organizations-page .chart-table th:nth-child(3), .organizations-page .chart-table th:nth-child(4), .organizations-page .chart-table th:nth-child(5), .organizations-page .chart-table th:nth-child(6) {
     display: none;
-  }
-}
-
-/* INCOMES PAGE STYLE */
-.incomes-page .footer-bar .footer-counts .count-box {
-  padding: 10px;
-}
-.incomes-page .footer-bar .footer-counts .count-box .filter-count.nbmin, .incomes-page .footer-bar .footer-counts .count-box .filter-count.nbmax {
-  font-size: 18px;
-}
-.incomes-page #detailsModal a {
-  color: #2e7db0;
-  font-weight: 600;
-}
-.incomes-page #detailsModal .modal-title {
-  font-weight: 700;
-  color: #2e7db0;
-}
-.incomes-page #detailsModal .details-line {
-  text-align: left;
-}
-.incomes-page #detailsModal .modal-activities-row {
-  padding: 5px 0;
-}
-.incomes-page #detailsModal .modal-activities-row:nth-child(even) {
-  background: #fafafa;
-}
-.incomes-page #detailsModal .modal-activities-row:nth-child(odd) {
-  background: #f4f4f4;
-}
-@media only screen and (max-width: 768px) {
-  .incomes-page .chart-table td:nth-child(1), .incomes-page .chart-table td:nth-child(3), .incomes-page .chart-table td:nth-child(4), .incomes-page .chart-table td:nth-child(5), .incomes-page .chart-table th:nth-child(1), .incomes-page .chart-table th:nth-child(3), .incomes-page .chart-table th:nth-child(4), .incomes-page .chart-table th:nth-child(5) {
-    display: none;
-  }
-}
-
-.commission-select-container {
-  text-align: left;
-  margin: 20px auto 0 auto;
-  padding: 0 25px;
-  max-width: 1600px;
-}
-@media only screen and (max-width: 620px) {
-  .commission-select-container {
-    text-align: center;
-    width: 100%;
-  }
-}
-.commission-select-container .link-button {
-  border: none;
-  color: #fff;
-  display: inline-block;
-  margin: 0px 5px 0px 0px;
-  padding: 10px 20px;
-  border-radius: 0px;
-  width: auto;
-  max-width: 90%;
-  font-size: 16px;
-  font-weight: 600;
-  cursor: pointer;
-  background-color: #aaa;
-  text-decoration: none;
-  transition: all 0.4s;
-}
-.commission-select-container .link-button:hover {
-  color: #fff;
-  background-color: #1a6a9e;
-}
-.commission-select-container .link-button.active {
-  color: #fff;
-  background-color: #1a6a9e;
-}
-@media only screen and (max-width: 768px) {
-  .commission-select-container .link-button {
-    font-size: 13px;
-    padding: 10px 10px;
-  }
-}
-@media only screen and (max-width: 620px) {
-  .commission-select-container .link-button {
-    display: block;
-    margin: 5px auto;
-    font-size: 15px;
-    width: 100%;
-    text-align: center;
-  }
-}
-
-.mepmeetings-page .chart-table td:nth-child(4), .mepmeetings-page .chart-table th:nth-child(4) {
-  min-width: 130px;
-}
-@media only screen and (max-width: 768px) {
-  .mepmeetings-page .chart-table td:nth-child(1), .mepmeetings-page .chart-table td:nth-child(4), .mepmeetings-page .chart-table td:nth-child(5), .mepmeetings-page .chart-table td:nth-child(6), .mepmeetings-page .chart-table td:nth-child(7), .mepmeetings-page .chart-table th:nth-child(1), .mepmeetings-page .chart-table th:nth-child(4), .mepmeetings-page .chart-table th:nth-child(5), .mepmeetings-page .chart-table th:nth-child(6), .mepmeetings-page .chart-table th:nth-child(7) {
-    display: none;
-  }
-}
-.mepmeetings-page .chart-table td:nth-child(2), .mepmeetings-page .chart-table th:nth-child(2) {
-  width: 120px;
-}
-@media only screen and (max-width: 768px) {
-  .mepmeetings-page .chart-table td:nth-child(2), .mepmeetings-page .chart-table th:nth-child(2) {
-    width: 110px;
   }
 }
 
@@ -1305,11 +1071,6 @@ table.dataTable tbody tr:hover {
 /* DC legend vertical alignment fix */
 .dc-legend .dc-legend-item rect {
   y: -5px !important;
-}
-
-.lobbyists-expenses-message {
-  padding: 30px 30px;
-  text-align: left;
 }.container {
   padding: 30px 0;
   padding-bottom: 50px;

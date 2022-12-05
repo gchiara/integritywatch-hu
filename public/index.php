@@ -46,37 +46,37 @@
         <div class="row dashboard-container">
           <!-- CHARTS - FIRST ROW -->
           <div class="col-md-6 chart-col">
-            <div class="boxed-container chart-container organizations_2">
+            <div class="boxed-container chart-container organizations_1">
               <chart-header :title="charts.topCompanies.title" :info="charts.topCompanies.info" ></chart-header>
               <div class="chart-inner" id="topcompanies_chart"></div>
             </div>
           </div>
           <div class="col-md-3 chart-col">
-            <div class="boxed-container chart-container organizations_1">
+            <div class="boxed-container chart-container organizations_2">
               <chart-header :title="charts.tendersRevenueRatio.title" :info="charts.tendersRevenueRatio.info" ></chart-header>
               <div class="chart-inner" id="tendersrevenueratio_chart"></div>
             </div>
           </div>
           <div class="col-md-3 chart-col">
-            <div class="boxed-container chart-container organizations_1">
+            <div class="boxed-container chart-container organizations_3">
               <chart-header :title="charts.salesRevenueRatio.title" :info="charts.salesRevenueRatio.info" ></chart-header>
               <div class="chart-inner" id="salesrevenueratio_chart"></div>
             </div>
           </div>
           <div class="col-md-6 chart-col">
-            <div class="boxed-container chart-container organizations_1">
+            <div class="boxed-container chart-container organizations_4">
               <chart-header :title="charts.amountWon.title" :info="charts.amountWon.info" ></chart-header>
               <div class="chart-inner" id="amountwon_chart"></div>
             </div>
           </div>
           <div class="col-md-3 chart-col">
-            <div class="boxed-container chart-container organizations_3">
+            <div class="boxed-container chart-container organizations_5">
               <chart-header :title="charts.cpv.title" :info="charts.cpv.info" ></chart-header>
               <div class="chart-inner" id="cpv_chart"></div>
             </div>
           </div>
           <div class="col-md-3 chart-col">
-            <div class="boxed-container chart-container organizations_1">
+            <div class="boxed-container chart-container organizations_6">
               <chart-header :title="charts.beneficiaries.title" :info="charts.beneficiaries.info" ></chart-header>
               <div class="chart-inner" id="beneficiaries_chart"></div>
             </div>
@@ -92,11 +92,11 @@
                       <th class="header">Nr</th> 
                       <th class="header">Name</th> 
                       <th class="header">County</th> 
-                      <th class="header">Employees</th> 
-                      <th class="header">Revenue 18-22</th> 
-                      <th class="header">Profit 18-22</th> 
-                      <th class="header">Amount won 18-22</th> 
-                      <th class="header">Beneficiaries</th> 
+                      <th class="header dt-body-center">Employees</th> 
+                      <th class="header dt-body-right">Revenue<br />18-22</th> 
+                      <th class="header dt-body-right">Profit<br />18-22</th> 
+                      <th class="header dt-body-right">Amount won<br />18-22</th> 
+                      <th class="header dt-body-center">Beneficiaries</th> 
                     </tr>
                   </thead>
                 </table>
@@ -142,11 +142,15 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <div class="details-line"><span class="details-line-title">T:</span> </div>
-                    
+                    <div class="details-line" v-if="selectedOrg.tax_number"><span class="details-line-title">Tax number:</span> {{ selectedOrg.tax_number }}</div>
+                    <div class="details-line" v-if="selectedOrg.registration_number"><span class="details-line-title">Registration number:</span> {{ selectedOrg.registration_number }}</div>
+                    <div class="details-line" v-if="selectedOrg.city && selectedOrg.county_registered"><span class="details-line-title">City and county:</span> {{ selectedOrg.city }} - {{ selectedOrg.county_registered }}</div>
+                    <div class="details-line" v-if="selectedOrg.most_recent_employees"><span class="details-line-title">Employees (most recent):</span> {{ selectedOrg.most_recent_employees }}</div>
+                    <div class="details-line" v-if="selectedOrg.amount_won_18_22"><span class="details-line-title">Amount won 2018 - 2022:</span> {{ selectedOrg.amount_won_18_22 }}</div>
                   </div>
                   <!-- Tenders table -->
                   <div class="col-md-12">
+                    <div class="tenders-table-title">Tenders</div>
                     <table id="modalTendersTable" class="tenders-table">
                       <thead>
                         <tr><th>Title</th><th>Date</th><th>Authority</th><th>Contract Value</th></tr>

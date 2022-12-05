@@ -46985,7 +46985,7 @@ jQuery.extend(jQuery.fn.dataTableExt.oSort, {
 
 jQuery.extend(jQuery.fn.dataTableExt.oSort, {
   "num-html-pre": function numHtmlPre(a) {
-    var x = a.replace(' €', '').replaceAll(',', '');
+    var x = a.replace('€', '').replaceAll('Ft', '').replaceAll(',', '').trim();
 
     if (x == '') {
       return 0;
@@ -47117,9 +47117,10 @@ function amountWonStramlining(num) {
 function formatAmount(amt) {
   if (isNaN(amt)) {
     return amt;
-  }
+  } //return 'Ft ' + addcommas(amt);
 
-  return '€' + addcommas(amt);
+
+  return addcommas(amt);
 } //Load data and generate charts
 //Generate random parameter for dynamic dataset loading (to avoid caching)
 
@@ -47445,6 +47446,7 @@ var totalTenders = 0;
         "orderable": true,
         "targets": 3,
         "defaultContent": "N/A",
+        "className": "dt-body-center",
         "data": function data(d) {
           return d.most_recent_employees;
         }
@@ -47453,33 +47455,37 @@ var totalTenders = 0;
         "orderable": true,
         "targets": 4,
         "defaultContent": "N/A",
-        "type": "num",
+        "type": "num-html",
+        "className": "dt-body-right",
         "data": function data(d) {
-          return d.net_sales_revenue_tot;
+          return formatAmount(d.net_sales_revenue_tot);
         }
       }, {
         "searchable": false,
         "orderable": true,
         "targets": 5,
         "defaultContent": "N/A",
-        "type": "num",
+        "type": "num-html",
+        "className": "dt-body-right",
         "data": function data(d) {
-          return d.tax_profit_tot;
+          return formatAmount(d.tax_profit_tot);
         }
       }, {
         "searchable": false,
         "orderable": true,
         "targets": 6,
         "defaultContent": "N/A",
-        "type": "num",
+        "type": "num-html",
+        "className": "dt-body-right",
         "data": function data(d) {
-          return d.amount_won_18_22;
+          return formatAmount(d.amount_won_18_22);
         }
       }, {
         "searchable": false,
         "orderable": true,
         "targets": 7,
         "defaultContent": "N/A",
+        "className": "dt-body-center",
         "data": function data(d) {
           return d.beneficiaries_number;
         }
@@ -47535,8 +47541,9 @@ var totalTenders = 0;
               return a.contracting_authority;
             }
           }, {
+            "type": "num-html",
             "data": function data(a) {
-              return a.contract_value;
+              return formatAmount(a.contract_value);
             }
           }]
         });
@@ -47713,7 +47720,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57619" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61092" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

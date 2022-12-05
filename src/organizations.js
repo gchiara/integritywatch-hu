@@ -251,7 +251,7 @@ jQuery.extend( jQuery.fn.dataTableExt.oSort, {
 //Custom ordering for min and max
 jQuery.extend( jQuery.fn.dataTableExt.oSort, {
   "num-html-pre": function (a) {
-    var x = a.replace(' €', '').replaceAll(',','');
+    var x = a.replace('€', '').replaceAll('Ft', '').replaceAll(',','').trim();
     if(x == '') {
       return 0;
     }
@@ -378,7 +378,8 @@ function formatAmount(amt){
   if(isNaN(amt)) {
     return amt;
   }
-  return '€' + addcommas(amt);
+  //return 'Ft ' + addcommas(amt);
+  return addcommas(amt);
 }
 
 //Load data and generate charts
@@ -725,6 +726,7 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "orderable": true,
           "targets": 3,
           "defaultContent":"N/A",
+          "className": "dt-body-center",
           "data": function(d) {
             return d.most_recent_employees;
           }
@@ -734,9 +736,10 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "orderable": true,
           "targets": 4,
           "defaultContent":"N/A",
-          "type": "num",
+          "type": "num-html",
+          "className": "dt-body-right",
           "data": function(d) {
-            return d.net_sales_revenue_tot;
+            return formatAmount(d.net_sales_revenue_tot);
           }
         },
         {
@@ -744,9 +747,10 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "orderable": true,
           "targets": 5,
           "defaultContent":"N/A",
-          "type": "num",
+          "type": "num-html",
+          "className": "dt-body-right",
           "data": function(d) {
-            return d.tax_profit_tot;
+            return formatAmount(d.tax_profit_tot);
           }
         },
         {
@@ -754,9 +758,10 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "orderable": true,
           "targets": 6,
           "defaultContent":"N/A",
-          "type": "num",
+          "type": "num-html",
+          "className": "dt-body-right",
           "data": function(d) {
-            return d.amount_won_18_22;
+            return formatAmount(d.amount_won_18_22);
           }
         },
         {
@@ -764,6 +769,7 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "orderable": true,
           "targets": 7,
           "defaultContent":"N/A",
+          "className": "dt-body-center",
           "data": function(d) {
             return d.beneficiaries_number;
           }
@@ -819,8 +825,9 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
                   return a.contracting_authority;
                 } 
               },
-              { "data" : function(a) { 
-                  return a.contract_value;
+              { "type": "num-html",
+                "data" : function(a) { 
+                  return formatAmount(a.contract_value);
                 } 
               },
             ]

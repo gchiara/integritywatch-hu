@@ -175,6 +175,64 @@ $color_lobby: #e51f5c;
   width: 100%;
   overflow: hidden;
 }
+.description-container {
+  background: darken($color_TI, 10%);
+  color: #fff;
+  text-align: left;
+  padding: 30px 70px 20px 20px;
+  position: relative;
+  h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  a {
+    color: darken($color_TI, 30%);
+    font-weight: 600;
+  }
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+}
+.share-container {
+  padding: 20px;
+  background: #fafafa;
+  position: relative;
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #2c3e50;
+  }
+  button {
+    border: none;
+    color: #fff;
+    display: inline-block;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 2px;
+    width: 160px;
+    max-width: 90%;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    &.twitter-btn {
+      background: #1da1f2;
+      &:hover {
+        background: #0d91e2;
+      }
+    }
+    &.facebook-btn {
+      background: #3b5998;
+      &:hover {
+        background: #2b4988;
+      }
+    }
+  }
+}
 .chart-subrow {
   margin: 0;
   padding: 0;
@@ -224,6 +282,27 @@ $color_lobby: #e51f5c;
   &.chart-container-table {
     height: auto;
   }
+  &.meetings_1 {
+    height: 600px;
+  }
+  &.meetings_2 {
+    height: 600px;
+  }
+  &.meetings_3 {
+    height: 600px;
+  }
+  &.meetings_4 {
+    height: 600px;
+  }
+  &.meetings_5 {
+    height: 630px;
+  }
+  &.meetings_6 {
+    height: 630px;
+  }
+  &.meetings_7 {
+    height: 630px;
+  }
   &.organizations_1 {
     height: 530px;
   }
@@ -234,13 +313,55 @@ $color_lobby: #e51f5c;
     height: 530px;
   }
   &.organizations_4 {
-    height: 530px;
+    height: 580px;
+    .chart-inner {
+      padding-top: 40px;
+    }
   }
   &.organizations_5 {
-    height: 530px;
+    height: 580px;
+    .chart-inner {
+      padding-top: 40px;
+    }
   }
   &.organizations_6 {
-    height: 530px;
+    height: 580px;
+    .chart-inner {
+      padding-top: 40px;
+    }
+  }
+  &.organizations_7 {
+    height: 580px;
+  }
+  &.meps_1 {
+    height: 650px;
+  }
+  &.meps_2 {
+    height: 650px;
+  }
+  &.meps_3 {
+    height: 650px;
+  }
+  &.meps_4 {
+    height: 540px;
+  }
+  &.meps_5 {
+    height: 540px;
+  }
+  &.meps_6 {
+    height: 540px;
+  }
+  &.mepmeetings_1 {
+    height: 650px;
+  }
+  &.mepmeetings_2 {
+    height: 650px;
+  }
+  &.mepmeetings_3 {
+    height: 650px;
+  }
+  &.mepmeetings_4 {
+    height: 650px;
   }
   @media only screen and (max-width: 767px) {
     height: auto !important;
@@ -697,17 +818,20 @@ table.dataTable tbody tr:hover {
   cursor: pointer;
   background: #eee;
 }
-th:nth-child(3) {
-  min-width: 120px !important; 
-}
-.dt-body-right {
-  text-align: right !important;
-}
-.dt-body-center {
-  text-align: center !important;
+
+.unregistered-tag {
+  font-size: 12px;
+  display: inline-block;
+  background: #ddd;
+  border-radius: 2px;
+  padding: 2px 7px;
+  margin: 2px 10px;
+  font-weight: 600;
+  color: #666;
 }
 
 /* POPOVER */
+
 .popover {
   background-color: $color_TI_darker;
   border: none;
@@ -725,6 +849,16 @@ th:nth-child(3) {
   a {
     color: #eee;
     text-decoration: underline;
+  }
+}
+
+/* Country select */
+.countryselect-container {
+  select {
+    padding: 10px;
+    width: 100%;
+    background: #eee;
+    border: none;
   }
 }
 
@@ -756,7 +890,24 @@ th:nth-child(3) {
   }
 }
 
+/* MEETINGS PAGE STYLE */
+.meetings-page {
+  .chart-table {
+    td, th {
+      &:nth-child(2) {
+        min-width: 120px;
+      }
+      &:nth-child(1), &:nth-child(4), &:nth-child(5) {
+        @media only screen and (max-width: 768px) {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
 /* ORGANIZATIONS PAGE STYLE */
+
 .organizations-page {
   #detailsModal {
     a {
@@ -776,6 +927,116 @@ th:nth-child(3) {
       &:nth-child(1), &:nth-child(3), &:nth-child(4), &:nth-child(5), &:nth-child(6) {
         @media only screen and (max-width: 768px) {
           display: none;
+        }
+      }
+    }
+  }
+}
+
+/* INCOMES PAGE STYLE */
+
+.incomes-page {
+  .footer-bar .footer-counts .count-box {
+    padding: 10px;
+  }
+  .footer-bar .footer-counts .count-box .filter-count {
+    &.nbmin, &.nbmax {
+      font-size: 18px;
+    }
+  }
+  #detailsModal {
+    a {
+      color: #2e7db0;
+      font-weight: 600;
+    }
+    .modal-title {
+      font-weight: 700;
+      color: #2e7db0;
+    }
+    .details-line {
+      text-align: left;
+    }
+    .modal-activities-row {
+      padding: 5px 0;
+      &:nth-child(even) {
+        background: #fafafa;
+      }
+      &:nth-child(odd) {
+        background: #f4f4f4;
+      }
+    }
+  }
+  .chart-table {
+    td, th {
+      &:nth-child(1), &:nth-child(3), &:nth-child(4), &:nth-child(5) {
+        @media only screen and (max-width: 768px) {
+          display: none;
+        }
+      }
+    }
+  }
+}
+.commission-select-container {
+  text-align: left;
+  margin: 20px auto 0 auto;
+  padding: 0 25px;
+  max-width:1600px;
+  @media only screen and (max-width: 620px) {
+    text-align: center;
+    width: 100%;
+  }
+  .link-button {
+    border: none;
+    color: #fff;
+    display: inline-block;
+    margin: 0px 5px 0px 0px;
+    padding: 10px 20px;
+    border-radius: 0px;
+    width: auto;
+    max-width: 90%;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #aaa;
+    text-decoration: none;
+    transition: all .4s;
+    &:hover {
+      color: #fff;
+      background-color: #1a6a9e;
+    }
+    &.active {
+      color: #fff;
+      background-color: #1a6a9e;
+    }
+    @media only screen and (max-width: 768px) {
+      font-size: 13px;
+      padding: 10px 10px;
+    }
+    @media only screen and (max-width: 620px) {
+      display: block;
+      margin: 5px auto;
+      font-size: 15px;
+      width: 100%;
+      text-align: center;
+    }
+  }
+}
+
+.mepmeetings-page {
+  .chart-table {
+    td, th {
+      &:nth-child(4) {
+        min-width: 130px;
+      }
+      &:nth-child(1), &:nth-child(4), &:nth-child(5), &:nth-child(6), &:nth-child(7) {
+        @media only screen and (max-width: 768px) {
+          display: none;
+        }
+      }
+      &:nth-child(2) {
+        width: 120px;
+        @media only screen and (max-width: 768px) {
+          width: 110px;
         }
       }
     }
@@ -816,4 +1077,9 @@ th:nth-child(3) {
       y: -5px !important;
     }
   }
+}
+
+.lobbyists-expenses-message {
+  padding: 30px 30px;
+  text-align: left;
 }
