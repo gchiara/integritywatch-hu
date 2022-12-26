@@ -48,6 +48,13 @@
           <div class="col-md-6 chart-col">
             <div class="boxed-container chart-container organizations_1">
               <chart-header :title="charts.topCompanies.title" :info="charts.topCompanies.info" ></chart-header>
+              <div class="filterselect-container">
+                <select id="filterselect-topcompanies">
+                  <option value="amount_won_18_20">By total tenders won</option>
+                  <option value="single_bids_amount">By tenders won alone</option>
+                  <option value="consortium_amount">By tenders won in consortium</option>
+                </select>
+              </div>
               <div class="chart-inner" id="topcompanies_chart"></div>
             </div>
           </div>
@@ -66,6 +73,12 @@
           <div class="col-md-6 chart-col">
             <div class="boxed-container chart-container organizations_4">
               <chart-header :title="charts.amountWon.title" :info="charts.amountWon.info" ></chart-header>
+              <div class="filterselect-container">
+                <select id="filterselect-amountwon">
+                  <option value="amount_won_category">By total amount won</option>
+                  <option value="amount_won_category_avg">By average amount won</option>
+                </select>
+              </div>
               <div class="chart-inner" id="amountwon_chart"></div>
             </div>
           </div>
@@ -96,7 +109,8 @@
                       <th class="header dt-body-right">Revenue<br />18-22</th> 
                       <th class="header dt-body-right">Profit<br />18-22</th> 
                       <th class="header dt-body-right">Amount won<br />18-22</th> 
-                      <th class="header dt-body-center">Beneficiaries</th> 
+                      <th class="header dt-body-center">Beneficiaries</th>
+                      <th class="header dt-body-center">Risk indicators</th> 
                     </tr>
                   </thead>
                 </table>
@@ -119,7 +133,7 @@
               <div class="filter-count">0</div>out of <strong class="total-count">0</strong> organizations
             </div>
             <div class="count-box count-box-tenders">
-              <div class="filter-count nbtenders">0</div>van de <strong class="total-count-tenders">0</strong> tenders
+              <div class="filter-count nbtenders">0</div>out of <strong class="total-count-tenders">0</strong> tenders
             </div>
           </div>
         </div>
@@ -146,7 +160,7 @@
                     <div class="details-line" v-if="selectedOrg.registration_number"><span class="details-line-title">Registration number:</span> {{ selectedOrg.registration_number }}</div>
                     <div class="details-line" v-if="selectedOrg.city && selectedOrg.county_registered"><span class="details-line-title">City and county:</span> {{ selectedOrg.city }} - {{ selectedOrg.county_registered }}</div>
                     <div class="details-line" v-if="selectedOrg.most_recent_employees"><span class="details-line-title">Employees (most recent):</span> {{ selectedOrg.most_recent_employees }}</div>
-                    <div class="details-line" v-if="selectedOrg.amount_won_18_22"><span class="details-line-title">Amount won 2018 - 2022:</span> {{ selectedOrg.amount_won_18_22 }}</div>
+                    <div class="details-line" v-if="selectedOrg.amount_won_18_20"><span class="details-line-title">Amount won 2018 - 2020:</span> {{ formatModalAmount(selectedOrg.amount_won_18_20) }}</div>
                   </div>
                   <!-- Tenders table -->
                   <div class="col-md-12">

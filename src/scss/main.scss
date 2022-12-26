@@ -817,3 +817,13 @@ th:nth-child(3) {
     }
   }
 }
+
+/* Filter select */
+.filterselect-container {
+  select {
+    padding: 10px;
+    width: 100%;
+    background: #eee;
+    border: none;
+  }
+}

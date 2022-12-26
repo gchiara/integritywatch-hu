@@ -46764,7 +46764,8 @@ var vuedata = {
   charts: {
     topCompanies: {
       title: 'Top Companies',
-      info: 'Top Companies by won value'
+      info: 'Top Companies by won value',
+      filter: 'amount_won_18_20'
     },
     cpv: {
       title: 'Top CPV',
@@ -46772,7 +46773,8 @@ var vuedata = {
     },
     amountWon: {
       title: 'Companies by Amount Won',
-      info: 'Lorem ipsum'
+      info: 'Lorem ipsum',
+      filter: 'amount_won_category'
     },
     tendersRevenueRatio: {
       title: 'Tenders Revenue Ratio',
@@ -46801,6 +46803,7 @@ var vuedata = {
     default: "#0aafec",
     //range: ["#0476c7", "#009fe2", "#0079ca", "#005db5", "#014aa5"],
     range: ["#25C3F7", "#0aafec", "#009fe2", "#0088d4", "#0476c7", "#0061b5"],
+    range2: ["#25C3F7", "#0aafec", "#009fe2", "#0476c7", "#0061b5"],
     flag: "#fc8803",
     grey: "#ddd",
     numPies: {
@@ -46826,7 +46829,7 @@ new _vue.default({
     share: function share(platform) {
       if (platform == 'twitter') {
         var thisPage = window.location.href.split('?')[0];
-        var shareText = 'Integrity Watch DE ' + thisPage;
+        var shareText = 'Integrity Watch Hungary ' + thisPage;
         var shareURL = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(shareText);
         window.open(shareURL, '_blank');
         return;
@@ -46839,6 +46842,14 @@ new _vue.default({
         window.open(shareURL, '_blank', 'toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250,top=300,left=300');
         return;
       }
+    },
+    formatModalAmount: function formatModalAmount(amt) {
+      if (isNaN(amt)) {
+        return amt;
+      } //return 'Ft ' + addcommas(amt);
+
+
+      return addcommas(amt);
     }
   }
 }); //Initialize info popovers
@@ -47030,30 +47041,45 @@ jQuery.extend(jQuery.fn.dataTableExt.oSort, {
 });
 
 function tendersRevenueRatioStreamlining(percentage) {
-  if (percentage < 10) {
-    return "< 10%";
-  } else if (percentage < 30) {
-    return "10% - 30%";
-  } else if (percentage < 50) {
-    return "30% - 50%";
+  if (percentage < 50) {
+    return "< 50%";
   } else if (percentage < 70) {
     return "50% - 70%";
   } else if (percentage < 90) {
     return "70% - 90%";
-  } else if (percentage <= 100) {
+  } else if (percentage < 100) {
     return "90% - 100%";
-  } else if (percentage > 100) {
-    return "> 100%";
+  } else if (percentage < 200) {
+    return "100% - 200%";
+  } else if (percentage <= 300) {
+    return "200% - 300%";
+  } else if (percentage > 300) {
+    return "> 300%";
   } else {
     return "N/A";
   }
 }
 
 function returnOnSalesStreamlining(percentage) {
-  if (percentage > 30) {
+  /*
+  if(percentage > 30) {
     return "> 30%";
-  } else if (percentage > 20) {
+  } else if(percentage > 20) {
     return "20% - 30%";
+  } else if(percentage > 10) {
+    return "10% - 20%";
+  } else if(percentage > 5) {
+    return "5% - 10%";
+  } else if(percentage >= 0) {
+    return "0% - 5%";
+  } else if(percentage < 0) {
+    return "< 0%";
+  } else {
+    return "N/A"
+  }
+  */
+  if (percentage > 20) {
+    return "> 20%";
   } else if (percentage > 10) {
     return "10% - 20%";
   } else if (percentage > 5) {
@@ -47087,29 +47113,43 @@ function beneficiariesStreamlining(num) {
 
 function amountWonStramlining(num) {
   num = parseFloat(num);
-
-  if (num > 100000000000) {
+  /*
+  if(num > 100000000000) {
     return "> 100B";
-  } else if (num > 50000000000) {
+  } else if(num > 50000000000) {
     return "50B - 100B";
-  } else if (num > 10000000000) {
+  } else if(num > 10000000000) {
     return "10B - 50B";
-  } else if (num > 5000000000) {
+  } else if(num > 5000000000) {
     return "5B - 10B";
+  } else if(num > 1000000000) {
+    return "1B - 5B";
+  } else if(num > 500000000) {
+    return "500M - 1B";
+  } else if(num > 300000000) {
+    return "300M - 500M";
+  } else if(num > 100000000) {
+    return "100M - 300M";
+  } else if(num >= 50000000) {
+    return "50M - 100M";
+  } else if(num < 50000000) {
+    return "< 50M";
+  } else {
+    return "0";
+  }
+  */
+  //<100 million, 100-500 million, 500-1 billion, 1-5 billion, > 5 billion
+
+  if (num > 5000000000) {
+    return "> 5B";
   } else if (num > 1000000000) {
     return "1B - 5B";
   } else if (num > 500000000) {
     return "500M - 1B";
-  } else if (num > 300000000) {
-    return "300M - 500M";
   } else if (num > 100000000) {
-    return "100M - 300M";
-  } else if (num >= 50000000) {
-    return "50M - 100M";
-  } else if (num < 50000000) {
-    return "< 50M";
+    return "100M - 500M";
   } else {
-    return "0";
+    return "< 100M";
   }
 } //Format euro amount
 
@@ -47136,11 +47176,26 @@ var totalTenders = 0;
 (0, _d3Request.json)('./data/organizations.json?' + randomPar, function (err, organizations) {
   //Parse data
   _.each(organizations, function (d) {
-    d.revenue_tender_percent_category = tendersRevenueRatioStreamlining(d.revenue_tender_percent);
+    d.revenue_tender_percent_category = tendersRevenueRatioStreamlining(d.revenue_tender_percent_2021);
     d.beneficiaries_range = beneficiariesStreamlining(d.beneficiaries_number);
-    d.salesreturn_percent_category = returnOnSalesStreamlining(d.revenue_ratio_percent);
-    d.amount_won_category = amountWonStramlining(d.amount_won_18_22);
-    totalTenders += d.tenders_num;
+    d.salesreturn_percent_category = returnOnSalesStreamlining(d.revenue_ratio_percent_2021);
+    d.amount_won_category = amountWonStramlining(d.amount_won_18_20);
+    d.amount_won_category_avg = amountWonStramlining(d.average_amt_tenders_won);
+    totalTenders += d.tenders_num; //Count risk indicators
+
+    d.risk_indicators = 0;
+
+    if (d.beneficiaries_number == 0) {
+      d.risk_indicators++;
+    }
+
+    if (d.revenue_ratio_percent_2021 > 30) {
+      d.risk_indicators++;
+    }
+
+    if (d.revenue_tender_percent_2021 > 300) {
+      d.risk_indicators++;
+    }
   }); //Set totals for footer counters
 
 
@@ -47152,13 +47207,15 @@ var totalTenders = 0;
     return entryString.toLowerCase();
   }); //CHART 1 - Top Companies
 
+  var topCompaniesDmension = ndx.dimension(function (d) {
+    return d.registered_name;
+  });
+
   var createTopCompaniesChart = function createTopCompaniesChart() {
     var chart = charts.topCompanies.chart;
-    var dimension = ndx.dimension(function (d) {
-      return d.registered_name;
-    }, false);
+    var dimension = topCompaniesDmension;
     var group = dimension.group().reduceSum(function (d) {
-      return parseFloat(d.amount_won_18_22);
+      return parseFloat(d[vuedata.charts.topCompanies.filter]);
     });
 
     var filteredGroup = function (source_group) {
@@ -47173,10 +47230,10 @@ var totalTenders = 0;
 
     var width = recalcWidth(charts.topCompanies.divId);
     var charsLength = recalcCharsLength(width);
-    chart.width(width).height(450).margins({
+    chart.width(width).height(405).margins({
       top: 0,
       left: 0,
-      right: 0,
+      right: 20,
       bottom: 20
     }).group(filteredGroup).dimension(dimension).colorCalculator(function (d, i) {
       return vuedata.colors.default;
@@ -47237,8 +47294,8 @@ var totalTenders = 0;
   var createAmountWonChart = function createAmountWonChart() {
     var chart = charts.amountWon.chart;
     var dimension = ndx.dimension(function (d) {
-      return d.amount_won_category;
-    }, false);
+      return d[vuedata.charts.amountWon.filter];
+    });
     var group = dimension.group().reduceSum(function (d) {
       return 1;
     });
@@ -47254,17 +47311,16 @@ var totalTenders = 0;
     }(group);
 
     var width = recalcWidth(charts.amountWon.divId);
-    var charsLength = recalcCharsLength(width);
-    var order = ["> 100B", "50B - 100B", "10B - 50B", "5B - 10B", "1B - 5B", "500M - 1B", "300M - 500M", "100M - 300M", "50M - 100M", "30M - 50M", "10M - 30M", "5M - 10M", "< 5M", "N/A"];
-    chart.width(width).height(450).margins({
+    var charsLength = recalcCharsLength(width); //var order = ["> 100B", "50B - 100B", "10B - 50B", "5B - 10B", "1B - 5B", "500M - 1B", "300M - 500M", "100M - 300M", "50M - 100M", "30M - 50M", "10M - 30M", "5M - 10M", "< 5M", "N/A"];
+
+    var order = ["> 5B", "1B - 5B", "500M - 1B", "100M - 500M", "< 100M"];
+    chart.width(width).height(400).margins({
       top: 0,
       left: 0,
-      right: 0,
+      right: 20,
       bottom: 20
     }).group(filteredGroup).dimension(dimension).ordering(function (d) {
       return order.indexOf(d.key);
-    }).colorCalculator(function (d, i) {
-      return vuedata.colors.default;
     }).label(function (d) {
       if (d.key.length > charsLength) {
         return d.key.substring(0, charsLength) + '...';
@@ -47273,6 +47329,16 @@ var totalTenders = 0;
       return d.key;
     }).title(function (d) {
       return d.key + ': ' + d.value;
+    }).colorCalculator(function (d, i) {
+      if (d.key == "> 5B") {
+        return vuedata.colors.flag;
+      }
+
+      if (d.key == "1B - 5B" && vuedata.charts.amountWon.filter == 'amount_won_category_avg') {
+        return vuedata.colors.flag;
+      }
+
+      return vuedata.colors.default;
     }).elasticX(true).xAxis().ticks(4);
     chart.render();
   }; //CHART 4 - Tenders Revenue Ratio
@@ -47287,8 +47353,8 @@ var totalTenders = 0;
       return 1;
     });
     var sizes = calcPieSize(charts.tendersRevenueRatio.divId);
-    var order = ["N/A", "< 10%", "10% - 30%", "30% - 50%", "50% - 70%", "70% - 90%", "90% - 100%", "> 100%"];
-    var orderNoFlag = ["< 10%", "10% - 30%", "30% - 50%", "50% - 70%", "70% - 90%", "90% - 100%"];
+    var order = ["N/A", "< 50%", "50% - 70%", "70% - 90%", "90% - 100%", "100% - 200%", "200% - 300%", "> 300%"];
+    var orderNoFlag = ["< 50%", "50% - 70%", "70% - 90%", "90% - 100%", "100% - 200%", "200% - 300%"];
     chart.width(sizes.width).height(sizes.height).cy(sizes.cy).innerRadius(sizes.innerRadius).radius(sizes.radius).cap(7).ordering(function (d) {
       return order.indexOf(d.key);
     }).legend(dc.legend().x(0).y(sizes.legendY).gap(10).autoItemWidth(true).horizontal(false).legendWidth(sizes.width).legendText(function (d) {
@@ -47303,7 +47369,7 @@ var totalTenders = 0;
       return d.key + ': ' + d.value;
     }).dimension(dimension) //.ordinalColors(vuedata.colors.range)
     .group(group).colorCalculator(function (d, i) {
-      if (d.key == "> 100%") {
+      if (d.key == "> 300%") {
         return vuedata.colors.flag;
       }
 
@@ -47325,9 +47391,11 @@ var totalTenders = 0;
     var group = dimension.group().reduceSum(function (d) {
       return 1;
     });
-    var sizes = calcPieSize(charts.salesRevenueRatio.divId);
-    var order = ["N/A", "< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "20% - 30%", "> 30%"];
-    var orderNoFlag = ["< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "20% - 30%"];
+    var sizes = calcPieSize(charts.salesRevenueRatio.divId); //var order = ["N/A", "< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "20% - 30%", "> 30%"];
+    //var orderNoFlag = ["< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "20% - 30%"];
+
+    var order = ["N/A", "< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "> 20%"];
+    var orderNoFlag = ["< 0%", "0% - 5%", "5% - 10%", "10% - 20%"];
     chart.width(sizes.width).height(sizes.height).cy(sizes.cy).innerRadius(sizes.innerRadius).radius(sizes.radius).cap(7).ordering(function (d) {
       return order.indexOf(d.key);
     }).legend(dc.legend().x(0).y(sizes.legendY).gap(10).autoItemWidth(true).horizontal(false).legendWidth(sizes.width).legendText(function (d) {
@@ -47342,7 +47410,7 @@ var totalTenders = 0;
       return d.key + ': ' + d.value;
     }).dimension(dimension) //.ordinalColors(vuedata.colors.range)
     .group(group).colorCalculator(function (d, i) {
-      if (d.key == "> 30%") {
+      if (d.key == "> 20%") {
         return vuedata.colors.flag;
       }
 
@@ -47350,7 +47418,7 @@ var totalTenders = 0;
         return vuedata.colors.grey;
       }
 
-      return vuedata.colors.range[orderNoFlag.indexOf(d.key)];
+      return vuedata.colors.range2[orderNoFlag.indexOf(d.key)];
     });
     chart.render();
   }; //CHART 6 - Number of beneficiaries
@@ -47478,7 +47546,7 @@ var totalTenders = 0;
         "type": "num-html",
         "className": "dt-body-right",
         "data": function data(d) {
-          return formatAmount(d.amount_won_18_22);
+          return formatAmount(d.amount_won_18_20);
         }
       }, {
         "searchable": false,
@@ -47488,6 +47556,15 @@ var totalTenders = 0;
         "className": "dt-body-center",
         "data": function data(d) {
           return d.beneficiaries_number;
+        }
+      }, {
+        "searchable": false,
+        "orderable": true,
+        "targets": 8,
+        "defaultContent": "N/A",
+        "className": "dt-body-center",
+        "data": function data(d) {
+          return d.risk_indicators;
         }
       }],
       "iDisplayLength": 25,
@@ -47516,7 +47593,6 @@ var totalTenders = 0;
       var data = datatable.DataTable().row(this).data();
       (0, _d3Request.json)('./data/tenders/' + data.tax_number + '.json', function (err, tenders) {
         data.tenders = tenders;
-        console.log(data);
         vuedata.selectedOrg = data;
         $('#detailsModal').modal(); //Tenders table
 
@@ -47546,6 +47622,10 @@ var totalTenders = 0;
               return formatAmount(a.contract_value);
             }
           }]
+        });
+        $('#modalTendersTable tbody').on('click', 'tr', function () {
+          var tdata = dTable.DataTable().row(this).data();
+          window.open(tdata.link_notice, '_blank');
         });
         dTable.on('draw.dt', function () {
           var body = $(dTable.DataTable().table().body());
@@ -47592,8 +47672,18 @@ var totalTenders = 0;
         dc.redrawAll();
       }, 250);
     }
-  } //Reset charts
+  } //Top companies filter select
 
+
+  $("#filterselect-topcompanies").change(function () {
+    vuedata.charts.topCompanies.filter = this.value;
+    createTopCompaniesChart();
+  }); //Amount won filter select
+
+  $("#filterselect-amountwon").change(function () {
+    vuedata.charts.amountWon.filter = this.value;
+    createAmountWonChart();
+  }); //Reset charts
 
   var resetGraphs = function resetGraphs() {
     for (var c in charts) {
@@ -47610,16 +47700,13 @@ var totalTenders = 0;
   $('.reset-btn').click(function () {
     resetGraphs();
   }); //Render charts
-  //createLegalFormChart();
-  //createActivityChart();
 
   createTopCompaniesChart();
   createCpvChart();
   createAmountWonChart();
   createBeneficiariesChart();
   tendersRevenueRatioChart();
-  salesRevenueRatioChart(); //createFinancialExpenseChart();
-
+  salesRevenueRatioChart();
   createTable();
   $('.dataTables_wrapper').append($('.dataTables_length')); //Hide loader
 
@@ -47720,7 +47807,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61092" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63635" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
