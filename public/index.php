@@ -33,8 +33,9 @@
               <h1>INTEGRITY WATCH HUNGARY | Organizations</h1>
               <h2>This is a user-friendly interactive database that provides a unique overview of organisations and tenders.</h2>
               <a class="read-more-btn" href="./about.php?section=4">Read more</a>
-              <button class="social-share-btn twitter-btn" @click="share('twitter')"><img src="./images/twitter-nobg.png" />Share on Twitter</button>
-              <button class="social-share-btn  facebook-btn" @click="share('facebook')"><img src="./images/facebook-nobg.png" />Share on Facebook</button>
+              <a class="download-share-btn" href="./data/organizations.json" download><i class="material-icons">cloud_download</i> Download data</a>
+              <button class="download-share-btn twitter-btn" @click="share('twitter')"><img src="./images/twitter-nobg.png" />Share on Twitter</button>
+              <button class="download-share-btn  facebook-btn" @click="share('facebook')"><img src="./images/facebook-nobg.png" />Share on Facebook</button>
               <p>By simply clicking on the graph or list below users can rank, sort and filter the organisations.</p>
             </div>
             <i class="material-icons close-btn" @click="showInfo = false">close</i>
@@ -102,13 +103,13 @@
                 <table class="table table-hover dc-data-table" id="dc-data-table">
                   <thead>
                     <tr class="header">
-                      <th class="header">Nr</th> 
                       <th class="header">Name</th> 
                       <th class="header">County</th> 
-                      <th class="header dt-body-center">Employees</th> 
-                      <th class="header dt-body-right">Revenue<br />18-22</th> 
-                      <th class="header dt-body-right">Profit<br />18-22</th> 
-                      <th class="header dt-body-right">Amount won<br />18-22</th> 
+                      <th class="header dt-body-right">Employees<br />2021</th> 
+                      <th class="header dt-body-right">Revenue<br />2021</th> 
+                      <th class="header dt-body-right">Profit<br />2021</th> 
+                      <th class="header dt-body-right">Amount won<br />18-20</th>
+                      <th class="header dt-body-right">Tenders won</th>
                       <th class="header dt-body-center">Beneficiaries</th>
                       <th class="header dt-body-center">Risk indicators</th> 
                     </tr>
@@ -157,17 +158,18 @@
                 <div class="row">
                   <div class="col-md-12">
                     <div class="details-line" v-if="selectedOrg.tax_number"><span class="details-line-title">Tax number:</span> {{ selectedOrg.tax_number }}</div>
-                    <div class="details-line" v-if="selectedOrg.registration_number"><span class="details-line-title">Registration number:</span> {{ selectedOrg.registration_number }}</div>
                     <div class="details-line" v-if="selectedOrg.city && selectedOrg.county_registered"><span class="details-line-title">City and county:</span> {{ selectedOrg.city }} - {{ selectedOrg.county_registered }}</div>
-                    <div class="details-line" v-if="selectedOrg.most_recent_employees"><span class="details-line-title">Employees (most recent):</span> {{ selectedOrg.most_recent_employees }}</div>
+                    <div class="details-line" v-if="selectedOrg.most_recent_employees"><span class="details-line-title">Employees in 2021:</span> {{ selectedOrg.employees_2021 }}</div>
                     <div class="details-line" v-if="selectedOrg.amount_won_18_20"><span class="details-line-title">Amount won 2018 - 2020:</span> {{ formatModalAmount(selectedOrg.amount_won_18_20) }}</div>
+                    <div class="details-line" v-if="selectedOrg.single_bids_number"><span class="details-line-title">Tenders won alone:</span> {{ selectedOrg.single_bids_number}}</div>
+                    <div class="details-line" v-if="selectedOrg.consortium_number"><span class="details-line-title">Tenders won in consortium:</span> {{ selectedOrg.consortium_number}}</div>
                   </div>
                   <!-- Tenders table -->
                   <div class="col-md-12">
                     <div class="tenders-table-title">Tenders</div>
                     <table id="modalTendersTable" class="tenders-table">
                       <thead>
-                        <tr><th>Title</th><th>Date</th><th>Authority</th><th>Contract Value</th></tr>
+                        <tr><th>Title</th><th>Date</th><th>Authority</th><th>Contract Value</th><th>Company Names</th></tr>
                       </thead>
                     </table>
                   </div>

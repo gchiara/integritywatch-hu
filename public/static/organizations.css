@@ -362,7 +362,7 @@ div.dc-html-legend {
 .top-description-container .top-description-content .read-more-btn:hover {
   background: rgba(255, 255, 255, 0.6);
 }
-.top-description-container .top-description-content .social-share-btn {
+.top-description-container .top-description-content .download-share-btn {
   border: none;
   background: white;
   border-radius: 0px;
@@ -378,26 +378,34 @@ div.dc-html-legend {
   cursor: pointer;
 }
 @media only screen and (max-width: 650px) {
-  .top-description-container .top-description-content .social-share-btn {
+  .top-description-container .top-description-content .download-share-btn {
     display: block;
     text-align: left;
     width: 200px;
   }
 }
-.top-description-container .top-description-content .social-share-btn:hover {
+.top-description-container .top-description-content .download-share-btn:hover {
   background: rgba(255, 255, 255, 0.6);
 }
-.top-description-container .top-description-content .social-share-btn.twitter-btn img {
+.top-description-container .top-description-content .download-share-btn.twitter-btn img {
   margin: 0 6px 0 0;
   height: 18px;
   position: relative;
   top: -1px;
 }
-.top-description-container .top-description-content .social-share-btn.facebook-btn img {
+.top-description-container .top-description-content .download-share-btn.facebook-btn img {
   margin: 0 8px 0 0;
   height: 18px;
   position: relative;
   top: -1px;
+}
+.top-description-container .top-description-content .download-share-btn i {
+  color: #3b95d0;
+  vertical-align: middle;
+  position: relative;
+  top: -2px;
+  margin: 0 5px 0 0;
+  font-size: 22px;
 }
 
 /* MAIN & CHARTS */

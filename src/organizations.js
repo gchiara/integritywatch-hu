@@ -432,6 +432,7 @@ for ( var i = 0; i < 5; i++ ) {
 
 var totalTenders = 0;
 json('./data/organizations.json?' + randomPar, (err, organizations) => {
+csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
   //Parse data
   _.each(organizations, function (d) {
     d.revenue_tender_percent_category = tendersRevenueRatioStreamlining(d.revenue_tender_percent_2021);
@@ -440,6 +441,16 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
     d.amount_won_category = amountWonStramlining(d.amount_won_18_20);
     d.amount_won_category_avg = amountWonStramlining(d.average_amt_tenders_won);
     totalTenders += d.tenders_num;
+    //CPV Names
+    d.cpvStrings = [];
+    _.each(d.cpv, function (code) {
+      var cpvName = _.find(cpvNames, function (x) { return x.CODE == code });
+      if(cpvName) {
+        d.cpvStrings.push(cpvName.CPV_HU + ' (' + code + ')' );
+      } else {
+        d.cpvStrings.push(code);
+      }
+    });     
     //Count risk indicators
     d.risk_indicators = 0;
     if(d.beneficiaries_number == 0) {
@@ -449,6 +460,9 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
       d.risk_indicators ++;
     }
     if(d.revenue_tender_percent_2021 > 300) {
+      d.risk_indicators ++;
+    }
+    if(d.amount_won_category == "> 5B" || d.amount_won_category_avg == "1B - 5B" || d.amount_won_category_avg == "> 5B") {
       d.risk_indicators ++;
     }
   });
@@ -511,27 +525,19 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
   var createCpvChart = function() {
     var chart = charts.cpv.chart;
     var dimension = ndx.dimension(function (d) {
-      return d.cpv;
+      return d.cpvStrings;
     }, true);
     var group = dimension.group().reduceSum(function (d) {
       return 1;
     });
-    var filteredGroup = (function(source_group) {
-      return {
-        all: function() {
-          return source_group.top(20).filter(function(d) {
-            return (d.value != 0);
-          });
-        }
-      };
-    })(group);
     var width = recalcWidth(charts.cpv.divId);
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
       .height(450)
+      .cap(10)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
-      .group(filteredGroup)
+      .group(group)
       .dimension(dimension)
       .colorCalculator(function(d, i) {
         return vuedata.colors.default;
@@ -716,42 +722,12 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
     chart.render();
   }
 
-  //CHART 4 - Financial Expense
-  var createFinancialExpenseChart = function() {
-    var chart = charts.financialExpense.chart;
-    var dimension = ndx.dimension(function (d) {
-        return d.finExpCategory;
-    });
-    var group = dimension.group().reduceSum(function (d) {
-        return 1;
-    });
-    var width = recalcWidth(charts.financialExpense.divId);
-    var order = ["N/A", "0", "1 - 10K", "10K - 30K", "30K - 50K", "50K - 70K", "70K - 100K", "100K - 200K", "200K - 500K", "500K - 1M", "1M - 5M", "> 5M"];
-    chart
-      .width(width)
-      .height(460)
-      .group(group)
-      .dimension(dimension)
-      .on("preRender",(function(chart,filter){
-      }))
-      .margins({top: 0, right: 10, bottom: 20, left: 20})
-      .x(d3.scaleBand().domain(order))
-      .xUnits(dc.units.ordinal)
-      .gap(15)
-      .elasticY(true)
-      //.ordering(function(d) { return -d.value; })
-      .colorCalculator(function(d, i) {
-        return vuedata.colors.default;
-      });
-      //.ordinalColors(vuedata.colors.generic);
-    chart.render();
-  }
-
   //TABLE
   var createTable = function() {
     var count=0;
     charts.table.chart = $("#dc-data-table").dataTable({
       "columnDefs": [
+        /*
         {
           "searchable": false,
           "orderable": false,
@@ -760,10 +736,11 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
             return count;
           }
         },
+        */
         {
           "searchable": false,
           "orderable": true,
-          "targets": 1,
+          "targets": 0,
           "defaultContent":"N/A",
           "data": function(d) {
             return d.registered_name;
@@ -772,7 +749,7 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
         {
           "searchable": false,
           "orderable": true,
-          "targets": 2,
+          "targets": 1,
           "defaultContent":"N/A",
           "data": function(d) {
             return d.county_registered;
@@ -781,11 +758,22 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
         {
           "searchable": false,
           "orderable": true,
+          "targets": 2,
+          "defaultContent":"N/A",
+          "className": "dt-body-right",
+          "data": function(d) {
+            return d.employees_2021;
+          }
+        },
+        {
+          "searchable": false,
+          "orderable": true,
           "targets": 3,
           "defaultContent":"N/A",
-          "className": "dt-body-center",
+          "type": "num-html",
+          "className": "dt-body-right",
           "data": function(d) {
-            return d.most_recent_employees;
+            return formatAmount(d.net_sales_revenue_2021);
           }
         },
         {
@@ -796,7 +784,7 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "type": "num-html",
           "className": "dt-body-right",
           "data": function(d) {
-            return formatAmount(d.net_sales_revenue_tot);
+            return formatAmount(d.tax_profit_2021);
           }
         },
         {
@@ -807,7 +795,7 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "type": "num-html",
           "className": "dt-body-right",
           "data": function(d) {
-            return formatAmount(d.tax_profit_tot);
+            return formatAmount(d.amount_won_18_20);
           }
         },
         {
@@ -815,10 +803,9 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
           "orderable": true,
           "targets": 6,
           "defaultContent":"N/A",
-          "type": "num-html",
           "className": "dt-body-right",
           "data": function(d) {
-            return formatAmount(d.amount_won_18_20);
+            return d.single_bids_number + d.consortium_number;
           }
         },
         {
@@ -846,7 +833,7 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
       "bPaginate": true,
       "bLengthChange": true,
       "bFilter": false,
-      "order": [[ 2, "desc" ]],
+      "order": [[ 5, "desc" ]],
       "bSort": true,
       "bInfo": true,
       "bAutoWidth": false,
@@ -855,12 +842,14 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
       "bDestroy": true,
     });
     var datatable = charts.table.chart;
+    /*
     datatable.on( 'draw.dt', function () {
       var PageInfo = $('#dc-data-table').DataTable().page.info();
       datatable.DataTable().column(0, { page: 'current' }).nodes().each( function (cell, i) {
         cell.innerHTML = i + 1 + PageInfo.start;
       });
     });
+    */
     datatable.DataTable().draw();
 
     $('#dc-data-table tbody').on('click', 'tr', function () {
@@ -894,6 +883,10 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
               { "type": "num-html",
                 "data" : function(a) { 
                   return formatAmount(a.contract_value);
+                } 
+              },
+              { "data" : function(a) { 
+                  return a.company_names;
                 } 
               },
             ]
@@ -1053,4 +1046,5 @@ json('./data/organizations.json?' + randomPar, (err, organizations) => {
     resizeGraphs();
   };
 
+});
 });

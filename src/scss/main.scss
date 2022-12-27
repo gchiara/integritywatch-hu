@@ -113,7 +113,7 @@ $color_lobby: #e51f5c;
         background: rgba(255,255,255,0.6);
       }
     }
-    .social-share-btn {
+    .download-share-btn {
       border: none;
       background: rgba(255,255,255,1);
       border-radius: 0px;
@@ -150,6 +150,14 @@ $color_lobby: #e51f5c;
           position: relative;
           top: -1px;
         }
+      }
+      i {
+        color: $color_TI;
+        vertical-align: middle;
+        position: relative;
+        top: -2px;
+        margin: 0 5px 0 0;
+        font-size: 22px;
       }
     }
   }
