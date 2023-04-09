@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "61500000",
-        "contracting_authority": "Érdi Városfejlesztési és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 61500000.0,
+        "contracting_authority": "Érdi Városfejlesztési és Szolgáltató Kft.",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9582_2018/",
         "main_cpv": "45255110-3",
         "number_companies_win": 0,
         "procurement_title": "Termálkút helyettesítő kutas felújítása",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "195911763",
-        "contracting_authority": "KITE-PLANT Mezőgazdasági Termelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 195911763.0,
+        "contracting_authority": "KITE-PLANT Mezőgazdasági Termelő és Szolgáltató Kft.",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11943_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Korszerű termálfűtésű fóliaház építése a KITE-Plant Kft-nél (Derecske külterület 0110/7. hrsz)",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     },
     {
-        "company_names": "VIKUV AQUA Korlátolt Felelősségű Társaság; VIKUV Vízkutató és Fúró Zártkörűen Működő Részvénytársaság",
-        "contract_value": "161790000",
+        "company_names": "VIKUV AQUA Kft.; VIKUV Vízkutató és Fúró Zrt.",
+        "contract_value": 161790000.0,
         "contracting_authority": "\"SZESZICO\" Zöldség-, Dísznövénytermelő és Kereskedelmi Kft",
         "date": "28/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17149_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 2,
         "procurement_title": "Üvegház építés",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57336015",
+        "contract_value": 57336015.0,
         "contracting_authority": "Jászárokszállás Város Önkormányzata",
         "date": "13/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20808_2018/",
         "main_cpv": "45121000-1",
         "number_companies_win": 0,
         "procurement_title": "Jászárokszállás termálkút létesítése",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32649006",
+        "contract_value": 32649006.0,
         "contracting_authority": "Hosszúpályi Nagyközség Önkormányzata",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6618_2019/",
         "main_cpv": "45262220-9",
         "number_companies_win": 0,
         "procurement_title": "IV. számú ivóvíz-kút létesítése",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67972000",
+        "contract_value": 67972000.0,
         "contracting_authority": "PIGGY-LAND Kft.",
         "date": "25/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13864_2019/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Hajtató üvegház létesítése - Táska",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "214409000",
-        "contracting_authority": "AGROCOOP Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság",
+        "contract_value": 214409000.0,
+        "contracting_authority": "AGROCOOP Szolgáltató és Kereskedelmi Kft.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16091_2019/",
         "main_cpv": "45255110-3",
         "number_companies_win": 0,
         "procurement_title": "Termálkút fúrása - Táska",
-        "registered_name": "VIKUV AQUA Korlátolt Felelősségű Társaság"
+        "registered_name": "VIKUV AQUA Kft."
     }
 ]

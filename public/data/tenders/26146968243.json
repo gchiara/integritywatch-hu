@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "356250000",
+        "contract_value": 356250000.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18443_2020/",
         "main_cpv": "79821000-5",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati újság legyártása terjesztéssel",
-        "registered_name": "Key Price Korlátolt Felelősségű Társaság"
+        "registered_name": "Key Price Kft."
     }
 ]

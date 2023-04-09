@@ -1,288 +1,244 @@
 [
     {
         "company_names": "",
-        "contract_value": "109254923",
+        "contract_value": 109254923.0,
         "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8552_2018/",
         "main_cpv": "45233200-1",
         "number_companies_win": 0,
         "procurement_title": "Szent István tér komplex fejlesztése - környezetrendezési munkák",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
-        "company_names": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "588812847",
+        "company_names": "KOBOLD'2003 Növénytermesztő és Parképítő Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 588812847.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8956_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Vállalkozási szerződés a nyíregyházi Bessenyei tér és Benczúr tér Green City elvekkel összhangban lévő építésére/kivitelezésére",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
-        "company_names": "DeerGarden Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság",
-        "contract_value": "133476160",
+        "company_names": "DeerGarden Kertészeti és Szolgáltató Kft.; KOBOLD'2003 Növénytermesztő és Parképítő Kft.",
+        "contract_value": 133476160.0,
         "contracting_authority": "Budapest Főváros VII. Ker. Erzsébetváros Önkormányzata",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10128_2018/",
         "main_cpv": "45112711-2",
         "number_companies_win": 2,
         "procurement_title": "Budapest, VII. kerület Dob utca 37. számú ingatlan mögötti ún. 15-ös tömb területén közcélú park kialakítása, létesítése",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45950000",
-        "contracting_authority": "Óbudai Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 45950000.0,
+        "contracting_authority": "Óbudai Vagyonkezelő Nonprofit Zrt.",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13363_2018/",
         "main_cpv": "77300000-3",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási keretszerződés az Óbudai Vagyonkezelő Nonprofit Zrt. kezelésében lévő ingatlanok kertészeti munkáinak elvégzése tárgyában",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
-        "company_names": "Fiori Kert Szolgáltató Kft.; KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság",
-        "contract_value": "205272792",
+        "company_names": "Fiori Kert Szolgáltató Kft.; KOBOLD'2003 Növénytermesztő és Parképítő Kft.",
+        "contract_value": 205272792.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14623_2018/",
         "main_cpv": "45111000-8",
         "number_companies_win": 2,
         "procurement_title": "Gazdagréti tér felújítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97534883",
+        "contract_value": 97534883.0,
         "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
         "date": "12/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18284_2018/",
         "main_cpv": "45233200-1",
         "number_companies_win": 0,
         "procurement_title": "Rózsakert ltp. zöldterület felújítása II. ütem",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80621782",
+        "contract_value": 80621782.0,
         "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
         "date": "03/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5771_2019/",
         "main_cpv": "45233200-1",
         "number_companies_win": 0,
         "procurement_title": "Tűzliliom utca, Rózsakert utca útburkolat átépítés",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139997406",
+        "contract_value": 139997406.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "10/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7822_2019/",
         "main_cpv": "45111000-8, 45112711-2, 45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Budapest XI. ker. Allende park megújítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50826772",
-        "contracting_authority": "Óbudai Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 50826772.0,
+        "contracting_authority": "Óbudai Vagyonkezelő Nonprofit Zrt.",
         "date": "01/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12044_2019/",
         "main_cpv": "77300000-3",
         "number_companies_win": 0,
         "procurement_title": "Kertészeti feladatok ellátása 2019 II.",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78730006",
+        "contract_value": 78730006.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "01/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14205_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Ottlik kert kialakítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72617065",
+        "contract_value": 72617065.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14715_2019/",
         "main_cpv": "45112720-8",
         "number_companies_win": 0,
         "procurement_title": "Arató Emil tér 1.sz. alatti iskolaudvar felújítás 2.",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110902615",
+        "contract_value": 110902615.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15655_2019/",
         "main_cpv": "45112711-2",
         "number_companies_win": 0,
         "procurement_title": "II. János Pál pápa tér futókör építés",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "166342643",
+        "contract_value": 166342643.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15657_2019/",
         "main_cpv": "45112711-2",
         "number_companies_win": 0,
         "procurement_title": "XI. - Függetlenségi park fejlesztése",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39363697",
+        "contract_value": 39363697.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16150_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Budai Parkszínpad előtti terület felújítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46874940",
+        "contract_value": 46874940.0,
         "contracting_authority": "Budapest Főváros VII. Ker. Erzsébetváros Önkormányzata",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16353_2019/",
         "main_cpv": "45233253-7",
         "number_companies_win": 0,
         "procurement_title": "Holló utca járda felújítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "218113364",
+        "contract_value": 218113364.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "30/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16341_2019/",
         "main_cpv": "45112711-2",
         "number_companies_win": 0,
         "procurement_title": "XI. Egyetemisták parkjának fejlesztése",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299950000",
+        "contract_value": 299950000.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "06/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7588_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Nagyfelületű járdarekonstrukció",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94220953",
+        "contract_value": 94220953.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8049_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Táncsics Mihály utca menti futókör kialakítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105223425",
+        "contract_value": 105223425.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13704_2020/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Gazdagrét - Kaptató sétány rekreációs park építés",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50000000",
-        "contracting_authority": "Óbudai Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 50000000.0,
+        "contracting_authority": "Óbudai Vagyonkezelő Nonprofit Zrt.",
         "date": "16/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_16238_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Kertészeti feladatok- 2020",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17720485",
+        "contract_value": 17720485.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20815_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyitnikék Óvodafelújítás és USZOSZ felújítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50709996",
+        "contract_value": 50709996.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20815_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyitnikék Óvodafelújítás és USZOSZ felújítása",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "70802956",
-        "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
-        "date": "29/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1541_2021/",
-        "main_cpv": "45235200-5",
-        "number_companies_win": 0,
-        "procurement_title": "Rózsakerti lakótelep körüli futókör kiépítése",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "83594972",
-        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
-        "date": "17/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2561_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Dzsungel játszótér fejlesztése I-II. ütem",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "40960826",
-        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
-        "date": "21/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6420_2021/",
-        "main_cpv": "45112700-2",
-        "number_companies_win": 0,
-        "procurement_title": "II. kerületi óvodák felújítási munkái",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "95070097",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
-        "date": "06/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15428_2021/",
-        "main_cpv": "45212100-7",
-        "number_companies_win": 0,
-        "procurement_title": "A Martinovics tér fejlesztése",
-        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság"
+        "registered_name": "KOBOLD'2003 Növénytermesztő és Parképítő Kft."
     }
 ]

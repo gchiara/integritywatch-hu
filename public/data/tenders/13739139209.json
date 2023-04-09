@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "88238002",
+        "contract_value": 88238002.0,
         "contracting_authority": "Furta Község Önkormányzata",
         "date": "27/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2837_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Furta csapadékvíz-elvezető rendszerének fejlesztése IV. ütem",
-        "registered_name": "D-TRANSZ Teherfuvarozó Korlátolt Felelősségű Társaság"
+        "registered_name": "D-TRANSZ Teherfuvarozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34504227",
+        "contract_value": 34504227.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3750_2018/",
         "main_cpv": "45233140-2",
         "number_companies_win": 0,
         "procurement_title": "Debrecen, Kisdobos utca (I-II. ütem) útépítése",
-        "registered_name": "D-TRANSZ Teherfuvarozó Korlátolt Felelősségű Társaság"
+        "registered_name": "D-TRANSZ Teherfuvarozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42084652",
+        "contract_value": 42084652.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8184_2018/",
         "main_cpv": "45233140-2",
         "number_companies_win": 0,
         "procurement_title": "Debrecen, Szarvas utca út-, és csapadékvízépítése",
-        "registered_name": "D-TRANSZ Teherfuvarozó Korlátolt Felelősségű Társaság"
+        "registered_name": "D-TRANSZ Teherfuvarozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "71998050",
+        "contract_value": 71998050.0,
         "contracting_authority": "Furta Község Önkormányzata",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18879_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Furta csapadékvízelvezető rendszerének fejlesztése",
-        "registered_name": "D-TRANSZ Teherfuvarozó Korlátolt Felelősségű Társaság"
+        "registered_name": "D-TRANSZ Teherfuvarozó Kft."
     }
 ]

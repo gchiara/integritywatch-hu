@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "200948300",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 200948300.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "30/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_7216_2020/",
         "main_cpv": "50531100-7",
         "number_companies_win": 0,
         "procurement_title": "Kazánok karbantartása, eseti javítása",
-        "registered_name": "Vasuta Kazán-Hő-Klímatechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Vasuta Kazán-Hő-Klímatechnikai Kereskedelmi és Szolgáltató Zrt."
     }
 ]

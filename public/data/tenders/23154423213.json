@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "127200000",
+        "contract_value": 127200000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4885_2019/",
         "main_cpv": "79315000-5",
         "number_companies_win": 0,
         "procurement_title": "Adatfelvételi munkák addiktológiai kutatásokhoz",
-        "registered_name": "H-Building Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "H-Building Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8000000",
+        "contract_value": 8000000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13583_2020/",
         "main_cpv": "79315000-5",
         "number_companies_win": 0,
         "procurement_title": "Adatfelvétel az ELTE részére",
-        "registered_name": "H-Building Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "H-Building Hungary Kft."
     }
 ]

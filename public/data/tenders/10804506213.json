@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "10975500",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10975500.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "04/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_5513_2019/",
         "main_cpv": "50220000-3",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "111250445",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 111250445.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "04/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_5513_2019/",
         "main_cpv": "50220000-3",

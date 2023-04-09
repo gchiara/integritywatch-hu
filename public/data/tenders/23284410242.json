@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "2000000000",
+        "contract_value": 2000000000.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "28/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3364_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Díszburkolat és egyéb karbantartási tevékenység",
-        "registered_name": "EU-Line Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "EU-Line Építőipari Zrt."
     },
     {
-        "company_names": "EU-Line Építőipari Zártkörűen Működő Részvénytársaság; ZÖFE Zöldterület-fenntartó és Fejlesztő Korlátolt Felelősségű Társaság",
-        "contract_value": "300000000",
-        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "EU-Line Építőipari Zrt.; ZÖFE Zöldterület-fenntartó és Fejlesztő Kft.",
+        "contract_value": 300000000.0,
+        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zrt.",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12728_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Útpályák, járdaszakaszok javítása és felújítása",
-        "registered_name": "EU-Line Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "EU-Line Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "74979592",
-        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 74979592.0,
+        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zrt.",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15991_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útpályák, járdaszakaszok javítása",
-        "registered_name": "EU-Line Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "EU-Line Építőipari Zrt."
     }
 ]

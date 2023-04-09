@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "576323713",
-        "contracting_authority": "\"REFLEX 2006\" Ingatlanforgalmazó, Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 576323713.0,
+        "contracting_authority": "\"REFLEX 2006\" Ingatlanforgalmazó, Építőipari és Kereskedelmi Kft.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19943_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Sobri Jóska Élménypark turisztikai fejlesztése",
-        "registered_name": "Straub és Társai Fuvarozási Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Straub és Társai Fuvarozási Szolgáltató és Kereskedelmi Kft."
     }
 ]

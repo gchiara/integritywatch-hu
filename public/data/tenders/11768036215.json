@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "320490000",
+        "contract_value": 320490000.0,
         "contracting_authority": "NYÍREGYHÁZI EGYETEM",
         "date": "28/08/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_14437_2018/",
         "main_cpv": "55524000-9",
         "number_companies_win": 0,
         "procurement_title": "Iskolai étkeztetési szolgáltatás",
-        "registered_name": "MARTIN-INVEST Vagyonkezelő és Befektetési Korlátolt Felelősségű Társaság"
+        "registered_name": "MARTIN-INVEST Vagyonkezelő és Befektetési Kft."
     }
 ]

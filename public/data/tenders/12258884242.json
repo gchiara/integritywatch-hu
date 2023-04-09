@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "120400000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 120400000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_20186_2018/",
         "main_cpv": "50000000-5",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járműmérlegek felülvizsgálata, karbantartása, kalibrálása vagy hitelesítése, továbbá javítása",
-        "registered_name": "Multiszolg '97 Hídmérleg Karbantartó, Szerelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Multiszolg '97 Hídmérleg Karbantartó, Szerelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "314160000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 314160000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "31/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_5301_2020/",
         "main_cpv": "50411000-9",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járműmérleg hitelesítés, kalibrálás, karbantartás, javítás",
-        "registered_name": "Multiszolg '97 Hídmérleg Karbantartó, Szerelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Multiszolg '97 Hídmérleg Karbantartó, Szerelő és Szolgáltató Kft."
     }
 ]

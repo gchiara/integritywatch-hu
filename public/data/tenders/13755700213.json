@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "1013625000",
-        "contracting_authority": "MAX-CONSTRUCT Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 1013625000.0,
+        "contracting_authority": "MAX-CONSTRUCT Építőipari, Kereskedelmi és Szolgáltató Kft.",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18657_2018/",
         "main_cpv": "15831500-7",
         "number_companies_win": 0,
         "procurement_title": "Cukor szirup gyártás cukor cirokból hulladékhő hasznosítással",
-        "registered_name": "NaWaRo Korlátolt Felelősségű Társaság"
+        "registered_name": "NaWaRo Kft."
     }
 ]

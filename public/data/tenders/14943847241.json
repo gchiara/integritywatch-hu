@@ -1,24 +1,24 @@
 [
     {
-        "company_names": "\"PERFECT-PHONE\" korlátolt felelősségü társaság; Dynamic Security Communication Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EL-CO TECH Elektromos-Kommunikációs Technológiák Korlátolt Felelősségű Társaság; Key Telecom Korlátolt Felelősségű Társaság; MÁTRA-PHONE Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; metALCOM Távközlési és Rendszerintegrációs Zártkörűen Működő Részvénytársaság; MVM OVIT Országos Villamostávvezeték Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2600000000",
+        "company_names": "\"PERFECT-PHONE\" Kft.; Dynamic Security Communication Kereskedelmi és Szolgáltató Kft.; EL-CO TECH Elektromos-Kommunikációs Technológiák Kft.; Key Telecom Kft.; MÁTRA-PHONE Szolgáltató és Kereskedelmi Kft.; metALCOM Távközlési és Rendszerintegrációs Zrt.; MVM OVIT Országos Villamostávvezeték Zrt.",
+        "contract_value": 2600000000.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_17363_2019/",
         "main_cpv": "45231600-1",
         "number_companies_win": 7,
         "procurement_title": "Hírközlési hálózat tervezés- és kivitelezés",
-        "registered_name": "Dynamic Security Communication Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Dynamic Security Communication Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "205130390",
+        "contract_value": 205130390.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "02/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_22453_2019/",
         "main_cpv": "45231600-1",
         "number_companies_win": 0,
         "procurement_title": "Hírközlési hálózat tervezés- és kivitelezés - I.",
-        "registered_name": "Dynamic Security Communication Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Dynamic Security Communication Kereskedelmi és Szolgáltató Kft."
     }
 ]

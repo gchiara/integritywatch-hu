@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "79300000",
+        "contract_value": 79300000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2651_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "SZTE ZMK tervezése és tervezői művezetése",
-        "registered_name": "EKHO ÉPÍTÉSZ MŰTEREM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EKHO ÉPÍTÉSZ MŰTEREM Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29600000",
+        "contract_value": 29600000.0,
         "contracting_authority": "Vas Megyei Kormányhivatal",
         "date": "25/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_15056_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Vas Megyei Kormányhivatal felújítása - Tervezés",
-        "registered_name": "EKHO ÉPÍTÉSZ MŰTEREM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EKHO ÉPÍTÉSZ MŰTEREM Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "261418000",
-        "contracting_authority": "Tokaji Szőlő-és Bortermelési Közösségi Infrastruktúra Központ Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 261418000.0,
+        "contracting_authority": "Tokaji Szőlő-és Bortermelési Közösségi Infrastruktúra Központ Nonprofit Kft.",
         "date": "06/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1798_2018/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági erő- és munkagépek beszerzése",
-        "registered_name": "Agrárgépek Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Agrárgépek Kereskedelmi és Szolgáltató Kft."
     }
 ]

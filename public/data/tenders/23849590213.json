@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "1632000000",
+        "contract_value": 1632000000.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "01/02/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_764_2018/",
         "main_cpv": "85121000-3",
         "number_companies_win": 0,
         "procurement_title": "Közfinanszírozott járóbeteg szakellátás",
-        "registered_name": "JUMP CONSULTING Korlátolt Felelősségű Társaság"
+        "registered_name": "JUMP CONSULTING Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67860000",
+        "contract_value": 67860000.0,
         "contracting_authority": "Törökbálint Város Önkormányzata",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20333_2020/",
         "main_cpv": "85100000-0",
         "number_companies_win": 0,
         "procurement_title": "Háziorvosi, házi gyermekorvosi ügyeleti és sürgősségi ellátás Törökbálint lakossága részére",
-        "registered_name": "JUMP CONSULTING Korlátolt Felelősségű Társaság"
+        "registered_name": "JUMP CONSULTING Kft."
     }
 ]

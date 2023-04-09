@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "152540000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 152540000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12505_2018/",
         "main_cpv": "71314310-8",
         "number_companies_win": 0,
         "procurement_title": "Szennyvízkivételi mű és szennyvízhőt hasznosító hőszivattyú gépház üzemeltetése",
-        "registered_name": "THERMOWATT Energetikai és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "THERMOWATT Energetikai és Építőipari Kft."
     }
 ]

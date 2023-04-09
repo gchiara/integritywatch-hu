@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "933583338",
-        "contracting_authority": "SimQ-Splényi Korlátolt Felelősségű Társaság",
+        "contract_value": 933583338.0,
+        "contracting_authority": "SimQ-Splényi Kft.",
         "date": "17/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_332_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Korszerű szarvasmarha telep kialakítása",
-        "registered_name": "Stone Mining Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Stone Mining Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "60322803",
-        "contracting_authority": "Pannon Turisztika Korlátolt Felelősségű Társaság",
+        "contract_value": 60322803.0,
+        "contracting_authority": "Pannon Turisztika Kft.",
         "date": "08/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9688_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Falusi szálláshely kialakítása Váraszón",
-        "registered_name": "Stone Mining Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Stone Mining Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "88859602",
+        "contract_value": 88859602.0,
         "contracting_authority": "Izsófalva Nagyközség Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10305_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útépítés Izsófalván",
-        "registered_name": "Stone Mining Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Stone Mining Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "44750000",
-        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 44750000.0,
+        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Kft.",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13929_2020/",
         "main_cpv": "90721800-5",
         "number_companies_win": 0,
         "procurement_title": "Mártonbánya vágatainak tömedékelése I. ütem",
-        "registered_name": "Stone Mining Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Stone Mining Zrt."
     }
 ]

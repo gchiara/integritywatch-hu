@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "99341526",
+        "contract_value": 99341526.0,
         "contracting_authority": "Várpalota Város Önkormányzata",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5396_2019/",
         "main_cpv": "45210000-2, 45213110-7, 45262690-4, 45300000-0, 45443000-4",
         "number_companies_win": 0,
         "procurement_title": "Várpalotai üzletsor homlokzatának felújítása",
-        "registered_name": "MASONTRADE Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MASONTRADE Építőipari Kft."
     }
 ]

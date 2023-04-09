@@ -1,46 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "408154000",
-        "contracting_authority": "Dobrosó-Farm Mezőgazdasági Korlátolt Felelősségű Társaság",
+        "contract_value": 408154000.0,
+        "contracting_authority": "Dobrosó-Farm Mezőgazdasági Kft.",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13689_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dobrosó-Farm Kft. szarvasmarha telepének fejlesztése című projekt kivitelezési munkái",
-        "registered_name": "GOLD ÉPKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GOLD ÉPKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58110779",
+        "contract_value": 58110779.0,
         "contracting_authority": "Polgár Város Önkormányzata",
         "date": "18/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23499_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Piac felújítása Polgáron",
-        "registered_name": "GOLD ÉPKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "105001241",
-        "contracting_authority": "Bodrogkeresztúr Község Önkormányzata",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6861_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bodrogkeresztúr belterületi vízrendezése",
-        "registered_name": "GOLD ÉPKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "178970043",
-        "contracting_authority": "Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6982_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Újrahasználati központ kialakítása, Szerencs",
-        "registered_name": "GOLD ÉPKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GOLD ÉPKER Kereskedelmi és Szolgáltató Kft."
     }
 ]

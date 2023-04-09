@@ -1,343 +1,244 @@
 [
     {
         "company_names": "",
-        "contract_value": "7850000",
+        "contract_value": 7850000.0,
         "contracting_authority": "Margit Kórház Pásztó",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7432_2018/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Margit Kórház Pásztó részére",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9520000",
+        "contract_value": 9520000.0,
         "contracting_authority": "Heim Pál Országos Gyermekgyógyászati Intézet",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8352_2018/",
         "main_cpv": "33157000-5",
         "number_companies_win": 0,
         "procurement_title": "Orvosi eszközök (tartós lélegeztetőgépek, monitorok) beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16900000",
+        "contract_value": 16900000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "07/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9315_2018/",
         "main_cpv": "33168100-6",
         "number_companies_win": 0,
         "procurement_title": "DEK-533 Gastroscopos torony beszerzése Debreceni Egyetem Klinikai Központ Gyermekgyógyászati Klinika részére",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17900000",
+        "contract_value": 17900000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17554_2018/",
         "main_cpv": "33168000-5",
         "number_companies_win": 0,
         "procurement_title": "Nagy tudású video-endoszkópos torony beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "506000000",
+        "contract_value": 506000000.0,
         "contracting_authority": "Nemzeti Népegészségügyi Központ",
         "date": "29/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17025_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Kolonoszkópos szettek és endoszkópos mosóautomaták szállítása",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"VATNER\" Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MEDIREX Egészségügyi, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "113243000",
+        "company_names": "\"VATNER\" Ipari, Kereskedelmi és Szolgáltató Kft.; HUN-MED Kereskedelmi és Szolgáltató Kft.; MEDIREX Egészségügyi, Kereskedelmi és Szolgáltató Zrt.",
+        "contract_value": 113243000.0,
         "contracting_authority": "Gróf Tisza István Kórház",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20877_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 3,
         "procurement_title": "Különféle orvosi műszerek beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "278400000",
+        "contract_value": 278400000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19799_2018/",
         "main_cpv": "33168100-6",
         "number_companies_win": 0,
         "procurement_title": "Bérleti szerződés DE-KEK részére endoszkópos rendszer bérlete és teljes körű karbantartása tárgyában",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14940000",
+        "contract_value": 14940000.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23275_2018/",
         "main_cpv": "33112000-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése 2018",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25550000",
+        "contract_value": 25550000.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23275_2018/",
         "main_cpv": "33112000-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése 2018",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15700000",
+        "contract_value": 15700000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "14/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2554_2019/",
         "main_cpv": "33168100-6",
         "number_companies_win": 0,
         "procurement_title": "Nagy tudású endoszkópos torony és tartozékai",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10260000",
+        "contract_value": 10260000.0,
         "contracting_authority": "Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet",
         "date": "22/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4037_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13310000",
+        "contract_value": 13310000.0,
         "contracting_authority": "Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet",
         "date": "22/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4037_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14800000",
+        "contract_value": 14800000.0,
         "contracting_authority": "Keszthelyi Kórház",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0513_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Video duodenoscop, nagyfrekvenciás sebészeti vágó",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3400000",
+        "contract_value": 3400000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11709_2020/",
         "main_cpv": "33168100-6",
         "number_companies_win": 0,
         "procurement_title": "Endoszkópok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7200000",
+        "contract_value": 7200000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11709_2020/",
         "main_cpv": "33168100-6",
         "number_companies_win": 0,
         "procurement_title": "Endoszkópok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8800000",
+        "contract_value": 8800000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11709_2020/",
         "main_cpv": "33168100-6",
         "number_companies_win": 0,
         "procurement_title": "Endoszkópok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1161000",
+        "contract_value": 1161000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13025_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Gasztroenterológiai beavatkozáshoz eszköz",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21800000",
+        "contract_value": 21800000.0,
         "contracting_authority": "Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18510_2020/",
         "main_cpv": "33190000-8",
         "number_companies_win": 0,
         "procurement_title": "Video-gasztroszkóp, -kolonoszkóp és endoszkópmosó",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2370000",
+        "contract_value": 2370000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20964_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Gasztroenterológiai endoszkópos anyagok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6880000",
+        "contract_value": 6880000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20964_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Gasztroenterológiai endoszkópos anyagok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6966000",
+        "contract_value": 6966000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20964_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Gasztroenterológiai endoszkópos anyagok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33210000",
+        "contract_value": 33210000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20964_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Gasztroenterológiai endoszkópos anyagok beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12700000",
-        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
-        "date": "05/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24568_2020/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "EBP-orvostechnikai eszközbeszerzés",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "92775000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4180_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "DE KK részére endoszkópos eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1500000",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18665_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gasztroenterológiai eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2650000",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18665_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gasztroenterológiai eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3000000",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18665_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gasztroenterológiai eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5014000",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18665_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gasztroenterológiai eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6787500",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18665_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gasztroenterológiai eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11145000",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18665_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gasztroenterológiai eszközök beszerzése",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20500000",
-        "contracting_authority": "Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22183_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Diagnosztikai orvostechnológiai eszközök",
-        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HUN-MED Kereskedelmi és Szolgáltató Kft."
     }
 ]

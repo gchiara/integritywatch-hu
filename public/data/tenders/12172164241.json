@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "169000000",
-        "contracting_authority": "Szegedi Szabadtéri Játékok és Fesztivál Szervező Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 169000000.0,
+        "contracting_authority": "Szegedi Szabadtéri Játékok és Fesztivál Szervező Nonprofit Kft.",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18930_2017/",
         "main_cpv": "92340000-6",
         "number_companies_win": 0,
         "procurement_title": "Alan Menken - Glenn Slater: Apáca Show című musical produkciójának színpadra állítása",
-        "registered_name": "ZIKKURAT Színpadi Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "ZIKKURAT Színpadi Ügynökség Közhasznú Nonprofit Kft."
     }
 ]

@@ -1,211 +1,101 @@
 [
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; Compliance Data Systems Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Korlátolt Felelősségű Társaság; Networker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Soloron 40 Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TR Consult Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; Black Cell Magyarország Kft.; Compliance Data Systems Kft.; Cyber Services Zrt.; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Kft.; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; filter:max Informatikai Kereskedelmi és Szolgáltató Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; Grepton Informatikai Zrt.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invigor Informatika Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Kft.; Networker Kereskedelmi és Szolgáltató Kft.; NOREG Információvédelmi Kft.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; Pegasus Informatikai Kft.; PIK-SYS Informatikai és Tanácsadó Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; SERCO Informatika Kft.; Soloron 40 Kft.; SYMPORT HOLDING Informatikai Zrt.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TR Consult Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; Visoft Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XS Matrix Security Solutions Kft.",
+        "contract_value": 20000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7487_2018/",
         "main_cpv": "48730000-4",
         "number_companies_win": 62,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "88500000",
+        "contract_value": 88500000.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8173_2018/",
         "main_cpv": "72230000-6",
         "number_companies_win": 0,
         "procurement_title": "Monitoring rendszerek integrációja és munkakörnyezet fejlesztések (EMIR és Doktár alkalmazások fejlesztése)",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17988000",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 17988000.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12420_2018/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "Az Egységes Magyar Munkaügyi Nyilvántartás (EMMA) alapján továbbfejlesztett Munkaügyi Adatbázis szoftverkövetési és támogatási szolgáltatásának nyújtása, továbbá a Munkaügyi Adatbázishoz kapcsolódó feladatok elvégzése",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59900000",
+        "contract_value": 59900000.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "28/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14641_2019/",
         "main_cpv": "72230000-6",
         "number_companies_win": 0,
         "procurement_title": "EMIR és Doktár alkalmazások 2019. évi fejlesztése",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "425000000",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 425000000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
         "date": "28/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_7049_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "SZTIR-SZOFI fejlesztés",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70450000",
+        "contract_value": 70450000.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "19/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10603_2020/",
         "main_cpv": "72212517-6",
         "number_companies_win": 0,
         "procurement_title": "EMIR alkalmazás fejlesztése",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28524000",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28524000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13982_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "15 perces napon belüli határkeresztező termék",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139968000",
+        "contract_value": 139968000.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14541_2020/",
         "main_cpv": "72250000-2",
         "number_companies_win": 0,
         "procurement_title": "EMIR és Doktár alkalmazások támogatása",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     },
     {
-        "company_names": "ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság",
-        "contract_value": "332661216",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Kft.; Cyber Services Zrt.; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; M & S Informatikai Zrt.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Visoft Kft.",
+        "contract_value": 332661216.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "26/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21464_2020/",
         "main_cpv": "48730000-4",
         "number_companies_win": 9,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság",
-        "contract_value": "204513300",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1416_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 9,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "52275080",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_7277_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 0,
-        "procurement_title": "SZTIR-SZOFI fejlesztés 1. fázis",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "58943325",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_7277_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 0,
-        "procurement_title": "SZTIR-SZOFI fejlesztés 1. fázis",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "74478775",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_7277_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 0,
-        "procurement_title": "SZTIR-SZOFI fejlesztés 1. fázis",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "68800000",
-        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
-        "date": "17/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8749_2021/",
-        "main_cpv": "72212517-6",
-        "number_companies_win": 0,
-        "procurement_title": "EMIR alkalmazás fejlesztése 2021",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság",
-        "contract_value": "187089436",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15425_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 9,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "444640000",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "21/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_20289_2021/",
-        "main_cpv": "72253200-5",
-        "number_companies_win": 0,
-        "procurement_title": "Üzemviteli rendszerek üzemeltetés támogatása",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Navitasoft Informatikai Zártkörűen Működő Részvénytársaság; Passed Informatikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság",
-        "contract_value": "360000000",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "03/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_23492_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 3,
-        "procurement_title": "MAVIR üzemviteli rendszereinek fejlesztési és fejlesztéstámogatási feladatai",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "CAPSYS Informatikai Korlátolt Felelősségű Társaság; Navitasoft Informatikai Zártkörűen Működő Részvénytársaság; TrendEn Energetika Stratégiai, Üzleti és Informatikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság",
-        "contract_value": "480000000",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "03/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_23492_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 4,
-        "procurement_title": "MAVIR üzemviteli rendszereinek fejlesztési és fejlesztéstámogatási feladatai",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság",
-        "contract_value": "153842715",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23680_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 9,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "Visoft Korlátolt Felelősségű Társaság"
+        "registered_name": "Visoft Kft."
     }
 ]

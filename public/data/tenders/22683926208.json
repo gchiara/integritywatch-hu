@@ -1,90 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "111542256",
+        "contract_value": 111542256.0,
         "contracting_authority": "Pér Község Önkormányzata",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8259_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés településen belüli sík terepen haladó közlekedési célú, C hálózati szerepű kerékpárforgalmi létesítmény megvalósítására Pér Község területén",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30999770",
+        "contract_value": 30999770.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "06/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15651_2018/",
         "main_cpv": "45317200-4",
         "number_companies_win": 0,
         "procurement_title": "Kapuvár, volt Húsgyári terület újrahasznosítása, villamosenergia ellátása építési beruházás.",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50499400",
+        "contract_value": 50499400.0,
         "contracting_authority": "Nagybajcs Község Önkormányzata",
         "date": "15/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18835_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budai tó, Nagy tó fejlesztési munkálatai Nagybajcs",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41999970",
+        "contract_value": 41999970.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19029_2018/",
         "main_cpv": "45232453-2",
         "number_companies_win": 0,
         "procurement_title": "Áteresztő műtárgy építése",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48467260",
+        "contract_value": 48467260.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10111_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Győr csatornák meder és partrendezése",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35191357",
+        "contract_value": 35191357.0,
         "contracting_authority": "Mezőörs Község Önkormányzata, Pér Község Önkormányzata",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12821_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Pér-Mindszentpuszta között összekötőút kivitelezés",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63686276",
+        "contract_value": 63686276.0,
         "contracting_authority": "Mezőörs Község Önkormányzata, Pér Község Önkormányzata",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12821_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Pér-Mindszentpuszta között összekötőút kivitelezés",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     },
     {
         "company_names": "",
-        "contract_value": "138203492",
+        "contract_value": 138203492.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22462_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nefelejcs köz infrastrukturális fejlesztése",
-        "registered_name": "POL-INERT Korlátolt Felelősségű Társaság"
+        "registered_name": "POL-INERT Kft."
     }
 ]

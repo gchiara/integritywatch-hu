@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "17690314",
+        "contract_value": 17690314.0,
         "contracting_authority": "Taksony Nagyközség Önkormányzata",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_84_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25289202",
+        "contract_value": 25289202.0,
         "contracting_authority": "Taksony Nagyközség Önkormányzata",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_84_2018/",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "39003390",
-        "contracting_authority": "Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 39003390.0,
+        "contracting_authority": "Városrehabilitáció18 Nonprofit Zrt.",
         "date": "18/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5383_2018/",
         "main_cpv": "45233251-3",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "76296947",
+        "contract_value": 76296947.0,
         "contracting_authority": "Makád Község Önkormányzat",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17882_2018/",
@@ -44,9 +44,9 @@
         "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
     },
     {
-        "company_names": "\"SZIGET-SZILÁRD\" Út- és Közműépítő Ipari és Szolgáltató Kft; TRIAUT Műszaki Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1700000000",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"SZIGET-SZILÁRD\" Út- és Közműépítő Ipari és Szolgáltató Kft; TRIAUT Műszaki Kereskedelmi és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 1700000000.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5117_2019/",
         "main_cpv": "45233120-6",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "123193534",
+        "contract_value": 123193534.0,
         "contracting_authority": "Taksony Nagyközség Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8050_2019/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "160957813",
+        "contract_value": 160957813.0,
         "contracting_authority": "Kiskunlacháza Város Önkormányzata",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10346_2019/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "59860487",
+        "contract_value": 59860487.0,
         "contracting_authority": "Kiskunlacháza Város Önkormányzata",
         "date": "21/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11421_2019/",
@@ -89,8 +89,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "99865850",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 99865850.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13212_2019/",
         "main_cpv": "45233120-6",
@@ -100,8 +100,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "180811000",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 180811000.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13212_2019/",
         "main_cpv": "45233120-6",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "10662700",
+        "contract_value": 10662700.0,
         "contracting_authority": "Dömsöd Nagyközség Önkormányzata",
         "date": "23/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13666_2019/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "26187850",
+        "contract_value": 26187850.0,
         "contracting_authority": "Dömsöd Nagyközség Önkormányzata",
         "date": "23/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13666_2019/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "68434950",
+        "contract_value": 68434950.0,
         "contracting_authority": "Dömsöd Nagyközség Önkormányzata",
         "date": "23/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13666_2019/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "15795437",
+        "contract_value": 15795437.0,
         "contracting_authority": "Kakucs Község Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14099_2019/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "64796277",
+        "contract_value": 64796277.0,
         "contracting_authority": "Kakucs Község Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14099_2019/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "16356893",
+        "contract_value": 16356893.0,
         "contracting_authority": "Kiskunlacháza Város Önkormányzata",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15095_2019/",
@@ -177,8 +177,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "12203000",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12203000.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20114_2019/",
         "main_cpv": "45233120-6",
@@ -188,8 +188,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "20016390",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 20016390.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20114_2019/",
         "main_cpv": "45233120-6",
@@ -199,8 +199,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "93692778",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 93692778.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20114_2019/",
         "main_cpv": "45233120-6",
@@ -210,68 +210,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "18282500",
+        "contract_value": 18282500.0,
         "contracting_authority": "Kiskunlacháza Város Önkormányzata",
         "date": "24/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7206_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Kiskunlacháza, Tátra utca útépítés",
-        "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34597880",
-        "contracting_authority": "Kiskunlacháza Város Önkormányzata",
-        "date": "21/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6966_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kinizsi utcai útépítés",
-        "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3417125",
-        "contracting_authority": "Pilis Város Önkormányzat",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11490_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Pilis Város egyes közútjainak felújítása",
-        "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "190085174",
-        "contracting_authority": "Pilis Város Önkormányzat",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11490_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Pilis Város egyes közútjainak felújítása",
-        "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6299212",
-        "contracting_authority": "Albertirsa Város Önkormányzata",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18820_2021/",
-        "main_cpv": "45233142-6",
-        "number_companies_win": 0,
-        "procurement_title": "Albertirsa, kátyúzás.",
-        "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55022100",
-        "contracting_authority": "Kiskunlacháza Város Önkormányzata",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21400_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kiskunlacháza, Tündér utca útburkolat megerősítése",
         "registered_name": "SZIGET-SZILÁRD Út- és Közműépítő Ipari és Szolgáltató Kft"
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "293500786",
-        "contracting_authority": "Baross László Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 293500786.0,
+        "contracting_authority": "Baross László Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22203_2018/",
         "main_cpv": "45000000-7",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25935510",
+        "contract_value": 25935510.0,
         "contracting_authority": "Diósjenő Község Önkormányzata",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1244_2019/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "130746277",
+        "contract_value": 130746277.0,
         "contracting_authority": "Diósjenő Község Önkormányzata",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1244_2019/",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "95000027",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\", Országos Meteorológiai Szolgálat",
+        "contract_value": 95000027.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\", Országos Meteorológiai Szolgálat",
         "date": "27/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1387_2020/",
         "main_cpv": "45000000-7",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "128607298",
+        "contract_value": 128607298.0,
         "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft., Kenderesi Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium",
         "date": "06/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1986_2020/",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "235098296",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\", Ózdi Szakképzési Centrum",
+        "contract_value": 235098296.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\", Ózdi Szakképzési Centrum",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2665_2020/",
         "main_cpv": "45000000-7",
@@ -67,8 +67,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "684707883",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 684707883.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3836_2020/",
         "main_cpv": "45212212-5",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14673531",
+        "contract_value": 14673531.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "23/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7021_2020/",
@@ -89,24 +89,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "145175743",
+        "contract_value": 145175743.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "23/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7021_2020/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Szerencs belváros rehabilitációja piacépítéssel",
-        "registered_name": "NEST PLUS Építőipari Korlátolt Felelőségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "144505594",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Rendőr-Főkapitányság",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5483_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szerencs, Bekecs u.10., épület energetikai korszerűsítés",
         "registered_name": "NEST PLUS Építőipari Korlátolt Felelőségű Társaság"
     }
 ]

@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "32357360",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 32357360.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "17/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17606_2019/",
         "main_cpv": "39831500-1",
         "number_companies_win": 0,
         "procurement_title": "Szélvédőmosó folyadékok beszerzése",
-        "registered_name": "F & K Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "F & K Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "194937480",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 194937480.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "07/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_21112_2019/",
         "main_cpv": "09210000-4",
         "number_companies_win": 0,
         "procurement_title": "Kenőzsírok és motorolajok beszerzése",
-        "registered_name": "F & K Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "F & K Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31192360",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 31192360.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "08/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_21422_2019/",
         "main_cpv": "09211000-1",
         "number_companies_win": 0,
         "procurement_title": "Kenőanyagok és hajtóműolajok beszerzése",
-        "registered_name": "F & K Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "F & K Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "218847440",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 218847440.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "08/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_21422_2019/",
         "main_cpv": "09211000-1",
         "number_companies_win": 0,
         "procurement_title": "Kenőanyagok és hajtóműolajok beszerzése",
-        "registered_name": "F & K Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "F & K Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "341924400",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 341924400.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "08/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_21422_2019/",
         "main_cpv": "09211000-1",
         "number_companies_win": 0,
         "procurement_title": "Kenőanyagok és hajtóműolajok beszerzése",
-        "registered_name": "F & K Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "41800000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_16411_2021/",
-        "main_cpv": "24960000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Vegyipari termékek beszerzése",
-        "registered_name": "F & K Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "F & K Kereskedelmi és Szolgáltató Kft."
     }
 ]

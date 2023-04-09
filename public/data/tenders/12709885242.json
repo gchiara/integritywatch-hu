@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "959000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 959000000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18786_2017/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Az Új Budapesti Velodrom tervezési feladatainak ellátása",
-        "registered_name": "GALL és TÁRSAI Építésziroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "712000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "07/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12451_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Debreceni Velodrom tervezési feladata",
-        "registered_name": "GALL és TÁRSAI Építésziroda Korlátolt Felelősségű Társaság"
+        "registered_name": "GALL és TÁRSAI Építésziroda Kft."
     }
 ]

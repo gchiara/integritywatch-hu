@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "649685548",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 649685548.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14168_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Rajka (HU) - Németjárfalu (Deutsch - Jahrndorf - AT) összekötő út kivitelezési munkáinak elvégzése",
-        "registered_name": "GLÁZER-TRANSZ Fuvarozó Korlátolt Felelősségű Társaság"
+        "registered_name": "GLÁZER-TRANSZ Fuvarozó Kft."
     }
 ]

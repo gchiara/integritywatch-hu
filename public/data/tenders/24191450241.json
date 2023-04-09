@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; PDA Rendszerház Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "1563946781,88",
-        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság, E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság, E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság",
+        "company_names": "HUMANsoft Elektronikai Kft.; PDA Rendszerház Fejlesztő és Tanácsadó Kft.",
+        "contract_value": 1563946781.88,
+        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Dél-dunántúli Gázhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Közép-dunántúli Gázhálózati Zrt., OPUS TITÁSZ Áramhálózati Zrt.",
         "date": "30/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_15101_2018/",
         "main_cpv": "30213200-7",
         "number_companies_win": 2,
         "procurement_title": "Terepi IT hardver eszközök és tartozékainak szállítása",
-        "registered_name": "PDA Rendszerház Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "PDA Rendszerház Fejlesztő és Tanácsadó Kft."
     }
 ]

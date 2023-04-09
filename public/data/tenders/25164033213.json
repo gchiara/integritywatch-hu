@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "61635167",
+        "contract_value": 61635167.0,
         "contracting_authority": "Kerepes Város Önkormányzata",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2107_2018/",
         "main_cpv": "45213316-1",
         "number_companies_win": 0,
         "procurement_title": "Kerepes Alföldi utca és Sólyom utca járdaépítése",
-        "registered_name": "Aszfalt Burkolat Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfalt Burkolat Építő Kft."
     }
 ]

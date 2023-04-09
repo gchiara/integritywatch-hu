@@ -1,79 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "43974870",
+        "contract_value": 43974870.0,
         "contracting_authority": "Vitnyéd Községi Önkormányzat",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22960_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Hivatal épületének felújítása Vitnyéden",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45110831",
+        "contract_value": 45110831.0,
         "contracting_authority": "Fertőd Város Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13192_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Az egykori laktanya területének funkcióváltó megújítása Fertődön",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110604571",
+        "contract_value": 110604571.0,
         "contracting_authority": "Fertőd Város Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13192_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Az egykori laktanya területének funkcióváltó megújítása Fertődön",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4021842",
+        "contract_value": 4021842.0,
         "contracting_authority": "Répcelak Város Önkormányzata",
         "date": "22/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13525_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Répcelak Radó ház átalakítási munkái",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "102272571",
+        "contract_value": 102272571.0,
         "contracting_authority": "Vitnyéd Községi Önkormányzat",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13480_2020/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi központ kialakítása Vitnyéden",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "78345257",
-        "contracting_authority": "Répcelak Város Önkormányzata",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2541_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsődei ellátás kapacitásainak bővítése Répcelak",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "105333147",
-        "contracting_authority": "Fertőd Város Önkormányzata",
-        "date": "03/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10288_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde bővítés és óvoda korszerűsítés Fertődön",
-        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "Cseh 92 Építési és Ingatlanforgalmazó Kft."
     }
 ]

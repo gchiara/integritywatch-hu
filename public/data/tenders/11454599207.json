@@ -1,321 +1,244 @@
 [
     {
-        "company_names": "Prolan Irányítástechnikai Zártkörűen Működő Részvénytársaság; R - KORD Építőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "7360000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Prolan Irányítástechnikai Zrt.; R - KORD Építőipari Kft.",
+        "contract_value": 7360000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "17/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_358_2018/",
         "main_cpv": "45316213-1",
         "number_companies_win": 2,
         "procurement_title": "Központi forgalomirányítórendszer kiépítése, és közúti-vasúti szintbeni kereszteződések közlekedésbiztonságának javítása, biztosítóberendezési áramellátások korszerűsítése a MÁV Zrt. hálózatán.",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1324098515",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1324098515.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "13/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_9628_2018/",
         "main_cpv": "45314300-4",
         "number_companies_win": 0,
         "procurement_title": "Porpác - Csorna szakaszon vonal- és erősáramú kábel cseréje, a lejárt közmű- és közút keresztezési engedélyek megújítása, megvalósulási tervek készítése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
-        "company_names": "i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; R - KORD Építőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "58855800000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "i-Cell Mobilsoft Zrt.; R - KORD Építőipari Kft.",
+        "contract_value": 58855800000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12368_2018/",
         "main_cpv": "45230000-8",
         "number_companies_win": 2,
         "procurement_title": "Vállalkozási szerződés GSM-R rendszer 2. ütem tervezési és kivitelezési munkáira",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
-        "company_names": "R - KORD Építőipari Korlátolt Felelősségű Társaság; Vasútvillamosító Korlátolt Felelősségű Társaság",
-        "contract_value": "23050474189",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "R - KORD Építőipari Kft.; Vasútvillamosító Kft.",
+        "contract_value": 23050474189.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12720_2018/",
         "main_cpv": "45234160-5",
         "number_companies_win": 2,
         "procurement_title": "Szabadbattyán-Balatonfüred vonalszakasz villamos üzem kiépítése, állomások részleges akadálymentesítése, felsővezeték építési, vasútépítési és kiegészítő építési munkáinak tervezése és kivitelezése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
-        "company_names": "FEHÉRVILL-ÁM Villamosenergia-ipari Szerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; R - KORD Építőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "70740000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "company_names": "FEHÉRVILL-ÁM Villamosenergia-ipari Szerelő, Kereskedelmi és Szolgáltató Kft.; R - KORD Építőipari Kft.",
+        "contract_value": 70740000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "24/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_16899_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 2,
         "procurement_title": "Villamos felsővezetéki munkák",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
-        "company_names": "R - KORD Építőipari Korlátolt Felelősségű Társaság; V-Híd Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "8673616270",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "R - KORD Építőipari Kft.; V-Híd Építő Zrt.",
+        "contract_value": 8673616270.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19800_2018/",
         "main_cpv": "45234100-7",
         "number_companies_win": 2,
         "procurement_title": "Érd - Érd alsó összekötő vágány és kapcsolódó létesítmények kivitelezése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
-        "company_names": "FEHÉRVILL-ÁM Villamosenergia-ipari Szerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; R - KORD Építőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "310489190",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "company_names": "FEHÉRVILL-ÁM Villamosenergia-ipari Szerelő, Kereskedelmi és Szolgáltató Kft.; R - KORD Építőipari Kft.",
+        "contract_value": 310489190.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "07/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_20112_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 2,
         "procurement_title": "Villamos felsővezetéki munkák (Csorna állomás)",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199639400",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 199639400.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "11/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2350_2019/",
         "main_cpv": "45234100-7",
         "number_companies_win": 0,
         "procurement_title": "Újszász állomás biztosítóberendezésének megújítása",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "180000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 180000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "19/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_12920_2019/",
         "main_cpv": "98390000-3",
         "number_companies_win": 0,
         "procurement_title": "Scheidt & Bachmann gyártmányú BUES 2000 típusú elektronikus sorompóberendezések és részegységeinek javítása",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "86550000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 86550000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17251_2019/",
         "main_cpv": "45314000-1",
         "number_companies_win": 0,
         "procurement_title": "Utastájékoztatás kiépítése Szolnok állomáson",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9488679852",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 9488679852.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2204_2020/",
         "main_cpv": "45234100-7",
         "number_companies_win": 0,
         "procurement_title": "Keleti pu – Kőbánya felső közötti 3. vágány biztosítóberendezés, műtárgy, magasépítés, villamos felsővezeték, zajvédelmi munkák elvégzése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
-        "company_names": "R - KORD Építőipari Korlátolt Felelősségű Társaság; STRABAG Rail Korlátolt Felelősségű Társaság",
-        "contract_value": "47237455615",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "R - KORD Építőipari Kft.; STRABAG Rail Kft.",
+        "contract_value": 47237455615.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "28/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7087_2020/",
         "main_cpv": "45234100-7",
         "number_companies_win": 2,
         "procurement_title": "Püspökladány–Biharkeresztes szűk keresztmetszet",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2048713800",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 2048713800.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9385_2020/",
         "main_cpv": "45232220-0",
         "number_companies_win": 0,
         "procurement_title": "Újszász, Érd, Vác állomások tervezése, kivitelezése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2254659750",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 2254659750.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9385_2020/",
         "main_cpv": "45232220-0",
         "number_companies_win": 0,
         "procurement_title": "Újszász, Érd, Vác állomások tervezése, kivitelezése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73695913",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 73695913.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "16/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9492_2020/",
         "main_cpv": "45233292-2",
         "number_companies_win": 0,
         "procurement_title": "Kaposvár-Fonyód vasútvonal állapotjavítás - Somogyjád",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12145051",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12145051.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14489_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Áramellátó rendszer cseréje és kábelkiváltás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19224915",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 19224915.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14489_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Áramellátó rendszer cseréje és kábelkiváltás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20747056",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 20747056.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14489_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Áramellátó rendszer cseréje és kábelkiváltás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90437244",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 90437244.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14489_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Áramellátó rendszer cseréje és kábelkiváltás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91025124",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 91025124.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14489_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Áramellátó rendszer cseréje és kábelkiváltás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "145329001",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 145329001.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15122_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Kényszer-menetirányváltás kiépítése - 42.sz. vonal",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "493583556",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 493583556.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_21597_2020/",
         "main_cpv": "45234115-5",
         "number_companies_win": 0,
         "procurement_title": "Szolnok D 70 felújítása",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24197438567",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "04/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_24533_2020/",
-        "main_cpv": "45234115-5",
-        "number_companies_win": 0,
-        "procurement_title": "Szűk Keresztmetszet CEF projekt",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "464642000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "25/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4975_2021/",
-        "main_cpv": "45234115-5",
-        "number_companies_win": 0,
-        "procurement_title": "Nyugati pu külsőtéri és belsőtéri elemek felújítás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "132480000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "27/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6985_2021/",
-        "main_cpv": "50331000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Nyugati VIII.sz. 10/0,4kV kapcsolóház karbantartás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "133281000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "27/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6985_2021/",
-        "main_cpv": "50331000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Nyugati VIII.sz. 10/0,4kV kapcsolóház karbantartás",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "649915366",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10488_2021/",
-        "main_cpv": "45314000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Utastájékoztató rendszer, diszpécserközpont kiépítése - Nyugati pu.",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "168200000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "02/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12479_2021/",
-        "main_cpv": "45314300-4",
-        "number_companies_win": 0,
-        "procurement_title": "MÁV Zrt. infrastruktúra kapacitásának növelése",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "484295535",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
-        "date": "08/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19683_2021/",
-        "main_cpv": "45314300-4",
-        "number_companies_win": 0,
-        "procurement_title": "Vonalkábel csere GYSEV Zrt. 8. sz. vasútvonal",
-        "registered_name": "R - KORD Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "R - KORD Építőipari Kft."
     }
 ]

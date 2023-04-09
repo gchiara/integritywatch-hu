@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "13150000",
+        "contract_value": 13150000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7997_2018/",
         "main_cpv": "42924720-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a betegbiztonság növelése érdekében a DE KK részére",
-        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "HKW Klíma Műszaki és Szolgáltató Korlátolt Felelősségű Társaság \"végelszámolás alatt\"; REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2586386712",
+        "company_names": "HKW Klíma Műszaki és Szolgáltató Kft. \"végelszámolás alatt\"; REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 2586386712.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13558_2018/",
         "main_cpv": "42924720-2",
         "number_companies_win": 2,
         "procurement_title": "Kórházak használati melegvíz-rendszerének mikrobiológiai csíramentesítésére szolgáló rendszer beszerzése, üzembehelyezése és a kacsolódó szerviz tevékenység biztosítása",
-        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13300000",
+        "contract_value": 13300000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0077_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Fertőtlenítő berendezés beszerzése PTE",
-        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31464567",
+        "contract_value": 31464567.0,
         "contracting_authority": "Heim Pál Országos Gyermekgyógyászati Intézet",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11204_2019/",
         "main_cpv": "39330000-4",
         "number_companies_win": 0,
         "procurement_title": "Vízfertőtlenítő rendszer beszerzése",
-        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REDO WATER SYSTEMS Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "23889644",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 23889644.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12323_2018/",
         "main_cpv": "50116000-1",
         "number_companies_win": 0,
         "procurement_title": "Sütrak légkondicionáló berendezéssel szerelt autóbuszok klímaberendezéseinek szükség szerinti javítása és eseti karbantartása",
-        "registered_name": "HE-GE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HE-GE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "315681900",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 315681900.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "01/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_18380_2019/",
         "main_cpv": "50116000-1",
         "number_companies_win": 0,
         "procurement_title": "Autóbuszok és trolibuszok klíma javítása, karbantartása",
-        "registered_name": "HE-GE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HE-GE Kereskedelmi és Szolgáltató Kft."
     }
 ]

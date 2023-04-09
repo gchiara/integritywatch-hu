@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "233056800",
-        "contracting_authority": "Cornexi Food Korlátolt Felelősségű Társaság",
+        "contract_value": 233056800.0,
+        "contracting_authority": "Cornexi Food Kft.",
         "date": "06/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7286_2019/",
         "main_cpv": "39312000-2, 39314000-6",
         "number_companies_win": 0,
         "procurement_title": "Szeletgyártó beszerzése",
-        "registered_name": "Building-Invest Korlátolt Felelősségű Társaság"
+        "registered_name": "Building-Invest Kft."
     }
 ]

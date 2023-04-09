@@ -1,145 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "456000160",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 456000160.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4048_2018/",
         "main_cpv": "45251110-5",
         "number_companies_win": 0,
         "procurement_title": "Primerköri csurgalékvíz és ülepített vízszivattyúk kiváltása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "248841000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 248841000.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "04/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_21887_2018/",
         "main_cpv": "71300000-1",
         "number_companies_win": 0,
         "procurement_title": "Hatósági engedélyköteles üzemviteli dokumentumok módosítása, megalapozása a 2018-2022. években",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68000000",
+        "contract_value": 68000000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0829_2019/",
         "main_cpv": "50800000-3",
         "number_companies_win": 0,
         "procurement_title": "Víz-gőz rendszer szerelvényeinek javítása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     },
     {
-        "company_names": "Duna Center Therm Üzemi Szolgáltató Korlátolt Felelősségű Társaság; Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság",
-        "contract_value": "358999999",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "company_names": "Duna Center Therm Üzemi Szolgáltató Kft.; Kópis és Társa Szerelő és Karbantartó Kft.",
+        "contract_value": 358999999.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "19/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_24158_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 2,
         "procurement_title": "Gőzrendszer és hőközpontok átalakítása 8803/16hrsz",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "422814165",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 422814165.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "11/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2366_2020/",
         "main_cpv": "45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Pihentető medence tartalék hűtési útvonalának kialakítása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1284330000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1284330000.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_18030_2020/",
         "main_cpv": "71336000-2",
         "number_companies_win": 0,
         "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "538968500",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 538968500.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_19449_2020/",
         "main_cpv": "71336000-2",
         "number_companies_win": 0,
         "procurement_title": "Üzemviteli naplózás működéstámogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11204000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0201_2021/",
-        "main_cpv": "71336000-2",
-        "number_companies_win": 0,
-        "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22116000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0201_2021/",
-        "main_cpv": "71336000-2",
-        "number_companies_win": 0,
-        "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "37078500",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0201_2021/",
-        "main_cpv": "71336000-2",
-        "number_companies_win": 0,
-        "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55019500",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0201_2021/",
-        "main_cpv": "71336000-2",
-        "number_companies_win": 0,
-        "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14743000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_12747_2021/",
-        "main_cpv": "71336000-2",
-        "number_companies_win": 0,
-        "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "202093500",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_12747_2021/",
-        "main_cpv": "71336000-2",
-        "number_companies_win": 0,
-        "procurement_title": "IRKP technológusi támogatása",
-        "registered_name": "Kópis és Társa Szerelő és Karbantartó Korlátolt Felelősségű Társaság"
+        "registered_name": "Kópis és Társa Szerelő és Karbantartó Kft."
     }
 ]

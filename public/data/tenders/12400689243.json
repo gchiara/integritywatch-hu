@@ -1,541 +1,420 @@
 [
     {
         "company_names": "",
-        "contract_value": "3240000",
+        "contract_value": 3240000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_113_2018/",
         "main_cpv": "33111720-4",
         "number_companies_win": 0,
         "procurement_title": "Hemodinamikai anyagok beszerzése konszignációs raktár üzemeltetésével 12 hónapra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43400000",
+        "contract_value": 43400000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_775_2018/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "A Városmajori Szív-és Érgyógyászati Klinika részére kardiológiai és radiológiai intervenciós, egyszer használatos eszközök, valamint egyszer használatos invazív kardiológiai ablációs és radiológiai szettek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6000000",
+        "contract_value": 6000000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2541_2018/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Aorta stent-graftok beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8480000",
+        "contract_value": 8480000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2541_2018/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Aorta stent-graftok beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37000",
+        "contract_value": 37000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105000",
+        "contract_value": 105000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "109000",
+        "contract_value": 109000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "115000",
+        "contract_value": 115000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "138000",
+        "contract_value": 138000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "205000",
+        "contract_value": 205000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "238000",
+        "contract_value": 238000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "260000",
+        "contract_value": 260000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "277000",
+        "contract_value": 277000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "318000",
+        "contract_value": 318000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "476000",
+        "contract_value": 476000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "545000",
+        "contract_value": 545000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "546000",
+        "contract_value": 546000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "819000",
+        "contract_value": 819000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2190000",
+        "contract_value": 2190000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6562000",
+        "contract_value": 6562000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8983_2018/",
         "main_cpv": "33184200-5",
         "number_companies_win": 0,
         "procurement_title": "PTFE folt, műpericardium, human- és xenopericardium, valamint érprotézis beszerzése gyermek és felnőtt ellátásra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2059000",
+        "contract_value": 2059000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12629_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Varrógépek, tárak és érprotézisek beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4526000",
+        "contract_value": 4526000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "10/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16024_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Érprotézisek, hálók, ligasure beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4960000",
+        "contract_value": 4960000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "10/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16024_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Érprotézisek, hálók, ligasure beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6420000",
+        "contract_value": 6420000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "10/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16024_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Érprotézisek, hálók, ligasure beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16980000",
+        "contract_value": 16980000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "12/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18058_2018/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés hasi és mellkasi stentgraftok, valamint ezek felvezetését szolgáló drótok és implantálható sheathek beszerzésére a Városmajori Szív- és Érgyógyászati Klinika részére",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51570000",
+        "contract_value": 51570000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "12/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18058_2018/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés hasi és mellkasi stentgraftok, valamint ezek felvezetését szolgáló drótok és implantálható sheathek beszerzésére a Városmajori Szív- és Érgyógyászati Klinika részére",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6784000",
+        "contract_value": 6784000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19493_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Embolektómiás katéterek, érprotézisek, carotis shunt és pericardium folt beszerzése a Városmajori Szív-és Érgyógyászati Klinika részére",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9237500",
+        "contract_value": 9237500.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18405_2019/",
         "main_cpv": "33111720-4",
         "number_companies_win": 0,
         "procurement_title": "Aorta stent graftok beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26933332",
+        "contract_value": 26933332.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18405_2019/",
         "main_cpv": "33111720-4",
         "number_companies_win": 0,
         "procurement_title": "Aorta stent graftok beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33000000",
+        "contract_value": 33000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18405_2019/",
         "main_cpv": "33111720-4",
         "number_companies_win": 0,
         "procurement_title": "Aorta stent graftok beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12840000",
+        "contract_value": 12840000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "04/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20665_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Egyszerhasználatos szívsebészeti eszközök 24 hónapra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19635000",
+        "contract_value": 19635000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "27/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2926_2020/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Öntáguló stentek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28050000",
+        "contract_value": 28050000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "27/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2926_2020/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Öntáguló stentek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10670000",
+        "contract_value": 10670000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "17/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4644_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Sebészeti Klinika részére stentgraftok",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "691200",
+        "contract_value": 691200.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18890_2020/",
         "main_cpv": "33141125-2",
         "number_companies_win": 0,
         "procurement_title": "Sebészeti varrófonalak beszerzése 24 hónapra",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74800000",
+        "contract_value": 74800000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20938_2020/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Hasi, mellkasi aorta stentgraftok és segédeszközök",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "106500000",
+        "contract_value": 106500000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20938_2020/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Hasi, mellkasi aorta stentgraftok és segédeszközök",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "242800000",
+        "contract_value": 242800000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20938_2020/",
         "main_cpv": "33123000-8",
         "number_companies_win": 0,
         "procurement_title": "Hasi, mellkasi aorta stentgraftok és segédeszközök",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5962800",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6207_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Érprotézisek, hálók, ligasure beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6160000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6207_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Érprotézisek, hálók, ligasure beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7880600",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6207_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Érprotézisek, hálók, ligasure beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22890000",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "22/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17545_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Érsebészeti szakmai anyagok beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26375000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21024_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Sebészeti Klinika részére stentgraftok",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "508000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24223_2021/",
-        "main_cpv": "33123000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Aorta stent graftok és érprotézisek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4300000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24223_2021/",
-        "main_cpv": "33123000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Aorta stent graftok és érprotézisek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4935000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24223_2021/",
-        "main_cpv": "33123000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Aorta stent graftok és érprotézisek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6500000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24223_2021/",
-        "main_cpv": "33123000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Aorta stent graftok és érprotézisek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7446000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24223_2021/",
-        "main_cpv": "33123000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Aorta stent graftok és érprotézisek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10392000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24223_2021/",
-        "main_cpv": "33123000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Aorta stent graftok és érprotézisek beszerzése",
-        "registered_name": "HOSZPLANT Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HOSZPLANT Kereskedelmi Kft."
     }
 ]

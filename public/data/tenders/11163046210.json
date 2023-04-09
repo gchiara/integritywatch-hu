@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "415220217",
-        "contracting_authority": "Gyöngytojás Korlátolt Felelősségű Társaság",
+        "contract_value": 415220217.0,
+        "contracting_authority": "Gyöngytojás Kft.",
         "date": "27/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3609_2019/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás a Baromfitartó telepek korszerűsítése tárgyú projekt keretében 5 db könnyűszerkezetű gazdasági épület megvalósítása",
-        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73391617",
+        "contract_value": 73391617.0,
         "contracting_authority": "Feldebrő Községi Önkormányzat",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20310_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Feldebrő orvosi rendelő építése, óvoda felújítása",
-        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78705667",
+        "contract_value": 78705667.0,
         "contracting_authority": "Feldebrő Községi Önkormányzat",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20310_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Feldebrő orvosi rendelő építése, óvoda felújítása",
-        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "778677672",
+        "contract_value": 778677672.0,
         "contracting_authority": "Erdőtelek Községi Önkormányzat",
         "date": "05/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1988_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Iparterület kialakítása - ipari csarnok építése",
-        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "OLP-TECH Gyártó, Szerelő és Szolgáltató Korlátolt Felelősségű Társaság; POULTRY-TECH Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; QHB Építő Korlátolt Felelősségű Társaság",
-        "contract_value": "866071540",
-        "contracting_authority": "Négy Csibe Mezőgazdasági és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "company_names": "OLP-TECH Gyártó, Szerelő és Szolgáltató Kft.; POULTRY-TECH Kereskedelmi és Szolgáltató Kft.; QHB Építő Kft.",
+        "contract_value": 866071540.0,
+        "contracting_authority": "Négy Csibe Mezőgazdasági és Kereskedelmi Kft.",
         "date": "14/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2572_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 3,
         "procurement_title": "Tiszakarád, 5 istállós brojlertelep létesítése",
-        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25552884",
+        "contract_value": 25552884.0,
         "contracting_authority": "Erdőtelek Községi Önkormányzat",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11470_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Iparterület kialakítása - közműhálózat kiépítése",
-        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "STOKING TRADE Fütéstechnikai, Hegesztéstechnikai, Kereskedelmi és Szolgáltató Kft."
     }
 ]

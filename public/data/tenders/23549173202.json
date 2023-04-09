@@ -1,134 +1,123 @@
 [
     {
         "company_names": "",
-        "contract_value": "32762750",
-        "contracting_authority": "BODRI ROSÉ Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 32762750.0,
+        "contracting_authority": "BODRI ROSÉ Kereskedelmi Kft.",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1000_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Borászati üzemfejlesztés",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "259371360",
-        "contracting_authority": "BODRI ROSÉ Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 259371360.0,
+        "contracting_authority": "BODRI ROSÉ Kereskedelmi Kft.",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1000_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Borászati üzemfejlesztés",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "64964500",
+        "contract_value": 64964500.0,
         "contracting_authority": "Siklós Város Önkormányzata",
         "date": "21/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10637_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Siklós Ady Endre utca burkolat felújítás, járda és parkolóhelyek, valamint felszíni csapadékvíz elvezetés helyreállításának kivitelezése",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "146988783",
-        "contracting_authority": "BODRI PINCÉSZET Borászati Korlátolt Felelősségű Társaság",
+        "contract_value": 146988783.0,
+        "contracting_authority": "BODRI PINCÉSZET Borászati Kft.",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11730_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Szőlőlé feldolgozó üzem építése szőlőlé-készítési és erjesztési technológia telepítésével és szennyvíztisztító telep kivitelezésével együtt",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170800000",
-        "contracting_authority": "Mezőcsokonya Község Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 170800000.0,
+        "contracting_authority": "Mezőcsokonya Község Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15112_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Mezőcsokonya ivóvízminőség-javító program kivitelezése",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "692671080",
-        "contracting_authority": "BODRI PINCÉSZET Borászati Korlátolt Felelősségű Társaság",
+        "contract_value": 692671080.0,
+        "contracting_authority": "BODRI PINCÉSZET Borászati Kft.",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11730_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Szőlőlé feldolgozó üzem építése szőlőlé-készítési és erjesztési technológia telepítésével és szennyvíztisztító telep kivitelezésével együtt",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "134458000",
-        "contracting_authority": "Értény Község Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 134458000.0,
+        "contracting_authority": "Értény Község Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21398_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Tolna megyei Értény település ivóvízminőség-javító program elnevezésű projekt megvalósításához szükséges tervezési és kivitelezési feladatok ellátása",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "204816800",
-        "contracting_authority": "Mátyásdomb Község Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 204816800.0,
+        "contracting_authority": "Mátyásdomb Község Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22043_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Ivóvízminőség-javító beruházás Mátyásdomb településen elnevezésű projekt megvalósításához szükséges tervezési és kivitelezési feladatok ellátása",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "231829015",
+        "contract_value": 231829015.0,
         "contracting_authority": "Siklós Város Önkormányzata",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3886_2019/",
         "main_cpv": "45213316-1, 45233120-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi út- és járdafelújítások Siklóson",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "295045037",
+        "contract_value": 295045037.0,
         "contracting_authority": "Siklós Város Önkormányzata",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12883_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Siklósi Zöldváros",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "354908762",
+        "contract_value": 354908762.0,
         "contracting_authority": "Mohácsi Tankerületi Központ",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23710_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Villányi Általános Iskola épületeinek bővítése",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "337806926",
-        "contracting_authority": "Siklós Város Önkormányzata",
-        "date": "18/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20256_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Váralja utcai közterület fejlesztése",
-        "registered_name": "BERN Expert Korlátolt Felelősségű Társaság"
+        "registered_name": "BERN Expert Kft."
     }
 ]

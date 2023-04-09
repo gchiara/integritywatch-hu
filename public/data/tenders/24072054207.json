@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "3361680",
+        "contract_value": 3361680.0,
         "contracting_authority": "Országos Vérellátó Szolgálat",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3801_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "12006000",
+        "contract_value": 12006000.0,
         "contracting_authority": "Országos Vérellátó Szolgálat",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3801_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "24012000",
+        "contract_value": 24012000.0,
         "contracting_authority": "Országos Vérellátó Szolgálat",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3801_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "35057520",
+        "contract_value": 35057520.0,
         "contracting_authority": "Országos Vérellátó Szolgálat",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3801_2018/",
@@ -45,8 +45,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "14800000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság, BKÜ Budapesti Közlekedési Ügyfélkapcsolatok Zártkörűen Működő Részvénytársaság",
+        "contract_value": 14800000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt., BKÜ Budapesti Közlekedési Ügyfélkapcsolatok Zrt.",
         "date": "03/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14690_2018/",
         "main_cpv": "79620000-6",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "130000000",
+        "contract_value": 130000000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24517_2018/",
@@ -67,8 +67,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "340000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 340000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_22206_2019/",
         "main_cpv": "79620000-6",
@@ -77,8 +77,8 @@
         "registered_name": "Nebuló-Meló Szolgáltató Iskolaszövetkezet"
     },
     {
-        "company_names": "Frix-Y Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; Nebuló-Meló Szolgáltató Iskolaszövetkezet",
-        "contract_value": "45000000",
+        "company_names": "Frix-Y Tanácsadó és Szolgáltató Kft.; Nebuló-Meló Szolgáltató Iskolaszövetkezet",
+        "contract_value": 45000000.0,
         "contracting_authority": "Budapesti Operettszínház",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4601_2020/",
@@ -89,8 +89,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "13620368",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13620368.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12184_2020/",
         "main_cpv": "79620000-6",
@@ -100,65 +100,10 @@
     },
     {
         "company_names": "",
-        "contract_value": "5935991",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5935991.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "28/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_18427_2020/",
-        "main_cpv": "79620000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Diákmunka",
-        "registered_name": "Nebuló-Meló Szolgáltató Iskolaszövetkezet"
-    },
-    {
-        "company_names": "",
-        "contract_value": "49256861",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_23914_2020/",
-        "main_cpv": "79620000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Diákmunka",
-        "registered_name": "Nebuló-Meló Szolgáltató Iskolaszövetkezet"
-    },
-    {
-        "company_names": "",
-        "contract_value": "733488",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6939_2021/",
-        "main_cpv": "79620000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Diákmunka keretmegállapodás",
-        "registered_name": "Nebuló-Meló Szolgáltató Iskolaszövetkezet"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14223223",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_13534_2021/",
-        "main_cpv": "79620000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Diákmunka",
-        "registered_name": "Nebuló-Meló Szolgáltató Iskolaszövetkezet"
-    },
-    {
-        "company_names": "Frix-Y Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; Nebuló-Meló Szolgáltató Iskolaszövetkezet",
-        "contract_value": "30000000",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14385_2021/",
-        "main_cpv": "79952000-2",
-        "number_companies_win": 2,
-        "procurement_title": "MTVA Hostess szolgáltatás és közönségszervezés",
-        "registered_name": "Nebuló-Meló Szolgáltató Iskolaszövetkezet"
-    },
-    {
-        "company_names": "",
-        "contract_value": "65713947",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_20188_2021/",
         "main_cpv": "79620000-6",
         "number_companies_win": 0,
         "procurement_title": "Diákmunka",

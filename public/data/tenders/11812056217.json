@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "587466902",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 587466902.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_23105_2020/",
         "main_cpv": "45331000-6",
         "number_companies_win": 0,
         "procurement_title": "Akkumulátor telepek szellőzés rekonstrukciója",
-        "registered_name": "CSŐSZER PAKS Épületgépészeti Kft."
-    },
-    {
-        "company_names": "\"CSŐSZER PAKS\" Épületgépészeti Kft.; Duna Center Therm Üzemi Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "467920486",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "31/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5316_2021/",
-        "main_cpv": "45331000-6",
-        "number_companies_win": 2,
-        "procurement_title": "007. sz. épületi szellőzés rekonstrukciója",
         "registered_name": "CSŐSZER PAKS Épületgépészeti Kft."
     }
 ]

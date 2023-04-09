@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "2858200",
+        "contract_value": 2858200.0,
         "contracting_authority": "Hatvan Város Önkormányzata",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17135_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Arany János utca felújítása",
-        "registered_name": "KAVICSÚT Építési és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KAVICSÚT Építési és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53110695",
+        "contract_value": 53110695.0,
         "contracting_authority": "Hatvan Város Önkormányzata",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17135_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Arany János utca felújítása",
-        "registered_name": "KAVICSÚT Építési és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KAVICSÚT Építési és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "271131909",
+        "contract_value": 271131909.0,
         "contracting_authority": "Futball Club Hatvan",
         "date": "21/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13210_2020/",
         "main_cpv": "45232450-1",
         "number_companies_win": 0,
         "procurement_title": "Jégcsarnok csapadékvíz elvezetés II.",
-        "registered_name": "KAVICSÚT Építési és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KAVICSÚT Építési és Szolgáltató Kft."
     }
 ]

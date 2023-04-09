@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "Balatoni Vízépítés Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; Öko Concept Korlátolt Felelősségű Társaság",
-        "contract_value": "1001038490",
-        "contracting_authority": "Balatonfüredi Vízisport és Szabadidő Központ Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Balatoni Vízépítés Kivitelező és Szolgáltató Kft.; Öko Concept Kft.",
+        "contract_value": 1001038490.0,
+        "contracting_authority": "Balatonfüredi Vízisport és Szabadidő Központ Nonprofit Kft.",
         "date": "20/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24222_2019/",
         "main_cpv": "45211350-7",
         "number_companies_win": 2,
         "procurement_title": "Balatonfüredi megállópont létesítése 2.",
-        "registered_name": "Balatoni Vízépítés Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "122023290",
-        "contracting_authority": "Balatonfüred Város Önkormányzata",
-        "date": "11/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2407_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Brázay Étterem építése",
-        "registered_name": "Balatoni Vízépítés Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Balatoni Vízépítés Kivitelező és Szolgáltató Kft."
     }
 ]

@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "144700000",
+        "contract_value": 144700000.0,
         "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8945_2018/",
         "main_cpv": "31000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a BME részére a Moduláris hibrid hajtáslánc laboratórium részprojekthez kapcsolódóan",
-        "registered_name": "PROCON HAJTÁSTECHNIKA Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "128725000",
-        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság, E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság, ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság",
-        "date": "03/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_23576_2021/",
-        "main_cpv": "31161900-1",
-        "number_companies_win": 0,
-        "procurement_title": "IVR feszültségszabályozó berendezések",
-        "registered_name": "PROCON HAJTÁSTECHNIKA Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PROCON HAJTÁSTECHNIKA Ipari és Kereskedelmi Kft."
     }
 ]

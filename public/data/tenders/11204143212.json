@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "160000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 160000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "06/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_11473_2018/",
         "main_cpv": "50220000-3",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járművek főtranszformátorainak javítása",
-        "registered_name": "EMR Villamosgépgyártó és Javító Korlátolt Felelősségű Társaság"
+        "registered_name": "EMR Villamosgépgyártó és Javító Kft."
     },
     {
         "company_names": "",
-        "contract_value": "158311774",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 158311774.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "26/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_5006_2020/",
         "main_cpv": "50222000-7",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járművek főtranszformátorainak javítása",
-        "registered_name": "EMR Villamosgépgyártó és Javító Korlátolt Felelősségű Társaság"
+        "registered_name": "EMR Villamosgépgyártó és Javító Kft."
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "43765903",
+        "contract_value": 43765903.0,
         "contracting_authority": "Nemesvita Község Önkormányzata",
         "date": "07/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0198_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nemesvita csapadékvíz-elvezető rendszer felújítása",
-        "registered_name": "PETERMAN Szállítmányozó és Útépítő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PETERMAN Szállítmányozó és Útépítő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80950609",
+        "contract_value": 80950609.0,
         "contracting_authority": "Kunmadaras Nagyközség Önkormányzata",
         "date": "31/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5814_2020/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kunmadaras kerékpáros közlekedésfejlesztése",
-        "registered_name": "PETERMAN Szállítmányozó és Útépítő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PETERMAN Szállítmányozó és Útépítő, Kereskedelmi és Szolgáltató Kft."
     }
 ]

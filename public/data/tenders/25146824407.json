@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "1217451665",
-        "contracting_authority": "MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1217451665.0,
+        "contracting_authority": "MÁV Szolgáltató Központ Zrt.",
         "date": "28/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14973_2018/",
         "main_cpv": "15981000-8",
         "number_companies_win": 0,
         "procurement_title": "Nyári védőitalok - természetes ásványvíz - adásvétele értékalapú keretszerződés keretében",
-        "registered_name": "VIVIENVÍZ Korlátolt Felelősségű Társaság"
+        "registered_name": "VIVIENVÍZ Kft."
     }
 ]

@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "41703380",
+        "contract_value": 41703380.0,
         "contracting_authority": "Algyő Nagyközség Önkormányzata",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13271_2018/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Algyői DNy-i lakópark vízépítés II. ütem.",
-        "registered_name": "Geo Hidrobau Vízépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Geo Hidrobau Vízépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40973725",
+        "contract_value": 40973725.0,
         "contracting_authority": "Algyő Nagyközség Önkormányzata",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18079_2018/",
         "main_cpv": "45240000-1",
         "number_companies_win": 0,
         "procurement_title": "A Négyszög tó fejlesztése Algyőn.",
-        "registered_name": "Geo Hidrobau Vízépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43078920",
-        "contracting_authority": "Balástya Községi Önkormányzat",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19267_2021/",
-        "main_cpv": "45240000-1",
-        "number_companies_win": 0,
-        "procurement_title": "A Győriszéki záportározó fejlesztése Balástyán.",
-        "registered_name": "Geo Hidrobau Vízépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Geo Hidrobau Vízépítő Kft."
     }
 ]

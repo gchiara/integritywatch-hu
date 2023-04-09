@@ -1,112 +1,79 @@
 [
     {
-        "company_names": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság; Keller Mélyépítő Korlátolt Felelősségű Társaság",
-        "contract_value": "908652286",
-        "contracting_authority": "T-TRANS FŐÉP Építőipari, Kivitelező és Szállítmányozó Korlátolt Felelősségű Társaság",
+        "company_names": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft.; Keller Mélyépítő Kft.",
+        "contract_value": 908652286.0,
+        "contracting_authority": "T-TRANS FŐÉP Építőipari, Kivitelező és Szállítmányozó Kft.",
         "date": "06/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15907_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Gyümölcsfeldolgozó üzem kivitelezése",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "985809545",
-        "contracting_authority": "FÜLÖPKERT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 985809545.0,
+        "contracting_authority": "FÜLÖPKERT Kereskedelmi és Szolgáltató Kft.",
         "date": "16/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0321_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Sertéstartó telep korszerűsítése",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "444901025",
-        "contracting_authority": "TORMÁSI FARM Agrár Korlátolt Felelősségű Társaság",
+        "contract_value": 444901025.0,
+        "contracting_authority": "TORMÁSI FARM Agrár Kft.",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1566_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarha telep korszerűsítése",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "175593495",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\", Vas Megyei Szakképzési Centrum",
+        "contract_value": 175593495.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\", Vas Megyei Szakképzési Centrum",
         "date": "04/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23112_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "NFSI - Szombathely energetikai korszerűsítés",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "152033346",
-        "contracting_authority": "Baranya Megyei Szakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 152033346.0,
+        "contracting_authority": "Baranya Megyei Szakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "11/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21760_2019/",
         "main_cpv": "45000000-7, 45300000-0, 45320000-6, 45321000-3, 45331000-6, 45350000-5, 45443000-4, 45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Épületenergetikai felújítás - Pécsi SZC Zsolnay Vilmos Szakgimnázium",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "451118429",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Rum Község Önkormányzata",
+        "contract_value": 451118429.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Rum Község Önkormányzata",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1012_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A típusú tornaterem kivitelezése Rumon",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "219131048",
-        "contracting_authority": "Alföldi Agrárszakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 219131048.0,
+        "contracting_authority": "Alföldi Agrárszakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2653_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bársony István Mezőgazdasági Szakgimnázium épületeinek energetikai fejlesztése",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "65132339",
-        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22858_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kivitelezés - gondozóhálózat",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "207018730",
-        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22858_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kivitelezés - gondozóhálózat",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "685508668",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6321_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szombathely kivitelezés EFOP",
-        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "2F-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     }
 ]

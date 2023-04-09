@@ -1,376 +1,332 @@
 [
     {
-        "company_names": "Építő-és épületkarbantartó Zártkörűen Működő Részvénytársaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1234203103",
+        "company_names": "Építő-és épületkarbantartó Zrt.; Laterex Építő Zrt.",
+        "contract_value": 1234203103.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1248_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Budapesti Corvinus Egyetem Székesfehérvári Campusának infrastrukturális fejlesztése, tudásközpontjának kialakítása",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1189981485",
+        "company_names": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft.; Laterex Építő Zrt.",
+        "contract_value": 1189981485.0,
         "contracting_authority": "Országos Rendőr-Főkapitányság",
         "date": "01/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1352_2018/",
         "main_cpv": "45216111-5",
         "number_companies_win": 2,
         "procurement_title": "Gárdony Rendőrkapitányság épületének kivitelezése",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2389000000",
+        "company_names": "Laterex Építő Zrt.; ZÁÉV Építőipari Zrt.",
+        "contract_value": 2389000000.0,
         "contracting_authority": "Egyházmegyei Katolikus Iskolák Főhatósága",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3745_2018/",
         "main_cpv": "45214220-8",
         "number_companies_win": 2,
         "procurement_title": "A Veresegyházi Katolikus Gimnázium tervezése és kivitelezése vállalkozási szerződés keretében",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1647960763",
+        "contract_value": 1647960763.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9049_2018/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "A Tatabányai Árpád Gimnázium reálgimnáziummá történő fejlesztéséhez szükséges tervezési és kivitelezési feladatok ellátása a FIDIC Sárga Könyv feltételei szerint",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "IMOLA Konstrukt Építőipari Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "674000000",
+        "company_names": "IMOLA Konstrukt Építőipari Kft.; Laterex Építő Zrt.",
+        "contract_value": 674000000.0,
         "contracting_authority": "Eger Megyei Jogú Város Önkormányzata",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9420_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Belvárosi terek komplex megújítása projekten belül magasépítési tevékenységek",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "B&G Építő és Üzemeltető Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; PRIMOFOR Építő és Üzemeltető Korlátolt Felelősségű Társaság",
-        "contract_value": "1585821658",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "B&G Építő és Üzemeltető Kft.; Laterex Építő Zrt.; PRIMOFOR Építő és Üzemeltető Kft.",
+        "contract_value": 1585821658.0,
+        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Kft.",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10081_2018/",
         "main_cpv": "45212314-0",
         "number_companies_win": 3,
         "procurement_title": "A tatai Esterházy-kastélyegyüttes turisztikai célú fejlesztése című projekt megvalósításához szükséges építőipari kivitelezési feladatok ellátása",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "521161391",
+        "contract_value": 521161391.0,
         "contracting_authority": "Újpesti Torna Egylet",
         "date": "16/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11187_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Újpesti Torna Egylet Megyeri úti sporttelepén meglévő központi, boksz-birkózó és kazánház épületeinek bővítése, átalakítása, korszerűsítése és épületenergetikai felújítása",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "640564585",
+        "contract_value": 640564585.0,
         "contracting_authority": "Újpesti Torna Egylet",
         "date": "16/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11187_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Újpesti Torna Egylet Megyeri úti sporttelepén meglévő központi, boksz-birkózó és kazánház épületeinek bővítése, átalakítása, korszerűsítése és épületenergetikai felújítása",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "919877690",
+        "contract_value": 919877690.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "14/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14190_2018/",
         "main_cpv": "45214700-7",
         "number_companies_win": 0,
         "procurement_title": "Az Óbudai Egyetem Kandó Kollégium rekonstrukciójának I/B. üteméhez kapcsolódó kivitelezési munkák.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "685070943",
+        "contract_value": 685070943.0,
         "contracting_authority": "Veresegyház Városi Sportkör Egyesület",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14526_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Veresegyház - üzemcsarnok sportcsarnokká alakítása",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "EURO CAMPUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Jánosik és Társai Ipari, Szolgáltató és Karbantartó Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2231353227",
+        "company_names": "EURO CAMPUS Kereskedelmi és Szolgáltató Kft.; Jánosik és Társai Ipari, Szolgáltató és Karbantartó Kft.; Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 2231353227.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 4,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2937620778",
+        "company_names": "Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 2937620778.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3097006240",
+        "company_names": "Laterex Építő Zrt.; ZÁÉV Építőipari Zrt.",
+        "contract_value": 3097006240.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; metALCOM Távközlési és Rendszerintegrációs Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3413442035",
+        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Kft.; Laterex Építő Zrt.; metALCOM Távközlési és Rendszerintegrációs Zrt.; ZÁÉV Építőipari Zrt.",
+        "contract_value": 3413442035.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 4,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; EURO CAMPUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HARCON ÉPÍTÉS Építőipari Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3887369290",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft.; EURO CAMPUS Kereskedelmi és Szolgáltató Kft.; HARCON ÉPÍTÉS Építőipari Kft.; Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 3887369290.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 6,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; metALCOM Távközlési és Rendszerintegrációs Zártkörűen Működő Részvénytársaság",
-        "contract_value": "4653041867",
+        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Kft.; Laterex Építő Zrt.; metALCOM Távközlési és Rendszerintegrációs Zrt.",
+        "contract_value": 4653041867.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "Építő-és épületkarbantartó Zártkörűen Működő Részvénytársaság; Laterex Építő Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7823121076",
+        "company_names": "Építő-és épületkarbantartó Zrt.; Laterex Építő Zrt.; ZÁÉV Építőipari Zrt.",
+        "contract_value": 7823121076.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "EP Konstruktív Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1601499750",
+        "company_names": "EP Konstruktív Kereskedelmi és Szolgáltató Kft.; Laterex Építő Zrt.",
+        "contract_value": 1601499750.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21615_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Tatabánya Megyei Jogú Város József Attila Megyei és Városi Könyvtár (2800 Tatabánya, V. Fő tér 2. - Központi Könyvtár) fejlesztéséhez szükséges tervezői és kivitelezői feladatok ellátása.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; VEMÉV-SZER Építő- és Szerelőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "9401461630",
+        "company_names": "Laterex Építő Zrt.; VEMÉV-SZER Építő- és Szerelőipari Kft.",
+        "contract_value": 9401461630.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24590_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "A veszprémi uszoda tervezése, kivitelezése",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1647997178",
+        "company_names": "Laterex Építő Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 1647997178.0,
         "contracting_authority": "Isteni Megváltóról Nevezett Nővérek Kongregációja Magyar Tartomány",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9462_2019/",
         "main_cpv": "45212222-8",
         "number_companies_win": 2,
         "procurement_title": "Tornaterem kivitelezése",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "427996849",
+        "contract_value": 427996849.0,
         "contracting_authority": "Dunakeszi Város Önkormányzata",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16794_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Szakrendelő és pszichiátriai gondozó Dunakeszin",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "887999978",
+        "contract_value": 887999978.0,
         "contracting_authority": "Dunakeszi Város Önkormányzata",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16794_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Szakrendelő és pszichiátriai gondozó Dunakeszin",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "269797083",
-        "contracting_authority": "Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 269797083.0,
+        "contracting_authority": "Millenáris Tudományos Kulturális Nonprofit Kft.",
         "date": "03/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19768_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Általános Épület karbantartás",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "178994511",
+        "contract_value": 178994511.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24562_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kivitelezési munkálatok elvégzése a Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet területén",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "559954507",
+        "contract_value": 559954507.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24562_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kivitelezési munkálatok elvégzése a Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet területén",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2081999999",
+        "contract_value": 2081999999.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24562_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kivitelezési munkálatok elvégzése a Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet területén",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "DUNÁNTÚLI MAGASÉPÍTŐ Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1842926198",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "company_names": "DUNÁNTÚLI MAGASÉPÍTŐ Kft.; Laterex Építő Zrt.",
+        "contract_value": 1842926198.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "27/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3278_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "SMKMOK Szülészeti épület felújítás",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "869997166",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 869997166.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5181_2020/",
         "main_cpv": "45212212-5",
         "number_companies_win": 0,
         "procurement_title": "Tanuszoda kivitelezése a Budapest, Gazdagréti úton",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1074632706",
+        "contract_value": 1074632706.0,
         "contracting_authority": "Fons Sacer Belső Egyház Jogi Személy, Magyarok Nagyasszonya Ferences Rendtartomány",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13394_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pasarét - Közösségi épület kivitelezése.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     },
     {
-        "company_names": "\"TÁRS-95\" Acélszerkezet és Gépgyártó Építőipari Kereskedelmi Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "5890371984",
+        "company_names": "\"TÁRS-95\" Acélszerkezet és Gépgyártó Építőipari Kereskedelmi Kft.; Laterex Építő Zrt.",
+        "contract_value": 5890371984.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14753_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Latinovits Színház belső kivitelezési munkálatai",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1940433075",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9770_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Rendőrkapitányság kivitelezése - Sárbogárd",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "667361803",
-        "contracting_authority": "Iosephinum Fejlesztéséért Alapítvány",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14321_2021/",
-        "main_cpv": "45213250-0",
-        "number_companies_win": 0,
-        "procurement_title": "Iosepinum Makovecz nagyprojekt energiaépület kivitelezése",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "539172266",
-        "contracting_authority": "Iosephinum Fejlesztéséért Alapítvány",
-        "date": "02/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14305_2021/",
-        "main_cpv": "42000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Piliscsaba energiaépület ipari berendezések beszerzése II.",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16362419178",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20368_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Jedlik Ányos Gimnázium tervezés és kivitelezés",
-        "registered_name": "Laterex Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Laterex Építő Zrt."
     }
 ]

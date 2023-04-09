@@ -1,431 +1,233 @@
 [
     {
         "company_names": "",
-        "contract_value": "59136000",
+        "contract_value": 59136000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18605_2017/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "1 db homlokrakodógép, 1 db dózer, 1 db teleszkópos rakodógép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25502000",
+        "contract_value": 25502000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5126_2018/",
         "main_cpv": "43312300-6",
         "number_companies_win": 0,
         "procurement_title": "Útburkolatépítő gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41052000",
+        "contract_value": 41052000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5126_2018/",
         "main_cpv": "43312300-6",
         "number_companies_win": 0,
         "procurement_title": "Útburkolatépítő gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61836000",
+        "contract_value": 61836000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5126_2018/",
         "main_cpv": "43312300-6",
         "number_companies_win": 0,
         "procurement_title": "Útburkolatépítő gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "115920000",
+        "contract_value": 115920000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8074_2018/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Műszaki gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "234000000",
+        "contract_value": 234000000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8074_2018/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Műszaki gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "356100000",
+        "contract_value": 356100000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8074_2018/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Műszaki gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "381066000",
+        "contract_value": 381066000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8074_2018/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Műszaki gépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99800000",
-        "contracting_authority": "SZIB-ÉP Építőipari Korlátolt Felelősségű Társaság",
+        "contract_value": 99800000.0,
+        "contracting_authority": "SZIB-ÉP Építőipari Kft.",
         "date": "07/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9395_2018/",
         "main_cpv": "42410000-3",
         "number_companies_win": 0,
         "procurement_title": "2db 3 m3 -es rakodó kanállal rendelkező új homlok rakodógép beszerzésére",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36450000",
-        "contracting_authority": "JANTA-BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 36450000.0,
+        "contracting_authority": "JANTA-BAU Építőipari és Szolgáltató Kft.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12976_2018/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés a Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása című pályázat keretében munkagépek beszerzésére",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68200000",
-        "contracting_authority": "SOMA-FÖLD Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 68200000.0,
+        "contracting_authority": "SOMA-FÖLD Építőipari és Kereskedelmi Kft.",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14473_2018/",
         "main_cpv": "43000000-3",
         "number_companies_win": 0,
         "procurement_title": "Soma-Föld Kft. termelési kapacitásbővítése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72409800",
-        "contracting_authority": "SOMA-FÖLD Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 72409800.0,
+        "contracting_authority": "SOMA-FÖLD Építőipari és Kereskedelmi Kft.",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14473_2018/",
         "main_cpv": "43000000-3",
         "number_companies_win": 0,
         "procurement_title": "Soma-Föld Kft. termelési kapacitásbővítése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
-        "company_names": "ATOMEX TS, trgovina in storitve, d.o.o.; CE DYNAMIC Korlátolt Felelősségű Társaság",
-        "contract_value": "195736145",
-        "contracting_authority": "BAYER CONSTRUCT Építőipari és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "company_names": "ATOMEX TS, trgovina in storitve, d.o.o.; CE DYNAMIC Kft.",
+        "contract_value": 195736145.0,
+        "contracting_authority": "BAYER CONSTRUCT Építőipari és Szolgáltató Zrt.",
         "date": "13/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16725_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 2,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25050000",
+        "contract_value": 25050000.0,
         "contracting_authority": "Pellérd Község Önkormányzata",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0664_2019/",
         "main_cpv": "43250000-0",
         "number_companies_win": 0,
         "procurement_title": "1 db árokásó - univerzális rakodó munkagép leszállítása és beüzemelése Pellérd Község Önkormányzata számára",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23443000",
-        "contracting_authority": "Derecskei Városgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 23443000.0,
+        "contracting_authority": "Derecskei Városgazdálkodási Nonprofit Kft.",
         "date": "19/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3110_2019/",
         "main_cpv": "42100000-0",
         "number_companies_win": 0,
         "procurement_title": "Kotró rakodó gép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46850000",
+        "contract_value": 46850000.0,
         "contracting_authority": "KÖZÉP-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG",
         "date": "19/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4609_2019/",
         "main_cpv": "43262000-7",
         "number_companies_win": 0,
         "procurement_title": "1 db lánctalpas kotrógép és adapterei beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38990000",
+        "contract_value": 38990000.0,
         "contracting_authority": "Észak-Magyarországi Vízügyi Igazgatóság",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5448_2019/",
         "main_cpv": "43250000-0",
         "number_companies_win": 0,
         "procurement_title": "Gumikerekes homlokrakodó gép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49800000",
+        "contract_value": 49800000.0,
         "contracting_authority": "Felső-Tisza-Vidéki Vízügyi Igazgatóság",
         "date": "11/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6429_2019/",
         "main_cpv": "43262000-7",
         "number_companies_win": 0,
         "procurement_title": "Lánctalpas kotrógép és adapterei beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49800000",
+        "contract_value": 49800000.0,
         "contracting_authority": "Alsó-Tisza-Vidéki Vízügyi Igazgatóság",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6785_2019/",
         "main_cpv": "43262000-7",
         "number_companies_win": 0,
         "procurement_title": "Lánctalpas kotrógép és adapterei beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17800000",
+        "contract_value": 17800000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "04/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11326_2019/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Közepes teljesítményű földmunkagép és dömper beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28980000",
+        "contract_value": 28980000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "04/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11326_2019/",
         "main_cpv": "43210000-8",
         "number_companies_win": 0,
         "procurement_title": "Közepes teljesítményű földmunkagép és dömper beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18110000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2405_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Kompakt rakodó gumikerekes munkagép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "75830000",
-        "contracting_authority": "Körös-Vidéki Vízügyi Igazgatóság",
-        "date": "01/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3003_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Üzemelési és fenntartási eszközök szállítása",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9290000",
-        "contracting_authority": "Mohács Város Önkormányzata",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4316_2021/",
-        "main_cpv": "42410000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Közforgalmú kikötőhöz anyagmozgató gépek",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "107560000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
-        "date": "13/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_5783_2021/",
-        "main_cpv": "34144710-8",
-        "number_companies_win": 0,
-        "procurement_title": "2 db gumikerekes új kotrógép adásvétele",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32659200",
-        "contracting_authority": "Bócsa Község Önkormányzat",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9899_2021/",
-        "main_cpv": "43251000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kotró-rakodógép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "65800000",
-        "contracting_authority": "Balatoni Halgazdálkodási Nonprofit Zártkörűen Működö Részvénytársaság",
-        "date": "09/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12808_2021/",
-        "main_cpv": "16000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Erőgépek, csónakok, vagyonvédelmi rendszer",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12200000",
-        "contracting_authority": "Karancslapujtő Község Önkormányzata",
-        "date": "13/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13355_2021/",
-        "main_cpv": "16000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Munkagép és gépi eszközök beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "128670000",
-        "contracting_authority": "Budapest Főváros Önkormányzata",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13331_2021/",
-        "main_cpv": "43250000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Rakodógépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30598000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
-        "date": "09/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_16941_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "1 db új kotró-rakodó munkagép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20990000",
-        "contracting_authority": "Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Parancsnoksága, Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21305_2021/",
-        "main_cpv": "43300000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Építési törmelék- és kődaráló gép beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "99720000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21373_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmunkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "157480000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21373_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmunkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "188980000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21373_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmunkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "63800000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22342_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Műszaki munkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "111196000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22342_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Műszaki munkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "165000000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22342_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Műszaki munkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "218370000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22342_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Műszaki munkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "315000000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis, Magyar Honvédség Tartalékképző és Támogató Parancsnokság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22342_2021/",
-        "main_cpv": "43210000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Műszaki munkagépek beszerzése",
-        "registered_name": "CE DYNAMIC Korlátolt Felelősségű Társaság"
+        "registered_name": "CE DYNAMIC Kft."
     }
 ]

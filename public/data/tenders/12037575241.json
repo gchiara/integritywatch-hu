@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "1500000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1500000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10964_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest Gyógyfürdői és Hévizei Zrt. meglévő egységeiben - különös tekintettel a műemléki épületegyüttesekre - és a közeljövőben újranyitó egységekben végzendő felújítási és javítási munkák.",
-        "registered_name": "CREO-TEAM Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREO-TEAM Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "300106302",
+        "contract_value": 300106302.0,
         "contracting_authority": "Páty Község Önkormányzata",
         "date": "05/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4017_2020/",
         "main_cpv": "45214000-0",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése I. ütem - Páty",
-        "registered_name": "CREO-TEAM Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREO-TEAM Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

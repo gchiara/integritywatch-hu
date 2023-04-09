@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "118483542",
+        "contract_value": 118483542.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "25/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10809_2018/",
         "main_cpv": "45313100-5",
         "number_companies_win": 0,
         "procurement_title": "Pázmány Péter Katolikus Egyetem Bölcsészet- és Társadalomtudományi Kar 1088 Budapest, Mikszáth tér 1. számú - az 1900-as évek elején épült - épületében Belső udvari lift (üvegezett, bútorszállításra is alkalmas személyfelvonó) építése",
-        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "65050005",
+        "contract_value": 65050005.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16321_2018/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "1088 Budapest, Bródy Sándor u. 15. sz. alatti ingatlan udvari B és C jelű épületszárnyak, a telken álló kiszolgáló épületek, valamit az érintett közművek bontása",
-        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "283331508",
+        "contract_value": 283331508.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "17/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10638_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "PPKE BTK - 6 új tanterem kialakítása",
-        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "31185127",
-        "contracting_authority": "Baranya Megyei Kormányhivatal",
-        "date": "24/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16244_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Pécs, József A. u. 10. - bontási munkák, új iroda építése",
-        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEST-BAU Kereskedelmi Ipari és Szolgáltató Kft."
     }
 ]

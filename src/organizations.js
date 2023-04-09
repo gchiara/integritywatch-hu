@@ -21,6 +21,22 @@ import Vue from 'vue';
 import Loader from './components/Loader.vue';
 import ChartHeader from './components/ChartHeader.vue';
 
+var d3CustomLocale = {
+  "decimal": ",",
+  "thousands": " ",
+  "grouping": [3],
+  "currency": ["$", ""],
+  "dateTime": "%a %b %e %X %Y",
+  "date": "%m/%d/%Y",
+  "time": "%H:%M:%S",
+  "periods": ["AM", "PM"],
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+}
+d3.formatDefaultLocale(d3CustomLocale);
+
 
 // Data object - is also used by Vue
 
@@ -30,48 +46,65 @@ var vuedata = {
   showInfo: true,
   showShare: true,
   chartMargin: 40,
+  fullCpvList: [],
+  fullAuthList: [],
   charts: {
     topCompanies: {
-      title: 'Top Companies',
-      info: 'Top Companies by won value',
+      title: 'A legtöbb közbeszerzést elnyerő cégek, 2018-2020 (million Ft)',
+      info: 'A legtöbb közbeszerzést egyedül vagy konzorciumban elnyerő cégek a 2018. január 01. és 2020. december 31. között összesen elnyert közbeszerzések érteke szerint rangsorolva a vizsgált szervezetek közül, amelyeknél a közbeszerzések értéke legalább a 2021-es árbevétel 50%-át tette ki. A konzorciumban elnyert eljárások értéke a tagok számával osztva szerepel, mivel pontos összeg nem áll rendelkezésre.',
       filter: 'amount_won_18_20'
     },
     cpv: {
-      title: 'Top CPV',
-      info: 'Lorem ipsum'
+      title: 'Az elnyert eljárások száma az eljárás tárgya szerint, 2018-2020 (db)',
+      info: 'Az eljárás tárgya a CPV kódok rendszere szerint szerepel. Ez az egységes osztályozási rendszer univerzális kódokkal utal minden olyan tevékenységre, amelyre közbeszerzés írható ki.'
+    },
+    contractingAuth: {
+      title: 'Az elnyert eljárások száma ajánlatkérő szervezet szerint, 2018-2020 (db)',
+      info: 'Az eljárások száma a közbeszerzési eljárást lebonyolító ajánlatkérő szervezet szerinti bontásban. Több kiíró esetén az eljárás mindegyik kiírónál szerepel.'
     },
     amountWon: {
-      title: 'Companies by Amount Won',
-      info: 'Lorem ipsum',
+      title: 'Cégek száma (db) a közbeszerzésen 2018 és 2020 között elnyert összeg alapján',
+      info: 'A legtöbb közbeszerzést elnyerő cégek a 2018. január 01. és 2020. december 31. között összesen elnyert közbeszerzések érteke szerint rangsorolva a vizsgált szervezetek közül, amelyeknél a közbeszerzések értéke legalább a 2021-es árbevétel 50%-át tette ki. A legmagasabb összes (legalább 5 milliárd Ft) vagy legnagyobb átlagos (legalább 1 milliárd Ft) értékben elnyert közbeszerzések figyelmeztető jelzéssel szerepelnek.',
       filter: 'amount_won_category'
     },
     tendersRevenueRatio: {
-      title: 'Tenders Revenue Ratio',
-      info: 'Lorem ipsum'
+      title: 'A 2018 és 2020 között elnyert közbeszerzések és a 2021-es árbevétel aránya (%)',
+      info: 'Az egyes cégek által 2018. január 01. és 2020. december 31. között elnyert eljárások összege az adott vállalkozás 2021-es évi nettó árbevételéhez viszonyítva. A legnagyobb arányban, legalább 300%-os mértékben közbeszerzések elnyerő cégek a koncentráció miatt figyelmeztető jelzéssel (red flag-gel) szerepelnek.'
     },
     beneficiaries: {
-      title: 'Beneficiaries',
-      info: 'Lorem ipsum'
+      title: 'Ismert végső tulajdonosok száma, 2021 (fő)',
+      info: 'A végső tulajdonosok a cég tevékenységének fő haszonélvezői. Számuk céginformációs adatok alapján áll rendelkezésre. A tulajdonos ismeretének hiánya a cég formájából is adódhat, azonba utalhat arra is, hogy a vállalkozás nem kívánja ezt az információt megosztani, ezért szerepel ez a mutató figyelmeztető jelzéssel.'
     },
     salesRevenueRatio: {
-      title: 'Return on Sales Ratio',
-      info: 'Lorem ipsum'
+      title: 'Az adózott eredmény és az értékesítés nettó árbevételének aránya, 2021 (%)',
+      info: 'Az adózott eredmény az értékesítés nettó árbevételéhez viszonyított aránya az egyes cégeknél, mely a cég jövedelmezőségét mutatja. A legnagyobb arányú, legalább 30%-os mértékű ROS (return on sales) mutatóval rendelkező cégek figyelmeztető jelzéssel (red flag-gel) szerepelnek.'
+    },
+    flags: {
+      title: 'Cégek száma a red flagek megoszlása szerint',
+      info: 'Összesítés az aloldalon megjelenő figyelmeztető jelzések alapján. A jelzések egy-egy mutató kirívó értékére hívják fel a figyelmet. Összességében, a jelzések potenciális veszélyforrásokat jelölnek, melyek magyarázatát az egyes mutatók leírásában fejtjük ki, de önmagukban nem jelentenek bizonyítékot bűncselekményre, korrupcióra vagy más visszaélésre. Bővebb információ az egyes grafikonoknál és a Mi ez? menüpontban olvasható.'
     },
     table: {
       chart: null,
       type: 'table',
-      title: 'Organisations',
-      info: 'Lorem ipsum'
+      title: 'Cégek',
+      info: 'A kiválasztott cégek főbb mutatói és adatai beleértve a keletkező figyelmeztető jelzések számát. A cégek nevére kattintva további részletek érhetőek el az adott cég által elnyert eljárásokról. A megnyíló táblázatban az eljárásrészre kattintva elérhető az eredeti eredménytájékoztató Közbeszerzési Hatóság oldalán. A konzorciumban elnyert eljárások értéke a tagok számával egyenlően osztva és az eredeti értékkel is szerepel, mivel pontos érték nem érhető el nyilvánosan a konzorciumi tagok részesedéséről. Az előbbi okokból kifolyólag tört értékek is előfordulnak.'
     }
   },
   selectedOrg: {"Name": ""},
+  flagsNames: {
+    "high_revenue_ratio_percent": "20% felett az adózott eredmény és az árbevétel aránya",
+    "high_revenue_tender_percent": "100% felett az elnyert közbeszerzések és az árbevétel aránya",
+    "high_amount_won": "5 Mrd Ft felett az elnyert közbeszerzések összes értéke",
+    "high_amount_won_avg": "1 Mrd Ft felett az elnyert közbeszerzések átlagos értéke",
+  },
   colors: {
-    //default: "#009fe2",
     default: "#0aafec",
-    //range: ["#0476c7", "#009fe2", "#0079ca", "#005db5", "#014aa5"],
-    range: ["#25C3F7", "#0aafec", "#009fe2", "#0088d4", "#0476c7", "#0061b5"],
-    range2: ["#25C3F7", "#0aafec", "#009fe2", "#0476c7", "#0061b5"],
-    flag: "#fc8803",
+    //range: ["#25C3F7", "#0aafec", "#009fe2", "#0088d4", "#0476c7", "#0061b5"],
+    //range2: ["#25C3F7", "#0aafec", "#009fe2", "#0476c7", "#0061b5"],
+    range: ["#b2ddeb", "#6bdaff", "#25C3F7", "#0b8cd6", "#0061b5", "#004678"],
+    range2: ["#6bdaff", "#25C3F7", "#0061b5", "#004678", "#0061b5"],
+    //flag: "#fc8803",
+    flag: "#fc3503",
     grey: "#ddd",
     numPies: {
       "0": "#ddd",
@@ -93,6 +126,36 @@ new Vue({
   el: '#app',
   data: vuedata,
   methods: {
+    //Download filtered dataset
+    downloadDataset: function () {
+      var datatable = charts.table.chart;
+      var filteredData = datatable.DataTable().rows( { filter : 'applied'} ).data();
+      var entries = [['"Cégnév","A cég székhelye (megye)"','"Alkalmazottak száma, 2021 (fő)"','"Az értékesítés nettó árbevétele, 2021 (Ft)"','"Adózott eredmény, 2021 (Ft)"','"Elnyert eljárások értéke, 2018-2020 (Ft)"','"Elnyert eljárások száma, 2018-2020 (db)"','"Ismert végső tulajdonosok száma, 2021 (fő)"']];
+      _.each(filteredData, function (d) {
+        var entry = [
+          '"' + d.registered_name + '"',
+          '"' + d.county_registered + '"',
+          d.employees_2021,
+          d.net_sales_revenue_2021,
+          d.tax_profit_2021,
+          d.amount_won_18_20,
+          d.single_bids_number + d.consortium_number,
+          d.beneficiaries_number];
+        entries.push(entry);
+      });
+      var csvContent = "data:text/csv;charset=utf-8,";
+      entries.forEach(function(rowArray) {
+        var row = rowArray.join(",");
+        csvContent += row + "\r\n";
+      });
+      var encodedUri = encodeURI(csvContent);
+      var link = document.createElement("a");
+      link.setAttribute("href", encodedUri);
+      link.setAttribute("download", "IW_HU_organizations.csv");
+      document.body.appendChild(link);
+      link.click(); 
+      return;
+    },
     //Share
     share: function (platform) {
       if(platform == 'twitter'){
@@ -116,6 +179,12 @@ new Vue({
       }
       //return 'Ft ' + addcommas(amt);
       return addcommas(amt);
+    },
+    shortenNumber(x) {
+      if(isNaN(x)) {
+        return x;
+      }
+      return (x/1000000).toFixed(0);
     }
   }
 });
@@ -138,6 +207,11 @@ var charts = {
     type: 'row',
     divId: 'cpv_chart'
   },
+  contractingAuth: {
+    chart: dc.rowChart("#contractingauth_chart"),
+    type: 'row',
+    divId: 'contractingauth_chart'
+  },
   amountWon: {
     chart: dc.rowChart("#amountwon_chart"),
     type: 'row',
@@ -148,15 +222,22 @@ var charts = {
     type: 'pie',
     divId: 'tendersrevenueratio_chart'
   },
+  /*
   beneficiaries: {
     chart: dc.pieChart("#beneficiaries_chart"),
     type: 'pie',
     divId: 'beneficiaries_chart'
   },
+  */
   salesRevenueRatio: {
     chart: dc.pieChart("#salesrevenueratio_chart"),
     type: 'pie',
     divId: 'salesrevenueratio_chart'
+  },
+  flags: {
+    chart: dc.rowChart("#flags_chart"),
+    type: 'row',
+    divId: 'flags_chart'
   },
   table: {
     chart: null,
@@ -234,10 +315,19 @@ var resizeGraphs = function() {
   }
 };
 
-//Add commas to thousands
+//Shorten long numbers
+function shortenNumber(x) {
+  if(isNaN(x)) {
+    return x;
+  }
+  return (x/1000000).toFixed(0);
+}
+
+//Add commas to decimal and dots to thousands
 function addcommas(x){
+  x = x.toString().replace(".",",");
   if(parseInt(x)){
-    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
   }
   return x;
 }
@@ -261,7 +351,8 @@ jQuery.extend( jQuery.fn.dataTableExt.oSort, {
 //Custom ordering for min and max
 jQuery.extend( jQuery.fn.dataTableExt.oSort, {
   "num-html-pre": function (a) {
-    var x = a.replace('€', '').replaceAll('Ft', '').replaceAll(',','').trim();
+    //var x = a.replace('€', '').replaceAll('Ft', '').replaceAll(',','').trim();
+    var x = a.replace('€', '').replaceAll('Ft', '').replaceAll('.','').replaceAll(' ','').replaceAll(',','.').trim();
     if(x == '') {
       return 0;
     }
@@ -275,82 +366,85 @@ jQuery.extend( jQuery.fn.dataTableExt.oSort, {
   }
 });
 
-//Custom ordering for range costs string
+//Custom ordering for flag images
 jQuery.extend( jQuery.fn.dataTableExt.oSort, {
-  "amt-range-pre": function (a) {
-    if(!a) {
-      return -1;
-    }
-    var x = a.split("-");
-    if(x.length < 2) {
-      x = x[0].replace('€', '').replaceAll(',','').trim();
-    } else {
-      x = x[1].replace('€', '').replaceAll(',','').trim();
-    }
-    if(x == '' || isNaN(x)) {
-      return -1;
-    }
-    return parseFloat(x);
+  "flags-pre": function (a) {
+    var flagsCount = a.split('.png').length - 1;
+    return parseFloat(flagsCount);
   },
-  "amt-range-asc": function (a, b) {
+  "flags-asc": function (a, b) {
     return ((a < b) ? -1 : ((a > b) ? 1 : 0));
   },
-  "amt-range-desc": function (a, b) {
+  "flags-desc": function (a, b) {
       return ((a < b) ? 1 : ((a > b) ? -1 : 0));
   }
 });
 
+//Custom ordering for date
+jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+  "date-custom-pre": function (a) {
+    var dateParts = a.split('/');
+    if(dateParts.length < 3) {
+      return a;
+    }
+    return parseInt(dateParts[2] + '' + dateParts[1] + '' + dateParts[0]);
+  },
+  "date-custom-asc": function (a, b) {
+    return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+  },
+  "date-custom-desc": function (a, b) {
+      return ((a < b) ? 1 : ((a > b) ? -1 : 0));
+  }
+});
 
 function tendersRevenueRatioStreamlining(percentage) {
-  if(percentage < 50) {
-    return "< 50%";
-  } else if(percentage < 70) {
-    return "50% - 70%";
-  } else if(percentage < 90) {
-    return "70% - 90%";
-  } else if(percentage < 100) {
-    return "90% - 100%";
-  } else if(percentage < 200) {
-    return "100% - 200%";
+  /*
+  if(percentage <= 50) {
+    return "<= 50%";
+  } else if(percentage <= 70) {
+    return "> 50% - 70%";
+  } else if(percentage <= 90) {
+    return "> 70% - 90%";
+  } else if(percentage <= 100) {
+    return "> 90% - 100%";
+  } else if(percentage <= 200) {
+    return "> 100% - 200%";
   } else if(percentage <= 300) {
-    return "200% - 300%";
+    return "> 200% - 300%";
   } else if(percentage > 300) {
     return "> 300%";
+  } else {
+    return "N/A"
+  }
+  */
+  if(percentage <= 50) {
+    return "<= 50%";
+  } else if(percentage <= 70) {
+    return "> 50% - 70%";
+  } else if(percentage <= 90) {
+    return "> 70% - 90%";
+  } else if(percentage <= 100) {
+    return "> 90% - 100%";
+  } else if(percentage > 100) {
+    return "> 100%";
   } else {
     return "N/A"
   }
 }
 
 function returnOnSalesStreamlining(percentage) {
-  /*
-  if(percentage > 30) {
-    return "> 30%";
-  } else if(percentage > 20) {
-    return "20% - 30%";
-  } else if(percentage > 10) {
-    return "10% - 20%";
-  } else if(percentage > 5) {
-    return "5% - 10%";
-  } else if(percentage >= 0) {
-    return "0% - 5%";
-  } else if(percentage < 0) {
-    return "< 0%";
-  } else {
-    return "N/A"
-  }
-  */
   if(percentage > 20) {
     return "> 20%";
   } else if(percentage > 10) {
-    return "10% - 20%";
+    return "> 10% - 20%";
   } else if(percentage > 5) {
-    return "5% - 10%";
+    return "> 5% - 10%";
   } else if(percentage >= 0) {
     return "0% - 5%";
   } else if(percentage < 0) {
     return "< 0%";
   } else {
-    return "N/A"
+    return "N/A";
   }
 }
 
@@ -372,43 +466,16 @@ function beneficiariesStreamlining(num) {
 }
 
 function amountWonStramlining(num) {
+  //"> 5 Mrd Ft", "> 1 - 5 Mrd Ft", "> 500 M - 1 Mrd Ft", "<= 500 M Ft"
   num = parseFloat(num);
-  /*
-  if(num > 100000000000) {
-    return "> 100B";
-  } else if(num > 50000000000) {
-    return "50B - 100B";
-  } else if(num > 10000000000) {
-    return "10B - 50B";
-  } else if(num > 5000000000) {
-    return "5B - 10B";
-  } else if(num > 1000000000) {
-    return "1B - 5B";
-  } else if(num > 500000000) {
-    return "500M - 1B";
-  } else if(num > 300000000) {
-    return "300M - 500M";
-  } else if(num > 100000000) {
-    return "100M - 300M";
-  } else if(num >= 50000000) {
-    return "50M - 100M";
-  } else if(num < 50000000) {
-    return "< 50M";
-  } else {
-    return "0";
-  }
-  */
- //<100 million, 100-500 million, 500-1 billion, 1-5 billion, > 5 billion
   if(num > 5000000000) {
-    return "> 5B";
+    return "> 5 Mrd Ft";
   } else if(num > 1000000000) {
-    return "1B - 5B";
+    return "> 1 - 5 Mrd Ft";
   } else if(num > 500000000) {
-    return "500M - 1B";
-  } else if(num > 100000000) {
-    return "100M - 500M";
+    return "> 500 M - 1 Mrd Ft";
   } else {
-    return "< 100M";
+    return "<= 500 M Ft";
   }
 }
 
@@ -433,6 +500,8 @@ for ( var i = 0; i < 5; i++ ) {
 var totalTenders = 0;
 json('./data/organizations.json?' + randomPar, (err, organizations) => {
 csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
+  var fullCpvList = [];
+  var fullAuthList = []
   //Parse data
   _.each(organizations, function (d) {
     d.revenue_tender_percent_category = tendersRevenueRatioStreamlining(d.revenue_tender_percent_2021);
@@ -446,25 +515,51 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     _.each(d.cpv, function (code) {
       var cpvName = _.find(cpvNames, function (x) { return x.CODE == code });
       if(cpvName) {
-        d.cpvStrings.push(cpvName.CPV_HU + ' (' + code + ')' );
+        var thisCpvString = cpvName.CPV_HU + ' (' + code + ')';
+        d.cpvStrings.push(thisCpvString);
+        if(fullCpvList.indexOf(thisCpvString) == -1) {
+          fullCpvList.push(thisCpvString);
+        }
       } else {
         d.cpvStrings.push(code);
       }
-    });     
+    }); 
+    _.each(d.contractingAuth, function (auth) {
+      if(fullAuthList.indexOf(auth) == -1) {
+        fullAuthList.push(auth);
+      }
+    });
+    vuedata.fullCpvList = fullCpvList;
+    vuedata.fullAuthList = fullAuthList;
     //Count risk indicators
+    d.risk_indicators_list = [];
     d.risk_indicators = 0;
+    /*
     if(d.beneficiaries_number == 0) {
       d.risk_indicators ++;
     }
-    if(d.revenue_ratio_percent_2021 > 30) {
+    */
+    if(d.revenue_ratio_percent_2021 > 20) {
       d.risk_indicators ++;
+      d.risk_indicators_list.push("high_revenue_ratio_percent");
     }
-    if(d.revenue_tender_percent_2021 > 300) {
+    if(d.revenue_tender_percent_2021 > 100) {
       d.risk_indicators ++;
+      d.risk_indicators_list.push("high_revenue_tender_percent");
     }
-    if(d.amount_won_category == "> 5B" || d.amount_won_category_avg == "1B - 5B" || d.amount_won_category_avg == "> 5B") {
+    if(d.amount_won_category == "> 5 Mrd Ft") {
       d.risk_indicators ++;
+      d.risk_indicators_list.push("high_amount_won");
     }
+    if(d.amount_won_category_avg == "> 1 - 5 Mrd Ft" || d.amount_won_category_avg == "> 5 Mrd Ft") {
+      d.risk_indicators ++;
+      d.risk_indicators_list.push("high_amount_won_avg");
+    }
+    //Flags list in textual form
+    d.risk_indicators_list_strings = [];
+    _.each(d.risk_indicators_list, function (f) {
+      d.risk_indicators_list_strings.push(vuedata.flagsNames[f]);
+    });
   });
 
   //Set totals for footer counters
@@ -476,16 +571,22 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
       var entryString = "" + d.registered_name + " " + d.city + " " + d.county_registered;
       return entryString.toLowerCase();
   });
+  var cpvDimension = ndx.dimension(function (d) {
+    return d.cpvStrings;
+  });
+  var authDimension = ndx.dimension(function (d) {
+    return d.contractingAuth;
+  });
 
   //CHART 1 - Top Companies
-  var topCompaniesDmension = ndx.dimension(function (d) {
+  var topCompaniesDimension = ndx.dimension(function (d) {
     return d.registered_name;
   }); 
   var createTopCompaniesChart = function() {
     var chart = charts.topCompanies.chart;
-    var dimension = topCompaniesDmension;
+    var dimension = topCompaniesDimension;
     var group = dimension.group().reduceSum(function (d) {
-      return parseFloat(d[vuedata.charts.topCompanies.filter]);
+      return shortenNumber(parseFloat(d[vuedata.charts.topCompanies.filter]));
     });
     var filteredGroup = (function(source_group) {
       return {
@@ -514,7 +615,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           return d.key;
       })
       .title(function (d) {
-          return d.key + ': ' + d.value;
+          return d.key + ': ' + formatAmount(d.value);
       })
       .elasticX(true)
       .xAxis().ticks(4);
@@ -534,7 +635,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(450)
+      .height(400)
       .cap(10)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
       .group(group)
@@ -543,13 +644,15 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
         return vuedata.colors.default;
       })
       .label(function (d) {
+          if(d.key == "Others") {d.key = "Egyéb";}
           if(d.key.length > charsLength){
             return d.key.substring(0,charsLength) + '...';
           }
           return d.key;
       })
       .title(function (d) {
-          return d.key + ': ' + d.value;
+          if(d.key == "Others") {d.key = "Egyéb";}
+          return d.key + ': ' + formatAmount(d.value);
       })
       .elasticX(true)
       .xAxis().ticks(4);
@@ -577,7 +680,8 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     var width = recalcWidth(charts.amountWon.divId);
     var charsLength = recalcCharsLength(width);
     //var order = ["> 100B", "50B - 100B", "10B - 50B", "5B - 10B", "1B - 5B", "500M - 1B", "300M - 500M", "100M - 300M", "50M - 100M", "30M - 50M", "10M - 30M", "5M - 10M", "< 5M", "N/A"];
-    var order = ["> 5B", "1B - 5B", "500M - 1B", "100M - 500M", "< 100M"];
+    //var order = ["> 5B", "> 1B - 5B", "> 500M - 1B", "> 100M - 500M", "<= 100M"];
+    var order = ["> 5 Mrd Ft", "> 1 - 5 Mrd Ft", "> 500 M - 1 Mrd Ft", "<= 500 M Ft"];
     chart
       .width(width)
       .height(400)
@@ -592,11 +696,11 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           return d.key;
       })
       .title(function (d) {
-          return d.key + ': ' + d.value;
+          return d.key + ': ' + formatAmount(d.value);
       })
       .colorCalculator(function(d, i) {
-        if(d.key == "> 5B") { return vuedata.colors.flag; }
-        if(d.key == "1B - 5B" && vuedata.charts.amountWon.filter == 'amount_won_category_avg') { return vuedata.colors.flag; }
+        if(d.key == "> 5 Mrd Ft") { return vuedata.colors.flag; }
+        if(d.key == "> 1 - 5 Mrd Ft" && vuedata.charts.amountWon.filter == 'amount_won_category_avg') { return vuedata.colors.flag; }
         return vuedata.colors.default;
       })
       .elasticX(true)
@@ -605,15 +709,16 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
   }
 
   //CHART 4 - Tenders Revenue Ratio
-  var tendersRevenueRatioChart = function() {
+  var createTendersRevenueRatioChart = function() {
     var chart = charts.tendersRevenueRatio.chart;
     var dimension = ndx.dimension(function (d) {
       return d.revenue_tender_percent_category;
     });
     var group = dimension.group().reduceSum(function (d) { return 1; });
     var sizes = calcPieSize(charts.tendersRevenueRatio.divId);
-    var order = ["N/A", "< 50%", "50% - 70%", "70% - 90%", "90% - 100%", "100% - 200%", "200% - 300%", "> 300%"];
-    var orderNoFlag = ["< 50%", "50% - 70%", "70% - 90%", "90% - 100%", "100% - 200%", "200% - 300%"];
+    //var order = ["N/A", "<= 50%", "> 50% - 70%", "> 70% - 90%", "> 90% - 100%", "> 100% - 200%", "> 200% - 300%", "> 300%"];
+    var order = ["N/A", "<= 50%", "> 50% - 70%", "> 70% - 90%", "> 90% - 100%", "> 100%"];
+    var orderNoFlag = ["<= 50%", "> 50% - 70%", "> 70% - 90%", "> 90% - 100%"];
     chart
       .width(sizes.width)
       .height(sizes.height)
@@ -630,15 +735,15 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
         return thisKey;
       }))
       .title(function(d){
-        return d.key + ': ' + d.value;
+        return d.key + ': ' + formatAmount(d.value);
       })
       .dimension(dimension)
       //.ordinalColors(vuedata.colors.range)
       .group(group)
       .colorCalculator(function(d, i) {
-        if(d.key == "> 300%") { return vuedata.colors.flag; }
+        if(d.key == "> 100%") { return vuedata.colors.flag; }
         if(d.key == "N/A") { return vuedata.colors.grey; }
-        return vuedata.colors.range[orderNoFlag.indexOf(d.key)];
+        return vuedata.colors.range2[orderNoFlag.indexOf(d.key)];
       });
     chart.render();
   }
@@ -651,10 +756,8 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     });
     var group = dimension.group().reduceSum(function (d) { return 1; });
     var sizes = calcPieSize(charts.salesRevenueRatio.divId);
-    //var order = ["N/A", "< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "20% - 30%", "> 30%"];
-    //var orderNoFlag = ["< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "20% - 30%"];
-    var order = ["N/A", "< 0%", "0% - 5%", "5% - 10%", "10% - 20%", "> 20%"];
-    var orderNoFlag = ["< 0%", "0% - 5%", "5% - 10%", "10% - 20%"];
+    var order = ["N/A", "< 0%", "0% - 5%", "> 5% - 10%", "> 10% - 20%", "> 20%"];
+    var orderNoFlag = ["< 0%", "0% - 5%", "> 5% - 10%", "> 10% - 20%"];
     chart
       .width(sizes.width)
       .height(sizes.height)
@@ -671,7 +774,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
         return thisKey;
       }))
       .title(function(d){
-        return d.key + ': ' + d.value;
+        return d.key + ': ' + formatAmount(d.value);
       })
       .dimension(dimension)
       //.ordinalColors(vuedata.colors.range)
@@ -710,7 +813,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
         return thisKey;
       }))
       .title(function(d){
-        return d.key + ': ' + d.value;
+        return d.key + ': ' + formatAmount(d.value);
       })
       .dimension(dimension)
       //.ordinalColors(vuedata.colors.range)
@@ -722,10 +825,92 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     chart.render();
   }
 
+  //CHART 6 - CONTRACTING AUTH
+  var createContractingAuthChart = function() {
+    var chart = charts.contractingAuth.chart;
+    var dimension = ndx.dimension(function (d) {
+      return d.contractingAuth;
+    }, true);
+    var group = dimension.group().reduceSum(function (d) {
+      return 1;
+    });
+    var width = recalcWidth(charts.contractingAuth.divId);
+    var charsLength = recalcCharsLength(width);
+    chart
+      .width(width)
+      .height(400)
+      .cap(10)
+      .margins({top: 0, left: 0, right: 0, bottom: 20})
+      .group(group)
+      .dimension(dimension)
+      .colorCalculator(function(d, i) {
+        return vuedata.colors.default;
+      })
+      .label(function (d) {
+          if(d.key == "Others") {d.key = "Egyéb";}
+          if(d.key.length > charsLength){
+            return d.key.substring(0,charsLength) + '...';
+          }
+          return d.key;
+      })
+      .title(function (d) {
+          if(d.key == "Others") {d.key = "Egyéb";}
+          return d.key + ': ' + formatAmount(d.value);
+      })
+      .elasticX(true)
+      .xAxis().ticks(4);
+    chart.render();
+  }
+
+  //CHART 7 - RISK INDICATORS / RED FLAGS
+  var createFlagsChart = function() {
+    var chart = charts.flags.chart;
+    var dimension = ndx.dimension(function (d) {
+      return d.risk_indicators_list_strings;
+    }, true);
+    var group = dimension.group().reduceSum(function (d) {
+      return 1;
+    });
+    var width = recalcWidth(charts.flags.divId);
+    var charsLength = recalcCharsLength(width);
+    chart
+      .width(width)
+      .height(465)
+      .margins({top: 0, left: 0, right: 0, bottom: 20})
+      .group(group)
+      .dimension(dimension)
+      .colorCalculator(function(d, i) {
+        return vuedata.colors.flag;
+      })
+      .label(function (d) {
+          if(d.key.length > charsLength){
+            return d.key.substring(0,charsLength) + '...';
+          }
+          return d.key;
+      })
+      .title(function (d) {
+          return d.key + ': ' + formatAmount(d.value);
+      })
+      .elasticX(true)
+      .xAxis().ticks(4);
+    chart.render();
+  }
+
   //TABLE
   var createTable = function() {
     var count=0;
     charts.table.chart = $("#dc-data-table").dataTable({
+      "language": {
+        "info": "Találatok _START_ - _END_ az összes, _TOTAL_ számú találatból",
+        "lengthMenu": "Mutass _MENU_ találatot",
+        "search": "Keresés",
+        "paginate": {
+          "first":      "First",
+          "last":       "Last",
+          "next":       "Következő",
+          "previous":   "Előző"
+        }
+      },
       "columnDefs": [
         /*
         {
@@ -743,7 +928,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "targets": 0,
           "defaultContent":"N/A",
           "data": function(d) {
-            return d.registered_name;
+            return d.registered_name.trim();
           }
         },
         {
@@ -761,6 +946,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "targets": 2,
           "defaultContent":"N/A",
           "className": "dt-body-right",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
             return d.employees_2021;
           }
@@ -772,8 +958,9 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "defaultContent":"N/A",
           "type": "num-html",
           "className": "dt-body-right",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return formatAmount(d.net_sales_revenue_2021);
+            return formatAmount(shortenNumber(d.net_sales_revenue_2021));
           }
         },
         {
@@ -783,6 +970,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "defaultContent":"N/A",
           "type": "num-html",
           "className": "dt-body-right",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
             return formatAmount(d.tax_profit_2021);
           }
@@ -794,8 +982,9 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "defaultContent":"N/A",
           "type": "num-html",
           "className": "dt-body-right",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return formatAmount(d.amount_won_18_20);
+            return formatAmount(shortenNumber(d.amount_won_18_20));
           }
         },
         {
@@ -804,6 +993,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "targets": 6,
           "defaultContent":"N/A",
           "className": "dt-body-right",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
             return d.single_bids_number + d.consortium_number;
           }
@@ -814,6 +1004,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "targets": 7,
           "defaultContent":"N/A",
           "className": "dt-body-center",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
             return d.beneficiaries_number;
           }
@@ -823,9 +1014,16 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "orderable": true,
           "targets": 8,
           "defaultContent":"N/A",
+          "type": "flags",
           "className": "dt-body-center",
+          "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return d.risk_indicators;
+            var flagsOutput = "";
+            for (let i = 0; i < d.risk_indicators; i++) {
+              flagsOutput += "<img src='./images/redflag.png' class='redflag-img'>";
+            }
+            return flagsOutput;
+            //return d.risk_indicators;
           }
         }
       ],
@@ -867,12 +1065,24 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
             "pageLength": 10,
             "dom": '<<f><t>pi>',
             "order": [[ 0, "desc" ]],
+            "language": {
+              "info": "Találatok _START_ - _END_ az összes, _TOTAL_ számú találatból",
+              "lengthMenu": "Mutass _MENU_ találatot",
+              "search": "Keresés",
+              "paginate": {
+                "first":      "First",
+                "last":       "Last",
+                "next":       "Következő",
+                "previous":   "Előző"
+              }
+            },
             "columns" : [
               { "data" : function(a) { 
-                  return a.procurement_title;
+                  return "<a href='"+a.link_notice+"' target='_blank'>"+a.procurement_title+"</a>";
                 }
               },
-              { "data" : function(a) { 
+              { "type": "date-custom",
+                "data" : function(a) { 
                   return a.date;
                 }
               },
@@ -881,6 +1091,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
                 } 
               },
               { "type": "num-html",
+                "orderSequence": ["desc", "asc"],
                 "data" : function(a) { 
                   return formatAmount(a.contract_value);
                 } 
@@ -889,16 +1100,24 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
                   return a.company_names;
                 } 
               },
+              { "orderSequence": ["desc", "asc"],
+                "data" : function(a) { 
+                if(a.number_companies_win > 0) {
+                  return formatAmount((a.contract_value / a.number_companies_win).toFixed(2));
+                }
+                return "/";
+              } 
+            },
             ]
         });
+        /*
         $('#modalTendersTable tbody').on('click', 'tr', function () {
           var tdata = dTable.DataTable().row( this ).data();
           window.open(tdata.link_notice, '_blank');
         });
+        */
         dTable.on( 'draw.dt', function () {
-          var body = $( dTable.DataTable().table().body() );
-          body.unhighlight();
-          body.highlight( dTable.DataTable().search() );  
+          var body = $( dTable.DataTable().table().body() ); 
         });
       });
     });
@@ -939,6 +1158,32 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     }
   }
 
+  //Cpv filter select
+  $("#filterselect-cpv").change(function () {
+    var selectedCpv = this.value;
+    if(selectedCpv == "all") {
+      cpvDimension.filter(null);
+    } else {
+      cpvDimension.filter(function(d) { 
+        return d.indexOf(selectedCpv) !== -1;
+      });
+    }
+    dc.redrawAll();
+  });
+
+  //Auth filter select
+  $("#filterselect-auth").change(function () {
+    var selectedAuth = this.value;
+    if(selectedAuth == "all") {
+      authDimension.filter(null);
+    } else {
+      authDimension.filter(function(d) { 
+        return d.indexOf(selectedAuth) !== -1;
+      });
+    }
+    dc.redrawAll();
+  });
+
   //Top companies filter select
   $("#filterselect-topcompanies").change(function () {
     vuedata.charts.topCompanies.filter = this.value;
@@ -959,7 +1204,11 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
       }
     }
     searchDimension.filter(null);
-    $('#search-input').val('');
+    cpvDimension.filter(null);
+    authDimension.filter(null);
+    $("#search-input").val("");
+    $("#filterselect-cpv").val("all");
+    $("#filterselect-auth").val("all");
     dc.redrawAll();
   }
   $('.reset-btn').click(function(){
@@ -970,9 +1219,11 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
   createTopCompaniesChart();
   createCpvChart();
   createAmountWonChart();
-  createBeneficiariesChart();
-  tendersRevenueRatioChart();
+  //createBeneficiariesChart();
+  createTendersRevenueRatioChart();
   salesRevenueRatioChart();
+  createContractingAuthChart();
+  createFlagsChart();
   createTable();
 
   $('.dataTables_wrapper').append($('.dataTables_length'));
@@ -984,6 +1235,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
   //Main counter
   var all = ndx.groupAll();
   var counter = dc.dataCount('.dc-data-count')
+    //.formatNumber(d3.format(","))
     .dimension(ndx)
     .group(all);
   counter.render();
@@ -1034,7 +1286,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
       }).length;
     }})
     .renderlet(function (chart) {
-      $(".nbtenders").text(tendersnum);
+      $(".nbtenders").text(formatAmount(tendersnum));
       tendersnum=0;
     });
     counter.render();

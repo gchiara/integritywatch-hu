@@ -1,101 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "125487298",
-        "contracting_authority": "S&R-Cargo Nemzetközi Szállítmányozó és Kereskedelmi Szolgáltató Korlátolt Felelősségü Társaság",
+        "contract_value": 125487298.0,
+        "contracting_authority": "S&R-Cargo Nemzetközi Szállítmányozó és Kereskedelmi Szolgáltató Kft.",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9956_2018/",
         "main_cpv": "45213150-9",
         "number_companies_win": 0,
         "procurement_title": "S és R - Cargo Kft. telephelyének fejlesztése szállítmányozási tevékenységet kiszolgáló irodaépület építésével, valamint a raktározási tevékenység fejlesztése érdekében csarnoképítéssel",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "128249348",
+        "contract_value": 128249348.0,
         "contracting_authority": "Szigethalom Város Önkormányzat",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12959_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Szigethalom Egészségház felújítása",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "171489597",
+        "contract_value": 171489597.0,
         "contracting_authority": "Tököl Város Önkormányzata",
         "date": "24/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16694_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Szivárvány óvoda felújítása Tökölön",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "106588130",
+        "contract_value": 106588130.0,
         "contracting_authority": "Törtel Község Önkormányzata",
         "date": "01/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1961_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Törtel település - óvoda fejlesztése",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50804083",
+        "contract_value": 50804083.0,
         "contracting_authority": "Tököl Város Önkormányzata",
         "date": "28/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11896_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tököl - folyosó és vizesblokk felújítás 2",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "256885470",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Szárliget Község Önkormányzata",
-        "date": "29/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_1621_2021/",
-        "main_cpv": "45214200-2",
-        "number_companies_win": 0,
-        "procurement_title": "Tanterem tervezése és kivitelezése Szárligeten",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7643065",
-        "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18441_2021/",
-        "main_cpv": "45300000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Tököli Weöres Sándor Általános Iskola Kisfaludy utcai telephelyének korszerűsítése",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33302916",
-        "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18441_2021/",
-        "main_cpv": "45300000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Tököli Weöres Sándor Általános Iskola Kisfaludy utcai telephelyének korszerűsítése",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "51089567",
-        "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18441_2021/",
-        "main_cpv": "45300000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Tököli Weöres Sándor Általános Iskola Kisfaludy utcai telephelyének korszerűsítése",
-        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KISÉP-GENERAL Ingatlanforgalmazó és Építőipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "443786404",
-        "contracting_authority": "\"DUNA GYÖNGYE 2000\" Mezőgazdasági, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 443786404.0,
+        "contracting_authority": "\"DUNA GYÖNGYE 2000\" Mezőgazdasági, Szolgáltató és Kereskedelmi Zrt.",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2695_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Dunaszekcső, külterület 0135 hrsz-en új kocaszállás, ellető-malac utónevelő, három hizlalda és egy karantén istálló építészeti és technológia építése-szerelése a szükséges infrastruktúra kiépítésével",
-        "registered_name": "AKEBA Mélyépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AKEBA Mélyépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "611156632",
-        "contracting_authority": "\"DUNA GYÖNGYE 2000\" Mezőgazdasági, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 611156632.0,
+        "contracting_authority": "\"DUNA GYÖNGYE 2000\" Mezőgazdasági, Szolgáltató és Kereskedelmi Zrt.",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2695_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Dunaszekcső, külterület 0135 hrsz-en új kocaszállás, ellető-malac utónevelő, három hizlalda és egy karantén istálló építészeti és technológia építése-szerelése a szükséges infrastruktúra kiépítésével",
-        "registered_name": "AKEBA Mélyépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AKEBA Mélyépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49594479",
+        "contract_value": 49594479.0,
         "contracting_authority": "Dunaszekcső Községi Önkormányzat",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3963_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati Hivatal épületének felújítása",
-        "registered_name": "AKEBA Mélyépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AKEBA Mélyépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55080000",
+        "contract_value": 55080000.0,
         "contracting_authority": "Dél-Dunántúli Vízügyi Igazgatóság",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13724_2018/",
         "main_cpv": "45247230-1",
         "number_companies_win": 0,
         "procurement_title": "Makadámút építése",
-        "registered_name": "AKEBA Mélyépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AKEBA Mélyépítő és Szolgáltató Kft."
     }
 ]

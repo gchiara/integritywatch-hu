@@ -1,167 +1,134 @@
 [
     {
         "company_names": "",
-        "contract_value": "87685022",
+        "contract_value": 87685022.0,
         "contracting_authority": "Lothárdi Önkormányzat",
         "date": "31/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1507_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Lothárdon",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44999637",
+        "contract_value": 44999637.0,
         "contracting_authority": "Patca Község Önkormányzata",
         "date": "06/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1017_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvíztisztítók kiépítése Patca településen",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91265049",
+        "contract_value": 91265049.0,
         "contracting_authority": "Aparhant Község Önkormányzata",
         "date": "06/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1011_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvíztisztító kisberendezések telepítése Aparhant településen",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92248343",
+        "contract_value": 92248343.0,
         "contracting_authority": "Almamellék Községi Önkormányzat",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9295_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Almamellék - egyedi szennyvízkezelő berendezések telepítése",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "156944564",
+        "contract_value": 156944564.0,
         "contracting_authority": "Szentlászló Községi Önkormányzat",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14808_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvíztisztítók telepítése Szentlászlón",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89667701",
+        "contract_value": 89667701.0,
         "contracting_authority": "Mucsi Község Önkormányzata",
         "date": "05/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15396_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvíztisztító berendezések telepítése Mucsi településen",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99121323",
+        "contract_value": 99121323.0,
         "contracting_authority": "Nagyszékely Községi Önkormányzat",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18075_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Nagyszékelyen",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "145298541",
+        "contract_value": 145298541.0,
         "contracting_authority": "Kerta Község Önkormányzata",
         "date": "06/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1654_2019/",
         "main_cpv": "45232420-2",
         "number_companies_win": 0,
         "procurement_title": "Kerta Községben egyedi szennyvízkezelő berendezések telepítése",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "126186779",
+        "contract_value": 126186779.0,
         "contracting_authority": "Kiskorpád Község Önkormányzata",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11601_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Kiskorpádon",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76191734",
+        "contract_value": 76191734.0,
         "contracting_authority": "Somogyhárságy Község Önkormányzata",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18977_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szennyvízelvezetés Somogyhárságyon",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89276451",
+        "contract_value": 89276451.0,
         "contracting_authority": "Kisszékely Községi Önkormányzat",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18975_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Kisszékelyen",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80794746",
+        "contract_value": 80794746.0,
         "contracting_authority": "Apátistvánfalva Községi Önkormányzat",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22179_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Apátistvánfalván",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "128945854",
-        "contracting_authority": "Nagyberki Község Önkormányzata",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4870_2021/",
-        "main_cpv": "45232400-6",
-        "number_companies_win": 0,
-        "procurement_title": "Nagyberki Község szennyvízkezelése",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság; PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "86378873",
-        "contracting_authority": "Csoma Község Önkormányzata",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24557_2021/",
-        "main_cpv": "45231300-8",
-        "number_companies_win": 2,
-        "procurement_title": "Csoma Község szennyvízkezelése",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Cibalum Design International Szolgáltató Korlátolt Felelősségű Társaság; PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "151156458",
-        "contracting_authority": "Baté Községi Önkormányzat",
-        "date": "22/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25454_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Egyedi szennyvízkezelés Batén",
-        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROWATECH Tervezői, Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

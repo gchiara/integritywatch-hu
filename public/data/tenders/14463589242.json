@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "Debreceni Egyetem; eNET Internetkutató és Tanácsadó Kft.; Field Consulting Services Zárkörűen Működő Részvénytársaság; GloboSyS Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HBH Stratégia és Fejlesztés Korlátolt Felelősségű Társaság; IFUA HORVÁTH & PARTNERS Vezetési és Informatikai Tanácsadó Korlátolt Felelősségű Társaság; ILEX Vezetési Tanácsadó Korlátolt Felelősségű Társaság; Inter-Med Media Oktatási, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Learning Innovation Korlátolt Felelősségű Társaság; LV-Team Korlátolt Felelősségű Társaság; MEDIX 2000. Korlátolt Felelősségű Társaság; MENTOR Informatikai és Oktatási Korlátolt Felelősségű Társaság; Semmelweis Egyetem; SYREON Kutató Intézet Korlátolt Felelősségű Társaság; Topsec Informatikai és Oktatási Korlátolt Felelősségű Társaság; VITAL MANAGEMENT Tanácsadó Korlátolt Felelősségű Társaság; ViVeTech Korlátolt Felelősségű Társaság",
-        "contract_value": "4660000000",
-        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Debreceni Egyetem; eNET Internetkutató és Tanácsadó Kft.; Field Consulting Services Zárkörűen Működő Részvénytársaság; GloboSyS Hungary Kereskedelmi és Szolgáltató Kft.; HBH Stratégia és Fejlesztés Kft.; IFUA HORVÁTH & PARTNERS Vezetési és Informatikai Tanácsadó Kft.; ILEX Vezetési Tanácsadó Kft.; Inter-Med Media Oktatási, Kereskedelmi és Szolgáltató Kft.; Learning Innovation Kft.; LV-Team Kft.; MEDIX 2000. Kft.; MENTOR Informatikai és Oktatási Kft.; Semmelweis Egyetem; SYREON Kutató Intézet Kft.; Topsec Informatikai és Oktatási Kft.; VITAL MANAGEMENT Tanácsadó Kft.; ViVeTech Kft.",
+        "contract_value": 4660000000.0,
+        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Kft.",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24454_2018/",
         "main_cpv": "98113000-8",
         "number_companies_win": 17,
         "procurement_title": "Egészségügyi szakértői feladatok ellátása",
-        "registered_name": "SYREON Kutató Intézet Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34862873,22",
-        "contracting_authority": "Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely-Makó",
-        "date": "21/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13637_2021/",
-        "main_cpv": "85148000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Népegészségügyi célzatú szűrések",
-        "registered_name": "SYREON Kutató Intézet Korlátolt Felelősségű Társaság"
+        "registered_name": "SYREON Kutató Intézet Kft."
     }
 ]

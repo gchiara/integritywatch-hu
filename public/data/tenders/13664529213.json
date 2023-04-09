@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "150000000",
+        "contract_value": 150000000.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17540_2018/",
         "main_cpv": "45233253-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest Főváros II. Kerületi Önkormányzat közigazgatási területén belül található járdahálózat különböző szakaszain járdaépítési és -felújítási munkák elvégzése",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
+        "contract_value": 100000000.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "26/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4650_2019/",
         "main_cpv": "45233260-9",
         "number_companies_win": 0,
         "procurement_title": "Pesthidegkúti gyalogosforgalom fejlesztés-2018",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68169354",
+        "contract_value": 68169354.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "14/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15310_2019/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Retek utcai kerékpárút kivitelezése",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "238797290",
+        "contract_value": 238797290.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15658_2019/",
         "main_cpv": "45112711-2",
         "number_companies_win": 0,
         "procurement_title": "Hajógyári sziget sportpark felújítása",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     },
     {
-        "company_names": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság; OLIO Szolgáltató és Idegenforgalmi Korlátolt Felelősségű Társaság",
-        "contract_value": "49982331",
+        "company_names": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft.; OLIO Szolgáltató és Idegenforgalmi Kft.",
+        "contract_value": 49982331.0,
         "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
         "date": "10/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16733_2019/",
         "main_cpv": "45233253-7",
         "number_companies_win": 2,
         "procurement_title": "Járdafelújítások térkőre",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299950000",
+        "contract_value": 299950000.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13695_2020/",
         "main_cpv": "45233150-5",
         "number_companies_win": 0,
         "procurement_title": "Forgalomtechnikai munkák",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "150000000",
+        "contract_value": 150000000.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "05/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17497_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pesthidegkúti gyalogosközlekedés fejlesztése_2020.",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7500000000",
-        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13815_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 2,
-        "procurement_title": "Mélyépítés/parképítés",
-        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GARDEN-SYSTEM Kertépítő és Szolgáltató Kft."
     }
 ]

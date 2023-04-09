@@ -1,255 +1,200 @@
 [
     {
         "company_names": "",
-        "contract_value": "583971000",
+        "contract_value": 583971000.0,
         "contracting_authority": "Szent Mauríciusz Monostor",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1411_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A bakonybéli Szent Mauríciusz Monostor millenniumi fejlesztéséhez kapcsolódó építési feladatok (templom, turistafogadó, kiállítóterem és vetítő, gazdasági épület, telekhez kapcsolódó további építési feladatok)",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1019000000",
+        "contract_value": 1019000000.0,
         "contracting_authority": "Magyarok Nagyasszonya Ferences Rendtartomány",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2513_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a váci munkaerő-piaci elhelyezkedést segítő speciális fejlesztő központ ferences kolostor és templom rekonstrukciójára",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "29992390",
+        "contract_value": 29992390.0,
         "contracting_authority": "Balassagyarmat Város Önkormányzata",
         "date": "29/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11230_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Balassagyarmati közintézmények energetikai korszerűsítése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "30769278",
+        "contract_value": 30769278.0,
         "contracting_authority": "Balassagyarmat Város Önkormányzata",
         "date": "29/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11230_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Balassagyarmati közintézmények energetikai korszerűsítése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
-        "company_names": "Bihar Generál Építő Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "281852650",
+        "company_names": "Bihar Generál Építő Kft.; Pesti Építő Zrt.",
+        "contract_value": 281852650.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12686_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Zenede épületének energetikai korszerűsítése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
-        "company_names": "EURO CAMPUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Jánosik és Társai Ipari, Szolgáltató és Karbantartó Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2231353227",
+        "company_names": "EURO CAMPUS Kereskedelmi és Szolgáltató Kft.; Jánosik és Társai Ipari, Szolgáltató és Karbantartó Kft.; Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 2231353227.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 4,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2937620778",
+        "company_names": "Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 2937620778.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; EURO CAMPUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HARCON ÉPÍTÉS Építőipari Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3887369290",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft.; EURO CAMPUS Kereskedelmi és Szolgáltató Kft.; HARCON ÉPÍTÉS Építőipari Kft.; Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 3887369290.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 6,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "194000000",
+        "contract_value": 194000000.0,
         "contracting_authority": "Szent Mauríciusz Monostor",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1028_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bakonybéli egyházközség házának építése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1979893557",
+        "contract_value": 1979893557.0,
         "contracting_authority": "Fons Sacer Belső Egyház Jogi Személy",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4694_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szentendrei Tornacsarnok kivitelezése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "154361769",
+        "contract_value": 154361769.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9582_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Közép utcai Óvoda energetikai korszerűsítése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "31528389",
+        "contract_value": 31528389.0,
         "contracting_authority": "Romhány Község Önkormányzata",
         "date": "05/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12280_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épület energetikai korszerűsítése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
-        "company_names": "FORT-BAU THERM Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "636326075",
+        "company_names": "FORT-BAU THERM Építőipari, Kereskedelmi és Szolgáltató Kft.; Pesti Építő Zrt.",
+        "contract_value": 636326075.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5559_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "SZLMK SBO és Labor bővítése, átalakítása",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "4767666032",
+        "contract_value": 4767666032.0,
         "contracting_authority": "Fons Sacer Belső Egyház Jogi Személy",
         "date": "06/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5755_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szent Angéla bővítés és átalakítás.",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "127700393",
+        "contract_value": 127700393.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "22/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9019_2020/",
         "main_cpv": "45261000-4",
         "number_companies_win": 0,
         "procurement_title": "Tetőcsere–tervezés, tervezői művezetés, kivitelezés",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
-        "company_names": "EB HUNGARY INVEST Ingatlanfejlesztő és Építőipari Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "766995655",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "EB HUNGARY INVEST Ingatlanfejlesztő és Építőipari Kft.; Pesti Építő Zrt.",
+        "contract_value": 766995655.0,
+        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Kft.",
         "date": "17/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9816_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Sümegi vár műemlékegyüttes felújítása",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "830842831",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 830842831.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11534_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tanuszoda kivitelezése Rétságon",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "267800000",
+        "contract_value": 267800000.0,
         "contracting_authority": "Dunabogdány Község Önkormányzata",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21127_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Német Nemzetiségi Óvoda bővítése, felújítása",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "277865729",
-        "contracting_authority": "Fejér Megyei Rendőr-Főkapitányság",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_1147_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Fejér megyei Rendőr-főkapitányság épületeinek energetikai fejlesztése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2168328365",
-        "contracting_authority": "Dunántúli Református Egyházkerület",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2257_2021/",
-        "main_cpv": "45214700-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kollégium építése Pápán",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Bihar Generál Építő Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "509022270",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9670_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Károlyi Mihály utcai Bölcsőde fejlesztése",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "480070411",
-        "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21224_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kornis Klára Gyermekotthon kiváltása a Fővárosban",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Bihar Generál Építő Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1277777464",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "07/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23907_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Nyírbátori Báthori István Múzeum felújítása",
-        "registered_name": "Pesti Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pesti Építő Zrt."
     }
 ]

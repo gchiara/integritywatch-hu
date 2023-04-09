@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "155716293",
+        "contract_value": 155716293.0,
         "contracting_authority": "Rád Község Önkormányzata",
         "date": "25/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17265_2018/",
         "main_cpv": "45215200-9",
         "number_companies_win": 0,
         "procurement_title": "Rádi egészségház építése",
-        "registered_name": "BERBAU 2002 Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BERBAU 2002 Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105254990",
+        "contract_value": 105254990.0,
         "contracting_authority": "Rád Község Önkormányzata",
         "date": "04/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23242_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Rád Község Önkormányzat: bölcsőde tervezés, kivitelezés",
-        "registered_name": "BERBAU 2002 Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BERBAU 2002 Építőipari és Szolgáltató Kft."
     }
 ]

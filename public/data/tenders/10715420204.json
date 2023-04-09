@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "267586826",
+        "contract_value": 267586826.0,
         "contracting_authority": "Czabarka Henrietta",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14274_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Gabonatároló, szárító és technológia beszerzése",
-        "registered_name": "L & M Fémszerkezetgyártó Korlátolt Felelősségű Társaság"
+        "registered_name": "L & M Fémszerkezetgyártó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "412194091",
+        "contract_value": 412194091.0,
         "contracting_authority": "Vásárhelyi Róna Mezőgazdasági és Szolgáltató Kft.",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20236_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági épületek kivitelezése",
-        "registered_name": "L & M Fémszerkezetgyártó Korlátolt Felelősségű Társaság"
+        "registered_name": "L & M Fémszerkezetgyártó Kft."
     }
 ]

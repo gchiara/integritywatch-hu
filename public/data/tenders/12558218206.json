@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "75387000",
+        "contract_value": 75387000.0,
         "contracting_authority": "Mindszent Város Önkormányzata",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21535_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7441566",
+        "contract_value": 7441566.0,
         "contracting_authority": "Deszk Község Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22858_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18053284",
+        "contract_value": 18053284.0,
         "contracting_authority": "Deszk Község Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22858_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25423028",
+        "contract_value": 25423028.0,
         "contracting_authority": "Deszk Község Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22858_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "36811484",
+        "contract_value": 36811484.0,
         "contracting_authority": "Deszk Község Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22858_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "57344008",
+        "contract_value": 57344008.0,
         "contracting_authority": "Deszk Község Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22858_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "692739647",
+        "contract_value": 692739647.0,
         "contracting_authority": "Csongrád-Csanád Megyei Önkormányzat, Dóc Községi Önkormányzat, Ópusztaszer Községi Önkormányzat, Sándorfalva Városi Önkormányzat",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7034_2019/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "526693706",
+        "contract_value": 526693706.0,
         "contracting_authority": "Kistelek Városi Önkormányzat",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11122_2019/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "52686550",
+        "contract_value": 52686550.0,
         "contracting_authority": "Kistelek Városi Önkormányzat",
         "date": "17/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23358_2019/",
@@ -100,57 +100,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "447412450",
+        "contract_value": 447412450.0,
         "contracting_authority": "Kistelek Városi Önkormányzat",
         "date": "17/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23358_2019/",
         "main_cpv": "45232420-2",
         "number_companies_win": 0,
         "procurement_title": "Ipari park szennyvízinfrastruktúra építés Kistelek",
-        "registered_name": "PROBART Építő, Szerelő, Kereskedő és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "239925821",
-        "contracting_authority": "Sándorfalva Városi Önkormányzat",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4529_2021/",
-        "main_cpv": "45212100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Nádastó Szabadidőpark komplex fejlesztése",
-        "registered_name": "PROBART Építő, Szerelő, Kereskedő és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "73754991",
-        "contracting_authority": "Sándorfalva Városi Önkormányzat",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4883_2021/",
-        "main_cpv": "45212100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Nádastó Szabadidőpark II. ütemű fejlesztése",
-        "registered_name": "PROBART Építő, Szerelő, Kereskedő és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23922470",
-        "contracting_authority": "Kistelek Városi Önkormányzat",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21401_2021/",
-        "main_cpv": "45233220-7",
-        "number_companies_win": 0,
-        "procurement_title": "Belterületi útfejlesztés Kisteleken.",
-        "registered_name": "PROBART Építő, Szerelő, Kereskedő és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "91241320",
-        "contracting_authority": "Kistelek Városi Önkormányzat",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21401_2021/",
-        "main_cpv": "45233220-7",
-        "number_companies_win": 0,
-        "procurement_title": "Belterületi útfejlesztés Kisteleken.",
         "registered_name": "PROBART Építő, Szerelő, Kereskedő és Szolgáltató Kft"
     }
 ]

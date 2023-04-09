@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "165881672",
+        "contract_value": 165881672.0,
         "contracting_authority": "Szügy Község Önkormányzata",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5636_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Inkubátorház építése Szügyön II.",
-        "registered_name": "STOMIKER Korlátolt Felelősségű Társaság"
+        "registered_name": "STOMIKER Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48648000",
+        "contract_value": 48648000.0,
         "contracting_authority": "Szügy Község Önkormányzata",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11845_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Porta épület építése Szügyön",
-        "registered_name": "STOMIKER Korlátolt Felelősségű Társaság"
+        "registered_name": "STOMIKER Kft."
     }
 ]

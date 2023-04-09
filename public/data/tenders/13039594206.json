@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "296804225",
+        "contract_value": 296804225.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "13/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20511_2018/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Science Park Szeged előkészítése-bontás",
-        "registered_name": "FöldgépTrans Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FöldgépTrans Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104500000",
+        "contract_value": 104500000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "25/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5319_2020/",
         "main_cpv": "45111100-9",
         "number_companies_win": 0,
         "procurement_title": "Science Park-bontás, hulladék, törmelék elszállítás",
-        "registered_name": "FöldgépTrans Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "172005803",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "21/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9385_2021/",
-        "main_cpv": "45110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "SZTE SP területén legénységi épületek bontása",
-        "registered_name": "FöldgépTrans Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FöldgépTrans Kereskedelmi és Szolgáltató Kft."
     }
 ]

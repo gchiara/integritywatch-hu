@@ -1,35 +1,24 @@
 [
     {
-        "company_names": "HAIR TEAM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MAKE-UP TEAM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Styling Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "328000000",
+        "company_names": "HAIR TEAM Kereskedelmi és Szolgáltató Kft.; MAKE-UP TEAM Kereskedelmi és Szolgáltató Kft.; Styling Szolgáltató Kft.",
+        "contract_value": 328000000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20955_2018/",
         "main_cpv": "98320000-2",
         "number_companies_win": 3,
         "procurement_title": "Az MTVA képernyős munkatársainak képernyőn történő megjelenéséhez stylist, fodrász és sminkes szolgáltatás nyújtása (2018.)",
-        "registered_name": "MAKE-UP TEAM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MAKE-UP TEAM Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "350000000",
+        "contract_value": 350000000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "14/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8200_2020/",
         "main_cpv": "98320000-2",
         "number_companies_win": 0,
         "procurement_title": "Smink, stylist és fodrász szolgáltatás nyújtása",
-        "registered_name": "MAKE-UP TEAM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "350000000",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21207_2021/",
-        "main_cpv": "98320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Smink, stylist és fodrász szolgáltatás nyújtása",
-        "registered_name": "MAKE-UP TEAM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MAKE-UP TEAM Kereskedelmi és Szolgáltató Kft."
     }
 ]

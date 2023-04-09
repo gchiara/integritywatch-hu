@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "12036196",
+        "contract_value": 12036196.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "12/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18101_2017/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "20835219",
+        "contract_value": 20835219.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "12/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18101_2017/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "31596040",
+        "contract_value": 31596040.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "12/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18101_2017/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "12831900",
+        "contract_value": 12831900.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13628_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14088000",
+        "contract_value": 14088000.0,
         "contracting_authority": "Fővárosi Önkormányzat Kamaraerdei Úti Idősek Otthona",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16288_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "16119000",
+        "contract_value": 16119000.0,
         "contracting_authority": "Fővárosi Önkormányzat Kamaraerdei Úti Idősek Otthona",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18999_2019/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "31948000",
+        "contract_value": 31948000.0,
         "contracting_authority": "Fejér Megyei Gesztenyés Egyesített Szociális Intézmény, Fejér Megyei Integrált Szociális Intézmény, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0561_2020/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "83682560",
+        "contract_value": 83682560.0,
         "contracting_authority": "Fejér Megyei Gesztenyés Egyesített Szociális Intézmény, Fejér Megyei Integrált Szociális Intézmény, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0561_2020/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14724625",
+        "contract_value": 14724625.0,
         "contracting_authority": "Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4845_2020/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "17178472",
+        "contract_value": 17178472.0,
         "contracting_authority": "Országos Korányi Pulmonológiai Intézet",
         "date": "15/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9072_2020/",
@@ -110,8 +110,8 @@
         "registered_name": "ALBA-KENYÉR Sütőipari Zártkörűen működő Részványtársaság"
     },
     {
-        "company_names": "ALBA-KENYÉR Sütőipari Zártkörűen működő Részványtársaság; Rubin-Pékség Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "16000000",
+        "company_names": "ALBA-KENYÉR Sütőipari Zártkörűen működő Részványtársaság; Rubin-Pékség Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 16000000.0,
         "contracting_authority": "Országos Orvosi Rehabilitációs Intézet",
         "date": "14/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12181_2020/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14462905",
+        "contract_value": 14462905.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14405_2020/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "54276973",
+        "contract_value": 54276973.0,
         "contracting_authority": "Budapesti Rendőr-Főkapitányság",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14465_2020/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "90000000",
+        "contract_value": 90000000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21246_2020/",

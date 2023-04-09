@@ -1,156 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "120000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 120000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12503_2018/",
         "main_cpv": "50100000-6",
         "number_companies_win": 0,
         "procurement_title": "Téli-Nyári adapterek karbantartása",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "500000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 500000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12503_2018/",
         "main_cpv": "50100000-6",
         "number_companies_win": 0,
         "procurement_title": "Téli-Nyári adapterek karbantartása",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "871240000",
-        "contracting_authority": "Délkelet-Alföld Regionális Hulladékgazdálkodási Rendszer Létrehozását Célzó Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 871240000.0,
+        "contracting_authority": "Délkelet-Alföld Regionális Hulladékgazdálkodási Rendszer Létrehozását Célzó Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24182_2018/",
         "main_cpv": "34144510-6",
         "number_companies_win": 0,
         "procurement_title": "Gyűjtő- és szállítójárművek beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "140910000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 140910000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23382_2018/",
         "main_cpv": "34921000-9",
         "number_companies_win": 0,
         "procurement_title": "Nyári és téli adapterek beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80917000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 80917000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0891_2020/",
         "main_cpv": "42415110-2",
         "number_companies_win": 0,
         "procurement_title": "MILLFAV-Fogaskerekű projekt: Targoncák beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "81540000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 81540000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0891_2020/",
         "main_cpv": "42415110-2",
         "number_companies_win": 0,
         "procurement_title": "MILLFAV-Fogaskerekű projekt: Targoncák beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "560418045",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 560418045.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "29/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_18902_2020/",
         "main_cpv": "34144000-8",
         "number_companies_win": 0,
         "procurement_title": "Multifunkciós tehergépjárművek beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30690000",
+        "contract_value": 30690000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Térségi Ivóvíz-Kezelési Önkormányzati Társulás",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20049_2020/",
         "main_cpv": "34144212-7",
         "number_companies_win": 0,
         "procurement_title": "Szállítási szerződések az Észak-Magyarországi Régió településein élő lakosság egészséges ivóvízzel való ellátásának biztosítása",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "60240000",
-        "contracting_authority": "Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0909_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Target járművek beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "430000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5599_2021/",
-        "main_cpv": "50100000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Téli-nyári adapterek, gépek karbantartása",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "549586000",
-        "contracting_authority": "KÖZÉP-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10528_2021/",
-        "main_cpv": "34513250-3",
-        "number_companies_win": 0,
-        "procurement_title": "1 db hidromechanizációs úszókotró és kiegészítői",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "58136250",
-        "contracting_authority": "Felső-Tisza-Vidéki Vízügyi Igazgatóság",
-        "date": "18/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20102_2021/",
-        "main_cpv": "16000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Tisza-Túr tározó fenntartógépek beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1413200000",
-        "contracting_authority": "Duna-Tisza Közi Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "26/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22799_2021/",
-        "main_cpv": "34144510-6",
-        "number_companies_win": 0,
-        "procurement_title": "NFP DTK gyűjtő- és szállító-járművek beszerzése",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "258247980",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_24905_2021/",
-        "main_cpv": "50220000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Unimog járművek, illetve azok adaptereinek karbantartása",
-        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIKOMTECH GÉP Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,90 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "83772916",
+        "contract_value": 83772916.0,
         "contracting_authority": "Andocs Község Önkormányzata",
         "date": "30/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17255_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése Andocs községben",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "RFID Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72264000",
+        "contract_value": 72264000.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19061_2020/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "KEHOP Gyakorló Jégcsarnok napelemes rendszer kiépítése",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "RFID Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "315778573",
+        "contract_value": 315778573.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19053_2020/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Hajós Alfréd Uszoda komplex energetikai korszerűsítése",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "RFID Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "145149213",
+        "contract_value": 145149213.0,
         "contracting_authority": "Zamárdi Város Önkormányzata",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23131_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Új bölcsőde létrehozása Zamárdiban",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "116178960",
-        "contracting_authority": "Tab Város Önkormányzata",
-        "date": "16/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2597_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde bővítés Tabon - építési beruházás",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "PILLÉR INVEST Építőipari Korlátolt Felelősségű Társaság; RFID Magyarország Korlátolt Felelősségű Társaság",
-        "contract_value": "299993658",
-        "contracting_authority": "Siófoki Tankerületi Központ",
-        "date": "22/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7200_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Építési beruházás - Somogyvár iskola",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "91688062",
-        "contracting_authority": "Karád Község Önkormányzata",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8153_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építése Karád községben",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "144977621",
-        "contracting_authority": "Balatonföldvár Város Önkormányzata",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8154_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Új bölcsőde létrehozása Balatonföldváron",
-        "registered_name": "RFID Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "RFID Magyarország Kft."
     }
 ]

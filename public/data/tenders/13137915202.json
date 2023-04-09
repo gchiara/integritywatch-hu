@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "77019357",
+        "contract_value": 77019357.0,
         "contracting_authority": "Baranya Megyei Szakképzési Centrum",
         "date": "02/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1014_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Pécsi Szakképzési Centrum Mohácsi Radnóti Miklós Szakgimnáziuma és Szakközépiskolája épületeinek korszerűsítése",
-        "registered_name": "ANDOK és TÁRSA MÉRNÖKI IRODA Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDOK és TÁRSA MÉRNÖKI IRODA Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "408729329",
+        "contract_value": 408729329.0,
         "contracting_authority": "Pávkovics Balázs",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11717_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep építése",
-        "registered_name": "ANDOK és TÁRSA MÉRNÖKI IRODA Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDOK és TÁRSA MÉRNÖKI IRODA Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "409938758",
+        "contract_value": 409938758.0,
         "contracting_authority": "Pávkovics Bálint",
         "date": "11/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11723_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep építése",
-        "registered_name": "ANDOK és TÁRSA MÉRNÖKI IRODA Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDOK és TÁRSA MÉRNÖKI IRODA Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Kft."
     }
 ]

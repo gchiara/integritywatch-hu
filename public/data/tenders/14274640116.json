@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "157389120",
+        "contract_value": 157389120.0,
         "contracting_authority": "Besenyszög Város Önkormányzata, Csataszög Községi Önkormányzat, Hunyadfalva Községi Önkormányzat, Kőtelek Községi Önkormányzat, Nagykörű Községi Önkormányzat, Rákóczifalva Városi Önkormányzat, Szajol Községi Önkormányzat, Szászberek Községi Önkormányzat, Szolnok Megyei Jogú Város Önkormányzata, Tiszajenő Községi Önkormányzat, Tiszasüly Községi Önkormányzat, Tiszavárkony Községi Önkormányzat, Tószeg Községi Önkormányzat, Újszász Városi Önkormányzat, Vezseny Községi Önkormányzat, Zagyvarékas Község Önkormányzata",
         "date": "08/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2143_2019/",
         "main_cpv": "85121100-4",
         "number_companies_win": 0,
         "procurement_title": "Központi orvosi ügyelet ellátása",
-        "registered_name": "Liver08 Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Liver08 Egészségügyi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105120000",
+        "contract_value": 105120000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "16/05/2019",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_5307_2019/",
         "main_cpv": "85100000-0",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi szolgáltatások beszerzése 48 hónapra",
-        "registered_name": "Liver08 Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Liver08 Egészségügyi és Szolgáltató Kft."
     }
 ]

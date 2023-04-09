@@ -1,772 +1,607 @@
 [
     {
         "company_names": "",
-        "contract_value": "17109600",
+        "contract_value": 17109600.0,
         "contracting_authority": "Debreceni Intézményműködtető Központ",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19649_2017/",
         "main_cpv": "92610000-0",
         "number_companies_win": 0,
         "procurement_title": "Uszoda fenntartási feladatok ellátásához szükséges műszaki és személyi szolgáltatások biztosítása a Debreceni Intézményműködtető Központ részére a 2018. évben",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
-        "company_names": "DH-SZERVIZ Korlátolt Felelősségű Társaság; EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "628413000",
+        "company_names": "DH-SZERVIZ Kft.; EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Kft.",
+        "contract_value": 628413000.0,
         "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19586_2017/",
         "main_cpv": "71314000-2",
         "number_companies_win": 2,
         "procurement_title": "A Fővárosi Büntetés-végrehajtási Intézet tájékoztatója az eljárás eredményéről (fűtéskorszerűsítés)",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15302385",
+        "contract_value": 15302385.0,
         "contracting_authority": "Nagyiván Községi Önkormányzat",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4215_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Nagyiván Községi Önkormányzat épületének épületenergetikai fejlesztése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30600966",
+        "contract_value": 30600966.0,
         "contracting_authority": "Nagyiván Községi Önkormányzat",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4215_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Nagyiván Községi Önkormányzat épületének épületenergetikai fejlesztése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68553522",
+        "contract_value": 68553522.0,
         "contracting_authority": "Nagyiván Községi Önkormányzat",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7965_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés Nagyiván, Hősök tere 2. szám alatti óvoda épület átalakítására, tetőtérrel történő bővítésére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "180547295",
+        "contract_value": 180547295.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "07/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9041_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "A Lilla Téri Általános Iskola épületének energetikai korszerűsítése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95835031",
+        "contract_value": 95835031.0,
         "contracting_authority": "Debreceni Tankerületi Központ",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11038_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Debreceni Tankerületi Központ Intézményeinek felújítása II. ütem",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3218592",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3218592.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12198_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8126389",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8126389.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12198_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9318621",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9318621.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12198_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16046747",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 16046747.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12198_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27415486",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 27415486.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12198_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "193852259",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 193852259.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12198_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33491275",
+        "contract_value": 33491275.0,
         "contracting_authority": "Debreceni Tankerületi Központ",
         "date": "24/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12374_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Debreceni Tankerületi Központ Intézményeinek felújítása I. ütem",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "192981702",
+        "contract_value": 192981702.0,
         "contracting_authority": "Földes Nagyközség Önkormányzata",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15951_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Közintézménynek fűtéskorszerűsítése Földesen",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4191262",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4191262.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18804_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari karbantartási munkák elvégzésére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15403994",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 15403994.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18804_2018/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodásos vállalkozási szerződés kötése távhővezeték építésére, felújítására, karbantartására, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari karbantartási munkák elvégzésére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4304298",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4304298.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_264_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4561579",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4561579.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_264_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7045850",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7045850.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_264_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8181503",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8181503.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_264_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8601430",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8601430.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_264_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10918367",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10918367.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_264_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "137000000",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 137000000.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6483_2019/",
         "main_cpv": "45232000-2",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték és hőközpont hibaelhárítási munkák.",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7893474",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7893474.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13041_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16184506",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 16184506.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13041_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22022421",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 22022421.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13041_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28194296",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28194296.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13041_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "84295392",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 84295392.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13041_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák, továbbá hőközpont szakipari (festés, szigetelés, lakatos) karbantartási munkák elvégzése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "219830453",
+        "contract_value": 219830453.0,
         "contracting_authority": "Kaba Város Önkormányzata",
         "date": "08/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14983_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kaba közintézményeinek fűtéskorszerűsítése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33738450",
-        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 33738450.0,
+        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Kft.",
         "date": "12/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15257_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Sportuszoda felújítása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54457000",
-        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 54457000.0,
+        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Kft.",
         "date": "12/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15257_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Sportuszoda felújítása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "207543875",
-        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 207543875.0,
+        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Kft.",
         "date": "12/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15257_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Sportuszoda felújítása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38474500",
+        "contract_value": 38474500.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "28/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16155_2019/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítás fejlesztés Debrecen területén",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36183465",
+        "contract_value": 36183465.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18984_2019/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "Debreceni Alapellátási és Egészségfejlesztési Intézet Épületének felújítási munkái",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "443401273",
+        "contract_value": 443401273.0,
         "contracting_authority": "Létavértes Városi Önkormányzat",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19023_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Fűtéskorszerűsítés geotermális energia felhasználásával",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4748751",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4748751.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19875_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12103217",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12103217.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19875_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13298413",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13298413.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19875_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19158639",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 19158639.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19875_2019/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "208248708",
-        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 208248708.0,
+        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Kft.",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23565_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Sportuszoda felújítása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3620600",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3620600.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "15/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0658_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3618431",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3618431.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "14/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6418_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33208850",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33208850.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "14/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6418_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3096897",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3096897.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11941_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7223343",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7223343.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11941_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25726966",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25726966.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11941_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezeték építése, felújítása, karbantartása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "425507444",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 425507444.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt., NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "15/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12718_2020/",
         "main_cpv": "45331110-0",
         "number_companies_win": 0,
         "procurement_title": "Debrecen távhőrendszer rekonstrukció",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47181362",
+        "contract_value": 47181362.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "21/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16977_2020/",
         "main_cpv": "45261400-8",
         "number_companies_win": 0,
         "procurement_title": "DAEFI tető és homlokzat szigetelési munkák elvégzése, parkoló kialakítása",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4989290",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4989290.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18838_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4996114",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4996114.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18838_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5882292",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5882292.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18838_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7316469",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7316469.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18838_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8659226",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8659226.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18838_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36743295",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 36743295.0,
+        "contracting_authority": "Debreceni Hőszolgáltató Zrt.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18838_2020/",
         "main_cpv": "45232140-5",
         "number_companies_win": 0,
         "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4865519",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_0248_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6364412",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_0248_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "307000000",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5848_2021/",
-        "main_cpv": "45232000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték és hőközpont hibaelhárítási munkák.",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "47270184",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_6390_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezetékek építése, felújítása, karbantartása a DH Zrt. részére",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "64804885",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8947_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mosolykert Ó. Kismacsi Telephelyének energetikai korszerűsítése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1200000000",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11265_2021/",
-        "main_cpv": "45232000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték és hőközpont beruházási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1900266",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "13/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_13301_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték építése",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25200339",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "11/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_15367_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Lakóépületek távhőellátásba történő bekapcsolása III. ütem",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "35061077",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19284_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "DAEFI belső felújítási munkái",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3468524",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19741_2021/",
-        "main_cpv": "45232000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték és hőközpont beruházási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3891887",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19741_2021/",
-        "main_cpv": "45232000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték és hőközpont beruházási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11461104",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19741_2021/",
-        "main_cpv": "45232000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték és hőközpont beruházási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4568121",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_20101_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16967046",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_20101_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19415191",
-        "contracting_authority": "Debreceni Hőszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_20101_2021/",
-        "main_cpv": "45232140-5",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezeték építése, felújítása, karbantartása, valamint hőközponti épületgépészeti és villamos építési, felújítási munkák",
-        "registered_name": "DH-SZERVIZ Korlátolt Felelősségű Társaság"
+        "registered_name": "DH-SZERVIZ Kft."
     }
 ]

@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "28500767",
+        "contract_value": 28500767.0,
         "contracting_authority": "Kúria",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19139_2017/",
         "main_cpv": "45312100-8",
         "number_companies_win": 0,
         "procurement_title": "Kúria székház teljes körű lefedettséget biztosító tűzjelző rendszer kiépítése - I. ütem",
-        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "79992174",
+        "contract_value": 79992174.0,
         "contracting_authority": "Kúria",
         "date": "08/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20330_2018/",
         "main_cpv": "45312100-8",
         "number_companies_win": 0,
         "procurement_title": "Tűzjelző rendszer kiépítése - II. ütem",
-        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "262319120",
+        "contract_value": 262319120.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "05/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1781_2020/",
         "main_cpv": "45340000-2",
         "number_companies_win": 0,
         "procurement_title": "Beléptető rendszerek korszerűsítése (eID)",
-        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7900000",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "05/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2188_2021/",
-        "main_cpv": "71333000-1",
-        "number_companies_win": 0,
-        "procurement_title": "MTVA gyártóbázis tűzjelző rendszerének tervezése",
-        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "AVITON Gyengeáramú Tervező és Kivitelező Kft."
     }
 ]

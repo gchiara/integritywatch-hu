@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "72210821",
+        "contract_value": 72210821.0,
         "contracting_authority": "Pest Megyei Kormányhivatal",
         "date": "08/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7493_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pest Megyei Kormányhivatal székhelyén vizes helyiségek felújítása",
-        "registered_name": "KERTÉSZ BAU GROUP Korlátolt Felelősségű Társaság"
+        "registered_name": "KERTÉSZ BAU GROUP Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63091945",
+        "contract_value": 63091945.0,
         "contracting_authority": "Pest Megyei Kormányhivatal",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20538_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vecsési kormányablak kialakítása",
-        "registered_name": "KERTÉSZ BAU GROUP Korlátolt Felelősségű Társaság"
+        "registered_name": "KERTÉSZ BAU GROUP Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111585679",
+        "contract_value": 111585679.0,
         "contracting_authority": "Őrbottyán Város Önkormányzata",
         "date": "31/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1673_2020/",
         "main_cpv": "45213250-0",
         "number_companies_win": 0,
         "procurement_title": "Könnyűszerkezetes csarnoképület építése",
-        "registered_name": "KERTÉSZ BAU GROUP Korlátolt Felelősségű Társaság"
+        "registered_name": "KERTÉSZ BAU GROUP Kft."
     }
 ]

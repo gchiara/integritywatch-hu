@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "238920000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 238920000.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "30/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_20791_2019/",
         "main_cpv": "44320000-9",
         "number_companies_win": 0,
         "procurement_title": "Hermetikus kábelátvezetők szállítása",
-        "registered_name": "VISOLA Villamos Szigeteléstechnikai Korlátolt Felelősségű Társaság"
+        "registered_name": "VISOLA Villamos Szigeteléstechnikai Kft."
     }
 ]

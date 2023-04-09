@@ -1,134 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "52151150",
-        "contracting_authority": "Székesfehérvár Városgondnoksága Korlátolt Felelősségű Társaság",
+        "contract_value": 52151150.0,
+        "contracting_authority": "Székesfehérvár Városgondnoksága Kft.",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10282_2019/",
         "main_cpv": "31500000-1",
         "number_companies_win": 0,
         "procurement_title": "Fénytechnikai eszközök beszerzése",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120460000",
-        "contracting_authority": "Nemzeti Színház Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 120460000.0,
+        "contracting_authority": "Nemzeti Színház Közhasznú Nonprofit Zrt.",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10338_2019/",
         "main_cpv": "31500000-1",
         "number_companies_win": 0,
         "procurement_title": "Világítástechnikai-, videótechnikai-, eszközök",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "LISYS-PROJECT Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "398634000",
+        "company_names": "LISYS-PROJECT Ipari, Kereskedelmi és Szolgáltató Kft.; Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 398634000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10480_2019/",
         "main_cpv": "31500000-1",
         "number_companies_win": 2,
         "procurement_title": "Világítástechnikai eszközök beszerzése - Eiffel",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23600000",
-        "contracting_authority": "József Attila Színház Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 23600000.0,
+        "contracting_authority": "József Attila Színház Nonprofit Kft.",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16854_2019/",
         "main_cpv": "31527260-6",
         "number_companies_win": 0,
         "procurement_title": "Színpadi fényvetők cseréje",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35670000",
-        "contracting_authority": "Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 35670000.0,
+        "contracting_authority": "Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Kft.",
         "date": "03/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24948_2019/",
         "main_cpv": "32330000-5",
         "number_companies_win": 0,
         "procurement_title": "Videó- és fénytechnikai eszközök beszerzése",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46880000",
+        "contract_value": 46880000.0,
         "contracting_authority": "Budapest Főváros XIII. Kerületi Önkormányzat",
         "date": "10/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9996_2020/",
         "main_cpv": "31500000-1",
         "number_companies_win": 0,
         "procurement_title": "RaM Művelődési Központ eszközfejlesztés",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299746600",
-        "contracting_authority": "Előadó- és Cirkuszművészeti Eszközkezelő és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 299746600.0,
+        "contracting_authority": "Előadó- és Cirkuszművészeti Eszközkezelő és Szolgáltató Nonprofit Kft.",
         "date": "22/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16612_2020/",
         "main_cpv": "31000000-6",
         "number_companies_win": 0,
         "procurement_title": "Fénytechnikai-, hangtechnikai-, LED eszközök",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36491823",
+        "contract_value": 36491823.0,
         "contracting_authority": "Budapest Főváros XIII. Kerületi Önkormányzat",
         "date": "16/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20618_2020/",
         "main_cpv": "31500000-1",
         "number_companies_win": 0,
         "procurement_title": "Világítástechnikai korszerűsítés (AJAMK)",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18949440",
+        "contract_value": 18949440.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "10/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22764_2020/",
         "main_cpv": "31500000-1",
         "number_companies_win": 0,
         "procurement_title": "Világítástechnikai eszközök beszerzése (2020.)",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "LISYS-PROJECT Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1000132000",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "05/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14489_2021/",
-        "main_cpv": "31500000-1",
-        "number_companies_win": 2,
-        "procurement_title": "A MÁO világítástechnikai eszközeinek beszerzése",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6436000",
-        "contracting_authority": "AGORA Sport és Szabadidő Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház",
-        "date": "28/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17937_2021/",
-        "main_cpv": "32300000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Árubeszerzés az Agora Nonprofit Kft. projektjeihez",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44000000",
-        "contracting_authority": "A Művelődés Háza és Könyvtára Művelődési Központ és Népfőiskola",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22699_2021/",
-        "main_cpv": "31527260-6",
-        "number_companies_win": 0,
-        "procurement_title": "AMHK színpadi hatásvilágítás eszközök beszerzése",
-        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pelyhe és Társa Kulturális, Művészeti,, Kereskedelmi és Szolgáltató Kft."
     }
 ]

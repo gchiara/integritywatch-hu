@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "44104177",
+        "contract_value": 44104177.0,
         "contracting_authority": "Biharnagybajom Községi Önkormányzat",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2379_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "AGORA épületének energetikai korszerűsítése",
-        "registered_name": "AVENTIK Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "AVENTIK Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26313232",
+        "contract_value": 26313232.0,
         "contracting_authority": "Konyár Község Önkormányzata",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18289_2019/",
         "main_cpv": "45233223-8",
         "number_companies_win": 0,
         "procurement_title": "Konyár 0100 és 0126 hrsz-ú utak felújítása",
-        "registered_name": "AVENTIK Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "AVENTIK Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51089316",
+        "contract_value": 51089316.0,
         "contracting_authority": "Konyár Község Önkormányzata",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18289_2019/",
         "main_cpv": "45233223-8",
         "number_companies_win": 0,
         "procurement_title": "Konyár 0100 és 0126 hrsz-ú utak felújítása",
-        "registered_name": "AVENTIK Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "AVENTIK Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78418930",
+        "contract_value": 78418930.0,
         "contracting_authority": "Bihartorda Községi Önkormányzat",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1043_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bihartorda, Külterületi helyi közutak fejlesztése",
-        "registered_name": "AVENTIK Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "AVENTIK Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46334141",
+        "contract_value": 46334141.0,
         "contracting_authority": "Hajdúdorog Város Önkormányzata",
         "date": "03/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22452_2020/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút kivitelezése - Böszörményi út",
-        "registered_name": "AVENTIK Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "AVENTIK Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53208222",
+        "contract_value": 53208222.0,
         "contracting_authority": "Hajdúdorog Város Önkormányzata",
         "date": "14/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22905_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés Hajdúdorogon",
-        "registered_name": "AVENTIK Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "AVENTIK Építőipari és Kereskedelmi Kft."
     }
 ]

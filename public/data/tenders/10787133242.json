@@ -1,90 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "163999764",
+        "contract_value": 163999764.0,
         "contracting_authority": "Budapesti Zsido Hitközség",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6732_2018/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "A Budapesti Zsidó Hitközség Scheiber Sándor Gimnázium, Általános Iskola és Kollégium épületének energetikai felújítási, korszerűsítési munkáinak kivitelezése",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89999246",
+        "contract_value": 89999246.0,
         "contracting_authority": "Kúria",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9522_2018/",
         "main_cpv": "45420000-7",
         "number_companies_win": 0,
         "procurement_title": "Kúria épület homlokzati nyílászárók felújítása IV. ütem",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73989124",
+        "contract_value": 73989124.0,
         "contracting_authority": "Fejér Megyei Rendőr-Főkapitányság",
         "date": "07/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8533_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Fejér Megyei Rendőr-főkapitányság Főépület nyílászáró csere",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47083586",
+        "contract_value": 47083586.0,
         "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
         "date": "27/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21502_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Tolcsvai u. 7B. Szolgáltatóház felújítás II. ütem",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "65204484",
+        "contract_value": 65204484.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "17/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23668_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épületfelújítási munkálatok",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38023178",
+        "contract_value": 38023178.0,
         "contracting_authority": "Budafok-Tétény Budapest XXII. Kerület Önkormányzata",
         "date": "19/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2867_2019/",
         "main_cpv": "45432100-5",
         "number_companies_win": 0,
         "procurement_title": "PM Hivatal – folyosói padlólap rekonstrukció",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7528090",
+        "contract_value": 7528090.0,
         "contracting_authority": "BUDAPEST KÖRNYÉKI TÖRVÉNYSZÉK",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5170_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Szentendrei Járásbíróság munkakörnyezet fejlesztése",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95237543",
+        "contract_value": 95237543.0,
         "contracting_authority": "BUDAPEST KÖRNYÉKI TÖRVÉNYSZÉK",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20524_2020/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Szentendrei JB területén irattárak kialakítása",
-        "registered_name": "RENOVIT Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "RENOVIT Építőipari Kft."
     }
 ]

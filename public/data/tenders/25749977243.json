@@ -1,46 +1,35 @@
 [
     {
-        "company_names": "Adept Enviro Korlátolt Felelősségű Társaság; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Korlátolt Felelősségű Társaság; WESSLING Hungary Környezetvédelmi, Élelmiszerbiztonsági, Egészségvédelmi és Minőségügyi Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1000000000",
-        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "company_names": "Adept Enviro Kft.; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Kft.; WESSLING Hungary Környezetvédelmi, Élelmiszerbiztonsági, Egészségvédelmi és Minőségügyi Szolgáltató Kft.",
+        "contract_value": 1000000000.0,
+        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8446_2018/",
         "main_cpv": "71900000-7",
         "number_companies_win": 3,
         "procurement_title": "Nitrokémia Zrt. működési területén az alapfeladatok teljesítéséhez szükséges mintavételezések, laboratóriumi elemzések, környezetvédelmi szakértői és tervezői feladatok elvégzése",
-        "registered_name": "Adept Enviro Korlátolt Felelősségű Társaság"
+        "registered_name": "Adept Enviro Kft."
     },
     {
         "company_names": "",
-        "contract_value": "260636864",
+        "contract_value": 260636864.0,
         "contracting_authority": "Országos Vízügyi Főigazgatóság",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18633_2019/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Gyálai Holt-Tisza kármentesítésének tényfeltárása",
-        "registered_name": "Adept Enviro Korlátolt Felelősségű Társaság"
+        "registered_name": "Adept Enviro Kft."
     },
     {
-        "company_names": "Adept Enviro Korlátolt Felelősségű Társaság; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Zártkörűen Működő Részvénytársaság; WESSLING Hungary Környezetvédelmi, Élelmiszerbiztonsági, Egészségvédelmi és Minőségügyi Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1500000000",
-        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "company_names": "Adept Enviro Kft.; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Zrt.; WESSLING Hungary Környezetvédelmi, Élelmiszerbiztonsági, Egészségvédelmi és Minőségügyi Szolgáltató Kft.",
+        "contract_value": 1500000000.0,
+        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.",
         "date": "02/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5491_2020/",
         "main_cpv": "71900000-7",
         "number_companies_win": 3,
         "procurement_title": "Laboratóriumi vizsgálatok és mintavételek",
-        "registered_name": "Adept Enviro Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Adept Enviro Korlátolt Felelősségű Társaság; GEO-LOG Környezetvédelmi és Geofizikai Kft.",
-        "contract_value": "158040000",
-        "contracting_authority": "Országos Vízügyi Főigazgatóság",
-        "date": "03/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0779_2021/",
-        "main_cpv": "76441000-6",
-        "number_companies_win": 2,
-        "procurement_title": "Monitoring kutak felülvizsgálata",
-        "registered_name": "Adept Enviro Korlátolt Felelősségű Társaság"
+        "registered_name": "Adept Enviro Kft."
     }
 ]

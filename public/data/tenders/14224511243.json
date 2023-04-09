@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "165300000",
-        "contracting_authority": "Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 165300000.0,
+        "contracting_authority": "Digitális Jólét Nonprofit Kft.",
         "date": "17/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_747_2018/",
         "main_cpv": "45212310-2",
         "number_companies_win": 0,
         "procurement_title": "A 2018. évi British Educational Training and Technology Show nemzetközi oktatástechnológiai kiállításon a magyar pavilon teljeskörű kivitelezése",
-        "registered_name": "Mobilsofa Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Mobilsofa Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116140000",
-        "contracting_authority": "MNKH Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság",
+        "contract_value": 116140000.0,
+        "contracting_authority": "MNKH Magyar Kereskedelem-fejlesztési és Promóciós Kft.",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9431_2018/",
         "main_cpv": "45212310-2",
         "number_companies_win": 0,
         "procurement_title": "A 2018. június 11-15. között Hannoverben megrendezésre kerülő CEBIT számítástechnikai szakkiállításon Magyarország stand teljes körű kivitelezése és üzemeltetése az átadott látvány és koncepció terv alapján",
-        "registered_name": "Mobilsofa Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Mobilsofa Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62500000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 62500000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4659_2020/",
         "main_cpv": "79314000-8",
         "number_companies_win": 0,
         "procurement_title": "Recski Nemzeti Emlékpark fejlesztési tanulmányok",
-        "registered_name": "Mobilsofa Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Mobilsofa Kereskedelmi és Szolgáltató Kft."
     }
 ]

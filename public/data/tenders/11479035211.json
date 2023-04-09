@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "299258148",
+        "contract_value": 299258148.0,
         "contracting_authority": "Erdészek A Vértes Értékeiért Egyesület",
         "date": "10/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12373_2019/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Ökoturisztikai látogatóközpont felújítása",
-        "registered_name": "UNIVARMIX Építőipari és Homlokzathőszigetelő Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIVARMIX Építőipari és Homlokzathőszigetelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9814605",
+        "contract_value": 9814605.0,
         "contracting_authority": "Tatabányai Törvényszék",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20819_2019/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Tetőtéri zárófödém utólagos hőszigetelése",
-        "registered_name": "UNIVARMIX Építőipari és Homlokzathőszigetelő Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIVARMIX Építőipari és Homlokzathőszigetelő Kft."
     }
 ]

@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "935349761",
-        "contracting_authority": "\"KERÉKDOMB\" Kereskedelmi és Szolgáltató Betéti Társaság",
+        "contract_value": 935349761.0,
+        "contracting_authority": "\"KERÉKDOMB\" Kereskedelmi és Szolgáltató Bt.",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19067_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nagykállóban 20 db gombaház telepítése",
-        "registered_name": "Növény-ház 2008. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Növény-ház 2008. Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69977078",
+        "contract_value": 69977078.0,
         "contracting_authority": "Nagykamarás Község Önkormányzata",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22314_2020/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdaság fejlesztése vándorfólia telepítésével",
-        "registered_name": "Növény-ház 2008. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "110302575",
-        "contracting_authority": "Besenyőtelek Községi Önkormányzat",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5536_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "BIOBES Kertészet kialakítása",
-        "registered_name": "Növény-ház 2008. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Növény-ház 2008. Kereskedelmi és Szolgáltató Kft."
     }
 ]

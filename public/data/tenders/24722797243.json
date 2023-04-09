@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "255000000",
-        "contracting_authority": "ALU-METAL-COLOR Felületkezelő Korlátolt Felelősségű Társaság",
+        "contract_value": 255000000.0,
+        "contracting_authority": "ALU-METAL-COLOR Felületkezelő Kft.",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16933_2018/",
         "main_cpv": "42900000-5",
         "number_companies_win": 0,
         "procurement_title": "Porfestő gépsor beszerzése",
-        "registered_name": "Industry-Tech Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Industry-Tech Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8990000",
-        "contracting_authority": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 8990000.0,
+        "contracting_authority": "KEVIÉP Építőipari és Kereskedelmi Kft.",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6507_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Festőműhely elszívó rendszer, szerszámgépek, fémszóró berendezés, kisgépek beszerzése",
-        "registered_name": "Industry-Tech Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Industry-Tech Szolgáltató Kft."
     }
 ]

@@ -1,145 +1,112 @@
 [
     {
         "company_names": "",
-        "contract_value": "60000000",
+        "contract_value": 60000000.0,
         "contracting_authority": "AGRÁRMINISZTÉRIUM",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3918_2018/",
         "main_cpv": "90500000-2",
         "number_companies_win": 0,
         "procurement_title": "Magyarország közigazgatási területén keletkező fogyasztói üveg csomagolási hulladék gyűjtése és hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ASCO HUNGARIA Nagykereskedelmi Korlátolt Felelősségű Társaság; Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000",
+        "company_names": "ASCO HUNGARIA Nagykereskedelmi Kft.; Egri Fém Kereskedelmi Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 20000000.0,
         "contracting_authority": "AGRÁRMINISZTÉRIUM",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5354_2018/",
         "main_cpv": "90514000-3",
         "number_companies_win": 3,
         "procurement_title": "Magyarország közigazgatási területén keletkező ipari-kereskedelmi üveg csomagolási hulladék gyűjtése és hasznosítása (kezelési kód: R5, kivéve: R12 és R13) 2017. évre, 10 részben.",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "29290000",
+        "company_names": "Egri Fém Kereskedelmi Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 29290000.0,
         "contracting_authority": "AGRÁRMINISZTÉRIUM",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5825_2018/",
         "main_cpv": "90500000-2",
         "number_companies_win": 2,
         "procurement_title": "Magyarország közigazgatási területén keletkező lakossági gyűjtésből származó üveg csomagolási hulladék hasznosítása (kezelési kód: R5, kivéve R12 és R13), 19 részben",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "50000000",
+        "company_names": "Egri Fém Kereskedelmi Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 50000000.0,
         "contracting_authority": "AGRÁRMINISZTÉRIUM",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5354_2018/",
         "main_cpv": "90514000-3",
         "number_companies_win": 2,
         "procurement_title": "Magyarország közigazgatási területén keletkező ipari-kereskedelmi üveg csomagolási hulladék gyűjtése és hasznosítása (kezelési kód: R5, kivéve: R12 és R13) 2017. évre, 10 részben.",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "80000000",
+        "company_names": "Egri Fém Kereskedelmi Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 80000000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21513_2018/",
         "main_cpv": "90514000-3",
         "number_companies_win": 2,
         "procurement_title": "Magyarország közigazgatási területén keletkező ipari-kereskedelmi üveg csomagolási hulladék gyűjtése és hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18000000",
+        "contract_value": 18000000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21553_2018/",
         "main_cpv": "90500000-2",
         "number_companies_win": 0,
         "procurement_title": "Magyarország közigazgatási területén keletkező fogyasztói üveg csomagolási hulladék gyűjtése és hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78000000",
+        "contract_value": 78000000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21553_2018/",
         "main_cpv": "90500000-2",
         "number_companies_win": 0,
         "procurement_title": "Magyarország közigazgatási területén keletkező fogyasztói üveg csomagolási hulladék gyűjtése és hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "24250000",
+        "company_names": "Egri Fém Kereskedelmi Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 24250000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21797_2018/",
         "main_cpv": "90500000-2",
         "number_companies_win": 2,
         "procurement_title": "Magyarország közigazgatási területén keletkező lakossági gyűjtésből származó üveg csomagolási hulladék hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; P. M. R. Kereskedelmi Ipari és Szolgáltató Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "26216000",
+        "company_names": "Egri Fém Kereskedelmi Kft.; P. M. R. Kereskedelmi Ipari és Szolgáltató Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 26216000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "08/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24244_2019/",
         "main_cpv": "90500000-2",
         "number_companies_win": 3,
         "procurement_title": "Üveg csomagolási hulladék hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "158600000",
+        "company_names": "Egri Fém Kereskedelmi Kft.; VITA GLASS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 158600000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24247_2019/",
         "main_cpv": "90500000-2",
         "number_companies_win": 2,
         "procurement_title": "Üveg csomagolási hulladék gyűjtése és hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; GLASS BEAR Üvegújrahasznosító Korlátolt Felelősségű Társaság; RE-GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "55574838",
-        "contracting_authority": "Technológiai és Ipari Minisztérium",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8744_2021/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 4,
-        "procurement_title": "Üveg csomagolási hulladék hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "119348255",
-        "contracting_authority": "Technológiai és Ipari Minisztérium",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8744_2021/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Üveg csomagolási hulladék hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Egri Fém Kereskedelmi Korlátolt Felelősségű Társaság; VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "134200000",
-        "contracting_authority": "Technológiai és Ipari Minisztérium",
-        "date": "23/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25195_2021/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Magyarország közigazgatási területén keletkező ipari-kereskedelmi és fogyasztói üveg csomagolási hulladék gyűjtése, hasznosítása",
-        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VITA GLASS Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "99995656",
-        "contracting_authority": "Zöld Dolmány Korlátolt Felelősségű Társaság",
+        "contract_value": 99995656.0,
+        "contracting_authority": "Zöld Dolmány Kft.",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25220_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gabonafeldolgozó építése Kisbéren 2.",
-        "registered_name": "Omnis Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Omnis Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299989977",
-        "contracting_authority": "Zöld Dolmány Korlátolt Felelősségű Társaság",
+        "contract_value": 299989977.0,
+        "contracting_authority": "Zöld Dolmány Kft.",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25221_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gabonafeldolgozó építése Kisbéren 1.",
-        "registered_name": "Omnis Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Omnis Építő Kft."
     }
 ]

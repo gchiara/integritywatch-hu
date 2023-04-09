@@ -1,266 +1,156 @@
 [
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; CSL Behring Korlátolt Felelősségű Társaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2224217651",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; CSL Behring Kft.; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Kft.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; MEDIMPEX Gyógyszer-nagykereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 2224217651.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_23754_2019/",
         "main_cpv": "33690000-3",
         "number_companies_win": 8,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "83947500",
+        "contract_value": 83947500.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24968_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "125921250",
+        "contract_value": 125921250.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24968_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "209868750",
+        "contract_value": 209868750.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24968_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "196461537",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; MEDIMPEX Gyógyszer-nagykereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 196461537.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "25/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8466_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 6,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Clear Pharma Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; FRESENIUS MEDICAL CARE Magyarország Egészségügyi Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "9321996900",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Kft.; Clear Pharma Zrt.; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Kft.; FRESENIUS MEDICAL CARE Magyarország Egészségügyi Kft.; MEDIMPEX Gyógyszer-nagykereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 9321996900.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "25/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8466_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 10,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1035470268",
+        "contract_value": 1035470268.0,
         "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13868_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 0,
         "procurement_title": "Tételes elszámolás alá eső baricitinib, tofacitinib hatóanyagot tartalmazó gyógyszerkészítmények beszerzése",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "275536800",
+        "contract_value": 275536800.0,
         "contracting_authority": "Nemzeti Népegészségügyi Központ",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18211_2020/",
         "main_cpv": "33651600-4",
         "number_companies_win": 0,
         "procurement_title": "Oltóanyagok beszerzése Nemzeti Immunizációs Program és NNK Nemzetközi Oltóközpont működtetéséhez",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1593900000",
+        "contract_value": 1593900000.0,
         "contracting_authority": "Nemzeti Népegészségügyi Központ",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18211_2020/",
         "main_cpv": "33651600-4",
         "number_companies_win": 0,
         "procurement_title": "Oltóanyagok beszerzése Nemzeti Immunizációs Program és NNK Nemzetközi Oltóközpont működtetéséhez",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "8946168000",
+        "contract_value": 8946168000.0,
         "contracting_authority": "Nemzeti Népegészségügyi Központ",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18211_2020/",
         "main_cpv": "33651600-4",
         "number_companies_win": 0,
         "procurement_title": "Oltóanyagok beszerzése Nemzeti Immunizációs Program és NNK Nemzetközi Oltóközpont működtetéséhez",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2244363340",
+        "contract_value": 2244363340.0,
         "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23242_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 0,
         "procurement_title": "Egyéb megbetegedések kezelésére szolgáló tételes elszámolás alá eső 5 hatóanyag beszerzése",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2842072658",
+        "contract_value": 2842072658.0,
         "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23242_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 0,
         "procurement_title": "Egyéb megbetegedések kezelésére szolgáló tételes elszámolás alá eső 5 hatóanyag beszerzése",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "3585438199",
+        "contract_value": 3585438199.0,
         "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23762_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 0,
         "procurement_title": "Hatóanyag beszerzése",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2762897000",
+        "contract_value": 2762897000.0,
         "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23836_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 0,
         "procurement_title": "Adalimumab hatóanyagot tartalmazó gyógyszer",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "249600000",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0674_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vérzékenység faktorkészítmények 2021.12.31-ig",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "537500000",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0674_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vérzékenység faktorkészítmények 2021.12.31-ig",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "538800000",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0674_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vérzékenység faktorkészítmények 2021.12.31-ig",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1800000000",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0674_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vérzékenység faktorkészítmények 2021.12.31-ig",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2500000000",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0674_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vérzékenység faktorkészítmények 2021.12.31-ig",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "144135502",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "27/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1078_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Tételes finanszírozású hatóanyagokat tartalmazó készítmények beszerzése",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "968298800",
-        "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
-        "date": "09/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1862_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Tételes elszámolás alá eső hatóanyagokat tartalmazó gyógyszerek",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1343341164",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2217_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 5,
-        "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; Biotest Hungaria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság",
-        "contract_value": "5337988384",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2217_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 4,
-        "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Clear Pharma Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "19680105738",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2217_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 8,
-        "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság"
+        "registered_name": "MEDIMPEX Gyógyszer-nagykereskedelmi Zrt."
     }
 ]

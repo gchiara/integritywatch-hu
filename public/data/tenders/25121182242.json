@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "678534271",
+        "contract_value": 678534271.0,
         "contracting_authority": "Széchenyi Kosárlabda Akadémia Sportegyesület",
         "date": "08/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1608_2018/",
         "main_cpv": "45212225-9",
         "number_companies_win": 0,
         "procurement_title": "Biatorbágy 110 hrsz-ú ingatlanon TAO pályázat keretében megvalósuló sportcsarnok építése",
-        "registered_name": "TOTALHOUSE HUNGARY Korlátolt Felelősségű Társaság"
+        "registered_name": "TOTALHOUSE HUNGARY Kft."
     }
 ]

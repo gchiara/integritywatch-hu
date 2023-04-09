@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "465600000",
-        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 465600000.0,
+        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft.",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_107_2018/",
         "main_cpv": "34121100-2",
         "number_companies_win": 0,
         "procurement_title": "40 db használt, két tengelyes, közösségi közlekedésre alkalmas szóló autóbusz beszerzése rövidlejáratú bérleti szerződés formájában regionális feladatok ellátására.",
-        "registered_name": "M6 L.O.G Járműkereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M6 L.O.G Járműkereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1980000000",
-        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 1980000000.0,
+        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_3880_2018/",
         "main_cpv": "34121000-1",
         "number_companies_win": 0,
         "procurement_title": "50 db használt, dízel vagy dízel-elektromos hibridüzemű M3/I. vagy M3/II. alacsony padlós vagy alacsonybelépésű, csuklós autóbusz beszerzése rövidlejáratú bérleti szerződés formájában II.",
-        "registered_name": "M6 L.O.G Járműkereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M6 L.O.G Járműkereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "950000000",
-        "contracting_authority": "PARTISCUM BUSZ Személyszállítási Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 950000000.0,
+        "contracting_authority": "PARTISCUM BUSZ Személyszállítási Kft. \"végelszámolás alatt\"",
         "date": "08/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_6503_2018/",
         "main_cpv": "34121100-2",
         "number_companies_win": 0,
         "procurement_title": "50 db használt elővárosi és regionális menetrendi feladatok ellátására alkalmas autóbusz beszerzése bérleti szerződéssel. II.",
-        "registered_name": "M6 L.O.G Járműkereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M6 L.O.G Járműkereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "16650000",
-        "contracting_authority": "ESZESVIN Borászati és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 16650000.0,
+        "contracting_authority": "ESZESVIN Borászati és Kereskedelmi Kft.",
         "date": "07/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1965_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Meglévő borászati épületek felújítása, bővítése, útfelület aszfaltozás és megújuló energiaforrást hasznosító technológiák kiépítése",
-        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "209955028",
-        "contracting_authority": "KIRÁLYHEGY-KER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 209955028.0,
+        "contracting_authority": "KIRÁLYHEGY-KER Kereskedelmi és Szolgáltató Kft.",
         "date": "14/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2106_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Új borászati üzem építése, megújuló energiahasznosító berendezések és tűzvíztároló tartály kiépítése a KIRÁLYHEGY-KER Kft. részére",
-        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "147881861",
+        "contract_value": 147881861.0,
         "contracting_authority": "Solt Város Önkormányzat",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13247_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kissolti iskola energetikai korszerűsítése",
-        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36092250",
+        "contract_value": 36092250.0,
         "contracting_authority": "Páhi Községi Önkormányzat",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24239_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda épületének energetikai fejlesztése",
-        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39273472",
+        "contract_value": 39273472.0,
         "contracting_authority": "Soltszentimre Község Önkormányzata",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0494_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai fejlesztése",
-        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43786236",
+        "contract_value": 43786236.0,
         "contracting_authority": "Soltszentimre Község Önkormányzata",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0494_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai fejlesztése",
-        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Konstruktív-B Kereskedelmi és Szolgáltató Kft."
     }
 ]

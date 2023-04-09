@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "81900000",
+        "contract_value": 81900000.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "04/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7567_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Központi Könyvtár és Hallgatói Központ tervezése",
-        "registered_name": "Gereben Marián Építészek Korlátolt Felelősségű Társaság"
+        "registered_name": "Gereben Marián Építészek Kft."
     },
     {
         "company_names": "",
-        "contract_value": "315000000",
+        "contract_value": 315000000.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "19/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13225_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Bródy Projekt generál tervezési feladatok",
-        "registered_name": "Gereben Marián Építészek Korlátolt Felelősségű Társaság"
+        "registered_name": "Gereben Marián Építészek Kft."
     }
 ]

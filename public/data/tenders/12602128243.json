@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "656512000",
+        "contract_value": 656512000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "31/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19418_2018/",
         "main_cpv": "72421000-7",
         "number_companies_win": 0,
         "procurement_title": "Elektronikus egészségügyi ágazati fejlesztések kiemelt projekt keretében képalkotó vizsgálatok kezelését támogató távegészségügyi funkciók létrehozása",
-        "registered_name": "Neumann Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Neumann Medical Kft."
     }
 ]

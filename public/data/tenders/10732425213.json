@@ -1,552 +1,387 @@
 [
     {
         "company_names": "",
-        "contract_value": "27700000",
+        "contract_value": 27700000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "06/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1294_2018/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "izotóp generátorok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "436000",
+        "contract_value": 436000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "28/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4901_2018/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése az Uzsoki Utcai Kórház részére",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "577000",
+        "contract_value": 577000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "28/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4901_2018/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése az Uzsoki Utcai Kórház részére",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19247800",
+        "contract_value": 19247800.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "17/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5299_2018/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Különféle izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16870380",
+        "contract_value": 16870380.0,
         "contracting_authority": "Nemzeti Egészségbiztosítási Alapkezelő",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8768_2018/",
         "main_cpv": "33690000-3",
         "number_companies_win": 0,
         "procurement_title": "Tételes elszámolás alá eső hatóanyagokat tartalmazó, természetben biztosítandó egyes gyógyszerek 2018-2019. finanszírozási évre történő beszerzése 6 részben",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7216800",
+        "contract_value": 7216800.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9524_2018/",
         "main_cpv": "09344000-2",
         "number_companies_win": 0,
         "procurement_title": "Az Országos Onkológiai Intézet részére különféle izotópok beszerzése adás-vételi szerződés keretében 12 hónapos határozott időtartamra",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1515000",
+        "contract_value": 1515000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22044_2019/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Különféle izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13140000",
+        "contract_value": 13140000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22044_2019/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Különféle izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19366000",
+        "contract_value": 19366000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22044_2019/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Különféle izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1152000",
+        "contract_value": 1152000.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0205_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotóp anyagok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7752000",
+        "contract_value": 7752000.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0205_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotóp anyagok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11808000",
+        "contract_value": 11808000.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0205_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotóp anyagok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70494000",
+        "contract_value": 70494000.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0205_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotóp anyagok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "272000",
+        "contract_value": 272000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4900_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "987000",
+        "contract_value": 987000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4900_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1872000",
+        "contract_value": 1872000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4900_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23716000",
+        "contract_value": 23716000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4900_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35838500",
+        "contract_value": 35838500.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5166_2020/",
         "main_cpv": "09344000-2",
         "number_companies_win": 0,
         "procurement_title": "Izotóp anyagok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15216000",
+        "contract_value": 15216000.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9183_2020/",
         "main_cpv": "09344000-2",
         "number_companies_win": 0,
         "procurement_title": "Különféle izotópok beszerzése 2019.",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27549600",
+        "contract_value": 27549600.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9183_2020/",
         "main_cpv": "09344000-2",
         "number_companies_win": 0,
         "procurement_title": "Különféle izotópok beszerzése 2019.",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16670500",
+        "contract_value": 16670500.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10903_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotóp anyagok beszerzése Szent Lázár M. Kórházba",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35984000",
+        "contract_value": 35984000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13331_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotóp generátorok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "420000",
+        "contract_value": 420000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "25/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15441_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotópdiagnosztikai anyagok beszerzése 1 évre",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "453000",
+        "contract_value": 453000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "25/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15441_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotópdiagnosztikai anyagok beszerzése 1 évre",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "841000",
+        "contract_value": 841000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "25/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15441_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotópdiagnosztikai anyagok beszerzése 1 évre",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2226000",
+        "contract_value": 2226000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "25/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15441_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotópdiagnosztikai anyagok beszerzése 1 évre",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11560000",
+        "contract_value": 11560000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "25/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15441_2020/",
         "main_cpv": "33696400-9",
         "number_companies_win": 0,
         "procurement_title": "Izotópdiagnosztikai anyagok beszerzése 1 évre",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "267000",
+        "contract_value": 267000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "286000",
+        "contract_value": 286000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "468000",
+        "contract_value": 468000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "610000",
+        "contract_value": 610000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "646000",
+        "contract_value": 646000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1036000",
+        "contract_value": 1036000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1825000",
+        "contract_value": 1825000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15595200",
+        "contract_value": 15595200.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17338_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "175150",
-        "contracting_authority": "Békés Megyei Központi Kórház",
-        "date": "02/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1847_2021/",
-        "main_cpv": "33696400-9",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "394400",
-        "contracting_authority": "Békés Megyei Központi Kórház",
-        "date": "02/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1847_2021/",
-        "main_cpv": "33696400-9",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4532000",
-        "contracting_authority": "Békés Megyei Központi Kórház",
-        "date": "02/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1847_2021/",
-        "main_cpv": "33696400-9",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22995000",
-        "contracting_authority": "Békés Megyei Központi Kórház",
-        "date": "02/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1847_2021/",
-        "main_cpv": "33696400-9",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15214000",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2409_2021/",
-        "main_cpv": "09344000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16987776",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2409_2021/",
-        "main_cpv": "09344000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19847000",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2409_2021/",
-        "main_cpv": "09344000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "784000",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "21/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6649_2021/",
-        "main_cpv": "33696400-9",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4425500",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "21/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6649_2021/",
-        "main_cpv": "33696400-9",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle izotópok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1084800",
-        "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6562_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "SzSzBMK - Izotóp-diagnosztikumok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1950000",
-        "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6562_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "SzSzBMK - Izotóp-diagnosztikumok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1038000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7306_2021/",
-        "main_cpv": "33694000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1342800",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7306_2021/",
-        "main_cpv": "33694000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16900000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7306_2021/",
-        "main_cpv": "33694000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Izotópok és radiofarmakonok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30714500",
-        "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14162_2021/",
-        "main_cpv": "09344000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Izotóp anyagok beszerzése",
-        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDINSPECT Egészségügyi - Környezetvédelmi Kereskedelmi és Szolgáltató Kft."
     }
 ]

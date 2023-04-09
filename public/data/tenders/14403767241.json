@@ -1,79 +1,79 @@
 [
     {
-        "company_names": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "39100000",
-        "contracting_authority": "Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "HÉTFA Elemző Központ Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 39100000.0,
+        "contracting_authority": "Lechner Tudásközpont Nonprofit Kft.",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19312_2017/",
         "main_cpv": "79419000-4",
         "number_companies_win": 2,
         "procurement_title": "Településképi Arculati Kézikönyvek minőségbiztosítása",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     },
     {
-        "company_names": "HBF Hungaricum Gazdasági, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; HÉTFA Elemző Központ Korlátolt Felelősségű Társaság",
-        "contract_value": "21260000",
+        "company_names": "HBF Hungaricum Gazdasági, Tanácsadó és Szolgáltató Kft.; HÉTFA Elemző Központ Kft.",
+        "contract_value": 21260000.0,
         "contracting_authority": "Külgazdasági és Külügyminisztérium",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2458_2018/",
         "main_cpv": "79410000-1",
         "number_companies_win": 2,
         "procurement_title": "Külső szakértői és tanulmányírási szolgáltatások beszerzése",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     },
     {
-        "company_names": "CreaCity Szolgáltató Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Korlátolt Felelősségű Társaság",
-        "contract_value": "600000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "CreaCity Szolgáltató Kft.; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Kft.",
+        "contract_value": 600000000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "28/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23941_2018/",
         "main_cpv": "71222100-1",
         "number_companies_win": 3,
         "procurement_title": "Budapest 2030 Terv elkészítése",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     },
     {
-        "company_names": "CreaCity Szolgáltató Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Korlátolt Felelősségű Társaság",
-        "contract_value": "176116426",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "CreaCity Szolgáltató Kft.; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Kft.",
+        "contract_value": 176116426.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "23/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13327_2019/",
         "main_cpv": "71222100-1",
         "number_companies_win": 3,
         "procurement_title": "Budapest 2030 Terv és kapcsolódó dokumentumok elkészítése és az azzal összefüggő tanácsadási feladatok elvégzése",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     },
     {
-        "company_names": "CreaCity Szolgáltató Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Korlátolt Felelősségű Társaság",
-        "contract_value": "25605248",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "CreaCity Szolgáltató Kft.; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Kft.",
+        "contract_value": 25605248.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19105_2019/",
         "main_cpv": "71222100-1",
         "number_companies_win": 3,
         "procurement_title": "Budapest 2030 Terv - 2019. harmadik negyedév",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     },
     {
-        "company_names": "CreaCity Szolgáltató Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Korlátolt Felelősségű Társaság",
-        "contract_value": "14833424",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "CreaCity Szolgáltató Kft.; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Kft.",
+        "contract_value": 14833424.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0852_2020/",
         "main_cpv": "71222100-1",
         "number_companies_win": 3,
         "procurement_title": "Budapest 2030 Terv elkészítése",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     },
     {
-        "company_names": "CreaCity Szolgáltató Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Korlátolt Felelősségű Társaság",
-        "contract_value": "1822667",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "CreaCity Szolgáltató Kft.; FŐMTERV Mérnöki Tervező Zrt.; HÉTFA Elemző Központ Kft.",
+        "contract_value": 1822667.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6522_2020/",
         "main_cpv": "71222100-1",
         "number_companies_win": 3,
         "procurement_title": "Budapest 2030 Terv elkészítése",
-        "registered_name": "HÉTFA Elemző Központ Korlátolt Felelősségű Társaság"
+        "registered_name": "HÉTFA Elemző Központ Kft."
     }
 ]

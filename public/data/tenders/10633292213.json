@@ -1,255 +1,211 @@
 [
     {
         "company_names": "",
-        "contract_value": "42000000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 42000000.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "17/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5534_2018/",
         "main_cpv": "44111900-0",
         "number_companies_win": 0,
         "procurement_title": "BKV Vasúti Járműjavító Kft. T5C5 K2 járműhöz alkatrészek beszerzése konszignációs raktár üzemeltetésével",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6456000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6456000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_4763_2018/",
         "main_cpv": "34631200-1",
         "number_companies_win": 0,
         "procurement_title": "Villamos mechanikus csatlás és alkatrészeinek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69360000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 69360000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_4763_2018/",
         "main_cpv": "34631200-1",
         "number_companies_win": 0,
         "procurement_title": "Villamos mechanikus csatlás és alkatrészeinek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23316000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 23316000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7564_2018/",
         "main_cpv": "50112110-7",
         "number_companies_win": 0,
         "procurement_title": "TW6000 típusú villamos járművek lépcsőinek javítása I.",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23316000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 23316000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7568_2018/",
         "main_cpv": "50112110-7",
         "number_companies_win": 0,
         "procurement_title": "TW6000 típusú villamos járművek lépcsőinek javítása II.",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23316000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 23316000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7571_2018/",
         "main_cpv": "50112110-7",
         "number_companies_win": 0,
         "procurement_title": "TW6000 típusú villamos járművek lépcsőinek javítása III.",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "406678240",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 406678240.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_9252_2018/",
         "main_cpv": "50112110-7",
         "number_companies_win": 0,
         "procurement_title": "TW6000 típusú villamos járművek lépcsőinek javítása",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48188070",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 48188070.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "21/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16617_2018/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Általános és különleges gumitermékek beszerzése a BKV Vasúti Járműjavító Kft. részére",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62582850",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 62582850.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "21/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16639_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés alapján Alkatrészek beszerzése ICS és KCSV villamosokhoz a BKV Vasúti Járműjavító Kft. részére",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28649312",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28649312.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "05/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23138_2019/",
         "main_cpv": "50221200-2",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járművek kardántengelyeinek javítása",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38017600",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 38017600.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "05/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23138_2019/",
         "main_cpv": "50221200-2",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járművek kardántengelyeinek javítása",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "121450000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 121450000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0443_2020/",
         "main_cpv": "34631200-1",
         "number_companies_win": 0,
         "procurement_title": "Combino vonókészülékhez alkatrészek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55800000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 55800000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "05/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1101_2020/",
         "main_cpv": "50220000-3",
         "number_companies_win": 0,
         "procurement_title": "Villamos járművek csatlásainak javítása",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16000000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 16000000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "14/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_2265_2020/",
         "main_cpv": "34210000-2",
         "number_companies_win": 0,
         "procurement_title": "Villamos járművek lépcsőelemeinek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105237600",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 105237600.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "14/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_2265_2020/",
         "main_cpv": "34210000-2",
         "number_companies_win": 0,
         "procurement_title": "Villamos járművek lépcsőelemeinek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85919600",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 85919600.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_5340_2020/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Villamosokhoz forgóváz alkatrészek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75884006",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 75884006.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10812_2020/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "CAF villamosok különféle alkatrészeinek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97153815",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 97153815.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "26/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_11036_2020/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járművekhez gumialkatrészek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "342506520",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 342506520.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "26/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_11036_2020/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Vasúti járművekhez gumialkatrészek beszerzése",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25200000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "22/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1663_2021/",
-        "main_cpv": "34600000-3",
-        "number_companies_win": 0,
-        "procurement_title": "T5C5 FŐDARAB ALKATRÉSZEK BESZERZÉSE",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10357500",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10185_2021/",
-        "main_cpv": "34631000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Alkatrészek beszerzése vasúti járművekhez",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55909590",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10184_2021/",
-        "main_cpv": "34631000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Alkatrészek beszerzése vasúti járművekhez",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4602548",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "03/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_21337_2021/",
-        "main_cpv": "34600000-3",
-        "number_companies_win": 0,
-        "procurement_title": "CAF villamosok különféle alkatrészeinek beszerzése III.",
-        "registered_name": "V-MOBILGyártó és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "V-MOBILGyártó és Szolgáltató Kft."
     }
 ]

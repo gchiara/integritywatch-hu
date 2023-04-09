@@ -1,123 +1,101 @@
 [
     {
-        "company_names": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság; PEPP AND CARS Korlátolt Felelősségű Társaság",
-        "contract_value": "7663863088",
-        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "company_names": "Díjbeszedő Holding Zrt.; PEPP AND CARS Kft.",
+        "contract_value": 7663863088.0,
+        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19107_2017/",
         "main_cpv": "90500000-2",
         "number_companies_win": 2,
         "procurement_title": "Megbízási szerződés hulladékgazdálkodási közszolgáltatási díjhátralékok követeléskezelési feladatainak ellátására",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "175440000",
+        "contract_value": 175440000.0,
         "contracting_authority": "NKM Földgázszolgáltató Zrt.",
         "date": "31/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_1424_2018/",
         "main_cpv": "79940000-5",
         "number_companies_win": 0,
         "procurement_title": "FŐGÁZ Zrt. részére a budapesti gázmérő nélküli felhasználókkal kapcsolatos díjbeszedési tevékenység.",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
-        "company_names": "Díjbeszedő Faktorház Zártkörűen Működő Részvénytársaság; Díjbeszedő Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3762438700",
-        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "company_names": "Díjbeszedő Faktorház Zrt.; Díjbeszedő Holding Zrt.",
+        "contract_value": 3762438700.0,
+        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.",
         "date": "18/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6157_2018/",
         "main_cpv": "66000000-0",
         "number_companies_win": 2,
         "procurement_title": "A fővárosi hulladékgazdálkodási közszolgáltatási díj számlázásával és visszkereset nélküli követelésértékesítésével kapcsolatos szolgáltatás",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "273149000",
-        "contracting_authority": "Nemzeti Eszközkezelő Zártkörűen működő Részvénytársaság",
+        "contract_value": 273149000.0,
+        "contracting_authority": "Nemzeti Eszközkezelő Zrt.",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0528_2019/",
         "main_cpv": "79999200-5",
         "number_companies_win": 0,
         "procurement_title": "Bérlőmenedzsmenti feladatok",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "45980000",
+        "contract_value": 45980000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "12/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2563_2019/",
         "main_cpv": "64121100-1",
         "number_companies_win": 0,
         "procurement_title": "Kézbesítési szolgáltatás",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1165747920",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1165747920.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25320_2019/",
         "main_cpv": "79999200-5",
         "number_companies_win": 0,
         "procurement_title": "Számlázás, ügyfélszolgálat, követelésvásárlás",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
-        "company_names": "Díjbeszedő Faktorház Zártkörűen Működő Részvénytársaság; Díjbeszedő Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1345055000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "company_names": "Díjbeszedő Faktorház Zrt.; Díjbeszedő Holding Zrt.",
+        "contract_value": 1345055000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25320_2019/",
         "main_cpv": "79999200-5",
         "number_companies_win": 2,
         "procurement_title": "Számlázás, ügyfélszolgálat, követelésvásárlás",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
-        "company_names": "Díjbeszedő Faktorház Zártkörűen Működő Részvénytársaság; Díjbeszedő Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "670084800",
+        "company_names": "Díjbeszedő Faktorház Zrt.; Díjbeszedő Holding Zrt.",
+        "contract_value": 670084800.0,
         "contracting_authority": "MVM Next Energiakereskedelmi Zrt.",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_2928_2020/",
         "main_cpv": "79940000-5",
         "number_companies_win": 2,
         "procurement_title": "Díjbeszedési tevékenység ellátása",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "19200000",
+        "contract_value": 19200000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "16/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6471_2020/",
         "main_cpv": "79824000-6",
         "number_companies_win": 0,
         "procurement_title": "Kézbesítési szolgáltatás",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság; Magyar Posta Zártkörűen Működő Részvénytársaság; MVM Ügyfélkapcsolati Kft.",
-        "contract_value": "3730000000",
-        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1203_2021/",
-        "main_cpv": "79940000-5",
-        "number_companies_win": 3,
-        "procurement_title": "Komplex ügyviteltámogatási feladatok ellátása",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Díjbeszedő Faktorház Zártkörűen Működő Részvénytársaság; Díjbeszedő Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3646802000",
-        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5829_2021/",
-        "main_cpv": "79999200-5",
-        "number_companies_win": 2,
-        "procurement_title": "Számlázás és követelésértékesítés – Budapest",
-        "registered_name": "Díjbeszedő Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Díjbeszedő Holding Zrt."
     }
 ]

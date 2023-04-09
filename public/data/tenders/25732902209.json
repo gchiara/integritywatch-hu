@@ -1,112 +1,57 @@
 [
     {
-        "company_names": "Bihar Generál Építő Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "281852650",
+        "company_names": "Bihar Generál Építő Kft.; Pesti Építő Zrt.",
+        "contract_value": 281852650.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12686_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Zenede épületének energetikai korszerűsítése",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Bihar Generál Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "131795978",
+        "contract_value": 131795978.0,
         "contracting_authority": "Egri Tankerületi Központ",
         "date": "12/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4369_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Általános Iskola átépítése Bélapátfalván",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Bihar Generál Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "349020825",
+        "contract_value": 349020825.0,
         "contracting_authority": "Vámospércs Városi Önkormányzat",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13833_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Művelődési Ház és a mellette lévő park felújítása 2.",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Bihar Generál Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39027570",
+        "contract_value": 39027570.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "24/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17346_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tüdőgondozó épületének energetikai felújítása",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Bihar Generál Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12734179",
+        "contract_value": 12734179.0,
         "contracting_authority": "Vámospércs Városi Önkormányzat",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22542_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Művelődési Ház mellett lévő park felújítása 3.",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "301994809",
-        "contracting_authority": "Egri Főegyházmegye",
-        "date": "22/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7022_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szent Gellért Katolikus Általános Iskola épület bővítés",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bihar Generál Építő Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "509022270",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9670_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Károlyi Mihály utcai Bölcsőde fejlesztése",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27467365",
-        "contracting_authority": "Egri Tankerületi Központ",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17992_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iskola részleges felújítása Bélapátfalván",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "171473269",
-        "contracting_authority": "Egri Tankerületi Központ",
-        "date": "29/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23231_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Infrastrukturális fejlesztések",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bihar Generál Építő Korlátolt Felelősségű Társaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1277777464",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "07/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23907_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Nyírbátori Báthori István Múzeum felújítása",
-        "registered_name": "Bihar Generál Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Bihar Generál Építő Kft."
     }
 ]

@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "244467000",
+        "contract_value": 244467000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5112_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "COVID tesztek beszerzése",
-        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Korlátolt Felelősségű Társaság"
+        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1152025227,9",
+        "contract_value": 1152025227.9,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5111_2020/",
         "main_cpv": "33157000-5",
         "number_companies_win": 0,
         "procurement_title": "Lélegeztető gépek beszerzése",
-        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Korlátolt Felelősségű Társaság"
+        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1508038000",
+        "contract_value": 1508038000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5117_2020/",
         "main_cpv": "18143000-3",
         "number_companies_win": 0,
         "procurement_title": "Védőeszközök beszerzése- B",
-        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Korlátolt Felelősségű Társaság"
+        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3015732330",
+        "contract_value": 3015732330.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5792_2020/",
         "main_cpv": "18143000-3",
         "number_companies_win": 0,
         "procurement_title": "Védőfelszerelések és COVID tesztek beszerzése",
-        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Korlátolt Felelősségű Társaság"
+        "registered_name": "CECZ Közép-európai Kereskedelmi és Logisztikai Együttműködési Övezet Kft."
     }
 ]

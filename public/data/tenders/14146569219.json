@@ -1,79 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "6000000",
+        "contract_value": 6000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7833_2018/",
         "main_cpv": "38552000-9",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27100000",
+        "contract_value": 27100000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "14/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20925_2018/",
         "main_cpv": "33124110-9",
         "number_companies_win": 0,
         "procurement_title": "Kardiális mérőrendszer beszerzése, valamint a terheléses vizsgálatok gyors telemetriás szűrő felületének kialakítása a Pécsi Tudományegyetem Felsőoktatási Intézmény Kiválósági Program keretein belül",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7901000",
+        "contract_value": 7901000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21165_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Neuro- és mozgásszervi rehabilitációs eszközpark kialakítása 2. a Pécsi Tudományegyetemen",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28000000",
+        "contract_value": 28000000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "08/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2346_2019/",
         "main_cpv": "33123200-0",
         "number_companies_win": 0,
         "procurement_title": "Életminőség fejlesztése Kelet-Magyarországon - eszközök beszerzése",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15800000",
+        "contract_value": 15800000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9593_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Egyes kutatás-fejlesztési eszközök beszerzése",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6500000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11315_2021/",
-        "main_cpv": "31640000-4",
-        "number_companies_win": 0,
-        "procurement_title": "DE SKI részére eszközbeszerzés",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22800000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "03/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14499_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Perifériás idegpályák ingerületvezetését mérő rendszer",
-        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "MSB-MET Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
     }
 ]

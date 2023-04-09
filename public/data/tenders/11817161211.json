@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "7684820",
+        "contract_value": 7684820.0,
         "contracting_authority": "Csabdi Község Önkormányzat",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18723_2017/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítésre Csabdi Községben",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "EBP Építő Group Korlátolt Felelősségű Társaság; EXTREME-PARK Környezetépítő Korlátolt Felelősségű Társaság; IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "483978576",
+        "company_names": "EBP Építő Group Kft.; EXTREME-PARK Környezetépítő Kft.; IMV Építőipari és Kereskedelmi Kft.",
+        "contract_value": 483978576.0,
         "contracting_authority": "Komárom-Esztergom Megyei Kormányhivatal",
         "date": "24/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_770_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 3,
         "procurement_title": "Komárom-Esztergom Megyei Kormányhivatal Megyeháza épületének energetikai felújítása",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "EP Konstruktív Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "699771669",
+        "company_names": "EP Konstruktív Kereskedelmi és Szolgáltató Kft.; IMV Építőipari és Kereskedelmi Kft.",
+        "contract_value": 699771669.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "17/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12063_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 2,
         "procurement_title": "Vállalkozási szerződés Az egykori MÁV szálló épületének kollégiumi célokra történő felhasználására",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "147059699",
+        "contract_value": 147059699.0,
         "contracting_authority": "Bősze Csaba",
         "date": "18/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18910_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bősze Csaba pincészetének építése",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "EP Konstruktív Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1198954669",
+        "company_names": "EP Konstruktív Kereskedelmi és Szolgáltató Kft.; IMV Építőipari és Kereskedelmi Kft.",
+        "contract_value": 1198954669.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21596_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Tatabánya Dózsakerti kollégium átalakítása",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78531013",
+        "contract_value": 78531013.0,
         "contracting_authority": "Komárom-Esztergom Megyei Kereskedelmi és Iparkamara",
         "date": "19/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2836_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "KEMKIK székház felújítása I. ütem",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "276431365",
+        "contract_value": 276431365.0,
         "contracting_authority": "Tata Város Önkormányzata",
         "date": "06/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16862_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Piac építése Tatán",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "235970810",
-        "contracting_authority": "Tata Város Önkormányzata",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9375_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tata Újhegyi Bölcsőde építése",
-        "registered_name": "IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IMV Építőipari és Kereskedelmi Kft."
     }
 ]

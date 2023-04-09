@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "48595000",
-        "contracting_authority": "Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 48595000.0,
+        "contracting_authority": "Lechner Tudásközpont Nonprofit Kft.",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_458_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "informatikai eszközök és licencek beszerzése",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110000",
+        "contract_value": 110000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "24/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7118_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Fotogrammetriai feldolgozó szoftvercsomag beszerzése (2018)",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9470000",
+        "contract_value": 9470000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "24/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7118_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Fotogrammetriai feldolgozó szoftvercsomag beszerzése (2018)",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10083000",
+        "contract_value": 10083000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "24/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7118_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Fotogrammetriai feldolgozó szoftvercsomag beszerzése (2018)",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15597000",
+        "contract_value": 15597000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "24/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7118_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Fotogrammetriai feldolgozó szoftvercsomag beszerzése (2018)",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "950000",
-        "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
-        "date": "13/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8439_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmegfigyelési Operatív Központ Szoftver biztosítása I.",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10465000",
-        "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
-        "date": "13/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8439_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmegfigyelési Operatív Központ Szoftver biztosítása I.",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18720000",
-        "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
-        "date": "13/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8439_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmegfigyelési Operatív Központ Szoftver biztosítása I.",
-        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DATAKART Mérnöki Tanácsadó, Szolgáltató és Kereskedelmi Kft."
     }
 ]

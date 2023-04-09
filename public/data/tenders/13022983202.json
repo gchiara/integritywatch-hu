@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "120000000",
-        "contracting_authority": "Harkányi Termál Rehabilitációs Centrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 120000000.0,
+        "contracting_authority": "Harkányi Termál Rehabilitációs Centrum Közhasznú Nonprofit Kft.",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13811_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "AK kezelésében álló ingatlanok karbantartása",
-        "registered_name": "POST-BAU Építési, Fenntartási és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "POST-BAU Építési, Fenntartási és Szolgáltató Kft."
     }
 ]

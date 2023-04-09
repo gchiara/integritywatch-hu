@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "44513950",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 44513950.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_3669_2018/",
         "main_cpv": "38341000-7",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "162985000",
+        "contract_value": 162985000.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9692_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "279997000",
+        "contract_value": 279997000.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9692_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "778500000",
+        "contract_value": 778500000.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12316_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "36200000",
+        "contract_value": 36200000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, Magyar Honvédség Anyagellátó Raktárbázis",
         "date": "31/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1817_2019/",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "11718000",
-        "contracting_authority": "Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11718000.0,
+        "contracting_authority": "Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zrt.",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4080_2019/",
         "main_cpv": "35113400-3",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "209638750",
+        "contract_value": 209638750.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "09/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5743_2020/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "76826412",
+        "contract_value": 76826412.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6629_2020/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "275960727",
+        "contract_value": 275960727.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6629_2020/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "129824000",
+        "contract_value": 129824000.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
         "date": "27/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9107_2020/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18890000",
+        "contract_value": 18890000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_16923_2020/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "100629200",
+        "contract_value": 100629200.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20195_2020/",
@@ -133,57 +133,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "105986000",
+        "contract_value": 105986000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "29/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24155_2020/",
         "main_cpv": "38432210-7",
         "number_companies_win": 0,
         "procurement_title": "Hordozható gázkromatográf tömegspektrométer",
-        "registered_name": "GAMMA Műszaki Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3846950",
-        "contracting_authority": "Tolna Megyei Kormányhivatal",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3504_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Alacsony Hátterű alfa/béta számláló",
-        "registered_name": "GAMMA Műszaki Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4749000",
-        "contracting_authority": "Budapest Főváros Kormányhivatala",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5619_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Gamma-spektrometriai rendszer beszerzése",
-        "registered_name": "GAMMA Műszaki Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2445000",
-        "contracting_authority": "Dunaújvárosi Egyetem",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7254_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Eszközök a RMAVL számára",
-        "registered_name": "GAMMA Műszaki Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "368940000",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
-        "date": "02/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14453_2021/",
-        "main_cpv": "35110000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Tűzoltó védőfelszerelések beszerzése",
         "registered_name": "GAMMA Műszaki Zártkörű Részvénytársaság"
     }
 ]

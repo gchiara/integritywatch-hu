@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "4309943",
+        "contract_value": 4309943.0,
         "contracting_authority": "Vejsze Kulturális Egyesület, Vésztő Város Önkormányzata",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15600_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Metykó Gyula Emlékház és Múzeum kialakítása",
-        "registered_name": "HIDEGBURKOLÁS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HIDEGBURKOLÁS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36586240",
+        "contract_value": 36586240.0,
         "contracting_authority": "Vejsze Kulturális Egyesület, Vésztő Város Önkormányzata",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15600_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Metykó Gyula Emlékház és Múzeum kialakítása",
-        "registered_name": "HIDEGBURKOLÁS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HIDEGBURKOLÁS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48226894",
+        "contract_value": 48226894.0,
         "contracting_authority": "Vésztő Város Önkormányzata",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15589_2019/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Piactér felújítása, bővítése Vésztőn",
-        "registered_name": "HIDEGBURKOLÁS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HIDEGBURKOLÁS Kereskedelmi és Szolgáltató Kft."
     }
 ]

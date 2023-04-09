@@ -1,35 +1,35 @@
 [
     {
-        "company_names": "Budapesti Műszaki és Gazdaságtudományi Egyetem; UTIBER Közúti Beruházó Kft.; VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1298000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Budapesti Műszaki és Gazdaságtudományi Egyetem; UTIBER Közúti Beruházó Kft.; VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 1298000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19638_2017/",
         "main_cpv": "71320000-7",
         "number_companies_win": 3,
         "procurement_title": "A NIF Zrt. beruházásában megvalósuló a Transzeurópai Közlekedési Hálózat - TEN-T belvízi út fejlesztéséhez kapcsolódó tervezői feladatok ellátása",
-        "registered_name": "VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59900000",
+        "contract_value": 59900000.0,
         "contracting_authority": "Közép-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "27/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3192_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Kvassay szivattyútelep tervezése",
-        "registered_name": "VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28000000",
-        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 28000000.0,
+        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Kft.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14413_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Pásztó és térsége árvízvédelmi tervezési feladatok",
-        "registered_name": "VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIZITERV CONSULT Tervező, Tanácsadó és Szolgáltató Kft."
     }
 ]

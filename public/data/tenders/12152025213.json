@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "1488041",
+        "contract_value": 1488041.0,
         "contracting_authority": "Zebegény Község Önkormányzata",
         "date": "14/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2362_2018/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Zebegény községben keletkezett 356 808 számú igénylés azonosítóval regisztrált Vis-major károk helyreállítása",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24859050",
+        "contract_value": 24859050.0,
         "contracting_authority": "Zebegény Község Önkormányzata",
         "date": "14/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2362_2018/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Zebegény községben keletkezett 356 808 számú igénylés azonosítóval regisztrált Vis-major károk helyreállítása",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "84879125",
+        "contract_value": 84879125.0,
         "contracting_authority": "Zebegény Község Önkormányzata",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12663_2018/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Zebegény Önkormányzat tulajdonában lévő Malom patak rehabilitációja",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60386360",
+        "contract_value": 60386360.0,
         "contracting_authority": "Verőce Község Önkormányzata",
         "date": "04/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8297_2019/",
         "main_cpv": "45232450-1",
         "number_companies_win": 0,
         "procurement_title": "Belterületi csapadékvíz-hálózat fejlesztése",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74802935",
+        "contract_value": 74802935.0,
         "contracting_authority": "Zebegény Község Önkormányzata",
         "date": "04/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10105_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zebegény Strandfejlesztés",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "259903310",
-        "contracting_authority": "Pécel Város Önkormányzata",
-        "date": "13/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5409_2021/",
-        "main_cpv": "45232130-2",
-        "number_companies_win": 0,
-        "procurement_title": "Csatári-dűlő településrész csapadékvíz elvezetése",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15443850",
-        "contracting_authority": "Fóti Közszolgáltató Közhasznú Nonprofit Kft.",
-        "date": "06/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12762_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Fót, csapadékvíz elvezető csatorna építése",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25508000",
-        "contracting_authority": "Fóti Közszolgáltató Közhasznú Nonprofit Kft.",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23998_2021/",
-        "main_cpv": "45223800-4",
-        "number_companies_win": 0,
-        "procurement_title": "Konténerépület kivitelezése",
-        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BÉTA-TIPP Építőipari, Szolgáltató és Kereskedelmi Kft."
     }
 ]

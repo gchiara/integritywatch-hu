@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "204871246",
+        "contract_value": 204871246.0,
         "contracting_authority": "Vép Város Önkormányzata",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19340_2017/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Vép, bölcsöde építés",
-        "registered_name": "WESTUNION-PLAN Korlátolt Felelősségű Társaság"
+        "registered_name": "WESTUNION-PLAN Kft."
     },
     {
         "company_names": "",
-        "contract_value": "81252829",
+        "contract_value": 81252829.0,
         "contracting_authority": "Táplánszentkereszt Község Önkormányzata",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7923_2018/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Ingatlanfejlesztés Táplánszentkereszten a szociális alapellátás infrastruktúrájának fejlesztése érdekében",
-        "registered_name": "WESTUNION-PLAN Korlátolt Felelősségű Társaság"
+        "registered_name": "WESTUNION-PLAN Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59199711",
+        "contract_value": 59199711.0,
         "contracting_authority": "Táplánszentkereszti Polgárőr Egyesület",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11048_2018/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Táplánszentkereszt, Művelődési ház felújítása és bővítése.",
-        "registered_name": "WESTUNION-PLAN Korlátolt Felelősségű Társaság"
+        "registered_name": "WESTUNION-PLAN Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80453326",
+        "contract_value": 80453326.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "10/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16801_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Családbarát szülészet kialakítása",
-        "registered_name": "WESTUNION-PLAN Korlátolt Felelősségű Társaság"
+        "registered_name": "WESTUNION-PLAN Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43296099",
+        "contract_value": 43296099.0,
         "contracting_authority": "Csehimindszent Község Önkormányzata",
         "date": "13/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23954_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mindszenty Ház felújítása III. ütem",
-        "registered_name": "WESTUNION-PLAN Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "142799736",
-        "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
-        "date": "06/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23962_2021/",
-        "main_cpv": "45310000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Családbarát szülészet kialakítása befejező ütem",
-        "registered_name": "WESTUNION-PLAN Korlátolt Felelősségű Társaság"
+        "registered_name": "WESTUNION-PLAN Kft."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "117438672",
+        "contract_value": 117438672.0,
         "contracting_authority": "Magyar Tudományos Akadémia Létesítménygazdálkodási Központ",
         "date": "09/02/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_1877_2018/",
@@ -11,8 +11,8 @@
         "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
     },
     {
-        "company_names": "IRUB Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; MULTEAM 360 Szolgáltató Korlátolt Felelősségű Társaság; PANNONSPORT Szervező és Marketing Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "1500000000",
+        "company_names": "IRUB Szolgáltató és Tanácsadó Kft.; MULTEAM 360 Szolgáltató Kft.; PANNONSPORT Szervező és Marketing Kft.; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
+        "contract_value": 1500000000.0,
         "contracting_authority": "Magyar Birkózók Szövetsége",
         "date": "03/07/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_10765_2018/",
@@ -22,8 +22,8 @@
         "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
     },
     {
-        "company_names": "Nemzetközi Testőr Biztonságszolgálati Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "849660000",
+        "company_names": "Nemzetközi Testőr Biztonságszolgálati Kft.; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
+        "contract_value": 849660000.0,
         "contracting_authority": "Magyar Tudományos Akadémia Létesítménygazdálkodási Központ",
         "date": "14/08/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_13718_2018/",
@@ -33,58 +33,14 @@
         "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
     },
     {
-        "company_names": "Nemzetközi Testőr Biztonságszolgálati Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "469588875",
+        "company_names": "Nemzetközi Testőr Biztonságszolgálati Kft.; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
+        "contract_value": 469588875.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "14/09/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_11049_2018/",
         "main_cpv": "79713000-5",
         "number_companies_win": 2,
         "procurement_title": "Őrzés-védelmi szolgáltatás és portaszolgálatellátására a Budapesti Gazdasági Egyetem Kereskedelmi Vendéglátóipari és Idegenforgalmi Kara (KVIK) és Külkereskedelmi Kara (KKK) tekintetében",
-        "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32545800",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "06/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_7757_2021/",
-        "main_cpv": "79713000-5",
-        "number_companies_win": 0,
-        "procurement_title": "BGE PSZK Berzsenyi Campus őrzés-védelme",
-        "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Nemzetközi Testőr Biztonságszolgálati Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "155208000",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "09/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_12775_2021/",
-        "main_cpv": "79713000-5",
-        "number_companies_win": 2,
-        "procurement_title": "BGE KVIK épületeinek őrzés-védelme",
-        "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Nemzetközi Testőr Biztonságszolgálati Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "161743027",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "09/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_12772_2021/",
-        "main_cpv": "79713000-5",
-        "number_companies_win": 2,
-        "procurement_title": "BGE KKK épületeinek őrzés-védelme",
-        "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Nemzetközi Testőr Biztonságszolgálati Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "174115302",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_13849_2021/",
-        "main_cpv": "79713000-5",
-        "number_companies_win": 2,
-        "procurement_title": "BGE PSZK és E igazgatási épület őrzés-védelme",
         "registered_name": "Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság"
     }
 ]

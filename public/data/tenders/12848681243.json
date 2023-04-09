@@ -1,90 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "38400000",
+        "contract_value": 38400000.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "09/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_243_2018/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "SwissQual gyártmányú GSM/UMTS/LTE mérőrendszer garancián túli hardver és szoftver támogatásához",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57416104",
+        "contract_value": 57416104.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "14/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13580_2018/",
         "main_cpv": "38552000-9",
         "number_companies_win": 0,
         "procurement_title": "Mérőműszerek beszerzése 2018. I. ütem egyes részei",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90699455",
+        "contract_value": 90699455.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "05/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22241_2018/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "MOBILSZOLGÁLTATÁST MÉRŐ RENDSZER FEJLESZTÉSE, TÁMOGATÁSA",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53352870",
+        "contract_value": 53352870.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "10/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0226_2020/",
         "main_cpv": "71336000-2",
         "number_companies_win": 0,
         "procurement_title": "Mobilszolgáltatás mérő rendszer támogatása",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59878125",
+        "contract_value": 59878125.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0058_2020/",
         "main_cpv": "38552000-9",
         "number_companies_win": 0,
         "procurement_title": "Mérőműszerek beszerzése 2019 I. ütem egyes részei",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "182863850",
+        "contract_value": 182863850.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0748_2020/",
         "main_cpv": "38500000-0",
         "number_companies_win": 0,
         "procurement_title": "Mobilszolgáltatás mérő rendszer fejlesztése",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "257273830,93",
-        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
-        "date": "20/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0694_2021/",
-        "main_cpv": "38552000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Mobilszolgáltatás mérő rendszer fejlesztése",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "103897494",
-        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13672_2021/",
-        "main_cpv": "38500000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Kevert módusú (Reverberation) MIMO mérőkamra",
-        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "WANDEL-SERVICES Szolgáltató és Kereskedelmi Kft."
     }
 ]

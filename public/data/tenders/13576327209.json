@@ -1,35 +1,24 @@
 [
     {
-        "company_names": "KARBON-GUARD-KER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság \"kényszertörlés alatt\"; KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "119646000",
+        "company_names": "KARBON-GUARD-KER Kereskedelmi és Szolgáltató Kft. \"kényszertörlés alatt\"; KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 119646000.0,
         "contracting_authority": "Békés Megyei Kormányhivatal",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2446_2018/",
         "main_cpv": "98341120-2",
         "number_companies_win": 2,
         "procurement_title": "Portaszolgálat biztosítása a Békés Megyei Kormányhivatal részére",
-        "registered_name": "KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "KOSZ-FALÓ Korlátolt Felelősségű Társaság; KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "130080000",
+        "company_names": "KOSZ-FALÓ Kft.; KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 130080000.0,
         "contracting_authority": "Vakok Állami Intézete",
         "date": "23/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24394_2019/",
         "main_cpv": "90910000-9",
         "number_companies_win": 2,
         "procurement_title": "Takarítási szolgáltatások",
-        "registered_name": "KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "KOSZ-FALÓ Korlátolt Felelősségű Társaság; KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "629161992",
-        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
-        "date": "03/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16697_2021/",
-        "main_cpv": "90911200-8",
-        "number_companies_win": 2,
-        "procurement_title": "Takarítási szolgáltatás a BRFK objektumaiban",
-        "registered_name": "KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KRISTÁLY-CLEAN Szolgáltató és Kereskedelmi Kft."
     }
 ]

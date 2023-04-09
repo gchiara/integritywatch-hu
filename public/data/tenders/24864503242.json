@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "400000000",
+        "contract_value": 400000000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_443_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodás SE ingatlanállományához kapcsolódó építési jellegű, eseti és ütemezett kis-, és nagyjavítási, épületkarbantartási, valamint építőmesteri, szakipari tevékenység elvégzésére II.",
-        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "289614085",
+        "contract_value": 289614085.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2210_2019/",
         "main_cpv": "45214600-6",
         "number_companies_win": 0,
         "procurement_title": "VSZÉK állatház bővítése a Nemzeti Szívprogramban",
-        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "400000000",
+        "contract_value": 400000000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "12/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2445_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Semmelweis Egyetem ingatlanállományához kapcsolódó építési jellegű, eseti kis-, és nagyjavítási, épületkarbantartási, valamint építőmesteri, szakipari tevékenység elvégzése",
-        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "350000000",
+        "contract_value": 350000000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "10/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19399_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Semmelweis Egyetem ingatlanállományához kapcsolódó építési jellegű, eseti és ütemezett kis-, és nagyjavítási, épületkarbantartási, valamint építőmesteri, szakipari tevékenység elvégzése",
-        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Exclusive ElektroBau Generálépítő és Kereskedelmi Kft."
     }
 ]

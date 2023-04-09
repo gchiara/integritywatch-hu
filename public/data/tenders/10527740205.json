@@ -1,233 +1,200 @@
 [
     {
         "company_names": "",
-        "contract_value": "37262320",
+        "contract_value": 37262320.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_179_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2018. évre",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2105000",
+        "contract_value": 2105000.0,
         "contracting_authority": "Ózdi Városüzemeltető Intézmény",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6214_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szállítási szerződés élelmiszerek beszerzésére",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7931442",
+        "contract_value": 7931442.0,
         "contracting_authority": "Felsőzsolca Város Önkormányzata",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2847_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Felsőzsolca Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85975120",
+        "contract_value": 85975120.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22756_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmezési alapanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34673035",
+        "contract_value": 34673035.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0912_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2019. évre",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "976356",
+        "contract_value": 976356.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0103_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszertermékek beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3193538",
+        "contract_value": 3193538.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0103_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszertermékek beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2448926",
+        "contract_value": 2448926.0,
         "contracting_authority": "Ózdi Városüzemeltető Intézmény",
         "date": "11/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6246_2019/",
         "main_cpv": "15130000-8",
         "number_companies_win": 0,
         "procurement_title": "Szállítási szerződés élelmiszerek beszerzésére",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50214658",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 50214658.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4554_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1035080",
+        "contract_value": 1035080.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8060300",
+        "contract_value": 8060300.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6544415",
+        "contract_value": 6544415.0,
         "contracting_authority": "Szent Borbála Idősek Otthona",
         "date": "03/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24954_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése és szállítása.",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "986077",
+        "contract_value": 986077.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1463_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése 2019/2020.",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15127732",
+        "contract_value": 15127732.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "29/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9232_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Tokaji VSz - Feldolgozott gyümölcsök és zöldségek",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "187476",
+        "contract_value": 187476.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3576984",
+        "contract_value": 3576984.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6128053",
+        "contract_value": 6128053.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33172253",
+        "contract_value": 33172253.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23533_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2021. évre",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "59252831",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3683_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6014299",
-        "contracting_authority": "Koch Róbert Kórház és Rendelőintézet",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10641_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "74000000",
-        "contracting_authority": "Tiszalöki Országos Büntetés-Végrehajtási Intézet",
-        "date": "23/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25213_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése a Tiszalöki OBVI részére",
-        "registered_name": "SeM-KER Kereskedelmi korlátolt felelősségű társaság"
+        "registered_name": "SeM-KER Kereskedelmi Kft."
     }
 ]

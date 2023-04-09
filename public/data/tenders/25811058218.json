@@ -1,167 +1,123 @@
 [
     {
         "company_names": "",
-        "contract_value": "161421049",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 161421049.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8506_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vasbetonalj javítás a MÁV Zrt. vágány hálózatán - Keretszerződés a 2018 - 2020. közötti időszakban",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "22829361",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 22829361.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9339_2018/",
         "main_cpv": "45234116-2",
         "number_companies_win": 0,
         "procurement_title": "Váltófa csere a MÁV Zrt. vágány hálózatán - Keretszerződés a 2018-2020. évekre",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "27205076",
+        "contract_value": 27205076.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1417_2019/",
         "main_cpv": "45112720-8",
         "number_companies_win": 0,
         "procurement_title": "Sportliget, 3758/2 hrsz. ingatlan fejlesztése",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
-        "company_names": "Homlok Építő Zártkörűen Működő Részvénytársaság; PRENOR Kertészeti és Parképítő Korlátolt Felelősségü Társaság",
-        "contract_value": "730773453",
+        "company_names": "Homlok Építő Zrt.; PRENOR Kertészeti és Parképítő Kft.",
+        "contract_value": 730773453.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1417_2019/",
         "main_cpv": "45112720-8",
         "number_companies_win": 2,
         "procurement_title": "Sportliget, 3758/2 hrsz. ingatlan fejlesztése",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "30758718",
+        "contract_value": 30758718.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "25/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4703_2019/",
         "main_cpv": "45112000-5, 45112441-8, 45233260-9, 45246100-4",
         "number_companies_win": 0,
         "procurement_title": "Aranypatak revitalizáció építési munkái",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "70987420",
+        "contract_value": 70987420.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6833_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Bölcsődék felújításának építési munkái V.",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "293779629",
+        "contract_value": 293779629.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6532_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Víztorony turisztikai célú fejlesztése 2018",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "3270211859",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 3270211859.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11258_2019/",
         "main_cpv": "45234100-7",
         "number_companies_win": 0,
         "procurement_title": "Szeged-HMVH tram-train - kiegészítő építési munkák",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "838140632",
+        "contract_value": 838140632.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "15/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19885_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Képtár turisztikai célú felújítása",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "299756713",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 299756713.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "16/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6543_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Törökbálint mh peronsüllyedés helyreállítás I.ütem",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2858674874",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2858674874.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_24399_2020/",
         "main_cpv": "45234100-7",
         "number_companies_win": 0,
         "procurement_title": "Szombathely-Kőszeg vasútvonal korszerűsítése",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "379830595",
-        "contracting_authority": "Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6927_2021/",
-        "main_cpv": "45213150-9",
-        "number_companies_win": 0,
-        "procurement_title": "Járműipari tesztpálya technikai épület bővítése",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1781979842",
-        "contracting_authority": "Bük Város Önkormányzata",
-        "date": "01/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9778_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Térrendezés, látogatóközpont és kilátóépítés - Bük",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "107741169",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
-        "date": "02/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14765_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Kőszeg felvételi épület kivitelezés",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "542816892",
-        "contracting_authority": "Csongrád Városi Vízilabda Sportegyesület",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21245_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kültéri sportmedence és gépészeti épület építése",
-        "registered_name": "Homlok Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Homlok Építő Zrt."
     }
 ]

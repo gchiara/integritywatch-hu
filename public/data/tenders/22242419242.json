@@ -1,90 +1,57 @@
 [
     {
-        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "615103765",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft.; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Kft.",
+        "contract_value": 615103765.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_3641_2018/",
         "main_cpv": "18100000-0",
         "number_companies_win": 2,
         "procurement_title": "Munkaruházati termékek szállítása.",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft."
     },
     {
-        "company_names": "\"Pro-Team\" Rehabilitációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság; ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "1327583314",
-        "contracting_authority": "MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Pro-Team\" Rehabilitációs Közhasznú Nonprofit Kft.; ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft.; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Kft.",
+        "contract_value": 1327583314.0,
+        "contracting_authority": "MÁV Szolgáltató Központ Zrt.",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15029_2018/",
         "main_cpv": "18110000-3",
         "number_companies_win": 3,
         "procurement_title": "Egyen- formaruházati termékek beszerzése adásvételi keretszerződés keretében",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft."
     },
     {
-        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; FŐKEFE Rehabilitációs Foglalkoztató Ipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "155905511",
+        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft.; FŐKEFE Rehabilitációs Foglalkoztató Ipari Közhasznú Nonprofit Kft.",
+        "contract_value": 155905511.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15656_2019/",
         "main_cpv": "22830000-7",
         "number_companies_win": 2,
         "procurement_title": "Tanszercsomag",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft."
     },
     {
-        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "341515210",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft.; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Kft.",
+        "contract_value": 341515210.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10796_2020/",
         "main_cpv": "18100000-0",
         "number_companies_win": 2,
         "procurement_title": "Munkaruházati termékek szállítása",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft."
     },
     {
-        "company_names": "\"Pro-Team\" Rehabilitációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság; ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "966753220",
-        "contracting_authority": "MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Pro-Team\" Rehabilitációs Közhasznú Nonprofit Kft.; ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft.; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Kft.",
+        "contract_value": 966753220.0,
+        "contracting_authority": "MÁV Szolgáltató Központ Zrt.",
         "date": "22/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12857_2020/",
         "main_cpv": "18110000-3",
         "number_companies_win": 3,
         "procurement_title": "Egyen- formaruházati termékek beszerzése",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "753963814",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_22964_2020/",
-        "main_cpv": "18110000-3",
-        "number_companies_win": 2,
-        "procurement_title": "Formaruha beszerzése kiszolgálással",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "958725465",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_19010_2021/",
-        "main_cpv": "18100000-0",
-        "number_companies_win": 2,
-        "procurement_title": "Munkaruházati termékek szállítása",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság; Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "contract_value": "1197017323",
-        "contracting_authority": "MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "27/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25487_2021/",
-        "main_cpv": "18000000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Munkaruházati termékek és pólók beszerzése",
-        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Kft."
     }
 ]

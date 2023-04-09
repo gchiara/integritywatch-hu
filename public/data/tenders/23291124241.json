@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "88800000",
+        "contract_value": 88800000.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20035_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "FESZ új épületrész és meglévő épület tervezése",
-        "registered_name": "B3 Építész Stúdió Korlátolt Felelősségű Társaság"
+        "registered_name": "B3 Építész Stúdió Kft."
     }
 ]

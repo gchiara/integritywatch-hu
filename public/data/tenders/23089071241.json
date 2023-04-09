@@ -1,24 +1,24 @@
 [
     {
-        "company_names": "eNET Internetkutató és Tanácsadó Kft.; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; Omnit Solutions Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "289775000",
+        "company_names": "eNET Internetkutató és Tanácsadó Kft.; i-Cell Mobilsoft Zrt.; Omnit Solutions Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 289775000.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4471_2020/",
         "main_cpv": "72230000-6",
         "number_companies_win": 3,
         "procurement_title": "Publikációs felület megvalósítása",
-        "registered_name": "Omnit Solutions Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Omnit Solutions Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Compliance Data Systems Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Omnit Solutions Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; REMEDIOS Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "17400000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ATOS Magyarország Kft.; BRAVONET Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; Compliance Data Systems Kft.; Delta Systems Kft.; FORNAX SI Nagyvállalati Megoldások Kft.; Grepton Informatikai Zrt.; i-Cell Mobilsoft Zrt.; Invigor Informatika Kft.; NETvisor Informatikai és Kommunikációs Zrt.; Omnit Solutions Szolgáltató és Kereskedelmi Kft.; REMEDIOS Zrt.; Soloron 40 Zrt.; Sysman Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft.",
+        "contract_value": 17400000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "04/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19987_2020/",
         "main_cpv": "72268000-1",
         "number_companies_win": 20,
         "procurement_title": "Meglévő Oracle licencek bővítése (OLIC20)",
-        "registered_name": "Omnit Solutions Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Omnit Solutions Szolgáltató és Kereskedelmi Kft."
     }
 ]

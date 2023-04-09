@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "161783275",
-        "contracting_authority": "NYÍREGYHÁZA SPARTACUS FOOTBALL CLUB Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 161783275.0,
+        "contracting_authority": "NYÍREGYHÁZA SPARTACUS FOOTBALL CLUB Szolgáltató Kft.",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22013_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Labdarúgó Akadémia tervezési feladatainak ellátása",
-        "registered_name": "NOGART Mérnöki Iroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "182853250",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "01/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12002_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Spartacus-Bozsik József Labdarúgó Akadémia örökösföldi edzőközpont megvalósítása - engedélyezési és kivitelezési tervdokumentáció elkészítése",
-        "registered_name": "NOGART Mérnöki Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "NOGART Mérnöki Iroda Kft."
     }
 ]

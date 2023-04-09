@@ -1,244 +1,178 @@
 [
     {
         "company_names": "",
-        "contract_value": "34928370",
+        "contract_value": 34928370.0,
         "contracting_authority": "Kecskeméti Katona József Múzeum",
         "date": "10/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_366_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Kecskeméti Katona József Múzeum tetőszerkezetének, valamint főbejáratának felújítására",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "180159050",
-        "contracting_authority": "Felső-Bácskai Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 180159050.0,
+        "contracting_authority": "Felső-Bácskai Hulladékgazdálkodási Nonprofit Kft.",
         "date": "18/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6474_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés keretében iroda- és szociális épület bővítése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80749586",
+        "contract_value": 80749586.0,
         "contracting_authority": "Kunadacs Község Önkormányzata",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14226_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kunadacs-Ladánybene Általános Iskola energetikai felújítási munkálatainak kivitelezése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15155536",
+        "contract_value": 15155536.0,
         "contracting_authority": "Kunadacs Község Önkormányzata",
         "date": "28/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17512_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kunadacsi Igazgyöngy Óvoda felújítási munkái",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "56279134",
+        "contract_value": 56279134.0,
         "contracting_authority": "Dunamelléki Református Egyházkerület",
         "date": "05/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17674_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Lajosmizsei Református Templom felújítása",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29975411",
+        "contract_value": 29975411.0,
         "contracting_authority": "Bischitz Johanna Integrált Humán Szolgáltató Központ",
         "date": "10/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20212_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Vörösmarty utca 14 Gyermekorvosi rendelő felújítás",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "237952903",
+        "contract_value": 237952903.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23985_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Árpádvárosi bölcsőde infrastrukturális fejlesztése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67999361",
+        "contract_value": 67999361.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24272_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Felújítási munkák (Újlak, Zoborhegy)",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46994982",
+        "contract_value": 46994982.0,
         "contracting_authority": "Kunadacs Község Önkormányzata",
         "date": "28/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11936_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda energetikai felújítása és parkoló kialakítás",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95057462",
+        "contract_value": 95057462.0,
         "contracting_authority": "Izsák Város Önkormányzata",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19317_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egészségház energetikai korszerűsítése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "125015878",
+        "contract_value": 125015878.0,
         "contracting_authority": "Izsák Város Önkormányzata",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19317_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egészségház energetikai korszerűsítése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21425250",
+        "contract_value": 21425250.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21609_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Árpádvárosi bölcsőde Egyetértés u. óvoda felújítás",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "258875145",
+        "contract_value": 258875145.0,
         "contracting_authority": "Izsák Város Önkormányzata",
         "date": "11/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3701_2020/",
         "main_cpv": "45215200-9",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde fejlesztése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "187498402",
+        "contract_value": 187498402.0,
         "contracting_authority": "Szabadszállás Város Önkormányzata",
         "date": "29/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7502_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szabadszállási bölcsöde bővítés",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34870387",
+        "contract_value": 34870387.0,
         "contracting_authority": "Tiszaug Község Önkormányzata",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8557_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Szociális intézmény energetikai felújítása",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "295000000",
+        "contract_value": 295000000.0,
         "contracting_authority": "NEUMANN JÁNOS EGYETEM",
         "date": "05/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9629_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Karbantartás, felújítás",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "195603784",
-        "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5730_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Puszta kapuja fogadóépület tervezés, kivitelezés",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "289881971",
-        "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9562_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Új kétcsoportos bölcsőde építése Katonatelepen",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "98140408",
-        "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
-        "date": "13/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15612_2021/",
-        "main_cpv": "45213240-7",
-        "number_companies_win": 0,
-        "procurement_title": "Páhi és Bösztörpuszta kivitelezés",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "78275734",
-        "contracting_authority": "Dunaújvárosi Egyetem",
-        "date": "14/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17671_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési kivitelezés - DUE-PKK",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "193745750",
-        "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
-        "date": "26/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20713_2021/",
-        "main_cpv": "45211100-0",
-        "number_companies_win": 0,
-        "procurement_title": "Natura 2000 vizes élőhelyek bemutatása II.",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "63441150",
-        "contracting_authority": "Kunszállás Község Önkormányzata",
-        "date": "04/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21594_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Mini bölcsőde kivitelezése",
-        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERÁL CENTRÁL Építőipari és Kereskedelmi Kft."
     }
 ]

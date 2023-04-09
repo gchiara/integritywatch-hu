@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "69448876",
-        "contracting_authority": "SHS-ÉPÍTŐ Tervező és Kivitelező Korlátolt Felelősségű Társaság",
+        "contract_value": 69448876.0,
+        "contracting_authority": "SHS-ÉPÍTŐ Tervező és Kivitelező Kft.",
         "date": "08/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12544_2019/",
         "main_cpv": "43310000-9",
         "number_companies_win": 0,
         "procurement_title": "Gyártókapacitásnöveléshez kapcsolódó eszközbeszerzés",
-        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69321110",
-        "contracting_authority": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 69321110.0,
+        "contracting_authority": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft.",
         "date": "15/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22160_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Izsépker Plusz Kft. eszközbeszerzése",
-        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11609485",
-        "contracting_authority": "V & PERIKO Kereskedelmi Szolgáltató és Ingatlanhasznosító Korlátolt Felelősségű Társaság",
+        "contract_value": 11609485.0,
+        "contracting_authority": "V & PERIKO Kereskedelmi Szolgáltató és Ingatlanhasznosító Kft.",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0383_2020/",
         "main_cpv": "43300000-6",
         "number_companies_win": 0,
         "procurement_title": "Építőipari gépek beszerzése V&Periko Kft. részére",
-        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "274586697",
-        "contracting_authority": "SIGNUM ALFA TEAM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 274586697.0,
+        "contracting_authority": "SIGNUM ALFA TEAM Kereskedelmi és Szolgáltató Kft.",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3981_2020/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés GINOP projekt keretében",
-        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "96403500",
-        "contracting_authority": "Pétervására Városi Önkormányzat",
-        "date": "14/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23974_2021/",
-        "main_cpv": "43300000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Betonelemgyártó gép és tartozékainak beszerzése",
-        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Euromixer Trade Betonipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

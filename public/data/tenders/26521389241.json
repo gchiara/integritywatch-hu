@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "Destination Consulting Zártkörűen Működő Részvénytársaság; PricewaterhouseCoopers Magyarország Korlátolt Felelősségű Társaság",
-        "contract_value": "535043250",
-        "contracting_authority": "Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Destination Consulting Zrt.; PricewaterhouseCoopers Magyarország Kft.",
+        "contract_value": 535043250.0,
+        "contracting_authority": "Magyar Turisztikai Ügynökség Zrt.",
         "date": "15/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25139_2019/",
         "main_cpv": "72221000-0",
         "number_companies_win": 2,
         "procurement_title": "Turisztikai attrakciók minősítési feltételrendszerének kialakítása",
-        "registered_name": "Destination Consulting Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Destination Consulting Zrt."
     }
 ]

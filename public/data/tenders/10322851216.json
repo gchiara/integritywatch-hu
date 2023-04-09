@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "30741274",
+        "contract_value": 30741274.0,
         "contracting_authority": "Karcag Városi Önkormányzat",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1685_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "67818274",
+        "contract_value": 67818274.0,
         "contracting_authority": "Karcag Városi Önkormányzat",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1685_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "49765258",
+        "contract_value": 49765258.0,
         "contracting_authority": "Karcag Városi Önkormányzat",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2724_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "106559615",
+        "contract_value": 106559615.0,
         "contracting_authority": "Karcag Városi Önkormányzat",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2724_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25191202",
+        "contract_value": 25191202.0,
         "contracting_authority": "Városi Önkormányzat Városgondnoksága",
         "date": "28/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4696_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "39857976",
+        "contract_value": 39857976.0,
         "contracting_authority": "Kisújszállás Város Önkormányzata",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20800_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "191450572",
+        "contract_value": 191450572.0,
         "contracting_authority": "Kisújszállás Város Önkormányzata",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20718_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "226910609",
+        "contract_value": 226910609.0,
         "contracting_authority": "Kisújszállás Város Önkormányzata",
         "date": "22/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3258_2019/",
@@ -89,35 +89,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "54990773",
+        "contract_value": 54990773.0,
         "contracting_authority": "Kunmadarasi Református Általános Iskola",
         "date": "25/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22643_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "NÉPSZER Nagykunsági Építő Szerelő Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "448499585",
-        "contracting_authority": "Kisújszállás Város Önkormányzata",
-        "date": "04/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24691_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építése Kisújszálláson",
-        "registered_name": "NÉPSZER Nagykunsági Építő Szerelő Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33052124",
-        "contracting_authority": "Tiszántúli Református Egyházkerület",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2699_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Megbékélés Háza fejlesztése",
         "registered_name": "NÉPSZER Nagykunsági Építő Szerelő Kft"
     }
 ]

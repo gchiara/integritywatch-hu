@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "457834000",
+        "contract_value": 457834000.0,
         "contracting_authority": "MVM Égáz-Dégáz Földgázhálózati Zrt.",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_8024_2020/",
         "main_cpv": "45333200-2",
         "number_companies_win": 0,
         "procurement_title": "Gázmérő hitelesítési csere",
-        "registered_name": "BK Energy Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "77967500",
-        "contracting_authority": "MVM Égáz-Dégáz Földgázhálózati Zrt., MVM Főgáz Földgázhálózati Kft.",
-        "date": "22/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_22536_2021/",
-        "main_cpv": "65200000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Gázmérő kikapcsolás és mérési hely megszüntetés",
-        "registered_name": "BK Energy Korlátolt Felelősségű Társaság"
+        "registered_name": "BK Energy Kft."
     }
 ]

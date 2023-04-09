@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "132215672",
+        "contract_value": 132215672.0,
         "contracting_authority": "Hódmezővásárhely-Ótemplomi Református Egyházközség",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6142_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Aranyossy Ágoston Református Óvoda és Általános Iskola épületének energetikai felújítása",
-        "registered_name": "K-BAUWERK Építő-, és Szerelőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "K-BAUWERK Építő-, és Szerelőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40940620",
+        "contract_value": 40940620.0,
         "contracting_authority": "Ruzsa Község Önkormányzata",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8624_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "BÖLCSŐDE FEJLESZTÉSE RUZSÁN",
-        "registered_name": "K-BAUWERK Építő-, és Szerelőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "K-BAUWERK Építő-, és Szerelőipari Kft."
     }
 ]

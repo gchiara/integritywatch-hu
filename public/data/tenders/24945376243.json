@@ -1,112 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "83633998",
+        "contract_value": 83633998.0,
         "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15153_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ideiglenes tantermek létesítése és bérbeadása a Szigetszentmiklósi Tankerületi Központ fenntartásában lévő Szigetszentmiklósi Ádám Jenő Általános Iskola és Alapfokú Művészeti Iskola részére vállalkozási szerződés keretében",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57732661",
+        "contract_value": 57732661.0,
         "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
         "date": "08/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14777_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szigetszentmiklósi Ádám Jenő Zeneiskola bővítése",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "195601874",
+        "contract_value": 195601874.0,
         "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
         "date": "15/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15443_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dunaharaszti II. Rákóczi F. Általános Iskola bővítése",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "198320684",
+        "contract_value": 198320684.0,
         "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
         "date": "25/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19827_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szigetszentmiklósi Kardos iskola férőhelybővítése",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45336700",
+        "contract_value": 45336700.0,
         "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_14560_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Délegyháza - Rákóczi úti férőhely bővítés",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "220405670",
+        "contract_value": 220405670.0,
         "contracting_authority": "Kelet-Pesti Tankerületi Központ",
         "date": "05/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18003_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőrösi Csoma Általános Iskola férőhely bővítés",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "62327980",
-        "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
-        "date": "06/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24123_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Konduktív Óvoda bővítés Dunavarsány",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "344075685",
-        "contracting_authority": "Szigetszentmiklósi Tankerületi Központ",
-        "date": "17/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25110_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Délegyházi konténeriskola I. ütem",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "602495000",
-        "contracting_authority": "Monori Tankerületi Központ",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24952_2021/",
-        "main_cpv": "44619000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Egyedileg gyártott konténerek beszerzése",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "839485000",
-        "contracting_authority": "Monori Tankerületi Központ",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24952_2021/",
-        "main_cpv": "44619000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Egyedileg gyártott konténerek beszerzése",
-        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GST GENERÁL Kereskedelmi és Szolgáltató Kft."
     }
 ]

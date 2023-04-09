@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "28100000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28100000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4344_2018/",
         "main_cpv": "45330000-9",
         "number_companies_win": 0,
         "procurement_title": "Automata átemelő telepek rekonstrukciója",
-        "registered_name": "MOTTÓ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MOTTÓ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28530000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28530000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4344_2018/",
         "main_cpv": "45330000-9",
         "number_companies_win": 0,
         "procurement_title": "Automata átemelő telepek rekonstrukciója",
-        "registered_name": "MOTTÓ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MOTTÓ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "297000000",
-        "contracting_authority": "PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 297000000.0,
+        "contracting_authority": "PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zrt.",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2370_2019/",
         "main_cpv": "45232420-2",
         "number_companies_win": 0,
         "procurement_title": "Csorna szennyvíztelep ipari előtisztító fejlesztés",
-        "registered_name": "MOTTÓ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MOTTÓ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42490000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Korlátolt Felelősségű Társaság",
+        "contract_value": 42490000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Kft.",
         "date": "05/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1655_2020/",
         "main_cpv": "45252127-4",
         "number_companies_win": 0,
         "procurement_title": "Barcika téri szennyvízátemelő felújítása",
-        "registered_name": "MOTTÓ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MOTTÓ Építőipari Kft."
     }
 ]

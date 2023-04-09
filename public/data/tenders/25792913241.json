@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "373281095",
+        "contract_value": 373281095.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "10/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9722_2020/",
         "main_cpv": "34731700-7",
         "number_companies_win": 0,
         "procurement_title": "AS-350B típusú helikopterek fenntartása 2020-2022",
-        "registered_name": "AERO-IDAG Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45481224",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "08/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0066_2021/",
-        "main_cpv": "18444200-5",
-        "number_companies_win": 0,
-        "procurement_title": "Hajózó sisak beszerzése",
-        "registered_name": "AERO-IDAG Korlátolt Felelősségű Társaság"
+        "registered_name": "AERO-IDAG Kft."
     }
 ]

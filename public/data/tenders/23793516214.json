@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "129030136",
+        "contract_value": 129030136.0,
         "contracting_authority": "Fonyód Város Önkormányzata",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4248_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Fonyód, Fő u. 25-27 számú épületének felújítása II",
-        "registered_name": "KAPOS HAUSBAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KAPOS HAUSBAU Építőipari és Kereskedelmi Kft."
     }
 ]

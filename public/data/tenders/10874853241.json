@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "361295512,2",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 361295512.2,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_11659_2018/",
         "main_cpv": "50222000-7",
         "number_companies_win": 0,
         "procurement_title": "480 sorozatú mozdony vákuumos főmegszakítójának karbantartása",
-        "registered_name": "REALKER Műszaki Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "REALKER Műszaki Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "148932160",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 148932160.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "07/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_19687_2018/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Zöldhurokhoz beépítési komponensek beszerzése",
-        "registered_name": "REALKER Műszaki Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "REALKER Műszaki Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7024600",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 7024600.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11090_2019/",
         "main_cpv": "44111900-0",
         "number_companies_win": 0,
         "procurement_title": "T5C5 K2 járműhöz alkatrészek beszerzése",
-        "registered_name": "REALKER Műszaki Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3863530",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "27/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18975_2021/",
-        "main_cpv": "34630000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Alkatrészek beszerzése 2021",
-        "registered_name": "REALKER Műszaki Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "REALKER Műszaki Kereskedelmi Kft."
     }
 ]

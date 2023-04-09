@@ -1,981 +1,673 @@
 [
     {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOPHONE Korlátolt Felelősségű Társaság; CSŐKESOR Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; Magyar Telekom Távközlési Nyilvánosan Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1000000000",
+        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVOPHONE Kft.; CSŐKESOR Kereskedelmi és Szolgáltató Kft.; Invitech Megoldások Zrt.; Magyar Telekom Távközlési Nyrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; T-Systems Magyarország Zrt.",
+        "contract_value": 1000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "06/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1775_2018/",
         "main_cpv": "32250000-0",
         "number_companies_win": 7,
         "procurement_title": "Mobiltelefonok beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "405350000",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "contract_value": 405350000.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_2644_2018/",
         "main_cpv": "50310000-1",
         "number_companies_win": 0,
         "procurement_title": "Kisteljesítményű multifunkciós eszközök beszerzése és üzemeltetése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "791440625",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "contract_value": 791440625.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_2642_2018/",
         "main_cpv": "50310000-1",
         "number_companies_win": 0,
         "procurement_title": "Nagyteljesítményű multifunkciós eszközök beszerzése és üzemeltetése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "337730195",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "contract_value": 337730195.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_3270_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Eredeti kellékanyagok szállítása 2017.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "APIS LOGISTIC Szolgáltató Korlátolt Felelősségű Társaság; AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Atlantis Rendszerház Korlátolt Felelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CTS Kft.; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Debreceni Irodarendszer Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DÉLI PART Ingatlanhasznosító Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NADCOM Informatikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Saldo Kft.; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; UNICOMP Informatikai Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6000000000",
+        "company_names": "APIS LOGISTIC Szolgáltató Kft.; AP-OFFICE Kereskedelmi és Tanácsadó Kft.; Atlantis Rendszerház Kft.; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVOVISUAL Kft.; CTS Kft.; Danka Irodatechnikai Kft.; Debreceni Irodarendszer Kereskedelmi és Szolgáltató Kft.; DÉLI PART Ingatlanhasznosító Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; I-COM IRODAELLÁTÁS Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Invitech Megoldások Zrt.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; M & S Informatikai Zrt.; NADCOM Informatikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.; Quality Intelligence Kft.; RevoSmart Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Saldo Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; TONEXT Kereskedelmi és Szolgáltató Kft.; UNICOMP Informatikai Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 6000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 33,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; C + F PROFESSIONAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; Technotrade Solution & Capital Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "8000000000",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; C + F PROFESSIONAL Kereskedelmi és Szolgáltató Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Invitech Megoldások Zrt.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; M & S Informatikai Zrt.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; Szervízpark Szolgáltató és Tanácsadó Kft.; Technotrade Solution & Capital Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 8000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 28,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; CENTER COMPUTER Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DELTA SYSTEM Informatikai és Kereskedelmi Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Korlátolt Felelősségű Társaság; Infocopy Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Piackutató és Kereskedelmi Korlátolt Felelősségű társaság.; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RENDESWEB Fejlesztési és Tanácsadó Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "9500000000",
+        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; CANON HUNGARIA Kereskedelmi Kft.; CENTER COMPUTER Számítástechnikai Kereskedelmi Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Informatika Kereskedelmi és Szolgáltató Zrt.; Delta Services Kereskedelmi és Szolgáltató Kft.; DELTA SYSTEM Informatikai és Kereskedelmi Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Kft.; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Kft.; Infocopy Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; LÉZER Irodatechnika Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MFP Applications Szoftverfejlesztő Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Pegasus Piackutató és Kereskedelmi Kft..; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; Quality Intelligence Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RENDESWEB Fejlesztési és Tanácsadó Kft.; RevoSmart Kft.; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; WALLITRADE Kereskedelmi és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 9500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 54,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18000000",
-        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 18000000.0,
+        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3409_2019/",
         "main_cpv": "30121100-4",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatók bérlete és üzemeltetése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "989000",
+        "contract_value": 989000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5185_2019/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "999708",
+        "contract_value": 999708.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5185_2019/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2054100",
+        "contract_value": 2054100.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11567_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 0,
         "procurement_title": "Asztali multifunkciós nyomtatók és asztali nyomtatók beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2474800",
+        "contract_value": 2474800.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11567_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 0,
         "procurement_title": "Asztali multifunkciós nyomtatók és asztali nyomtatók beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2546100",
+        "contract_value": 2546100.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11567_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 0,
         "procurement_title": "Asztali multifunkciós nyomtatók és asztali nyomtatók beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "144557712",
+        "contract_value": 144557712.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12424_2019/",
         "main_cpv": "79810000-5",
         "number_companies_win": 0,
         "procurement_title": "Dokumentumelőllítási és szkennelési feladatok",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6868",
+        "contract_value": 6868.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13118_2019/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatási kellékanyagok beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24768859",
+        "contract_value": 24768859.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12798_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 0,
         "procurement_title": "Speciális célú nyomtatási eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2294180",
+        "contract_value": 2294180.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "25/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20745_2019/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Képmegjelenítő eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1396000",
+        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; EURO ONE Számítástechnikai Zrt.",
+        "contract_value": 1396000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20430_2019/",
         "main_cpv": "32322000-6",
         "number_companies_win": 2,
         "procurement_title": "Digitális vizuáltechnológiai eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "637500",
+        "contract_value": 637500.0,
         "contracting_authority": "Eszterházy Károly Egyetem",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21986_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése uniós forrásból",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38833800",
+        "contract_value": 38833800.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22305_2019/",
         "main_cpv": "38520000-6",
         "number_companies_win": 0,
         "procurement_title": "Hálózati dokumentumszkennerek beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "13/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24026_2019/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Kellékanyagok szállítása és helyszíni cseréje",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "700484",
+        "contract_value": 700484.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25230_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "IKT eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1026_2020/",
         "main_cpv": "50313200-4",
         "number_companies_win": 0,
         "procurement_title": "CANON multifunkciós berendezések üzemeltetése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30693399",
+        "contract_value": 30693399.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1886_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 0,
         "procurement_title": "Multifunkciós nyomtatók beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1270200",
+        "contract_value": 1270200.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1559912",
+        "contract_value": 1559912.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2247140",
+        "contract_value": 2247140.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2890000",
+        "contract_value": 2890000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3270000",
+        "contract_value": 3270000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4751262",
+        "contract_value": 4751262.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3487609",
+        "contract_value": 3487609.0,
         "contracting_authority": "Debreceni Tankerületi Központ",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3410_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök - EFOP",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4746000",
+        "contract_value": 4746000.0,
         "contracting_authority": "Gyulai Szakképzési Centrum",
         "date": "11/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3968_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Interaktív kijelzők beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3239856",
+        "contract_value": 3239856.0,
         "contracting_authority": "Magyar Nemzeti Levéltár",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6771_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikaieszközök beszerzése EFOP finanszírozás",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "319696",
-        "contracting_authority": "HCEMM Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 319696.0,
+        "contracting_authority": "HCEMM Nonprofit Kft.",
         "date": "28/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9394_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a HCEMM Kft-nek.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2002165",
-        "contracting_authority": "HCEMM Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 2002165.0,
+        "contracting_authority": "HCEMM Nonprofit Kft.",
         "date": "28/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9394_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a HCEMM Kft-nek.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4507999",
+        "contract_value": 4507999.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "09/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9734_2020/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "IT, mikroszkóp, AV rendszer, drón alkatrész, bútor",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120000000",
+        "contract_value": 120000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "14/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12277_2020/",
         "main_cpv": "31530000-0",
         "number_companies_win": 0,
         "procurement_title": "Izzók és fénycsövek beszerzése a KEF részére",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "159780",
+        "contract_value": 159780.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12897_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai termékek és ahhoz kapcsolódó szolgáltatások beszerzése dinamikus beszerzési rendszer keretében az Eötvös Loránd Tudományegyetem részére",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1779500",
+        "contract_value": 1779500.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12897_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai termékek és ahhoz kapcsolódó szolgáltatások beszerzése dinamikus beszerzési rendszer keretében az Eötvös Loránd Tudományegyetem részére",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "478870",
+        "contract_value": 478870.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13048_2020/",
         "main_cpv": "30236000-2",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP projektekben",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1668760",
+        "contract_value": 1668760.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13048_2020/",
         "main_cpv": "30236000-2",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP projektekben",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2396480",
+        "contract_value": 2396480.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13048_2020/",
         "main_cpv": "30236000-2",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP projektekben",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5587800",
+        "contract_value": 5587800.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13048_2020/",
         "main_cpv": "30236000-2",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP projektekben",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EXISTORE Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "2060926653",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; Delta Systems Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO ONE Számítástechnikai Zrt.; EXISTORE Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
+        "contract_value": 2060926653.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 21,
         "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MEDIUM Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3925756741",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 3925756741.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 22,
         "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1594452",
+        "contract_value": 1594452.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "24/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14955_2020/",
         "main_cpv": "30120000-6",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatók beszerzése pályázati forrásból",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "905921322",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; Delta Informatika Kereskedelmi és Szolgáltató Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MFP Applications Szoftverfejlesztő Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Pegasus Informatikai Kft.; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 905921322.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17242_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 9,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "103000",
+        "contract_value": 103000.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "06/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18105_2020/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai és audiovizuális eszközök, szoftverek",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21202113",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "contract_value": 21202113.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17822_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 0,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11960",
+        "contract_value": 11960.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20066_2020/",
         "main_cpv": "30124300-7",
         "number_companies_win": 0,
         "procurement_title": "Országos kellékanyag beszerzés",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "893607",
+        "contract_value": 893607.0,
         "contracting_authority": "KISKŐRÖSI TANKERÜLETI KÖZPONT",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19872_2020/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés EFOP412 pályázatokhoz",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2628329",
+        "contract_value": 2628329.0,
         "contracting_authority": "KISKŐRÖSI TANKERÜLETI KÖZPONT",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19872_2020/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés EFOP412 pályázatokhoz",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "33779497",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; EURO ONE Számítástechnikai Zrt.",
+        "contract_value": 33779497.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19217_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 2,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSTYLE Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "12061555438",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALBACOMP SH Szoftverház Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; iSTYLE Hungary Kereskedelmi és Szolgáltató Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 12061555438.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 40,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ADATKÖZPONT Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "55101615043",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ADATKÖZPONT Kft.; ALBACOMP SH Szoftverház Kft.; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; DOKUCENTRUM Irodai Rendszerek Kft.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; IMG Solution Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invigor Informatika Kft.; Invitech ICT Services Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; MACROTEL Telefontechnikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 55101615043.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 53,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8488458",
+        "contract_value": 8488458.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20774_2020/",
         "main_cpv": "32322000-6",
         "number_companies_win": 0,
         "procurement_title": "Projektorok, interaktív kijelzők beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "258900",
+        "contract_value": 258900.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "01/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22098_2020/",
         "main_cpv": "30213100-6",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök, szoftver beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1118000",
+        "contract_value": 1118000.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "01/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22098_2020/",
         "main_cpv": "30213100-6",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök, szoftver beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "362000000",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "contract_value": 362000000.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_22712_2020/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Eredeti kellékanyagok beszerzése nyomtatóhoz",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15000000",
+        "contract_value": 15000000.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23962_2020/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Kellékanyagok szállítása és helyszíni cseréje",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5704527",
+        "contract_value": 5704527.0,
         "contracting_authority": "NEMZETI ADATVÉDELMI ÉS INFORMÁCIÓSZABADSÁG HATÓSÁG",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24426_2020/",
         "main_cpv": "32320000-2",
         "number_companies_win": 0,
         "procurement_title": "Vizuáltechnikai eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "170219285",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2179_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 5,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Alpha-ess Hungary Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "54177056",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1684_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 8,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "110000000",
-        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2774_2021/",
-        "main_cpv": "39700000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Háztartási gépek beszerzése 2020-2022.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "105000000",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3125_2021/",
-        "main_cpv": "30125100-2",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok vegyes gyártmányú nyomtatókhoz",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3751800",
-        "contracting_authority": "Budapest Főváros Főpolgármesteri Hivatal",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3784_2021/",
-        "main_cpv": "22610000-9",
-        "number_companies_win": 0,
-        "procurement_title": "HP típusú plotterek karbantartása és festékkazetta",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5135000",
-        "contracting_authority": "Budapest Főváros Főpolgármesteri Hivatal",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3784_2021/",
-        "main_cpv": "22610000-9",
-        "number_companies_win": 0,
-        "procurement_title": "HP típusú plotterek karbantartása és festékkazetta",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Alpha-ess Hungary Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "126380976",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3406_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 8,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ADATKÖZPONT Korlátolt Felelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "367510691",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3008_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 11,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "544294",
-        "contracting_authority": "Egri Tankerületi Központ",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_5320_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1230900",
-        "contracting_authority": "Egri Tankerületi Központ",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_5320_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2857390",
-        "contracting_authority": "Egri Tankerületi Központ",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_5320_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; RevoSmart Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "33978812,222222",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5366_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "175564671",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5299_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "82505121",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5315_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 0,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "56373450",
-        "contracting_authority": "Monor Város Önkormányzata",
-        "date": "04/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9734_2021/",
-        "main_cpv": "34928400-2",
-        "number_companies_win": 0,
-        "procurement_title": "Smart City eszközbeszerzés",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4680000",
-        "contracting_authority": "Országgyűlés Hivatala",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13269_2021/",
-        "main_cpv": "30232110-8",
-        "number_companies_win": 0,
-        "procurement_title": "Multifunkciós nyomtatók beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9882000",
-        "contracting_authority": "Országgyűlés Hivatala",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13269_2021/",
-        "main_cpv": "30232110-8",
-        "number_companies_win": 0,
-        "procurement_title": "Multifunkciós nyomtatók beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "58930336",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11737_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "123668",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13201_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 5,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "18411216",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13564_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38818349",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13819_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 0,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23439600",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "16/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15286_2021/",
-        "main_cpv": "30216110-0",
-        "number_companies_win": 0,
-        "procurement_title": "Dokumentumszkennerek beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "70104528",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "16/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15286_2021/",
-        "main_cpv": "30216110-0",
-        "number_companies_win": 0,
-        "procurement_title": "Dokumentumszkennerek beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOPHONE Korlátolt Felelősségű Társaság; CSŐKESOR Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DTK International Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSTYLE Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; Magyar Telekom Távközlési Nyilvánosan Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1508837000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "07/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16569_2021/",
-        "main_cpv": "32250000-0",
-        "number_companies_win": 13,
-        "procurement_title": "Mobiltelefonok beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2680555",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20692_2021/",
-        "main_cpv": "30192112-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10609070",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20692_2021/",
-        "main_cpv": "30192112-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34395000",
-        "contracting_authority": "Technológiai és Ipari Minisztérium",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23461_2021/",
-        "main_cpv": "30121100-4",
-        "number_companies_win": 0,
-        "procurement_title": "Ellenőrzési tevékenységet támogató 40 db multifunkciós nyomtató beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "37179000",
-        "contracting_authority": "Technológiai és Ipari Minisztérium",
-        "date": "03/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22863_2021/",
-        "main_cpv": "32250000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Ellenőrzési tevékenységet támogató 450 db okostelefon beszerzése",
-        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft."
     }
 ]

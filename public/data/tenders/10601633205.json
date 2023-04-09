@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "177102095",
+        "contract_value": 177102095.0,
         "contracting_authority": "Herman Ottó Múzeum",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7411_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Herman Ottó Múzeum Miskolc, Tímármalom utcai raktár- és régészeti kutatóépület felújítása kutató- és irodahelyek kialakításával",
-        "registered_name": "Középület és Lakásépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Középület és Lakásépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "193933675",
+        "contract_value": 193933675.0,
         "contracting_authority": "Katolikus Karitász-Caritas Hungarica",
         "date": "08/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5662_2019/",
         "main_cpv": "45213000-3",
         "number_companies_win": 0,
         "procurement_title": "Raktárépület építése és műemlék épület felújítása",
-        "registered_name": "Középület és Lakásépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Középület és Lakásépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "361694603",
+        "contract_value": 361694603.0,
         "contracting_authority": "Magyarországi Zsidó Hitközségek Szövetsége",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17500_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Miskolci Zsinagóga - épület átalakítás",
-        "registered_name": "Középület és Lakásépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Középület és Lakásépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "90106572",
+        "contract_value": 90106572.0,
         "contracting_authority": "Miskolci Szakképzési Centrum",
         "date": "20/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24288_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "MSZC Széchenyi István utcai épületének felújítása",
-        "registered_name": "Középület és Lakásépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Középület és Lakásépítő Zrt."
     }
 ]

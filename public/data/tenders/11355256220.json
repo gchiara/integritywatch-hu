@@ -1,387 +1,255 @@
 [
     {
         "company_names": "",
-        "contract_value": "27099854",
+        "contract_value": 27099854.0,
         "contracting_authority": "Vonyarcvashegy Nagyközség Önkormányzata",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_251_2018/",
         "main_cpv": "45233140-2",
         "number_companies_win": 0,
         "procurement_title": "Vonyarcvashegy járda és útfelújítások",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33453242",
+        "contract_value": 33453242.0,
         "contracting_authority": "Vonyarcvashegy Nagyközség Önkormányzata",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_251_2018/",
         "main_cpv": "45233140-2",
         "number_companies_win": 0,
         "procurement_title": "Vonyarcvashegy járda és útfelújítások",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296885476",
+        "contract_value": 296885476.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11531_2018/",
         "main_cpv": "45223300-9",
         "number_companies_win": 0,
         "procurement_title": "Nagyparkoló tér fejlesztése és gyalogos közlekedési kapcsolatok kialakítása, T1 jelű út és kapcsolódó parkolófelületek kialakítása",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12208470",
+        "contract_value": 12208470.0,
         "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13487_2018/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási Szerződés a Boldogasszony kápolna építése a Gébárti-tónál tárgyú munkára.",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38134071",
-        "contracting_authority": "Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 38134071.0,
+        "contracting_authority": "Helikon Kastélymúzeum Közhasznú Nonprofit Kft.",
         "date": "18/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16385_2018/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Helikon Kastélymúzeum - illemhely csoport korszerűsítése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63120973",
+        "contract_value": 63120973.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17038_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "58 férőhelyes parkoló építése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63159150",
+        "contract_value": 63159150.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22800_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hévíz, Széchenyi utcai zárt árok kivitelezése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "64544756",
-        "contracting_authority": "IPOLY ERDŐ Zártkörűen Működő Részvénytársaság, Magyar Természetjáró Szövetség",
+        "contract_value": 64544756.0,
+        "contracting_authority": "IPOLY ERDŐ Zrt., Magyar Természetjáró Szövetség",
         "date": "10/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0351_2019/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Várhegy kilátó és Márianosztra Pálos emlékhely",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68999970",
+        "contract_value": 68999970.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "28/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0909_2019/",
         "main_cpv": "45213316-1",
         "number_companies_win": 0,
         "procurement_title": "Hévíz Festetics sétány megújítása",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48853650",
+        "contract_value": 48853650.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "21/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9073_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Nagyparkoló – zöldfelület kialakítás",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "226137644",
+        "contract_value": 226137644.0,
         "contracting_authority": "Csornai Premontrei Prépostság",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17411_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskola - Rendház felújítási munkái",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8721520",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8721520.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22814_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Növénytelepítés 2019",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10120370",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10120370.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22814_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Növénytelepítés 2019",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13588600",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13588600.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22814_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Növénytelepítés 2019",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "179954821",
+        "contract_value": 179954821.0,
         "contracting_authority": "Hévízgyógyfürdő és Szent András Reumakórház",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23386_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tanösvény, lombkorona megfigyelő, zsilip rekonstrukció",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "168002269",
+        "contract_value": 168002269.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1155_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Közlekedésfejlesztési munkák elvégzése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "341458383",
+        "contract_value": 341458383.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1155_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Közlekedésfejlesztési munkák elvégzése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "228641504",
+        "contract_value": 228641504.0,
         "contracting_authority": "Hévíz Város Önkormányzat",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5398_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Termelői piac megújítása",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36607279",
-        "contracting_authority": "Magyar Természetjáró Szövetség, Pilisi Parkerdő Zártkörűen Működő Részvénytársaság, SEFAG Erdészeti és Faipari Zártkörűen Működő Részvénytársaság",
+        "contract_value": 36607279.0,
+        "contracting_authority": "Magyar Természetjáró Szövetség, Pilisi Parkerdő Zrt., SEFAG Erdészeti és Faipari Zrt.",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13153_2020/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Kilátók építése (SEFAG, Pilisi Parkerdő)",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78456799",
-        "contracting_authority": "Magyar Természetjáró Szövetség, Pilisi Parkerdő Zártkörűen Működő Részvénytársaság, SEFAG Erdészeti és Faipari Zártkörűen Működő Részvénytársaság",
+        "contract_value": 78456799.0,
+        "contracting_authority": "Magyar Természetjáró Szövetség, Pilisi Parkerdő Zrt., SEFAG Erdészeti és Faipari Zrt.",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13153_2020/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Kilátók építése (SEFAG, Pilisi Parkerdő)",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18116620",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 18116620.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "27/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19164_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Telepített növények ápolása 2020-2022",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19090495",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 19090495.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "27/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19164_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Telepített növények ápolása 2020-2022",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24386495",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24386495.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "27/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19164_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Telepített növények ápolása 2020-2022",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "431883980",
-        "contracting_authority": "Hévíz Város Önkormányzat",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3240_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Hévíz Schulhof fejlesztése GINOP",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "610656190",
-        "contracting_authority": "Hévíz Város Önkormányzat",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3234_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Hévíz Gyógyhely fejlesztése GINOP",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "46325732",
-        "contracting_authority": "Magyar Természetjáró Szövetség, SEFAG Erdészeti és Faipari Zártkörűen Működő Részvénytársaság, VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság",
-        "date": "09/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3898_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kereki vár pihenőterasz és túraútvonal építése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "86271319",
-        "contracting_authority": "Magyar Természetjáró Szövetség, SEFAG Erdészeti és Faipari Zártkörűen Működő Részvénytársaság, VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság",
-        "date": "09/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3898_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kereki vár pihenőterasz és túraútvonal építése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55987305",
-        "contracting_authority": "Cserszegtomaj Nagyközség Önkormányzata",
-        "date": "01/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4989_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Dobogómajor kerékpárút - TOP",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9898415",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6771_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Telepített növények ápolása 2021",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11536960",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6771_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Telepített növények ápolása 2021",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11637180",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6771_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Telepített növények ápolása 2021",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9793410",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21894_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Növénytelepítés 2021.",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11935660",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21894_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Növénytelepítés 2021.",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13187070",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21894_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Növénytelepítés 2021.",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "72285719",
-        "contracting_authority": "Keszthely Város Önkormányzata",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22906_2021/",
-        "main_cpv": "45233162-2",
-        "number_companies_win": 0,
-        "procurement_title": "Hévízi úti kerékpárút I. ütemének megépítése",
-        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FITOTRON - SYSTEM Szolgáltató és Kereskedelmi Kft."
     }
 ]

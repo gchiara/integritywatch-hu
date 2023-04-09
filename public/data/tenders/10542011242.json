@@ -1,134 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "140999788",
-        "contracting_authority": "Erzsébetváros Fejlesztési és Beruházási Korlátolt Felelősségű Társaság",
+        "contract_value": 140999788.0,
+        "contracting_authority": "Erzsébetváros Fejlesztési és Beruházási Kft.",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15422_2018/",
         "main_cpv": "45331100-7",
         "number_companies_win": 0,
         "procurement_title": "Szekunder fűtési hálózat felújítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Oppidum Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "154908998",
+        "contract_value": 154908998.0,
         "contracting_authority": "Budapest Főváros VII. Ker. Erzsébetváros Önkormányzata",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4777_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Csicsergő Óvoda és játszóudvarának felújítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Oppidum Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "283180712",
+        "contract_value": 283180712.0,
         "contracting_authority": "Bischitz Johanna Integrált Humán Szolgáltató Központ",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8271_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest VII. ker. Dózsa György út 46. szám alatti bentlakásos idősek otthona felújítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Oppidum Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "422545200",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 422545200.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "01/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18509_2019/",
         "main_cpv": "45332200-5",
         "number_companies_win": 0,
         "procurement_title": "Katasztrófavédelmi vízvezeték rendszer rendkívüli javítása, a hibás vezetékszakaszok esetleges cseréjével",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Oppidum Szolgáltató és Tanácsadó Kft."
     },
     {
-        "company_names": "ÉP-DEAL Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "370268994",
+        "company_names": "ÉP-DEAL Építőipari Kereskedelmi és Szolgáltató Kft.; Oppidum Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 370268994.0,
         "contracting_authority": "Tárnok Nagyközség Önkormányzata",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20120_2019/",
         "main_cpv": "45214100-1",
         "number_companies_win": 2,
         "procurement_title": "Óvoda építése.",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "249928620",
-        "contracting_authority": "Kölcse Nagyközség Önkormányzata",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10830_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építése Kölcse településen",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2606029",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13980_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ferihegyi úti Kéményseprő mesterkörzet kialakítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10661558",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13980_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ferihegyi úti Kéményseprő mesterkörzet kialakítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21247475",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13980_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ferihegyi úti Kéményseprő mesterkörzet kialakítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "123098044",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13980_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ferihegyi úti Kéményseprő mesterkörzet kialakítása",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "335960604",
-        "contracting_authority": "Szamosszeg Község Önkormányzata",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18543_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Új bölcsőde építés Szamosszegen",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "104536352",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22585_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "OKF irodaház folyosóinak felújítási munkái",
-        "registered_name": "Oppidum Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Oppidum Szolgáltató és Tanácsadó Kft."
     }
 ]

@@ -1,90 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "10483560",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 10483560.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_197_2018/",
         "main_cpv": "42131142-3",
         "number_companies_win": 0,
         "procurement_title": "Új Gáz-nyomásszabályozó készülékek szállítása",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
         "company_names": "",
-        "contract_value": "144611460",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 144611460.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_197_2018/",
         "main_cpv": "42131142-3",
         "number_companies_win": 0,
         "procurement_title": "Új Gáz-nyomásszabályozó készülékek szállítása",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
         "company_names": "",
-        "contract_value": "354282660",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 354282660.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_197_2018/",
         "main_cpv": "42131142-3",
         "number_companies_win": 0,
         "procurement_title": "Új Gáz-nyomásszabályozó készülékek szállítása",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
         "company_names": "",
-        "contract_value": "502707273",
-        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "contract_value": 502707273.0,
+        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_220_2018/",
         "main_cpv": "50411200-1",
         "number_companies_win": 0,
         "procurement_title": "4-65 m3/h névleges teljesítményű membrános földgázmennyiség mérők felújítása és hitelesítése, valamint szerkezeti és pontossági vizsgálatok elvégzése.",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
         "company_names": "",
-        "contract_value": "270338000",
-        "contracting_authority": "E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "contract_value": 270338000.0,
+        "contracting_authority": "E.ON Közép-dunántúli Gázhálózati Zrt.",
         "date": "12/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5420_2018/",
         "main_cpv": "45333100-1",
         "number_companies_win": 0,
         "procurement_title": "Gáz nyomásszabályozó készülékek felújítása",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
-        "company_names": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság; Heat Holding International Geselschaft mit beschrenkter Haftung",
-        "contract_value": "444452307",
+        "company_names": "HEAT energy GÁZIPARI GÉPGYÁR Kft.; Heat Holding International Geselschaft mit beschrenkter Haftung",
+        "contract_value": 444452307.0,
         "contracting_authority": "MVM Égáz-Dégáz Földgázhálózati Zrt.",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_17760_2019/",
         "main_cpv": "42131140-9",
         "number_companies_win": 2,
         "procurement_title": "Kétfokozatú házi nyomásszabályozók beszerzése",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
-        "company_names": "FLOGISTON Gázmérőgyártó,Javító,Hitelesítő és Kereskedelmi Korlátolt Felelősségű Társaság; HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság; HEAT Hungary Műszaki Innovációs és Kereskedelmi Korlátolt Felelősségű Társaság; METRINET Mérésügyi Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "323396513",
-        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "company_names": "FLOGISTON Gázmérőgyártó,Javító,Hitelesítő és Kereskedelmi Kft.; HEAT energy GÁZIPARI GÉPGYÁR Kft.; HEAT Hungary Műszaki Innovációs és Kereskedelmi Kft.; METRINET Mérésügyi Szolgáltató Kft.",
+        "contract_value": 323396513.0,
+        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zrt., E.ON Közép-dunántúli Gázhálózati Zrt.",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_19456_2020/",
         "main_cpv": "50411200-1",
         "number_companies_win": 4,
         "procurement_title": "Membrános gázmérők felújítása",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     },
     {
-        "company_names": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság; Heat Holding International Geselschaft mit beschrenkter Haftung",
-        "contract_value": "1573396988",
+        "company_names": "HEAT energy GÁZIPARI GÉPGYÁR Kft.; Heat Holding International Geselschaft mit beschrenkter Haftung",
+        "contract_value": 1573396988.0,
         "contracting_authority": "MVM Égáz-Dégáz Földgázhálózati Zrt., MVM Főgáz Földgázhálózati Kft.",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_19636_2020/",
         "main_cpv": "42131140-9",
         "number_companies_win": 2,
         "procurement_title": "Kétfokozatú házi nyomásszabályozók beszerzése",
-        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Korlátolt Felelősségű Társaság"
+        "registered_name": "HEAT energy GÁZIPARI GÉPGYÁR Kft."
     }
 ]

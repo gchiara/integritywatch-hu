@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "87851000",
-        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 87851000.0,
+        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zrt.",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3254_2018/",
         "main_cpv": "34121100-2",
@@ -11,9 +11,9 @@
         "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
     },
     {
-        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; Merkantil Váltó és Vagyonbefektető Bank Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3234639200",
-        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; Merkantil Váltó és Vagyonbefektető Bank Zrt.",
+        "contract_value": 3234639200.0,
+        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft.",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9935_2018/",
         "main_cpv": "34121000-1",
@@ -22,9 +22,9 @@
         "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
     },
     {
-        "company_names": "Kereskedelmi és Hitelbank Zártkörűen Működő Részvénytársaság; MAN Kamion és Busz Kereskedelmi Kft.",
-        "contract_value": "3209401750",
-        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "company_names": "Kereskedelmi és Hitelbank Zrt.; MAN Kamion és Busz Kereskedelmi Kft.",
+        "contract_value": 3209401750.0,
+        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft.",
         "date": "28/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_1357_2019/",
         "main_cpv": "34121000-1",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "31350000",
-        "contracting_authority": "\"VIRÁGH\" Termelő, Kereskedelmi és Szolgáltató Betéti Társaság",
+        "contract_value": 31350000.0,
+        "contracting_authority": "\"VIRÁGH\" Termelő, Kereskedelmi és Szolgáltató Bt.",
         "date": "22/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2022_2019/",
         "main_cpv": "16000000-5",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "195000000",
+        "contract_value": 195000000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "12/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14807_2019/",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "48840000",
-        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság",
+        "contract_value": 48840000.0,
+        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zrt.",
         "date": "23/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10913_2019/",
         "main_cpv": "16000000-5",
@@ -66,8 +66,8 @@
         "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
     },
     {
-        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; M-U-T Hungaria Kommunális Járműgyártó és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1201271296",
+        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; M-U-T Hungaria Kommunális Járműgyártó és Kereskedelmi Kft.",
+        "contract_value": 1201271296.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17895_2019/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22681591",
+        "contract_value": 22681591.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20226_2019/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22567592",
+        "contract_value": 22567592.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "15/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0331_2020/",
@@ -100,8 +100,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "2330944157",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 2330944157.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "03/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_3121_2020/",
         "main_cpv": "34121000-1",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "19727992",
+        "contract_value": 19727992.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "14/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6174_2020/",
@@ -122,8 +122,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "54106420",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 54106420.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9943_2020/",
         "main_cpv": "34130000-7",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13241892",
+        "contract_value": 13241892.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "15/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12087_2020/",
@@ -143,9 +143,9 @@
         "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
     },
     {
-        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; M-U-T Hungaria Kommunális Járműgyártó és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "192963870",
-        "contracting_authority": "A.K.S.D. Városgazdálkodási Korlátolt Felelősségű Társaság",
+        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; M-U-T Hungaria Kommunális Járműgyártó és Kereskedelmi Kft.",
+        "contract_value": 192963870.0,
+        "contracting_authority": "A.K.S.D. Városgazdálkodási Kft.",
         "date": "18/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16637_2020/",
         "main_cpv": "34144511-3",
@@ -154,9 +154,9 @@
         "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
     },
     {
-        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; M-U-T Hungaria Kommunális Járműgyártó és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "47119900",
-        "contracting_authority": "NYÍRVV Nyíregyházi Városüzemeltető és Vagyonkezelő Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "MAN Kamion és Busz Kereskedelmi Kft.; M-U-T Hungaria Kommunális Járműgyártó és Kereskedelmi Kft.",
+        "contract_value": 47119900.0,
+        "contracting_authority": "NYÍRVV Nyíregyházi Városüzemeltető és Vagyonkezelő Nonprofit Kft.",
         "date": "21/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17067_2020/",
         "main_cpv": "34100000-8",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "36495057",
+        "contract_value": 36495057.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18250_2020/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "42300000",
+        "contract_value": 42300000.0,
         "contracting_authority": "Körös-Vidéki Vízügyi Igazgatóság",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18092_2020/",
@@ -188,8 +188,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "160000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 160000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_20898_2020/",
         "main_cpv": "34300000-0",
@@ -199,8 +199,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "340000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 340000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_20898_2020/",
         "main_cpv": "34300000-0",
@@ -210,8 +210,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "7344000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 7344000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "22/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_23289_2020/",
         "main_cpv": "34121000-1",
@@ -221,145 +221,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "13464000000",
-        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 13464000000.0,
+        "contracting_authority": "VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23292_2020/",
         "main_cpv": "34121000-1",
         "number_companies_win": 0,
         "procurement_title": "Új, 3 tg. csuklós (M3/II. oszt.) buszok beszerzése",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "14322825",
-        "contracting_authority": "MVK Miskolc Városi Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2627_2021/",
-        "main_cpv": "34211100-9",
-        "number_companies_win": 0,
-        "procurement_title": "AUTÓBUSZ ALKATRÉSZEK BESZERZÉSE II",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "33811685",
-        "contracting_authority": "MVK Miskolc Városi Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2627_2021/",
-        "main_cpv": "34211100-9",
-        "number_companies_win": 0,
-        "procurement_title": "AUTÓBUSZ ALKATRÉSZEK BESZERZÉSE II",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "85810232",
-        "contracting_authority": "MVK Miskolc Városi Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2627_2021/",
-        "main_cpv": "34211100-9",
-        "number_companies_win": 0,
-        "procurement_title": "AUTÓBUSZ ALKATRÉSZEK BESZERZÉSE II",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "46800000",
-        "contracting_authority": "Körös-Vidéki Vízügyi Igazgatóság",
-        "date": "01/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3003_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Üzemelési és fenntartási eszközök szállítása",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "31000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3095_2021/",
-        "main_cpv": "50113000-0",
-        "number_companies_win": 0,
-        "procurement_title": "MAN és NEOPLAN autóbuszok javítása és karbantartás",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "46000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3095_2021/",
-        "main_cpv": "50113000-0",
-        "number_companies_win": 0,
-        "procurement_title": "MAN és NEOPLAN autóbuszok javítása és karbantartás",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "93000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3095_2021/",
-        "main_cpv": "50113000-0",
-        "number_companies_win": 0,
-        "procurement_title": "MAN és NEOPLAN autóbuszok javítása és karbantartás",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "1552600000",
-        "contracting_authority": "V-Busz Veszprémi Közlekedési Korlátolt Felelősségű Társaság",
-        "date": "10/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_10523_2021/",
-        "main_cpv": "34121000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Városi szóló és csuklós autóbuszok vásárlása",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "2287600000",
-        "contracting_authority": "V-Busz Veszprémi Közlekedési Korlátolt Felelősségű Társaság",
-        "date": "10/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_10523_2021/",
-        "main_cpv": "34121000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Városi szóló és csuklós autóbuszok vásárlása",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "820000000",
-        "contracting_authority": "V-Busz Veszprémi Közlekedési Korlátolt Felelősségű Társaság",
-        "date": "04/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_18870_2021/",
-        "main_cpv": "34121000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Elektromos akadálymentes városi szóló autóbuszok",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "65000000",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "20/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20182_2021/",
-        "main_cpv": "34300000-0",
-        "number_companies_win": 0,
-        "procurement_title": "MAN típusú alkatrészek beszerzése",
-        "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "32240625",
-        "contracting_authority": "Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "21/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25457_2021/",
-        "main_cpv": "34130000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tehergépjármű, ülés háttámla és fejtámla beszerzés",
         "registered_name": "MAN Kamion és Busz Kereskedelmi Kft."
     }
 ]

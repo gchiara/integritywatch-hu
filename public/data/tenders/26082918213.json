@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "129790000",
+        "contract_value": 129790000.0,
         "contracting_authority": "Belváros-Lipótváros Budapest Főváros V. Ker. Önkormányzata Közterület-Felügyelet",
         "date": "21/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8805_2019/",
         "main_cpv": "98351100-9",
         "number_companies_win": 0,
         "procurement_title": "Belváros-Lipótváros okos parkolás, II.",
-        "registered_name": "Smart Lynx Korlátolt Felelősségű Társaság"
+        "registered_name": "Smart Lynx Kft."
     },
     {
         "company_names": "",
-        "contract_value": "140220000",
+        "contract_value": 140220000.0,
         "contracting_authority": "Belváros-Lipótváros Budapest Főváros V. Ker. Önkormányzata Közterület-Felügyelet",
         "date": "03/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3413_2020/",
         "main_cpv": "98351100-9",
         "number_companies_win": 0,
         "procurement_title": "Okos parkolás, III.",
-        "registered_name": "Smart Lynx Korlátolt Felelősségű Társaság"
+        "registered_name": "Smart Lynx Kft."
     },
     {
         "company_names": "",
-        "contract_value": "331410000",
+        "contract_value": 331410000.0,
         "contracting_authority": "Belváros-Lipótváros Budapest Főváros V. Ker. Önkormányzata Közterület-Felügyelet",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14853_2020/",
         "main_cpv": "98351100-9",
         "number_companies_win": 0,
         "procurement_title": "Okos parkolás III.",
-        "registered_name": "Smart Lynx Korlátolt Felelősségű Társaság"
+        "registered_name": "Smart Lynx Kft."
     },
     {
         "company_names": "",
-        "contract_value": "262000000",
+        "contract_value": 262000000.0,
         "contracting_authority": "Belváros-Lipótváros Budapest Főváros V. Ker. Önkormányzata Közterület-Felügyelet",
         "date": "27/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19279_2020/",
         "main_cpv": "98351100-9",
         "number_companies_win": 0,
         "procurement_title": "Okos parkolás IV.",
-        "registered_name": "Smart Lynx Korlátolt Felelősségű Társaság"
+        "registered_name": "Smart Lynx Kft."
     }
 ]

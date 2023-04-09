@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "14089000",
+        "contract_value": 14089000.0,
         "contracting_authority": "Gyöngyöshalász Község Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10228_2018/",
         "main_cpv": "45233223-8",
         "number_companies_win": 0,
         "procurement_title": "Gyöngyöshalász belterületén közutak felújítása",
-        "registered_name": "ANDEZIT Mély- és Magasépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDEZIT Mély- és Magasépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17839090",
+        "contract_value": 17839090.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "06/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14389_2018/",
         "main_cpv": "45213316-1",
         "number_companies_win": 0,
         "procurement_title": "Járdafelújítás",
-        "registered_name": "ANDEZIT Mély- és Magasépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDEZIT Mély- és Magasépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12400430",
+        "contract_value": 12400430.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9092_2019/",
         "main_cpv": "45000000-7, 45232400-6, 45233142-6, 45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Út- és csatornaépítés és felújítás",
-        "registered_name": "ANDEZIT Mély- és Magasépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDEZIT Mély- és Magasépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44013262",
+        "contract_value": 44013262.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "28/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11079_2019/",
         "main_cpv": "45000000-7, 45232400-6",
         "number_companies_win": 0,
         "procurement_title": "Csapadékcsatorna építés",
-        "registered_name": "ANDEZIT Mély- és Magasépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDEZIT Mély- és Magasépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44867767",
+        "contract_value": 44867767.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "28/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11079_2019/",
         "main_cpv": "45000000-7, 45232400-6",
         "number_companies_win": 0,
         "procurement_title": "Csapadékcsatorna építés",
-        "registered_name": "ANDEZIT Mély- és Magasépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ANDEZIT Mély- és Magasépítő Kft."
     }
 ]

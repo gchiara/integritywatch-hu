@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "9573080",
+        "contract_value": 9573080.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4106_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14838274",
+        "contract_value": 14838274.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4106_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18428179",
+        "contract_value": 18428179.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4106_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22736065",
+        "contract_value": 22736065.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4106_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "23693373",
+        "contract_value": 23693373.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4106_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "23932700",
+        "contract_value": 23932700.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4106_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "47611491",
+        "contract_value": 47611491.0,
         "contracting_authority": "Kál Nagyközségi Önkormányzat",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10937_2018/",
@@ -78,8 +78,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "19929545",
-        "contracting_authority": "PET-FORM Flakongyártó és Forgalmazó Korlátolt Felelősségű Társaság",
+        "contract_value": 19929545.0,
+        "contracting_authority": "PET-FORM Flakongyártó és Forgalmazó Kft.",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17575_2018/",
         "main_cpv": "45000000-7",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "30038819",
+        "contract_value": 30038819.0,
         "contracting_authority": "Nagyvisnyó Község Önkormányzata",
         "date": "27/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3660_2019/",

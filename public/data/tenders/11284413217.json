@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "30388375",
+        "contract_value": 30388375.0,
         "contracting_authority": "Medina Község Önkormányzat",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20606_2018/",
         "main_cpv": "45212330-8",
         "number_companies_win": 0,
         "procurement_title": "Könyvtár épület felújítása",
-        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "180991300",
+        "contract_value": 180991300.0,
         "contracting_authority": "Györköny Községi Önkormányzat",
         "date": "11/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2413_2020/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Közösségi sportlétesítmény építése",
-        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; VENTUS ÉPÍTŐ Korlátolt Felelősségű Társaság",
-        "contract_value": "660571990",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "company_names": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Kft.; VENTUS ÉPÍTŐ Kft.",
+        "contract_value": 660571990.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4236_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Honvédelmi Sportközpont építése Szigetváron",
-        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28101406",
+        "contract_value": 28101406.0,
         "contracting_authority": "Györköny Községi Önkormányzat",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14704_2020/",
         "main_cpv": "45331000-6",
         "number_companies_win": 0,
         "procurement_title": "Általános iskola és tornaterem fűtéskorszerűsítése",
-        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "104696790",
-        "contracting_authority": "Tolna Megyei Kormányhivatal",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14023_2021/",
-        "main_cpv": "45332000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szd, Arany J. u. 27. szennyvíz-korszerűsítés I-II.",
-        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Hegedüs & Schmidt Építő, Szolgáltató és Kereskedelmi Kft."
     }
 ]

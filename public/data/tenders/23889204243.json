@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "257571330",
-        "contracting_authority": "PRO-NaturaLand Korlátolt Felelősségű Társaság",
+        "contract_value": 257571330.0,
+        "contracting_authority": "PRO-NaturaLand Kft.",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8480_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gara 095/1 hrsz-ú sertéstelepen 7 épületben technológiai fejlesztés és napelemes rendszer kiépítése",
-        "registered_name": "SOLID STATE BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "SOLID STATE BAU Kft."
     }
 ]

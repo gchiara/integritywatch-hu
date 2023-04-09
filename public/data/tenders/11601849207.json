@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "19500000",
-        "contracting_authority": "Székesfehérvár Városgondnoksága Korlátolt Felelősségű Társaság",
+        "contract_value": 19500000.0,
+        "contracting_authority": "Székesfehérvár Városgondnoksága Kft.",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7449_2018/",
         "main_cpv": "45213316-1",
         "number_companies_win": 0,
         "procurement_title": "Székesfehérvár területén 2018. évben tervdokumentáció nélkül végezhető egységáras, kis volumenű egyedi munkák",
-        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37905484",
+        "contract_value": 37905484.0,
         "contracting_authority": "Fehérvárcsurgó Községi Önkormányzat",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21963_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Hunyadi utca útépítés, felújítás kivitelezése",
-        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26000000",
-        "contracting_authority": "Székesfehérvár Városgondnoksága Korlátolt Felelősségű Társaság",
+        "contract_value": 26000000.0,
+        "contracting_authority": "Székesfehérvár Városgondnoksága Kft.",
         "date": "18/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7007_2019/",
         "main_cpv": "45233200-1",
         "number_companies_win": 0,
         "procurement_title": "Egységáras, kis volumenű egyedi munkák, 2019",
-        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "148200000",
-        "contracting_authority": "Székesfehérvár Városgondnoksága Korlátolt Felelősségű Társaság",
+        "contract_value": 148200000.0,
+        "contracting_authority": "Székesfehérvár Városgondnoksága Kft.",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11114_2020/",
         "main_cpv": "45233200-1",
         "number_companies_win": 0,
         "procurement_title": "Egységáras, kis volumenű egyedi munkák, 2020",
-        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ALBA ÚT Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

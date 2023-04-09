@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "30000000",
-        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Korlátolt Felelősségű Társaság",
+        "contract_value": 30000000.0,
+        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Kft.",
         "date": "19/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2858_2019/",
         "main_cpv": "45000000-7, 45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Belváros Lipótváros Városüzemeltető Kft. által üzemeltetett egyes utak burkolatainak karbantartási munkái",
-        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18245000",
-        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Korlátolt Felelősségű Társaság",
+        "contract_value": 18245000.0,
+        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Kft.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8327_2019/",
         "main_cpv": "45000000-7, 45233200-1, 77314100-5",
         "number_companies_win": 0,
         "procurement_title": "Erzsébet tér burkolatfelújítás 2019",
-        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10277512",
-        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Korlátolt Felelősségű Társaság",
+        "contract_value": 10277512.0,
+        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Kft.",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12709_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Erzsébet Tér felújítási munkák 2020",
-        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29986000",
-        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Korlátolt Felelősségű Társaság",
+        "contract_value": 29986000.0,
+        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Kft.",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12709_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Erzsébet Tér felújítási munkák 2020",
-        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30236454",
-        "contracting_authority": "Belváros-Lipótváros Városüzemeltető Korlátolt Felelősségű Társaság",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8456_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Erzsébet tér burkolat felújtások 2021",
-        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MULTIMAT PRO Kivitelező, Kereskedelmi és Szolgáltató Kft."
     }
 ]

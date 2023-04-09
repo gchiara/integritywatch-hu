@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "28857940",
+        "contract_value": 28857940.0,
         "contracting_authority": "Csömör Nagyközség Önkormányzata",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18282_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Középhegy u. útfelújítás (Búzavirág u.-Meredek u.)",
-        "registered_name": "ÁR-LA Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "ÁR-LA Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1904190523",
-        "contracting_authority": "Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1904190523.0,
+        "contracting_authority": "Városliget Ingatlanfejlesztő Zrt.",
         "date": "18/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2758_2019/",
         "main_cpv": "45112723-9",
         "number_companies_win": 0,
         "procurement_title": "Nagy játszótér kivitelezése",
-        "registered_name": "ÁR-LA Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "ÁR-LA Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28914999",
+        "contract_value": 28914999.0,
         "contracting_authority": "Csömör Nagyközség Önkormányzata",
         "date": "12/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19000_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Csömör, Ibolya utca útépítése vízelvezetés biztosítása mellett",
-        "registered_name": "ÁR-LA Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "ÁR-LA Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "968529456,4",
-        "contracting_authority": "Budapest Airport Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zártkörűen Működő Részvénytársaság",
+        "contract_value": 968529456.4,
+        "contracting_authority": "Budapest Airport Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zrt.",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9848_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "BUD - T2 körforgalom kivitelezés",
-        "registered_name": "ÁR-LA Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "ÁR-LA Magyarország Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31134547",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 31134547.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "15/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16752_2020/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Közterületi utak felújításai munkái Újbudán",
-        "registered_name": "ÁR-LA Magyarország Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "871533248",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14223_2021/",
-        "main_cpv": "45233100-0",
-        "number_companies_win": 0,
-        "procurement_title": "Göd, M2 autóút - új félcsomópont megvalósítása",
-        "registered_name": "ÁR-LA Magyarország Korlátolt Felelősségű Társaság"
+        "registered_name": "ÁR-LA Magyarország Kft."
     }
 ]

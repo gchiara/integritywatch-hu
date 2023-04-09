@@ -1,68 +1,57 @@
 [
     {
-        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Korlátolt Felelősségű Társaság; CSŐFEK Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HidroPro Szolgáltató Korlátolt Felelősségű Társaság; H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; HYDRO-LOGIC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Kevei Lajos és Társai Mélyépítő Szolgáltató Tervező Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Közmű Plusz Építő Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; LÁPOLDAL Állattenyésztő és Növénytermelő Korlátolt Felelősségű Társaság; MOMI GÉPSZER Szolgáltató Betéti Társaság; P-Közmű Építő és Kereskedő Korlátolt Felelősségű Társaság; Pulzus + Közműépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; VITÉP '95 Vízügyi és Épitőipari Korlátolt Felelősségű Társaság; VULKÁN Épitő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2800000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Kft.; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Kft.; CSŐFEK Építőipari és Szolgáltató Kft.; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HidroPro Szolgáltató Kft.; H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.; HYDRO-LOGIC Szolgáltató és Kereskedelmi Kft.; Kevei Lajos és Társai Mélyépítő Szolgáltató Tervező Kft. \"felszámolás alatt\"; Közmű Plusz Építő Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; LÁPOLDAL Állattenyésztő és Növénytermelő Kft.; MOMI GÉPSZER Szolgáltató Bt.; P-Közmű Építő és Kereskedő Kft.; Pulzus + Közműépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; VITÉP '95 Vízügyi és Épitőipari Kft.; VULKÁN Épitő, Szolgáltató és Kereskedelmi Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 2800000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_6667_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 20,
         "procurement_title": "Keretmegállapodás vízvezeték nyíltárkos létesítésére, rekonstrukciójára és szükség szerint tervezésre",
-        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Korlátolt Felelősségű Társaság; BONEX Építőipari Korlátolt Felelősségű Társaság; CSŐFEK Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; MOMI GÉPSZER Szolgáltató Betéti Társaság; P-Közmű Építő és Kereskedő Korlátolt Felelősségű Társaság; Pulzus + Közműépítő Kft.; SADE-Magyarország Mélyépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7800000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Kft.; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Kft.; BONEX Építőipari Kft.; CSŐFEK Építőipari és Szolgáltató Kft.; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; MOMI GÉPSZER Szolgáltató Bt.; P-Közmű Építő és Kereskedő Kft.; Pulzus + Közműépítő Kft.; SADE-Magyarország Mélyépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 7800000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_6667_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 15,
         "procurement_title": "Keretmegállapodás vízvezeték nyíltárkos létesítésére, rekonstrukciójára és szükség szerint tervezésre",
-        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "46024116",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 46024116.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18479_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 3,
         "procurement_title": "Csőrekonstrukciós keretmegállapodás",
-        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "15328901",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 15328901.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6057_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 3,
         "procurement_title": "Csőrekonstrukciós keretmegállapodás",
-        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "41755875",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 41755875.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_19168_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 3,
         "procurement_title": "Vízvezeték nyíltárkos létesítése, rekonstrukciója és szükség szerint tervezése",
-        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "8187633",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
-        "date": "14/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6033_2021/",
-        "main_cpv": "45232151-5",
-        "number_companies_win": 3,
-        "procurement_title": "Vízvezeték rekonstrukciós munkák elvégzése",
-        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft."
     }
 ]

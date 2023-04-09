@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "254995020",
+        "contract_value": 254995020.0,
         "contracting_authority": "Lőrinci Városi Önkormányzat",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23841_2019/",
         "main_cpv": "45112710-5",
         "number_companies_win": 0,
         "procurement_title": "Tájépítészeti feladatok ellátása Lőrinciben",
-        "registered_name": "KÉK LOMB Korlátolt Felelősségű Társaság"
+        "registered_name": "KÉK LOMB Kft."
     }
 ]

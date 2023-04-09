@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "290543260",
+        "contract_value": 290543260.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22589_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "GOKI Főépület IV.emelet felújítási munkái",
-        "registered_name": "PAT 2000 Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PAT 2000 Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

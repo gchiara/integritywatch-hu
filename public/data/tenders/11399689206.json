@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "224812000",
+        "contract_value": 224812000.0,
         "contracting_authority": "Szolnok Megyei Jogú Város Önkormányzata",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6612_2018/",
         "main_cpv": "90922000-6",
         "number_companies_win": 0,
         "procurement_title": "Biológiai csípőszúnyog gyérítés, valamint csípőszúnyog imágó gyérítés légi kémiai és földi kémiai módszerrel történő komplex elvégzése Szolnok és térségében 16 települési önkormányzat területén 2018-2022. években",
-        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ Kft."
     },
     {
-        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
-        "contract_value": "33990600",
+        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Kft.; SZEMP AIR LÉGISZOLGÁLTATÓ Kft.",
+        "contract_value": 33990600.0,
         "contracting_authority": "Békésszentandrás Nagyközség Önkormányzata, Dévaványa Város Önkormányzata, Ecsegfalva Község Önkormányzata, Gyomaendrőd Város Önkormányzata, Kondoros Város Önkormányzata, Köröstarcsa Község Önkormányzata, Mezőberény Város Önkormányzata, Mezőtúr Város Önkormányzata, Orosháza Város Önkormányzata, Sarkad Város Önkormányzata, Szarvas Város Önkormányzata",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8328_2018/",
         "main_cpv": "90670000-4",
         "number_companies_win": 2,
         "procurement_title": "Szúnyoggyérítési feladatok elvégzése 2018. évben a Körös-völgyi Konzorcium tagtelepülései részére",
-        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ Kft."
     },
     {
-        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
-        "contract_value": "39945450",
+        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Kft.; SZEMP AIR LÉGISZOLGÁLTATÓ Kft.",
+        "contract_value": 39945450.0,
         "contracting_authority": "Békésszentandrás Nagyközség Önkormányzata, Dévaványa Város Önkormányzata, Ecsegfalva Község Önkormányzata, Gyomaendrőd Város Önkormányzata, Kondoros Város Önkormányzata, Köröstarcsa Község Önkormányzata, Mezőberény Város Önkormányzata, Mezőtúr Város Önkormányzata, Orosháza Város Önkormányzata, Sarkad Város Önkormányzata, Szarvas Város Önkormányzata",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7817_2019/",
         "main_cpv": "90670000-4",
         "number_companies_win": 2,
         "procurement_title": "Szúnyoggyérítési feladatok 2019",
-        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ Kft."
     },
     {
-        "company_names": "Corax-Bioner Biotechnológiai Zártkörűen Működő Részvénytársaság; ROVÉRT Rovar- és Rágcsálóirtó Korlátolt Felelősségű Társaság; SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
-        "contract_value": "4550000000",
+        "company_names": "Corax-Bioner Biotechnológiai Zrt.; ROVÉRT Rovar- és Rágcsálóirtó Kft.; SZEMP AIR LÉGISZOLGÁLTATÓ Kft.",
+        "contract_value": 4550000000.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
         "date": "27/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1196_2020/",
         "main_cpv": "90670000-4",
         "number_companies_win": 3,
         "procurement_title": "Központi szúnyoggyérítési feladatok (2020-2022.)",
-        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ Kft."
     },
     {
-        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
-        "contract_value": "58872875",
+        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Kft.; SZEMP AIR LÉGISZOLGÁLTATÓ Kft.",
+        "contract_value": 58872875.0,
         "contracting_authority": "Békésszentandrás Nagyközség Önkormányzata, Dévaványa Város Önkormányzata, Ecsegfalva Község Önkormányzata, Gyomaendrőd Város Önkormányzata, Kondoros Város Önkormányzata, Köröstarcsa Község Önkormányzata, Mezőberény Város Önkormányzata, Mezőtúr Város Önkormányzata, Orosháza Város Önkormányzata, Sarkad Város Önkormányzata, Szarvas Város Önkormányzata",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8245_2020/",
         "main_cpv": "90670000-4",
         "number_companies_win": 2,
         "procurement_title": "Szúnyoggyérítési feladatok 2020",
-        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
-    },
-    {
-        "company_names": "RSZ-COOP Légiszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
-        "contract_value": "62589375",
-        "contracting_authority": "Békésszentandrás Nagyközség Önkormányzata, Csárdaszállás Községi Önkormányzat, Dévaványa Város Önkormányzata, Ecsegfalva Község Önkormányzata, Gyomaendrőd Város Önkormányzata, Hunya Község Önkormányzata, Kondoros Város Önkormányzata, Köröstarcsa Község Önkormányzata, Mezőberény Város Önkormányzata, Mezőtúr Város Önkormányzata, Orosháza Város Önkormányzata, Sarkad Város Önkormányzata, Szarvas Város Önkormányzata",
-        "date": "01/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10002_2021/",
-        "main_cpv": "90670000-4",
-        "number_companies_win": 2,
-        "procurement_title": "Szúnyoggyérítési feladatok 2021",
-        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "SZEMP AIR LÉGISZOLGÁLTATÓ Kft."
     }
 ]

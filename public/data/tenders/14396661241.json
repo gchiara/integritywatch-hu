@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "209500000",
-        "contracting_authority": "Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság",
+        "contract_value": 209500000.0,
+        "contracting_authority": "Magyar Turisztikai Ügynökség Zrt.",
         "date": "22/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13294_2019/",
         "main_cpv": "79930000-2",
         "number_companies_win": 0,
         "procurement_title": "Dubaji világkiállításhoz tervezés és projektmenedzsment",
-        "registered_name": "NEGO Asset Management Korlátolt Felelősségű Társaság"
+        "registered_name": "NEGO Asset Management Kft."
     }
 ]

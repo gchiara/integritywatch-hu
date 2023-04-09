@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "141538294",
+        "contract_value": 141538294.0,
         "contracting_authority": "Zsámbék Város Önkormányzata",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19196_2019/",
         "main_cpv": "45223000-6",
         "number_companies_win": 0,
         "procurement_title": "Zsámbék, Akadémia u. Piac kiszolgáló épület építés",
-        "registered_name": "BAJ-NA Épitőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAJ-NA Épitőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80192000",
+        "contract_value": 80192000.0,
         "contracting_authority": "Zsámbék Város Önkormányzata",
         "date": "30/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7423_2020/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Zsámbék, Tündérkert Óvoda főzőkonyha felújítása",
-        "registered_name": "BAJ-NA Épitőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAJ-NA Épitőipari Szolgáltató és Kereskedelmi Kft."
     }
 ]

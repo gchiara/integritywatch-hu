@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "23687321",
+        "contract_value": 23687321.0,
         "contracting_authority": "Nekézseny Község Önkormányzata",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12884_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri Hivatal korszerűsítése Nekézseny községben",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45939752",
+        "contract_value": 45939752.0,
         "contracting_authority": "Nekézseny Község Önkormányzata",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12871_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri Hivatal és Orvosi rendelő korszerűsítése Nekézseny községben",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18865832",
+        "contract_value": 18865832.0,
         "contracting_authority": "Berzék Község Önkormányzata",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15509_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházások megvalósítása Berzéken",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18924329",
+        "contract_value": 18924329.0,
         "contracting_authority": "Berzék Község Önkormányzata",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15509_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházások megvalósítása Berzéken",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29905770",
+        "contract_value": 29905770.0,
         "contracting_authority": "Farkaslyuk Község Önkormányzata",
         "date": "13/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21993_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32542446",
+        "contract_value": 32542446.0,
         "contracting_authority": "Farkaslyuk Község Önkormányzata",
         "date": "13/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21993_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110874798",
+        "contract_value": 110874798.0,
         "contracting_authority": "Farkaslyuk Község Önkormányzata",
         "date": "13/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21993_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4877600",
-        "contracting_authority": "Kazincbarcikai Tankerületi Központ",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11390_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Bódvaszilasi Körzeti Általános Iskola korszerűsítése",
-        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "NEW TECHNO HOME Építő és Kereskedelmi Kft."
     }
 ]

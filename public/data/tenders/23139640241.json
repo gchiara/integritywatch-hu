@@ -1,343 +1,211 @@
 [
     {
-        "company_names": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; iUtak Mérnökiroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság",
-        "contract_value": "12811050",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "company_names": "Create Value Szolgáltató és Tanácsadó Kft.; iUtak Mérnökiroda Kft.; SPECIÁLTERV Építőmérnöki Kft.",
+        "contract_value": 12811050.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4296_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 3,
         "procurement_title": "Tervezési szolgáltatás budapesti útfelújítások előkészítésére II. ütem",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
-        "company_names": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; ZÖLD TERASZ Mérnöki Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "11500000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "company_names": "Create Value Szolgáltató és Tanácsadó Kft.; ZÖLD TERASZ Mérnöki Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 11500000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7204_2018/",
         "main_cpv": "71241000-9",
         "number_companies_win": 2,
         "procurement_title": "Megbízási szerződés a CROCODILE 2.0_HU elnevezésű projekt keretében forgalmi menedzsment terv kidolgozására",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
-        "company_names": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; DIMA Mérnöki Iroda Korlátolt Felelősségű Társaság",
-        "contract_value": "44695000",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Create Value Szolgáltató és Tanácsadó Kft.; DIMA Mérnöki Iroda Kft.",
+        "contract_value": 44695000.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8458_2018/",
         "main_cpv": "71240000-2",
         "number_companies_win": 2,
         "procurement_title": "Csepeli útépítés egyesített engedélyezési-kiviteli tervezési szolgáltatás II. ütem",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "58600000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Create Value Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 58600000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "22/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10380_2018/",
         "main_cpv": "71241000-9",
         "number_companies_win": 2,
         "procurement_title": "2017-2018. évi felújítandó útvonalak 3. rész",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1530000",
+        "contract_value": 1530000.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12386_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A Modern Városok Program keretében megvalósuló Wenckheim turista- és kerékpárút kialakítása« című projekt részét képező engedély és kiviteli tervek elkészítése tervezési szerződés keretében",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11186250",
+        "contract_value": 11186250.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12386_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A Modern Városok Program keretében megvalósuló Wenckheim turista- és kerékpárút kialakítása« című projekt részét képező engedély és kiviteli tervek elkészítése tervezési szerződés keretében",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16060000",
+        "contract_value": 16060000.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12386_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A Modern Városok Program keretében megvalósuló Wenckheim turista- és kerékpárút kialakítása« című projekt részét képező engedély és kiviteli tervek elkészítése tervezési szerződés keretében",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12980000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12980000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0800_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Rózsa utca engedélyezési és kiviteli tervek",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
-        "company_names": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; iUtak Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "33255500",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "company_names": "Create Value Szolgáltató és Tanácsadó Kft.; iUtak Mérnökiroda Kft.",
+        "contract_value": 33255500.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5531_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 2,
         "procurement_title": "Fővárosi útfelújítások előkészítése, tervezés IV.",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "490000000",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 490000000.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13706_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok ellátása Csepelen",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34190345",
-        "contracting_authority": "Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság, Budapest XXI. Kerület Csepel Önkormányzata",
+        "contract_value": 34190345.0,
+        "contracting_authority": "Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft., Budapest XXI. Kerület Csepel Önkormányzata",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20074_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok ellátása Csepelen",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35232015",
-        "contracting_authority": "Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság, Budapest XXI. Kerület Csepel Önkormányzata",
+        "contract_value": 35232015.0,
+        "contracting_authority": "Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft., Budapest XXI. Kerület Csepel Önkormányzata",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20074_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok ellátása Csepelen",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35261915",
-        "contracting_authority": "Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság, Budapest XXI. Kerület Csepel Önkormányzata",
+        "contract_value": 35261915.0,
+        "contracting_authority": "Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft., Budapest XXI. Kerület Csepel Önkormányzata",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20074_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok ellátása Csepelen",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11789500",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 11789500.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "14/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6052_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok ellátása Csepelen",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4569980",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 4569980.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18040_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása Budapest XXI. Kerület Csepel Önkormányzata részére",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4635050",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 4635050.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18040_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása Budapest XXI. Kerület Csepel Önkormányzata részére",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5217200",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 5217200.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18040_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása Budapest XXI. Kerület Csepel Önkormányzata részére",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11515000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11515000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12952000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12952000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "54048000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0445_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "XVIII. ker. Üllői út – tervezés",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1837900",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6067_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2275800",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6067_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3676000",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6067_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "632250",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12986_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása Budapest XXI. Kerület Csepel Önkormányzata részére",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1420000",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12986_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása Budapest XXI. Kerület Csepel Önkormányzata részére",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10502415",
-        "contracting_authority": "Fejér Megyei Önkormányzat",
-        "date": "24/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15887_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Fejér megye kerékpárutak tervezése",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19240000",
-        "contracting_authority": "Budapest Főváros XXIII. Kerület Soroksár Önkormányzata",
-        "date": "08/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16601_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Soroksár gyalogátkelőhely tervezés",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "178750000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "22/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18065_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "P+R parkolók és B+R parkoló tervezése",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "48250000",
-        "contracting_authority": "Budapest Főváros XXIII. Kerület Soroksár Önkormányzata",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19269_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mélyépítési tervezési munkák",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "62392500",
-        "contracting_authority": "Budapest Főváros XXIII. Kerület Soroksár Önkormányzata",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19269_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mélyépítési tervezési munkák",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "74532600",
-        "contracting_authority": "Budapest Főváros XXIII. Kerület Soroksár Önkormányzata",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19269_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mélyépítési tervezési munkák",
-        "registered_name": "Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Create Value Szolgáltató és Tanácsadó Kft."
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "298000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 298000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "01/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1727_2018/",
         "main_cpv": "45233292-2",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "279995859",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 279995859.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12332_2018/",
         "main_cpv": "45000000-7",
@@ -23,35 +23,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "26825530",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 26825530.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20560_2018/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest – Nagykanizsa vasúti korrekciója",
-        "registered_name": "SZOMOR és TÁRSA Építő Korlátolt Felősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "499985794",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3425_2021/",
-        "main_cpv": "45233292-2",
-        "number_companies_win": 0,
-        "procurement_title": "Engedély/nem engedélyköteles útépítési munkák Ny-Magyarországon",
-        "registered_name": "SZOMOR és TÁRSA Építő Korlátolt Felősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "66977710",
-        "contracting_authority": "HUNGARORING Sport Zártkörűen Működő Részvénytársaság",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19689_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "B zajárnyékoló falszakasz kivitelezése",
         "registered_name": "SZOMOR és TÁRSA Építő Korlátolt Felősségű Társaság"
     }
 ]

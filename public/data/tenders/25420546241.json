@@ -1,255 +1,167 @@
 [
     {
         "company_names": "",
-        "contract_value": "39582000",
+        "contract_value": 39582000.0,
         "contracting_authority": "Nemzeti Emlékezet Bizottságának Hivatala",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4539_2019/",
         "main_cpv": "79710000-4, 79713000-5, 79992000-4",
         "number_companies_win": 0,
         "procurement_title": "Személy- és vagyonvédelmi szolgálat teljesítése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "202000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 202000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_8444_2019/",
         "main_cpv": "63712710-3",
         "number_companies_win": 0,
         "procurement_title": "Jegy- és bérletellenőrzési tevékenység ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ERANDO Rendszertechnika Korlátolt Felelősségű Társaság; ELIT SECURITY GROUP Nemzetközi Személy- és Vagyonvédelmi Szolgáltató Korlátolt Felelősségű Társaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; NG 12 Korlátolt Felelősségű Társaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "12000000000",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ERANDO Rendszertechnika Kft.; ELIT SECURITY GROUP Nemzetközi Személy- és Vagyonvédelmi Szolgáltató Kft.; ESG HOLDING Zrt.; NG 12 Kft.; Novum Guard Szolgáltató Kft.; UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 12000000000.0,
+        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zrt.",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_15531_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 9,
         "procurement_title": "MNV Zrt. ingatlanjainak komplex vagyonvédelme",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Bank Biztonság Bizalom Zártkörűen Működő Részvénytársaság; CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; Holdesco Ingatlanhasznosító és Üzemeltető Korlátolt Felelősségű Társaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; PREV-INFO Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "24500000000",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zrt.; Bank Biztonság Bizalom Zrt.; CIVIL Biztonsági Szolgálat Zrt.; CIVIL ITIM Informatika és Ingatlanmenedzsment Zrt.; ESG HOLDING Zrt.; Holdesco Ingatlanhasznosító és Üzemeltető Kft.; Novum Guard Szolgáltató Kft.; PREV-INFO Kft.; UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 24500000000.0,
+        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Magyar Államvasutak Zrt., MÁV Szolgáltató Központ Zrt., MÁV-START Vasúti Személyszállító Zrt.",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_18615_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 11,
         "procurement_title": "Vagyonvédelmi szolgáltatások",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "83745600",
-        "contracting_authority": "Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság",
+        "contract_value": 83745600.0,
+        "contracting_authority": "Autóipari Próbapálya Zala Kft.",
         "date": "11/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23855_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "A zalaegerszegi járműipari tesztpálya komplex vagyonvédelmi feladatainak ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "ESG HOLDING Zártkörűen Működő Részvénytársaság; MPT Security Magyar Posta Takarék Biztonsági és Logisztikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1191654464",
+        "company_names": "ESG HOLDING Zrt.; MPT Security Magyar Posta Takarék Biztonsági és Logisztikai Zrt.",
+        "contract_value": 1191654464.0,
         "contracting_authority": "Fővárosi Önkormányzat Csarnok és Piac Igazgatósága",
         "date": "23/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_24325_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 2,
         "procurement_title": "Őrzési, biztonsági szolgáltatás ellátása 2019",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1099349706",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ITIM Informatika és Ingatlanmenedzsment Zrt.; ESG HOLDING Zrt.",
+        "contract_value": 1099349706.0,
+        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Magyar Államvasutak Zrt., MÁV Szolgáltató Központ Zrt., MÁV-START Vasúti Személyszállító Zrt.",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_23816_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 3,
         "procurement_title": "MÁV különféle személy- és vagyonvédelmi szolgáltatások beszerzése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1189870655",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zrt., MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ITIM Informatika és Ingatlanmenedzsment Zrt.; ESG HOLDING Zrt.",
+        "contract_value": 1189870655.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt., MÁV-START Vasúti Személyszállító Zrt., MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Szolgáltató Központ Zrt.",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_1328_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 3,
         "procurement_title": "Különféle személy- és vagyonvédelmi szolgáltatás beszerzése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság",
-        "contract_value": "169557405",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ITIM Informatika és Ingatlanmenedzsment Zrt.; ESG HOLDING Zrt.",
+        "contract_value": 169557405.0,
+        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Magyar Államvasutak Zrt., MÁV Szolgáltató Központ Zrt., MÁV-START Vasúti Személyszállító Zrt.",
         "date": "11/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_2460_2020/",
         "main_cpv": "79713000-5",
         "number_companies_win": 3,
         "procurement_title": "Személy és vagyonvédelem",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1520000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 1520000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_4764_2020/",
         "main_cpv": "63712710-3",
         "number_companies_win": 0,
         "procurement_title": "Jegy- és bérletellenőrzési tevékenység ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "88094808",
-        "contracting_authority": "Pécsi Sport Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 88094808.0,
+        "contracting_authority": "Pécsi Sport Nonprofit Zrt.",
         "date": "01/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5593_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Őrzésvédelmi és vagyonvédelmi feladatok ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "ESG HOLDING Zártkörűen Működő Részvénytársaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "420108480",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "ESG HOLDING Zrt.; Novum Guard Szolgáltató Kft.",
+        "contract_value": 420108480.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14463_2020/",
         "main_cpv": "79713000-5",
         "number_companies_win": 2,
         "procurement_title": "Őrzés-védelmi szolgáltatások 2020-2021",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "ESG HOLDING Zártkörűen Működő Részvénytársaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; VALTON-SEC Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1680000000",
-        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság",
+        "company_names": "ESG HOLDING Zrt.; Novum Guard Szolgáltató Kft.; VALTON-SEC Kereskedelmi és Szolgáltató Zrt.",
+        "contract_value": 1680000000.0,
+        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Kft.",
         "date": "11/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_15572_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 3,
         "procurement_title": "Őrzés- és vagyonvédelmi feladatok ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ERANDO Rendszertechnika Korlátolt Felelősségű Társaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; MPT Security Magyar Posta Takarék Biztonsági és Logisztikai Zártkörűen Működő Részvénytársaság; Securimaster Protect Plusz Korlátolt Felelősségű Társaság",
-        "contract_value": "4755784450",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ERANDO Rendszertechnika Kft.; ESG HOLDING Zrt.; MPT Security Magyar Posta Takarék Biztonsági és Logisztikai Zrt.; Securimaster Protect Plusz Kft.",
+        "contract_value": 4755784450.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "10/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_20256_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 5,
         "procurement_title": "Komplex vagyonvédelmi szolgáltatások megrendelése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "146396480",
-        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 146396480.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_22810_2020/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Személy- és vagyonvédelmi feladatok ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság",
-        "contract_value": "147677750",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_0080_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 3,
-        "procurement_title": "Vagyonvédelmi szolgáltatások",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1748700000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "10/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2056_2021/",
-        "main_cpv": "63712710-3",
-        "number_companies_win": 0,
-        "procurement_title": "Jegy- és bérletellenőrzési tevékenység ellátása",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Bank Biztonság Bizalom Zártkörűen Működő Részvénytársaság; CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; Holdesco Ingatlanhasznosító és Üzemeltető Korlátolt Felelősségű Társaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; PREV-INFO Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "74080660",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_3168_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 14,
-        "procurement_title": "Különféle személy- és vagyonvédelmi szolgáltatások beszerzése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1966834355",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_3168_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 3,
-        "procurement_title": "Különféle személy- és vagyonvédelmi szolgáltatások beszerzése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43980000",
-        "contracting_authority": "Nemzeti Emlékezet Bizottságának Hivatala",
-        "date": "01/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4670_2021/",
-        "main_cpv": "79713000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Személy- és vagyonvédelmi szolgálat teljesítése",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; SECURIMASTER Tanácsadó, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Tanácsadó Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság; VALTON-SEC Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "200000000000",
-        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_9919_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 9,
-        "procurement_title": "EÜ intézmények őrzése szolgáltatás",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "ESG HOLDING Zártkörűen Működő Részvénytársaság; IN-KAL Zártkörűen Működő Részvénytársaság",
-        "contract_value": "97583880",
-        "contracting_authority": "Fővárosi Állat- és Növénykert",
-        "date": "26/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16284_2021/",
-        "main_cpv": "79713000-5",
-        "number_companies_win": 2,
-        "procurement_title": "Őrzés-védelmi, járőrözési feladatok FÁNK II.",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; Profinfo Team Vagyonvédelmi, Biztonságtechnikai és Magánnyomozói Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1948457307",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "06/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_23721_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 3,
-        "procurement_title": "PTE személy- és vagyonvédelme",
-        "registered_name": "ESG HOLDING Zártkörűen Működő Részvénytársaság"
+        "registered_name": "ESG HOLDING Zrt."
     }
 ]

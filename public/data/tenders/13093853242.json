@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "46463508",
-        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 46463508.0,
+        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Kft.",
         "date": "21/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2989_2019/",
         "main_cpv": "09310000-5",
@@ -12,46 +12,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "76909938",
-        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 76909938.0,
+        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Kft.",
         "date": "21/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2989_2019/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "SPORT11 energia",
-        "registered_name": "GM Kőérberek 30 Villamosenergia-termelő, Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "25233568",
-        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2321_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Sport 11 Villamos energia beszerzés",
-        "registered_name": "GM Kőérberek 30 Villamosenergia-termelő, Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "8401886",
-        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3694_2021/",
-        "main_cpv": "09323000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Sport 11 hő- és hűtési energia beszerzése",
-        "registered_name": "GM Kőérberek 30 Villamosenergia-termelő, Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "120844732",
-        "contracting_authority": "Újbuda Sportjáért Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3694_2021/",
-        "main_cpv": "09323000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Sport 11 hő- és hűtési energia beszerzése",
         "registered_name": "GM Kőérberek 30 Villamosenergia-termelő, Kereskedelmi és Szolgáltató Kft."
     }
 ]

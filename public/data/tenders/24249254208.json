@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "231439745",
-        "contracting_authority": "MET-NA Vasipari Gyártó és Forgalmazó Korlátolt Felelősségű Társaság",
+        "contract_value": 231439745.0,
+        "contracting_authority": "MET-NA Vasipari Gyártó és Forgalmazó Kft.",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9635_2018/",
         "main_cpv": "45254200-4",
         "number_companies_win": 0,
         "procurement_title": "Meglévő üzemépület bővítése szociális helyiségekkel és raktárral vállalkozási szerződés keretében",
-        "registered_name": "HORVÁTH ZSALUTECHNIKA Korlátolt Felelősségű Társaság"
+        "registered_name": "HORVÁTH ZSALUTECHNIKA Kft."
     }
 ]

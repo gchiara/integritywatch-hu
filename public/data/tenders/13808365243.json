@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "132270000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Korlátolt Felelősségű Társaság",
+        "contract_value": 132270000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Kft.",
         "date": "07/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19906_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Dömsödi gázminőség javító kéntelenítő telepítése",
-        "registered_name": "MM Épületgépészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "MM Épületgépészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69639972",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 69639972.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19509_2019/",
         "main_cpv": "45259200-9",
         "number_companies_win": 0,
         "procurement_title": "Szennyvíztisztító Telep rácsszemét fogadó lefedése",
-        "registered_name": "MM Épületgépészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "MM Épületgépészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "123986000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 123986000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19564_2019/",
         "main_cpv": "45259900-6",
         "number_companies_win": 0,
         "procurement_title": "Iszapvíztelenítés rekonstrukciója",
-        "registered_name": "MM Épületgépészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "MM Épületgépészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "249700000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 249700000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "10/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23545_2019/",
         "main_cpv": "45259900-6",
         "number_companies_win": 0,
         "procurement_title": "Iszapvíztelenítési rendszer bővítése",
-        "registered_name": "MM Épületgépészeti Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "140709000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
-        "date": "08/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19515_2021/",
-        "main_cpv": "45259200-9",
-        "number_companies_win": 0,
-        "procurement_title": "Szennyvíztisztító telep leválasztó rendszerbővítés",
-        "registered_name": "MM Épületgépészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "MM Épületgépészeti Kft."
     }
 ]

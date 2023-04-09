@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "80806337",
+        "contract_value": 80806337.0,
         "contracting_authority": "Délegyháza Község Önkormányzata",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11141_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "VN-Tech Korlátolt Felelősségű Társaság"
+        "registered_name": "VN-Tech Kft."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "125453619",
+        "contract_value": 125453619.0,
         "contracting_authority": "Balatonfüred Kézilabda Sportjáért Közhasznú Alapítvány",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3484_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "165150226",
+        "contract_value": 165150226.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8370_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1172421119",
+        "contract_value": 1172421119.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8370_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "112857821",
+        "contract_value": 112857821.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1282_2019/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "72430948",
+        "contract_value": 72430948.0,
         "contracting_authority": "Balatonfüred Város Sportjáért Közhasznú Alapítvány",
         "date": "08/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7992_2020/",
@@ -56,24 +56,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "1643448861",
+        "contract_value": 1643448861.0,
         "contracting_authority": "Balatonfüred Kézilabda Sportjáért Közhasznú Alapítvány",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23216_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Forrás Sport Parkban kézilabdacsarnok építése",
-        "registered_name": "GÓTIKA Balatonfüred és Környéke Épitőipari Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "1538963880",
-        "contracting_authority": "Balatonfüred Város Önkormányzata",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11305_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Balatonfüred, Ófalu fejlesztése, magas- és mélyépítés",
         "registered_name": "GÓTIKA Balatonfüred és Környéke Épitőipari Kft."
     }
 ]

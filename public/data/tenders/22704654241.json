@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "19880400",
+        "contract_value": 19880400.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_182_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "Diagnosztikai és orvosi laboratóriumi hálózat infrastrukturális feltételeinek javítása projekt képzési tevékenységeihez kapcsolódó rendezvényszervezési feladatok ellátása",
-        "registered_name": "Sensation Event&Congress Korlátolt Felelősségű Társaság"
+        "registered_name": "Sensation Event&Congress Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75000000",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 75000000.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2863_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "Rendezvényszervezési szolgáltatások igénybevétele",
-        "registered_name": "Sensation Event&Congress Korlátolt Felelősségű Társaság"
+        "registered_name": "Sensation Event&Congress Kft."
     },
     {
-        "company_names": "Budapest Party Service Vendéglátó és Szolgáltató Korlátolt Felelősségű Társaság; Sensation Event&Congress Korlátolt Felelősségű Társaság",
-        "contract_value": "674759102",
+        "company_names": "Budapest Party Service Vendéglátó és Szolgáltató Kft.; Sensation Event&Congress Kft.",
+        "contract_value": 674759102.0,
         "contracting_authority": "Oktatási Hivatal",
         "date": "25/05/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_8091_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 2,
         "procurement_title": "Catering és kapcsolódó szolgáltatások biztosítására az Oktatási Hivatal kiemelt projektje keretében (nagy catering)",
-        "registered_name": "Sensation Event&Congress Korlátolt Felelősségű Társaság"
+        "registered_name": "Sensation Event&Congress Kft."
     },
     {
-        "company_names": "Budapest Party Service Vendéglátó és Szolgáltató Korlátolt Felelősségű Társaság; Comp-let Party Service Vendéglátó, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EuroPro Consulting Korlátolt Felelősségű Társaság; HAMU és GYÉMÁNT Média Korlátolt Felelősségű Társaság; KEIOK Közép-Európai Innovációs és Oktatási Központ Korlátolt Felelősségű Társaság; KIRÁLY és NOVOTNY Kereskedelmi és Szolgáltató Kft.; L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság; Sensation Event&Congress Korlátolt Felelősségű Társaság",
-        "contract_value": "11000000000",
-        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Budapest Party Service Vendéglátó és Szolgáltató Kft.; Comp-let Party Service Vendéglátó, Kereskedelmi és Szolgáltató Kft.; EuroPro Consulting Kft.; HAMU és GYÉMÁNT Média Kft.; KEIOK Közép-Európai Innovációs és Oktatási Központ Kft.; KIRÁLY és NOVOTNY Kereskedelmi és Szolgáltató Kft.; L.A. Multi-Zone Humán Szervíz Kft.; Sensation Event&Congress Kft.",
+        "contract_value": 11000000000.0,
+        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Kft.",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18161_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 8,
         "procurement_title": "Keretmegállapodás Komplex rendezvényszervezési szolgáltatások ellátására",
-        "registered_name": "Sensation Event&Congress Korlátolt Felelősségű Társaság"
+        "registered_name": "Sensation Event&Congress Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95000000",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 95000000.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "18/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17695_2019/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "Rendezvényszervezési szolgáltatások igénybevétele",
-        "registered_name": "Sensation Event&Congress Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44500000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
-        "date": "19/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2776_2021/",
-        "main_cpv": "79952000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Komplex rendezvényszervezési szolgáltatások",
-        "registered_name": "Sensation Event&Congress Korlátolt Felelősségű Társaság"
+        "registered_name": "Sensation Event&Congress Kft."
     }
 ]

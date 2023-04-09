@@ -1,607 +1,519 @@
 [
     {
         "company_names": "",
-        "contract_value": "27603000",
+        "contract_value": 27603000.0,
         "contracting_authority": "Ökológiai Kutatóközpont",
         "date": "09/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_239_2018/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Szkenning fénymikroszkóp konfiguráció beszerzése adásvételi szerződés alapján a HOMÉR című projekt keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1274112",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 1274112.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1743_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "In vivo biológiai labor (zebrahal rendszer) berendezések beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45147999",
+        "contract_value": 45147999.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7073_2018/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "HCS/HCI potenciállal bíró mikroszkópi facilitás beszerzése az SE Genetikai, Sejt- és Immunbiológiai Intézet részére",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130708600",
+        "contract_value": 130708600.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6515_2018/",
         "main_cpv": "38550000-5",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés tárgyi eszközök beszerzésére",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35952000",
+        "contract_value": 35952000.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "10/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7383_2018/",
         "main_cpv": "38432000-2",
         "number_companies_win": 0,
         "procurement_title": "Az NSZKK Toxikológiai Szakértői Intézete (TSZI), a Kábítószervizsgáló Szakértői Intézete (KSZI) és a Fizikai Kémiai Szakértő Intézete (FKSZI) részére különböző lab. vizsgáló készülékek beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15748027",
+        "contract_value": 15748027.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "22/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10419_2018/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Adás-vételi szerződés, amelynek tárgya mikroszkóp beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2219568",
+        "contract_value": 2219568.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "12/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11853_2018/",
         "main_cpv": "38432000-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Nemzeti Agykutatási Program 2.0 elnevezésű projekt keretében az Eötvös Loránd Tudományegyetem részére",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16240518",
+        "contract_value": 16240518.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "03/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12802_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6225723",
+        "contract_value": 6225723.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15209_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem, Multimodális optikai nanoszkópiai módszerek fejlesztése és alkalmazása az élet- és anyagtudományi kutatásokban pályázata keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6465488",
+        "contract_value": 6465488.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15209_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem, Multimodális optikai nanoszkópiai módszerek fejlesztése és alkalmazása az élet- és anyagtudományi kutatásokban pályázata keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9031475",
+        "contract_value": 9031475.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15209_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem, Multimodális optikai nanoszkópiai módszerek fejlesztése és alkalmazása az élet- és anyagtudományi kutatásokban pályázata keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15937015",
+        "contract_value": 15937015.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15209_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem, Multimodális optikai nanoszkópiai módszerek fejlesztése és alkalmazása az élet- és anyagtudományi kutatásokban pályázata keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18503528",
+        "contract_value": 18503528.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15209_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem, Multimodális optikai nanoszkópiai módszerek fejlesztése és alkalmazása az élet- és anyagtudományi kutatásokban pályázata keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20532944",
+        "contract_value": 20532944.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15209_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem, Multimodális optikai nanoszkópiai módszerek fejlesztése és alkalmazása az élet- és anyagtudományi kutatásokban pályázata keretein belül",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25196849",
+        "contract_value": 25196849.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15172_2018/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi műszerek beszerzése biokompatibilis nano- és mezo-rendszerek tervezéséhez és fejlesztéséhez",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3560369",
+        "contract_value": 3560369.0,
         "contracting_authority": "Pannon Egyetem",
         "date": "10/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15529_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Mikroszkóp, kaloriméter, egyéb berendezések beszerzése a Pannon Egyetem részére",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1224320",
+        "contract_value": 1224320.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "26/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19026_2018/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "SZIE részére mikroszkópok beszerzése 2.",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17322140",
-        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 17322140.0,
+        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19895_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti eszközök beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11020000",
+        "contract_value": 11020000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24674_2018/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépészmérnöki eszközök, berendezések, alkatrészek",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20650247",
+        "contract_value": 20650247.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "22/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2498_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboreszköz beszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25236893",
+        "contract_value": 25236893.0,
         "contracting_authority": "Szegedi Biológiai Kutatóközpont",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3398_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "In vivo makromolekula interakció munkaállomás",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28143000",
+        "contract_value": 28143000.0,
         "contracting_authority": "Szegedi Biológiai Kutatóközpont",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3398_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "In vivo makromolekula interakció munkaállomás",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62992125",
+        "contract_value": 62992125.0,
         "contracting_authority": "Szegedi Biológiai Kutatóközpont",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3398_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "In vivo makromolekula interakció munkaállomás",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "108036425",
+        "contract_value": 108036425.0,
         "contracting_authority": "Szegedi Biológiai Kutatóközpont",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3398_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "In vivo makromolekula interakció munkaállomás",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3148409",
+        "contract_value": 3148409.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6712_2019/",
         "main_cpv": "14810000-2, 33790000-4, 38519000-6",
         "number_companies_win": 0,
         "procurement_title": "Szakmai anyagok beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5624894",
+        "contract_value": 5624894.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7404_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19685040",
+        "contract_value": 19685040.0,
         "contracting_authority": "Szegedi Biológiai Kutatóközpont",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8932_2019/",
         "main_cpv": "42931100-2",
         "number_companies_win": 0,
         "procurement_title": "Ultracentrifuga és mikroszkóp bővítése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1318500",
+        "contract_value": 1318500.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "23/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9254_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés II.",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6062990",
+        "contract_value": 6062990.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "24/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9000_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "DE GYTK eszközellátottságának bővítése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6460000",
+        "contract_value": 6460000.0,
         "contracting_authority": "Szent Pantaleon Kórház-Rendelőintézet Dunaújváros",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12196_2019/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnikai eszközök és licence beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2516070",
+        "contract_value": 2516070.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12875_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "SZTE Neuro I. eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25999160",
+        "contract_value": 25999160.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12875_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "SZTE Neuro I. eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1617484",
+        "contract_value": 1617484.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "10/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17130_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Műszerek beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3180000",
+        "contract_value": 3180000.0,
         "contracting_authority": "Szent Pantaleon Kórház-Rendelőintézet Dunaújváros",
         "date": "28/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1098_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti Osztálynak szemészeti anyagok beszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3664627",
+        "contract_value": 3664627.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1542_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5247810",
+        "contract_value": 5247810.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1542_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5643680",
+        "contract_value": 5643680.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1542_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6578300",
+        "contract_value": 6578300.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1542_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7299124",
+        "contract_value": 7299124.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5777_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboreszközök beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20100000",
+        "contract_value": 20100000.0,
         "contracting_authority": "Dr. László Elek Kórház és Rendelőintézet, Orosháza",
         "date": "02/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8848_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szakmai anyag beszerzése Orosházi Kórház részére",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7548000",
+        "contract_value": 7548000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "14/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14557_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9775000",
+        "contract_value": 9775000.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "14/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14557_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34999999",
+        "contract_value": 34999999.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18679_2020/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Operációs mikroszkóp rendszer beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21870780",
+        "contract_value": 21870780.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19586_2020/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "DE Műszaki Kar eszközparkjának bővítése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5421293",
+        "contract_value": 5421293.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_21328_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "HCEMM labor eszközeinek beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8491763",
+        "contract_value": 8491763.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_21328_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "HCEMM labor eszközeinek beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2396000",
+        "contract_value": 2396000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22304_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "126820400",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2722_2021/",
-        "main_cpv": "33122000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti eszközök beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16682000",
-        "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5255_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7356000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7145_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32400000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7145_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "194972000",
-        "contracting_authority": "Szépművészeti Múzeum",
-        "date": "13/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17238_2021/",
-        "main_cpv": "38515000-8",
-        "number_companies_win": 0,
-        "procurement_title": "OMRRK Mikroszkópok és labormikroszkópok 1. ütem",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1710000",
-        "contracting_authority": "Szent Pantaleon Kórház-Rendelőintézet Dunaújváros",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18052_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése 1 éves időtartamra",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6345000",
-        "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20988_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék,szemészeti fogyóanyagok 2021",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9086000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20921_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék és fogyóanyagok",
-        "registered_name": "Carl Zeiss Technika Korlátolt Felelősségű Társaság"
+        "registered_name": "Carl Zeiss Technika Kft."
     }
 ]

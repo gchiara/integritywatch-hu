@@ -1,68 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "33426720",
+        "contract_value": 33426720.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2016_2018/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "A Nagyerdei Parkerdő parkjainak, valamint az Oláh Gábor utcai Ötholdas Pagony játszótér vagyonvédelmi feladatainak ellátása",
-        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60954520",
-        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 60954520.0,
+        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Kft.",
         "date": "03/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7860_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Vagyonvédelmi és recepciós szolgáltatás ellátása",
-        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44503330",
-        "contracting_authority": "Főnix Rendezvényszervező Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 44503330.0,
+        "contracting_authority": "Főnix Rendezvényszervező Közhasznú Nonprofit Kft.",
         "date": "01/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5821_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Rendezvénybiztosítási, őrzés-védelmi feladatok ellátása",
-        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "83455320",
+        "contract_value": 83455320.0,
         "contracting_authority": "Déri Múzeum",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24376_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "A Déri Múzeum őrzés-védelmi feladatainak ellátása",
-        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "63263800",
-        "contracting_authority": "Debreceni Sportcentrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "08/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24041_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Vagyonvédelmi szolgáltatás ellátása",
-        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "83153280",
-        "contracting_authority": "Déri Múzeum",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25334_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 0,
-        "procurement_title": "A Déri Múzeum őrzés-védelmi feladatainak ellátása",
-        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GEWISS GUARD Vagyonvédelmi és Szolgáltató Kft."
     }
 ]

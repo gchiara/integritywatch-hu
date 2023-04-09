@@ -1,145 +1,24 @@
 [
     {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "2100000000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
+        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Kft.; EN-CO Software Kft.; MultiContact Consulting Szolgáltató Kft.; TIGRA Computer - és Irodatechnikai Kft.; T-Systems Magyarország Zrt.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.",
+        "contract_value": 2100000000.0,
+        "contracting_authority": "IdomSoft Informatikai Zrt.",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4451_2018/",
         "main_cpv": "72000000-5",
         "number_companies_win": 6,
         "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "182400000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
+        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Kft.; EN-CO Software Kft.; MultiContact Consulting Szolgáltató Kft.; TIGRA Computer - és Irodatechnikai Kft.; T-Systems Magyarország Zrt.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.",
+        "contract_value": 182400000.0,
+        "contracting_authority": "IdomSoft Informatikai Zrt.",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13004_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 6,
         "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "141060000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "14/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4544_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "249954000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5662_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "565548000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6202_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "255197800",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10207_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "4455000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10875_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "5280000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10757_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "76196500",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10795_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "221410000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10784_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Korlátolt Felelősségű Társaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "23375000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "23/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10865_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Zártkörűen Működő Részvénytársaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "37800000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12975_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Zártkörűen Működő Részvénytársaság; MultiContact Consulting Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "276843500",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "14/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19479_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 6,
-        "procurement_title": "Szakértői erőforrás beszerzése",
-        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Easyway Systems Tanácsadó és Szolgáltató Kft."
     }
 ]

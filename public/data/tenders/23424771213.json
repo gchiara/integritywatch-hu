@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "46950120",
+        "contract_value": 46950120.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0828_2019/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Hűtőaggregát beszerzése",
-        "registered_name": "ZANOTTI Hungária Korlátolt Felelősségű Társaság"
+        "registered_name": "ZANOTTI Hungária Kft."
     },
     {
         "company_names": "",
-        "contract_value": "323433000",
+        "contract_value": 323433000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "20/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3557_2019/",
         "main_cpv": "50117000-8",
         "number_companies_win": 0,
         "procurement_title": "Hűtőkonténerek felújítása 2018-2020.",
-        "registered_name": "ZANOTTI Hungária Korlátolt Felelősségű Társaság"
+        "registered_name": "ZANOTTI Hungária Kft."
     }
 ]

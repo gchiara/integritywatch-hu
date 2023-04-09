@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "38876618",
+        "contract_value": 38876618.0,
         "contracting_authority": "Budapest I. Kerület Budavári Önkormányzat Gazdasági Műszaki Ellátó és Szolgáltató Szervezet",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6684_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest, I kerület, Csap u. 4., Kard utca 4., Táncsics Mihály u. 8., 18. és Úri utca 34. szám alatti műemléki épületek részleges felújítása",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10001641047,7",
+        "contract_value": 10001641047.7,
         "contracting_authority": "Budapest I. Kerület Budavári Önkormányzat Gazdasági Műszaki Ellátó és Szolgáltató Szervezet",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6684_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest, I kerület, Csap u. 4., Kard utca 4., Táncsics Mihály u. 8., 18. és Úri utca 34. szám alatti műemléki épületek részleges felújítása",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     },
     {
         "company_names": "",
-        "contract_value": "140000000",
+        "contract_value": 140000000.0,
         "contracting_authority": "Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9343_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Budapest Főváros XII. kerület Hegyvidéki Önkormányzat tulajdonában és/vagy fenntartása alatt álló ingatlanok karbantartási és hibaelhárítási, illetve esetenként felújítási feladatainak ellátása",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35715340",
+        "contract_value": 35715340.0,
         "contracting_authority": "Budapest I. Kerület Budavári Önkormányzat Gazdasági Műszaki Ellátó és Szolgáltató Szervezet",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10537_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest, I kerület, Dísz tér 10., Országház utca 24., Szarvas tér 1. szám alatti műemléki épületek részleges felújítása",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     },
     {
         "company_names": "",
-        "contract_value": "190000000",
+        "contract_value": 190000000.0,
         "contracting_authority": "Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13259_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ingatlankarbantartás, hibaelhárítás és felújítás",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12488000",
+        "contract_value": 12488000.0,
         "contracting_authority": "Budapest I. Kerület Budavári Önkormányzat Gazdasági Műszaki Ellátó és Szolgáltató Szervezet",
         "date": "17/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17535_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Dísz tér 13., Országház u. 16., Úri u. 17. szám alatti, műemléki épületeken végzendő kivitelezési munkák",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     },
     {
         "company_names": "",
-        "contract_value": "228000000",
+        "contract_value": 228000000.0,
         "contracting_authority": "Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12567_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ingatlankarbantartás, hibaelhárítás és felújítás",
-        "registered_name": "REGNUM-TREND BAU Korlátolt Felelősségű Társaság"
+        "registered_name": "REGNUM-TREND BAU Kft."
     }
 ]

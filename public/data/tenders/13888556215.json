@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "262561940",
-        "contracting_authority": "NORD-STARKE HOLDING Korlátolt Felelősségű Társaság",
+        "contract_value": 262561940.0,
+        "contracting_authority": "NORD-STARKE HOLDING Kft.",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8487_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Keményítőüzem felújítási munkálatai",
-        "registered_name": "Nyírjes-Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "Nyírjes-Bau Kft."
     }
 ]

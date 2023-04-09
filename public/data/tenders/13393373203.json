@@ -1,222 +1,222 @@
 [
     {
         "company_names": "",
-        "contract_value": "44000000",
-        "contracting_authority": "FÜRT-TRADE Mezőgazdasági, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 44000000.0,
+        "contracting_authority": "FÜRT-TRADE Mezőgazdasági, Kereskedelmi és Szolgáltató Kft.",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1564_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Gépek beszerzése borászati fejlesztés keretében négy önállóan megajánlható részben a Fürt-Trade Kft. részére",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "413500000",
-        "contracting_authority": "WineCorps Zártkörűen Működő Részvénytársaság",
+        "contract_value": 413500000.0,
+        "contracting_authority": "WineCorps Zrt.",
         "date": "06/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_800_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a WineCorps Zrt. Részére",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "834700000",
-        "contracting_authority": "PALÁSTI-BORÁSZAT Borászati Korlátolt Felelősségű Társaság",
+        "contract_value": 834700000.0,
+        "contracting_authority": "PALÁSTI-BORÁSZAT Borászati Kft.",
         "date": "07/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3465_2018/",
         "main_cpv": "44611000-6",
         "number_companies_win": 0,
         "procurement_title": "szőlőlékészítési technológia fejlesztése Kecelen",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "124000000",
-        "contracting_authority": "KOCH BORÁSZAT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 124000000.0,
+        "contracting_authority": "KOCH BORÁSZAT Kereskedelmi és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4395_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Gépek beszerzése a borászati palackos érlelő raktárépület fejlesztés keretében négy önállóan megajánlható részben a Koch Borászat Kft. részére",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14200000",
-        "contracting_authority": "KOCH és Társai Szőlőbirtok és Pincészet Korlátolt Felelősségű Társaság",
+        "contract_value": 14200000.0,
+        "contracting_authority": "KOCH és Társai Szőlőbirtok és Pincészet Kft.",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6833_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Gépek beszerzése borászati fejlesztés keretében hat önállóan megajánlható részben a Koch és Társai Szőlőbirtok és Pincészet Kft. részére",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59070000",
-        "contracting_authority": "Európai Bortermelők Korlátolt Felelősségü Társaság",
+        "contract_value": 59070000.0,
+        "contracting_authority": "Európai Bortermelők Kft.",
         "date": "29/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8565_2018/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Az EUROBOR Kft. borászati fejlesztése című projekt keretében eszközbeszerzések",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETKF Európai Tudományos Kutatási és Fejlesztési Korlátolt Felelősségű Társaság",
-        "contract_value": "234586080",
-        "contracting_authority": "Szent Imre Pincészet Termelő és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "company_names": "CSÚZIKER Kereskedelmi és Szolgáltató Kft.; ETKF Európai Tudományos Kutatási és Fejlesztési Kft.",
+        "contract_value": 234586080.0,
+        "contracting_authority": "Szent Imre Pincészet Termelő és Kereskedelmi Kft.",
         "date": "29/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8190_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 2,
         "procurement_title": "Szent Imre Pincészet borászatának fejlesztése",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111416000",
-        "contracting_authority": "GÁBORHÁZ 2012 Borászati, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 111416000.0,
+        "contracting_authority": "GÁBORHÁZ 2012 Borászati, Kereskedelmi és Szolgáltató Kft.",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11697_2018/",
         "main_cpv": "39145000-0",
         "number_companies_win": 0,
         "procurement_title": "Borászati eszközök beszerzése",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "197100000",
-        "contracting_authority": "WINEGARDEN Korlátolt Felelősségű Társaság",
+        "contract_value": 197100000.0,
+        "contracting_authority": "WINEGARDEN Kft.",
         "date": "12/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12024_2018/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "WINEGARDEN Kft. részére borászati gépek, eszközök beszerzése adásvételi szerződés keretében.",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27423000",
-        "contracting_authority": "Villányi Bor-Barátok Termelő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 27423000.0,
+        "contracting_authority": "Villányi Bor-Barátok Termelő, Szolgáltató és Kereskedelmi Kft.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12193_2018/",
         "main_cpv": "42921200-0",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Villányi Bor - Barátok Kft. technológiai és energiahatékonysági fejlesztése elnevezésű projekt keretében",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27880000",
+        "contract_value": 27880000.0,
         "contracting_authority": "Lucza és Társa Mezőgazdasági Termelő, Kereskedelmi és Szolgáltató Kft.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12925_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Gépek beszerzése borászati üzem fejlesztése keretében három önállóan megajánlható részben a Lucza és Társa Kft. Részére",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32500000",
-        "contracting_authority": "WineCorps Zártkörűen Működő Részvénytársaság",
+        "contract_value": 32500000.0,
+        "contracting_authority": "WineCorps Zrt.",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13534_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "276000000",
-        "contracting_authority": "WineCorps Zártkörűen Működő Részvénytársaság",
+        "contract_value": 276000000.0,
+        "contracting_authority": "WineCorps Zrt.",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13534_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76000000",
-        "contracting_authority": "HER-RITT Szőlőtermesztő Korlátolt Felelősségű Társaság",
+        "contract_value": 76000000.0,
+        "contracting_authority": "HER-RITT Szőlőtermesztő Kft.",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15640_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Borászati eszközök beszerzése",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39606000",
-        "contracting_authority": "Henye Borászat Bortermelő és Értékesítő Korlátolt Felelősségű Társaság",
+        "contract_value": 39606000.0,
+        "contracting_authority": "Henye Borászat Bortermelő és Értékesítő Kft.",
         "date": "13/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22957_2018/",
         "main_cpv": "42210000-1",
         "number_companies_win": 0,
         "procurement_title": "Borászati technológiai eszközök beszerzése",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7950000",
+        "contract_value": 7950000.0,
         "contracting_authority": "Koch Csaba",
         "date": "11/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10410_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39650000",
+        "contract_value": 39650000.0,
         "contracting_authority": "Koch Csaba",
         "date": "11/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10410_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85375000",
+        "contract_value": 85375000.0,
         "contracting_authority": "Koch Csaba",
         "date": "11/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10410_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10950000",
-        "contracting_authority": "UNO-DRINK PLUS Termelő, Kereskedelmi és Vendéglátó Korlátolt Felelősségű Társaság",
+        "contract_value": 10950000.0,
+        "contracting_authority": "UNO-DRINK PLUS Termelő, Kereskedelmi és Vendéglátó Kft.",
         "date": "13/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23773_2019/",
         "main_cpv": "44600000-6",
         "number_companies_win": 0,
         "procurement_title": "Rozsdamentes keverő tartályok szállítása",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16800000",
-        "contracting_authority": "PHOENIX-DRINK Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 16800000.0,
+        "contracting_authority": "PHOENIX-DRINK Kereskedelmi és Szolgáltató Kft.",
         "date": "23/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1177_2020/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Egyes eszközök szállítási feladatainak ellátása",
-        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÚZIKER Kereskedelmi és Szolgáltató Kft."
     }
 ]

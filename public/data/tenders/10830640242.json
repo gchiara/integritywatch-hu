@@ -1,200 +1,134 @@
 [
     {
         "company_names": "",
-        "contract_value": "290334670",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 290334670.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_694_2018/",
         "main_cpv": "45212314-0",
         "number_companies_win": 0,
         "procurement_title": "Budapest I. kerület Szentháromság tér 6. szám alatti egykori pénzügyminisztériumi műemlék épület rekonstrukciójához kapcsolódó restaurátori kutatások, valamint épület feltáró bontási munkák elvégzése",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "9800000000",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 9800000000.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16304_2018/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Keretmegállapodás megkötése a Nemzetgazdasági Minisztérium 1014 Budapest, Szentháromság tér 6. szám alatt történő elhelyezésének műemléki épületrekonstrukciójához kapcsolódó kivitelezési feladatok ellátására - I. ütem",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1483139970",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 1483139970.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "28/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_928_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Nemzetgazdasági Minisztérium 1014 Budapest, Szentháromság tér 6. számalatt történő elhelyezésének műemléki épületrekonstrukciójához kapcsolódó kivitelezési feladatok ellátása",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7200000000",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 7200000000.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "20/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2942_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Műemléki épületrekonstrukció - II. ütem",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "361350000",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 361350000.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6694_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Nemzetgazdasági Minisztérium épületrekonstrukció",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "626190070",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 626190070.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "19/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13020_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "A Nemzetgazdasági Minisztérium 1014 Budapest, Szentháromság tér 6. alatt történő műemléki épületrekonstrukciójához kapcsolódó kivitelezési feladatok ellátása - 1. ütem.",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2818449038",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 2818449038.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20164_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Nemzetgazdasági Minisztérium 1014 Budapest, Szentháromság tér 6. szám alatt történő elhelyezésénekműemléki épületrekonstrukciójához kapcsolódó kivitelezési feladatok ellátása",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2106436203",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 2106436203.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "28/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20014_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Műemléki épületrekonstrukció II. ütem",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Építő-és épületkarbantartó Zártkörűen Működő Részvénytársaság; Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság",
-        "contract_value": "3400830980",
+        "company_names": "Építő-és épületkarbantartó Zrt.; Garage Ingatlanfejlesztő Kft.",
+        "contract_value": 3400830980.0,
         "contracting_authority": "Közép-Budai Tankerületi Központ",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21146_2019/",
         "main_cpv": "45214200-2",
         "number_companies_win": 2,
         "procurement_title": "Építési beruházás - Völgy utca",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "114351951",
+        "contract_value": 114351951.0,
         "contracting_authority": "Kisar Község Önkormányzata",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24871_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Új bölcsőde építése",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "365315395",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 365315395.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "09/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6021_2020/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Nemzetgazdasági Minisztérium épületrekonstrukció I. ütem",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     },
     {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "426557245",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Garage Ingatlanfejlesztő Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 426557245.0,
+        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Kft.",
         "date": "22/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12835_2020/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "Műemléki épületrekonstrukció I. ütem",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1009729531",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "27/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0749_2021/",
-        "main_cpv": "45212314-0",
-        "number_companies_win": 2,
-        "procurement_title": "Műemléki épületrekonstrukciójához kapcsolódó kiviteli feladatok ellátása",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1197798403",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6507_2021/",
-        "main_cpv": "45212314-0",
-        "number_companies_win": 2,
-        "procurement_title": "Műemléki épületrekonstrukcióhoz kapcsolódó kivitelezési feladatok ellátása",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "54378709418",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "22/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6761_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Szentháromság tér 6. – tervezés és kivitelezés",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "983617784",
-        "contracting_authority": "PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6508_2021/",
-        "main_cpv": "45212314-0",
-        "number_companies_win": 2,
-        "procurement_title": "Műemléki épületrekonstrukció",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9683100000",
-        "contracting_authority": "Fehérgyarmat Város Önkormányzata",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7543_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Termálfürdő és Szálloda tervezés-kivitelezés",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "FEJÉR-B.Á.L. Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság",
-        "contract_value": "1508207494",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "07/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_12606_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "MÁK székház földszinti pénztárterem helyreállítása",
-        "registered_name": "Garage Ingatlanfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "Garage Ingatlanfejlesztő Kft."
     }
 ]

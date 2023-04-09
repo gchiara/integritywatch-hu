@@ -1,178 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "519486614",
+        "contract_value": 519486614.0,
         "contracting_authority": "Dunakeszi Város Önkormányzata",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7815_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Új bölcsődei és óvodai telephely létesítése Dunakeszin- I ütem Bölcsőde építése",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "42682986",
+        "contract_value": 42682986.0,
         "contracting_authority": "Bercel Község Önkormányzata",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14566_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bercel Csemete-kert Óvoda fejlesztése",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "219986792",
+        "contract_value": 219986792.0,
         "contracting_authority": "Balassagyarmat Város Önkormányzata",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17985_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A balassagyarmati Nyitnikék Tagóvoda fejlesztése",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "41984000",
+        "contract_value": 41984000.0,
         "contracting_authority": "Bercel Község Önkormányzata",
         "date": "15/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20362_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése 3. Bercel községben",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "758614456",
+        "contract_value": 758614456.0,
         "contracting_authority": "Dunakeszi Város Önkormányzata",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6719_2019/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Új bölcsődei és óvodai telephely létesítés Dunakeszin II.",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "687412955",
+        "contract_value": 687412955.0,
         "contracting_authority": "Pest Megyei Kormányhivatal",
         "date": "16/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13045_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dunakeszi KAB, TH kivitelezési munkák",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1464875000",
+        "contract_value": 1464875000.0,
         "contracting_authority": "Városi Sportegyesület Dunakeszi",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19288_2019/",
         "main_cpv": "45212225-9",
         "number_companies_win": 0,
         "procurement_title": "Dunakeszi Futsal csarnok építése",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "279748000",
+        "contract_value": 279748000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23046_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lágymányosi Campus KTCS épületének rehabilitációja",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "286700000",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
+        "contract_value": 286700000.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0465_2020/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "Tanterem tervezés, kivitelezés a Kastélydombi iskolában",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "125678000",
+        "contract_value": 125678000.0,
         "contracting_authority": "Erdőkertes Község Önkormányzata",
         "date": "23/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0181_2020/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Erdőkertesi piac kiépítése",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "670131000",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 670131000.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "28/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1549_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Honvédelmi Sportközpont építése Balassagyarmaton",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "449995000",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
+        "contract_value": 449995000.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
         "date": "08/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6388_2020/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "Tanterem tervezése-kivitelezése Brassó u. Általános Iskola",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "464390000",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Göd Város Önkormányzata",
+        "contract_value": 464390000.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Göd Város Önkormányzata",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6467_2020/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "Tanterem tervezése-kivitelezése Gödön",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "263196065",
-        "contracting_authority": "Balassagyarmat Város Önkormányzata",
-        "date": "17/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8801_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "GAMESZ telephely és gyepmesteri telep kialakítása",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "698785000",
-        "contracting_authority": "BEAC FORTIS Korlátolt Felelősségű Társaság",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14073_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "ELTE Edzőcsarnok komplex felújítása",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "299499000",
-        "contracting_authority": "Eötvös Loránd Tudományegyetem",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19105_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Eötvös József Collegium felújítása",
-        "registered_name": "TREND Építő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TREND Építő Zrt."
     }
 ]

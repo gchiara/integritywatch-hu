@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "IRUB Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; MULTEAM 360 Szolgáltató Korlátolt Felelősségű Társaság; PANNONSPORT Szervező és Marketing Korlátolt Felelősségű Társaság; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
-        "contract_value": "1500000000",
+        "company_names": "IRUB Szolgáltató és Tanácsadó Kft.; MULTEAM 360 Szolgáltató Kft.; PANNONSPORT Szervező és Marketing Kft.; Preventív-Security Biztonsági és Tanácsadó Zártkorűen Működő Részvénytársaság",
+        "contract_value": 1500000000.0,
         "contracting_authority": "Magyar Birkózók Szövetsége",
         "date": "03/07/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_10765_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 4,
         "procurement_title": "A 2018-as budapesti birkózó világbajnokság megrendezésével kapcsolatos feladatok ellátása",
-        "registered_name": "PANNONSPORT Szervező és Marketing Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONSPORT Szervező és Marketing Kft."
     }
 ]

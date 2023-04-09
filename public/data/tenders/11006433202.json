@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "16200000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 16200000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4188_2018/",
         "main_cpv": "44113610-4",
         "number_companies_win": 0,
         "procurement_title": "Bitumen emulzió értékesítése a BIOKOM Nonprofit Kft. Részére",
-        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "346153847",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 346153847.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "22/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7555_2018/",
         "main_cpv": "44113610-4",
         "number_companies_win": 0,
         "procurement_title": "Bitumentermékek beszerzése-2017.",
-        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 25000000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7136_2019/",
         "main_cpv": "44113620-7",
         "number_companies_win": 0,
         "procurement_title": "Aszfalt és bitumenemulzió értékesítése",
-        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "375121000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 375121000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25222_2019/",
         "main_cpv": "44113610-4",
         "number_companies_win": 0,
         "procurement_title": "Bitumen termékek beszerzése 2019",
-        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BITUBAU-MAGYARORSZÁG Építőipari, Szolgáltató és Kereskedelmi Kft."
     }
 ]

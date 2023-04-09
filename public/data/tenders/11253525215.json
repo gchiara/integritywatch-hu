@@ -1,112 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "190523881",
+        "contract_value": 190523881.0,
         "contracting_authority": "Rakamaz Város Önkormányzata",
         "date": "04/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4911_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ady Endre úti Általános Iskola épületének korszerűsítése",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20176688",
+        "contract_value": 20176688.0,
         "contracting_authority": "Nyíregyházi Szakképzési Centrum",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14699_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyházi SzC kollégiumok energetikai felújítása",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27593334",
+        "contract_value": 27593334.0,
         "contracting_authority": "Nyíregyházi Szakképzési Centrum",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14699_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyházi SzC kollégiumok energetikai felújítása",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85415317",
+        "contract_value": 85415317.0,
         "contracting_authority": "Nyíregyházi Szakképzési Centrum",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14699_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyházi SzC kollégiumok energetikai felújítása",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "118287996",
+        "contract_value": 118287996.0,
         "contracting_authority": "Nyíregyházi Szakképzési Centrum",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14699_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyházi SzC kollégiumok energetikai felújítása",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85440960",
+        "contract_value": 85440960.0,
         "contracting_authority": "Tiszaújváros Város Önkormányzata",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23042_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Energetikai fejlesztés Tiszaújváros iskoláinál",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "93001420",
+        "contract_value": 93001420.0,
         "contracting_authority": "Tiszaújváros Város Önkormányzata",
         "date": "05/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3971_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Hunyadi Mátyás Általános Iskola energetikai felújítása",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "272944461",
+        "contract_value": 272944461.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "26/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19479_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szociális városrehabilitáció II. ütem kivitelezése",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2522617",
-        "contracting_authority": "Nyíregyházi Tankerületi Központ",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5681_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai épületek felújítása Magyar Falu Programban",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6321455",
-        "contracting_authority": "Nyíregyházi Tankerületi Központ",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5681_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai épületek felújítása Magyar Falu Programban",
-        "registered_name": "KARAKTER 95 Épitő és Szakipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KARAKTER 95 Épitő és Szakipari Kft."
     }
 ]

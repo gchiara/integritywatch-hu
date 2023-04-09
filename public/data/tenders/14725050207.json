@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "193500000",
+        "contract_value": 193500000.0,
         "contracting_authority": "Dunaújváros Megyei Jogú Város Önkormányzata",
         "date": "19/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14511_2020/",
         "main_cpv": "98371110-8",
         "number_companies_win": 0,
         "procurement_title": "Kegyeleti közszolgáltatás - Dunaújváros",
-        "registered_name": "BOROSTYÁN Tóth Temetkezési Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BOROSTYÁN Tóth Temetkezési Szolgáltató és Kereskedelmi Kft."
     }
 ]

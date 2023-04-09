@@ -1,354 +1,266 @@
 [
     {
         "company_names": "",
-        "contract_value": "175300000",
+        "contract_value": 175300000.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "14/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1696_2018/",
         "main_cpv": "38434000-6",
         "number_companies_win": 0,
         "procurement_title": "NMR 400 MHz FoodScreener bor, méz, gyümölcslé vizsgálatokhoz",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "84927231",
+        "contract_value": 84927231.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5367_2018/",
         "main_cpv": "38430000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés - forenzikus szakértők és egységek kapacitásfejlesztése érdekében különféle laboratóriumi eszközök beszerzése 7 részben.",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "129950000",
+        "contract_value": 129950000.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5367_2018/",
         "main_cpv": "38430000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés - forenzikus szakértők és egységek kapacitásfejlesztése érdekében különféle laboratóriumi eszközök beszerzése 7 részben.",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59074416",
+        "contract_value": 59074416.0,
         "contracting_authority": "Nemzeti Agrárkutatási és Innovációs Központ",
         "date": "25/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6075_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi eszközök beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53303813",
+        "contract_value": 53303813.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Kormányhivatal",
         "date": "08/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7378_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Betegbiztonság növelését célzó eszközök beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30533084",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 30533084.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9119_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése tranziens abszorpciós mérésekhez és gázfázisú reakciókhoz",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8012755",
+        "contract_value": 8012755.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12229_2018/",
         "main_cpv": "33124100-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Pécsi Tudományegyetem Általános Orvostudományi Kar részére a Modern Városok Program keretein belül 3.",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17172900",
+        "contract_value": 17172900.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13193_2018/",
         "main_cpv": "38432000-2",
         "number_companies_win": 0,
         "procurement_title": "Orvosi eszközbeszerzés - Az intercelluláris kommunikáció szerepe a határfelületek gyulladásos és immunológiai betegségei tárgyban",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22037000",
+        "contract_value": 22037000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "31/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12986_2018/",
         "main_cpv": "42993000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9886450",
+        "contract_value": 9886450.0,
         "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
         "date": "25/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16941_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Pharmatech gyógyszeripari modell-laboratórium kialakítása",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29973050",
+        "contract_value": 29973050.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "09/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17822_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Szintetikus kismolekulák előállítására, azonosítására és karakterizálására szolgáló műszeregyüttes beszerzése a Pécsi Tudományegyetem részére",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9566358",
-        "contracting_authority": "KUNSÁGI MALOM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 9566358.0,
+        "contracting_authority": "KUNSÁGI MALOM Kereskedelmi és Szolgáltató Kft.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19760_2018/",
         "main_cpv": "42212000-5",
         "number_companies_win": 0,
         "procurement_title": "Malomipari tevékenység fejlesztése adásvétellel",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70221456",
+        "contract_value": 70221456.0,
         "contracting_authority": "Baranya Megyei Kormányhivatal",
         "date": "04/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22006_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "A BAMKH Népegészségügyi Főosztály Laboratóriumi Osztály Mikrobiológiai laboratóriumának fejlesztése című projekt keretein belül laboratóriumi eszközök beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48822330",
+        "contract_value": 48822330.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0862_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "VEKOP Laboreszköz beszerzés",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61505648",
+        "contract_value": 61505648.0,
         "contracting_authority": "Csongrád-Csanád Megyei Kormányhivatal",
         "date": "18/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2312_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboreszköz beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49976500",
+        "contract_value": 49976500.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "11/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5675_2019/",
         "main_cpv": "38433000-9",
         "number_companies_win": 0,
         "procurement_title": "MALDI-TOF berendezés beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22568640",
+        "contract_value": 22568640.0,
         "contracting_authority": "Pannon Egyetem",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9534_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "1 db infravörös spektroszkópiai elven alapuló vezérlő és értékelő szoftverrel, Fourier jelfeldolgozási technikával rendelkező gázelemző készülék beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105708122",
+        "contract_value": 105708122.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "01/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17610_2019/",
         "main_cpv": "33115100-0",
         "number_companies_win": 0,
         "procurement_title": "Nagy felbontású micro-CT készülék beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19395513",
+        "contract_value": 19395513.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0995_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközök a gyógyszertechnológiai K+F-hez",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73017862",
+        "contract_value": 73017862.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "31/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1418_2020/",
         "main_cpv": "38433100-0",
         "number_companies_win": 0,
         "procurement_title": "LC-MS-MS, GC-MS-MS, áramlási citometriai vizsgáló eszközök, MALDI-TOF készülék, valamint szekvenáló készülék és identifikáló programok beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
-        "company_names": "BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; CENTRAL EUROPEAN BIOSYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság; FORR-LAB Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; PCT Ipari,Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "29474124",
+        "company_names": "BIOCENTER Laboratóriumi Szolgáltató Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; CENTRAL EUROPEAN BIOSYSTEMS Kereskedelmi és Szolgáltató Kft.; FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft.; FORR-LAB Kereskedelmi és Szolgáltató Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Kvalitex Tudományos Technológiai Kereskedelmi Kft.; Merck Life Science Kft.; PCT Ipari,Szolgáltató és Kereskedelmi Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; VWR International Kft.",
+        "contract_value": 29474124.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18549_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 12,
         "procurement_title": "Vegyszerek, reagensek, fogyóanyagok",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35485042",
+        "contract_value": 35485042.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20572_2020/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Eszközbesz. 3. csomag",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8749000",
+        "contract_value": 8749000.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "17/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23251_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Készletek beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34816480",
+        "contract_value": 34816480.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23628_2020/",
         "main_cpv": "38434000-6",
         "number_companies_win": 0,
         "procurement_title": "Eurodens és Eurospec modulok cseréje",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19139538",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0556_2021/",
-        "main_cpv": "50000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Skyscan micro CT javítása a PTE részére",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "49510000",
-        "contracting_authority": "Eötvös Loránd Tudományegyetem",
-        "date": "09/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3451_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Analitikai műszerek beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "107639000",
-        "contracting_authority": "Eötvös Loránd Tudományegyetem",
-        "date": "09/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3451_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Analitikai műszerek beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21269286",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "19/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9151_2021/",
-        "main_cpv": "42122450-9",
-        "number_companies_win": 0,
-        "procurement_title": "Spektroszkóp és szivattyúk beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38186684",
-        "contracting_authority": "Pannon Egyetem",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8695_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle mérőkészülékek, eszközök beszerzése (II.)",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36000000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10615_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "1 db upgrade beszerzés",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3987500",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "01/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11916_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Eszközbeszerzés",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "\"IZINTA\" Kereskedelmi Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIO-KASZTEL Kereskedelmi Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; Bio-Rad Magyarország Kereskedelmi Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság; FORR-LAB Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Labilon Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság; ZENON BIO Biotechnológia Korlátolt Felelősségű Társaság",
-        "contract_value": "21921146",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "26/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19780_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 16,
-        "procurement_title": "Vegyszerek, reagensek, fogyóanyagok beszerzése",
-        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "FLEXTRA-LAB Műszerjavító és Kereskedelmi Kft."
     }
 ]

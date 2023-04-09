@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "173275118",
+        "contract_value": 173275118.0,
         "contracting_authority": "Pócsmegyer Község Önkormányzat",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9319_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pócsmegyer Orvosi rendelő kivitelezési munkái",
-        "registered_name": "TOM - ÁSZOK 97 Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "TOM - ÁSZOK 97 Építőipari, Szolgáltató és Kereskedelmi Kft."
     }
 ]

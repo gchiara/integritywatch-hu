@@ -1,211 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "Tatabányai Szakképzési Centrum",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6641_2020/",
         "main_cpv": "39830000-9",
         "number_companies_win": 0,
         "procurement_title": "Tisztítószerek beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "38989000",
+        "contract_value": 38989000.0,
         "contracting_authority": "Margit Kórház Pásztó",
         "date": "12/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18487_2020/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Infekciókontroll eszközök szállítása",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "14140000",
-        "contracting_authority": "Kazincbarcikai Kórház Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 14140000.0,
+        "contracting_authority": "Kazincbarcikai Kórház Nonprofit Kft.",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19103_2020/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Kézhigiéniás oktatási rendszer",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "39132200",
+        "contract_value": 39132200.0,
         "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19193_2020/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "39200600",
+        "contract_value": 39200600.0,
         "contracting_authority": "Országos Klinikai Idegtudományi Intézet",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21648_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Infekciókontroll",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "39018940",
+        "contract_value": 39018940.0,
         "contracting_authority": "Keszthelyi Kórház",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23126_2020/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "38743215",
+        "contract_value": 38743215.0,
         "contracting_authority": "NAGYATÁDI KÓRHÁZ",
         "date": "14/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23344_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Infekciókontroll tevékenységek gyakorlati megvalósítása a Nagyatádi Kórházban",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "39817030",
+        "contract_value": 39817030.0,
         "contracting_authority": "Oroszlányi Szakorvosi és Ápolási Intézet",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23890_2020/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2606400",
-        "contracting_authority": "Bugát Pál Kórház",
-        "date": "21/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0954_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Infekciókontroll beszerzés",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33083160",
-        "contracting_authority": "Bugát Pál Kórház",
-        "date": "21/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0954_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Infekciókontroll beszerzés",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9290000",
-        "contracting_authority": "Zirci Erzsébet Kórház-Rendelőintézet",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1259_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Zirci Erzsébet Kórház, infekciókontroll fejlesztése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6155500",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "04/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1489_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Ápolás, fertőtlenítés eszközei",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34543175",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "04/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1489_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Ápolás, fertőtlenítés eszközei",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4900000",
-        "contracting_authority": "Felső-Szabolcsi Kórház",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4732_2021/",
-        "main_cpv": "39811200-2",
-        "number_companies_win": 0,
-        "procurement_title": "Levegőfertőtlenítő készülékek beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13793000",
-        "contracting_authority": "Felső-Szabolcsi Kórház",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4732_2021/",
-        "main_cpv": "39811200-2",
-        "number_companies_win": 0,
-        "procurement_title": "Levegőfertőtlenítő készülékek beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10999500",
-        "contracting_authority": "Gróf Tisza István Kórház",
-        "date": "25/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5001_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Higiéniás eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1450000",
-        "contracting_authority": "Mezőtúri Kórház és Rendelőintézet",
-        "date": "15/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13112_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7508250",
-        "contracting_authority": "Mezőtúri Kórház és Rendelőintézet",
-        "date": "15/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13112_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17834000",
-        "contracting_authority": "Mezőtúri Kórház és Rendelőintézet",
-        "date": "15/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13112_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Magyar Medikai Termékgyártó és Forgalmazó Zrt."
     }
 ]

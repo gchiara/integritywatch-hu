@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "25300250",
+        "contract_value": 25300250.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3630_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A kisvárdai Nádas-tó ökoturisztikai fejlesztése című pályázathoz kapcsolódó, Tájház, csónakház, mobil és fix stégek kivitelezése",
-        "registered_name": "SZABÓ- TETŐMESTER Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZABÓ- TETŐMESTER Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "KERMI-SZOLG Korlátolt Felelősségű Társaság; SZABÓ- TETŐMESTER Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "190500000",
-        "contracting_authority": "Leveleki Tóért Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "KERMI-SZOLG Kft.; SZABÓ- TETŐMESTER Építőipari és Szolgáltató Kft.",
+        "contract_value": 190500000.0,
+        "contracting_authority": "Leveleki Tóért Nonprofit Kft.",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4757_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Közel nulla energiaigényű erdei iskola kialakítása Leveleken",
-        "registered_name": "SZABÓ- TETŐMESTER Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZABÓ- TETŐMESTER Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "Nyírépszer Hungária Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SZABÓ- TETŐMESTER Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "273740660",
+        "company_names": "Nyírépszer Hungária Építőipari, Kereskedelmi és Szolgáltató Kft.; SZABÓ- TETŐMESTER Építőipari és Szolgáltató Kft.",
+        "contract_value": 273740660.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6175_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "CINEMAQUA beruházás kivitelezése",
-        "registered_name": "SZABÓ- TETŐMESTER Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZABÓ- TETŐMESTER Építőipari és Szolgáltató Kft."
     }
 ]

@@ -1,79 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "68930932",
+        "contract_value": 68930932.0,
         "contracting_authority": "Nyíradony Város Önkormányzata",
         "date": "15/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21025_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút-hálózat fejlesztése Nyíradonyban",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
+        "registered_name": "Truck-Food Kft. \"felszámolás alatt\""
     },
     {
         "company_names": "",
-        "contract_value": "31511418",
+        "contract_value": 31511418.0,
         "contracting_authority": "Nyírmártonfalva Községi Önkormányzat",
         "date": "10/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2440_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Falumúzeum felújítása",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
+        "registered_name": "Truck-Food Kft. \"felszámolás alatt\""
     },
     {
         "company_names": "",
-        "contract_value": "79562906",
+        "contract_value": 79562906.0,
         "contracting_authority": "Vámospércs Városi Önkormányzat",
         "date": "13/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8130_2019/",
         "main_cpv": "45233123-7",
         "number_companies_win": 0,
         "procurement_title": "Belterületi földút stabilizáció elvégzése II.",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
+        "registered_name": "Truck-Food Kft. \"felszámolás alatt\""
     },
     {
         "company_names": "",
-        "contract_value": "37096400",
+        "contract_value": 37096400.0,
         "contracting_authority": "Nyírmártonfalva Községi Önkormányzat",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11471_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Külterületi utak fejlesztése Nyírmártonfalván",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
+        "registered_name": "Truck-Food Kft. \"felszámolás alatt\""
     },
     {
         "company_names": "",
-        "contract_value": "40807750",
+        "contract_value": 40807750.0,
         "contracting_authority": "Nyírmártonfalva Községi Önkormányzat",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11471_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Külterületi utak fejlesztése Nyírmártonfalván",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
-    },
-    {
-        "company_names": "",
-        "contract_value": "100980262",
-        "contracting_authority": "Nyíracsád Község Önkormányzata",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3673_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Belterületi vízrendezés Nyíracsád településen",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
-    },
-    {
-        "company_names": "",
-        "contract_value": "143354735",
-        "contracting_authority": "Álmosd Község Önkormányzata",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6929_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Álmosd Község belterületi vízrendezése",
-        "registered_name": "Truck-Food Korlátolt Felelősségű Társaság \"felszámolás alatt\""
+        "registered_name": "Truck-Food Kft. \"felszámolás alatt\""
     }
 ]

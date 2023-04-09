@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EXISTORE Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "2060926653",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; Delta Systems Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO ONE Számítástechnikai Zrt.; EXISTORE Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
+        "contract_value": 2060926653.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 21,
         "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
-        "registered_name": "EXISTORE Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EXISTORE Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "359608152",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1684_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 7,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "EXISTORE Korlátolt Felelősségű Társaság"
+        "registered_name": "EXISTORE Kft."
     }
 ]

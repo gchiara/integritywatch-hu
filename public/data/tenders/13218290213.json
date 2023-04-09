@@ -1,156 +1,112 @@
 [
     {
         "company_names": "",
-        "contract_value": "8999926",
+        "contract_value": 8999926.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_401_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Budapesti Corvinus Egyetem részére építési beruházások kivitelezése, felújítási munkák elvégzése tárgyú keretmegállapodás 2017. III.",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "171594265",
+        "contract_value": 171594265.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4469_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Budapest Corvinus Egyetem főépülete T1, T2, T3, T4, T8 tetőinek részleges felújítása",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95982448",
+        "contract_value": 95982448.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9971_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapesti Corvinus Egyetem kollégiumaiban felújítási munkák elvégzése",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "103440793",
+        "contract_value": 103440793.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9971_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapesti Corvinus Egyetem kollégiumaiban felújítási munkák elvégzése",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54403280",
+        "contract_value": 54403280.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "14/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_231_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapesti Corvinus Egyetem részére építési beruházások kivitelezése, felújítási munkák elvégzése",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "87983458",
+        "contract_value": 87983458.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3850_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vizes blokk és személyzeti öltözők felújítása",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "107690580",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 107690580.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7906_2019/",
         "main_cpv": "45421100-5",
         "number_companies_win": 0,
         "procurement_title": "Nyílászárók cseréje a BKV Zrt. egyes telephelyein",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "119655768",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 119655768.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7906_2019/",
         "main_cpv": "45421100-5",
         "number_companies_win": 0,
         "procurement_title": "Nyílászárók cseréje a BKV Zrt. egyes telephelyein",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100509257",
+        "contract_value": 100509257.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11808_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapesti Corvinus Egyetem Kinizsi Kollégium felújítási munkáinak elvégzése",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57483457",
+        "contract_value": 57483457.0,
         "contracting_authority": "Budapesti Corvinus Egyetem",
         "date": "24/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11138_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "BCE szennyvíz alapvezeték, alagsor felújítása",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "288640547",
-        "contracting_authority": "Budapesti Corvinus Egyetem",
-        "date": "01/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9499_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "BCE-Sóház déli oldal felújítás 2021",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "94999698",
-        "contracting_authority": "Budapesti Corvinus Egyetem",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10961_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Férfi vizesblokkok felújítási munkái_2021",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33621064",
-        "contracting_authority": "Budapesti Corvinus Egyetem",
-        "date": "02/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12317_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Irodák felújítása BCE főépületében",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "\"RADIÁN\"Épitőipari Tervező,Szervező Üzemeltető Korlátolt Felelősségű Társaság; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság; Nimród-Bau Beruházó és Kivitelező Korlátolt Felelősségű Társaság",
-        "contract_value": "1150000000",
-        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14413_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 4,
-        "procurement_title": "Építési munkálatok",
-        "registered_name": "CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság"
+        "registered_name": "CSÍZIÓ-Stúdió Építési Kft."
     }
 ]

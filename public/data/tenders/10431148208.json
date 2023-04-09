@@ -1,79 +1,79 @@
 [
     {
-        "company_names": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HOGE Orvosi Müszer KFT; TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "309998000",
+        "company_names": "BIOMARKER Kereskedelmi és Szolgáltató Kft.; HOGE Orvosi Müszer KFT; TIBA Javító, Kereskedő és Szolgáltató Kft.",
+        "contract_value": 309998000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2387_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 3,
         "procurement_title": "Adásvételi szerződés patológiai berendezések beszerzésére",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     },
     {
-        "company_names": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; VMD Kórházi Technológiai Zártkörűen Műküdő Részvénytársaság",
-        "contract_value": "729784011",
+        "company_names": "TIBA Javító, Kereskedő és Szolgáltató Kft.; VMD Kórházi Technológiai Zártkörűen Műküdő Részvénytársaság",
+        "contract_value": 729784011.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2387_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 2,
         "procurement_title": "Adásvételi szerződés patológiai berendezések beszerzésére",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17000000",
+        "contract_value": 17000000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "28/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24052_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Vákuumfóliázó készülékek beszerzése",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4490300",
+        "contract_value": 4490300.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19180_2019/",
         "main_cpv": "33124100-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Pécsi Tudományegyetem Általános Orvostudományi Kar részére",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105515000",
+        "contract_value": 105515000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18736_2020/",
         "main_cpv": "33945000-6",
         "number_companies_win": 0,
         "procurement_title": "Tetemhűtő rendszerek korszerűsítése",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "114630000",
+        "contract_value": 114630000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18736_2020/",
         "main_cpv": "33945000-6",
         "number_companies_win": 0,
         "procurement_title": "Tetemhűtő rendszerek korszerűsítése",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "128124965",
+        "contract_value": 128124965.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24642_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Patológiai Intézetben NOIKK kiszolgáló egységek kialakítása, tetemtároló felújítása",
-        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TIBA Javító, Kereskedő és Szolgáltató Kft."
     }
 ]

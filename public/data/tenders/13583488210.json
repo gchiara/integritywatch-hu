@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "116500000",
+        "contract_value": 116500000.0,
         "contracting_authority": "Hubai Imre",
         "date": "10/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7423_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Hubai Biogazdaság energia-hatékonyságának növelése",
-        "registered_name": "POWER SZERVIZ Tervező, Kivitelező, Beruházó és Energetikai Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "POWER SZERVIZ Tervező, Kivitelező, Beruházó és Energetikai Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "463109000",
-        "contracting_authority": "SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 463109000.0,
+        "contracting_authority": "SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zrt.",
         "date": "05/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_3432_2020/",
         "main_cpv": "42124100-5",
         "number_companies_win": 0,
         "procurement_title": "Gázmotor karbantartás, hibajavítás, gyújtógyertyák",
-        "registered_name": "POWER SZERVIZ Tervező, Kivitelező, Beruházó és Energetikai Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "POWER SZERVIZ Tervező, Kivitelező, Beruházó és Energetikai Szolgáltató Kft."
     }
 ]

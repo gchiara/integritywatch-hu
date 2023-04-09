@@ -1,90 +1,46 @@
 [
     {
-        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság",
-        "contract_value": "89990000",
+        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Kft.; PALMEDICO Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 89990000.0,
         "contracting_authority": "Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16806_2018/",
         "main_cpv": "33111800-9",
         "number_companies_win": 2,
         "procurement_title": "A pápai Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő járóbeteg-szakellátó szolgáltatásainak fejlesztése új eszközök beszerzésén keresztül című pályázati konstrukcióban beszerzendő eszközökre",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
+        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "MEDISZER Kórháztechnikai és Kereskedelmi Korlátolt Felelősségű Társaság; PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság; Smithmann Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "236000000",
+        "company_names": "MEDISZER Kórháztechnikai és Kereskedelmi Kft.; PALMEDICO Kereskedelmi és Szolgáltató Kft.; Smithmann Hungary Kft.",
+        "contract_value": 236000000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9901_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 3,
         "procurement_title": "DPC - Orvostechnikai eszközök",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
+        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Analitikai és Orvosi Műszerkereskedelmi Korlátolt Felelősségű Társaság; PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság; Smithmann Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "251629800",
+        "company_names": "Analitikai és Orvosi Műszerkereskedelmi Kft.; PALMEDICO Kereskedelmi és Szolgáltató Kft.; Smithmann Hungary Kft.",
+        "contract_value": 251629800.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "06/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17719_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 3,
         "procurement_title": "Mellkassebészeti eszközök beszerzése OOI részére",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
+        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság; Smithmann Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "11298650",
+        "company_names": "PALMEDICO Kereskedelmi és Szolgáltató Kft.; Smithmann Hungary Kft.",
+        "contract_value": 11298650.0,
         "contracting_authority": "SZIGETVÁRI KÓRHÁZ",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23830_2020/",
         "main_cpv": "33192230-3",
         "number_companies_win": 2,
         "procurement_title": "1 db tönk cserélhető félsőrészű műtőasztalhoz",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
-    },
-    {
-        "company_names": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság; Smithmann Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "436956800",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "05/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23360_2020/",
-        "main_cpv": "33192300-5",
-        "number_companies_win": 2,
-        "procurement_title": "Műtőasztal rendszer és műtőlámpa beszerzése",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
-    },
-    {
-        "company_names": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság; Smithmann Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "19780000",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6700_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 2,
-        "procurement_title": "Egészségügyi eszközbeszerzés",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33996000",
-        "contracting_authority": "PANNON REPRODUKCIÓS INTÉZET Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8513_2021/",
-        "main_cpv": "33192230-3",
-        "number_companies_win": 0,
-        "procurement_title": "Műtőasztal beszerzése",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
-    },
-    {
-        "company_names": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság; Smithmann Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "101323920",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "04/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18849_2021/",
-        "main_cpv": "33192230-3",
-        "number_companies_win": 2,
-        "procurement_title": "Sebészeti műtőasztalok beszerzése, szervizszolgáltatása",
-        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató korlátolt Felelősségű TÁrsaság"
+        "registered_name": "PALMEDICO Kereskedelmi és Szolgáltató Kft."
     }
 ]

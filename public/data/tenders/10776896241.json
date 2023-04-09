@@ -1,332 +1,156 @@
 [
     {
         "company_names": "",
-        "contract_value": "393853590",
+        "contract_value": 393853590.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_484_2018/",
         "main_cpv": "32320000-2",
         "number_companies_win": 0,
         "procurement_title": "Az MTVA Központi router integrációhoz és supporthoz, valamint a 6-os stúdió integrációjához szükséges eszközeinek beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18400000",
+        "contract_value": 18400000.0,
         "contracting_authority": "Országos Rendőr-Főkapitányság",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6695_2018/",
         "main_cpv": "30216200-8",
         "number_companies_win": 0,
         "procurement_title": "E-személyi olvasó beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41827240",
+        "contract_value": 41827240.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11522_2018/",
         "main_cpv": "32320000-2",
         "number_companies_win": 0,
         "procurement_title": "MTVA 3-as televízióstúdió eszközeinek fejlesztése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12359570",
+        "contract_value": 12359570.0,
         "contracting_authority": "Széchenyi István Egyetem",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18814_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése - kriminalisztika, mobil-IoT, VR valamint oktatástechnika tématerületekhez - a Széchenyi István Egyetemen",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4488440",
+        "contract_value": 4488440.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0918_2019/",
         "main_cpv": "32321000-9",
         "number_companies_win": 0,
         "procurement_title": "Multimédia eszközök beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41524715",
+        "contract_value": 41524715.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3620_2019/",
         "main_cpv": "32231000-1, 32232000-8",
         "number_companies_win": 0,
         "procurement_title": "Parlamenti TV stúdió felújításához eszközök",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1789990",
+        "contract_value": 1789990.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4013_2019/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Vizuális eszközök",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41050950",
+        "contract_value": 41050950.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "13/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8489_2019/",
         "main_cpv": "50340000-0",
         "number_companies_win": 0,
         "procurement_title": "MTVA meglévő központi Evertz videorouter supportja",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13229000",
+        "contract_value": 13229000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8015_2019/",
         "main_cpv": "32582000-6",
         "number_companies_win": 0,
         "procurement_title": "Műsorkészítéssel összefüggő adathordozó beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39437710",
+        "contract_value": 39437710.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8658_2019/",
         "main_cpv": "32000000-3",
         "number_companies_win": 0,
         "procurement_title": "MTVA L-BAND MATRIX cseréje",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8967870",
+        "contract_value": 8967870.0,
         "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
         "date": "01/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11653_2019/",
         "main_cpv": "30237000-9",
         "number_companies_win": 0,
         "procurement_title": "Különféle informatikai eszközök beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32322640",
+        "contract_value": 32322640.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17468_2019/",
         "main_cpv": "32300000-6",
         "number_companies_win": 0,
         "procurement_title": "SBV stúdiótechnikai berendezések és szoftverek",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "124173650",
+        "contract_value": 124173650.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17468_2019/",
         "main_cpv": "32300000-6",
         "number_companies_win": 0,
         "procurement_title": "SBV stúdiótechnikai berendezések és szoftverek",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10197810",
-        "contracting_authority": "Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 10197810.0,
+        "contracting_authority": "Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Kft.",
         "date": "03/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24948_2019/",
         "main_cpv": "32330000-5",
         "number_companies_win": 0,
         "procurement_title": "Videó- és fénytechnikai eszközök beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32974670",
-        "contracting_authority": "Vörösmarty Színház",
-        "date": "07/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0011_2021/",
-        "main_cpv": "32342400-6",
-        "number_companies_win": 0,
-        "procurement_title": "Hangpult beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23351561",
-        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10652_2021/",
-        "main_cpv": "30211400-5",
-        "number_companies_win": 0,
-        "procurement_title": "Sesar PJ05 videófal és számítógépek",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2358140",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13425_2021/",
-        "main_cpv": "32240000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Rendszertechnikai beruházás és amortizációs csere",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10654490",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13425_2021/",
-        "main_cpv": "32240000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Rendszertechnikai beruházás és amortizációs csere",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15288070",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13425_2021/",
-        "main_cpv": "32240000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Rendszertechnikai beruházás és amortizációs csere",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "142096649,87",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "23/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18099_2021/",
-        "main_cpv": "32342410-9",
-        "number_companies_win": 0,
-        "procurement_title": "MTVA központi Audio Router beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "291413723,8",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18517_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televíziós stúdió II.",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "199999990",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18741_2021/",
-        "main_cpv": "32000000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Analóg filmelőhívó gépek beszerzése",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5329428,6",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13959571,6",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17758275,88",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34197707,36",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "94404755,92",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "139994252,04",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "216940404,42",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "25/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23001_2021/",
-        "main_cpv": "50340000-0",
-        "number_companies_win": 0,
-        "procurement_title": "MTVA központi Evertz SDVN rendszer supportja",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13193471,06",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "30/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25937_2021/",
-        "main_cpv": "32324300-3",
-        "number_companies_win": 0,
-        "procurement_title": "MTVA Eszközbeszezrés",
-        "registered_name": "STUDIOTECH Hungary Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "STUDIOTECH Hungary Kereskedelmi Kft."
     }
 ]

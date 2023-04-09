@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "115274153",
+        "contract_value": 115274153.0,
         "contracting_authority": "Püspökladány Város Önkormányzata",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4173_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Petőfi Sándor Általános Iskola energetikai fejlesztése",
-        "registered_name": "IPONGOLD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "148524925",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11211_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Karácsony Gy. u. óvoda energetikai korszerűsítése",
-        "registered_name": "IPONGOLD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "IPONGOLD Kereskedelmi és Szolgáltató Kft."
     }
 ]

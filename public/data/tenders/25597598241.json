@@ -1,112 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "11951030",
+        "contract_value": 11951030.0,
         "contracting_authority": "Magyar Kajak-Kenu Szövetség",
         "date": "06/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7831_2019/",
         "main_cpv": "30192170-3",
         "number_companies_win": 0,
         "procurement_title": "Közterületi média felület vásárlás",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
-        "contracting_authority": "Müpa Budapest - Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 200000000.0,
+        "contracting_authority": "Müpa Budapest - Művészetek Palotája Nonprofit Kft.",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10895_2019/",
         "main_cpv": "79340000-9",
         "number_companies_win": 0,
         "procurement_title": "Hirdetési és médiaszolgáltatások",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     },
     {
-        "company_names": "Media Dynamics Korlátolt Felelősségű Társaság; New Land Media Reklám, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "10000000000",
+        "company_names": "Media Dynamics Kft.; New Land Media Reklám, Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 10000000000.0,
         "contracting_authority": "Nemzeti Kommunikációs Hivatal, Visit Hungary Nemzeti Turisztikai Szervezet Nonprofit Zrt.",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11797_2019/",
         "main_cpv": "79342200-5",
         "number_companies_win": 2,
         "procurement_title": "Médiaügynökségi és kutatási feladatok ellátása",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     },
     {
-        "company_names": "Media Dynamics Korlátolt Felelősségű Társaság; New Land Media Reklám, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1500000000",
+        "company_names": "Media Dynamics Kft.; New Land Media Reklám, Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 1500000000.0,
         "contracting_authority": "Nemzeti Kommunikációs Hivatal",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19801_2019/",
         "main_cpv": "79000000-4",
         "number_companies_win": 2,
         "procurement_title": "Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zrt. részére médiaügynökségi és kutatási feladatok ellátása",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     },
     {
-        "company_names": "Media Dynamics Korlátolt Felelősségű Társaság; New Land Media Reklám, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "7355000000",
+        "company_names": "Media Dynamics Kft.; New Land Media Reklám, Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 7355000000.0,
         "contracting_authority": "Nemzeti Kommunikációs Hivatal",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0075_2020/",
         "main_cpv": "79000000-4",
         "number_companies_win": 2,
         "procurement_title": "TMÜ média és kutatás",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     },
     {
-        "company_names": "Media Dynamics Korlátolt Felelősségű Társaság; New Land Media Reklám, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "3304000000",
+        "company_names": "Media Dynamics Kft.; New Land Media Reklám, Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 3304000000.0,
         "contracting_authority": "Nemzeti Kommunikációs Hivatal",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12105_2020/",
         "main_cpv": "79342200-5",
         "number_companies_win": 2,
         "procurement_title": "TMÜ média, kutatás",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4486150",
+        "contract_value": 4486150.0,
         "contracting_authority": "Magyar Kajak-Kenu Szövetség",
         "date": "16/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16555_2020/",
         "main_cpv": "30192170-3",
         "number_companies_win": 0,
         "procurement_title": "KÖZTERÜLETI MÉDIA FELÜLET VÁSÁRLÁSA",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "230000000",
-        "contracting_authority": "Müpa Budapest - Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2875_2021/",
-        "main_cpv": "79340000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Hirdetési és médiaszolgáltatások",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Media Dynamics Korlátolt Felelősségű Társaság; New Land Media Reklám, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "10440000000",
-        "contracting_authority": "Nemzeti Kommunikációs Hivatal",
-        "date": "27/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6159_2021/",
-        "main_cpv": "79342200-5",
-        "number_companies_win": 2,
-        "procurement_title": "TMÜ média, kutatás 2021/I.",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Media Dynamics Korlátolt Felelősségű Társaság; New Land Media Reklám, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "12000000000",
-        "contracting_authority": "Nemzeti Kommunikációs Hivatal",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19108_2021/",
-        "main_cpv": "79342200-5",
-        "number_companies_win": 2,
-        "procurement_title": "Médiaügynökségi és kutatási feladatok ellátása",
-        "registered_name": "Media Dynamics Korlátolt Felelősségű Társaság"
+        "registered_name": "Media Dynamics Kft."
     }
 ]

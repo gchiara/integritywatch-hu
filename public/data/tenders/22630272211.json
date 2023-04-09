@@ -1,123 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "35321605",
+        "contract_value": 35321605.0,
         "contracting_authority": "Nagysáp Község Önkormányzata",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8642_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Szociális alapszolgáltatások fejlesztése Nagysápon",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "165528800",
+        "contract_value": 165528800.0,
         "contracting_authority": "Nagysáp Község Önkormányzata",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8668_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nagysápi Napsugár Óvoda építése",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17082800",
+        "contract_value": 17082800.0,
         "contracting_authority": "Héreg Község Önkormányzata, Nagysáp Község Önkormányzata",
         "date": "26/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18286_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi szolgáltatás infrastrukturális fejlesztése Nagysáp-Héreg településeken",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
-        "company_names": "Evergreen Kereskedelmi Szolgáltató és Beruházó Korlátolt Felelősségű Társaság; ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "71395562",
-        "contracting_authority": "Duna-Vértes Köze Regionális Hulladékgazdálkodási Társulás, NHSZ Vértes Vidéke Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Evergreen Kereskedelmi Szolgáltató és Beruházó Kft.; ZaFiR Mérnök Tanácsadó Kft.",
+        "contract_value": 71395562.0,
+        "contracting_authority": "Duna-Vértes Köze Regionális Hulladékgazdálkodási Társulás, NHSZ Vértes Vidéke Hulladékgazdálkodási Nonprofit Kft.",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20250_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Tűzkár helyreállítási munkák elvégzése",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "101765228",
+        "contract_value": 101765228.0,
         "contracting_authority": "Kecskéd Község Önkormányzata",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10238_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kecskédi iskola energetikai felújítása",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
-        "company_names": "Evergreen Kereskedelmi Szolgáltató és Beruházó Korlátolt Felelősségű Társaság; Royal Nexus Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság \"felszámolás alatt\"; ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "42971026",
+        "company_names": "Evergreen Kereskedelmi Szolgáltató és Beruházó Kft.; Royal Nexus Kereskedelmi és Szolgáltató Kft. \"felszámolás alatt\"; ZaFiR Mérnök Tanácsadó Kft.",
+        "contract_value": 42971026.0,
         "contracting_authority": "Tatabányai Tankerületi Központ",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9432_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 3,
         "procurement_title": "Iskolai épületek és udvarok felújítása, korszerűsítése Komáromban és környékén",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
-        "company_names": "Evergreen Kereskedelmi Szolgáltató és Beruházó Korlátolt Felelősségű Társaság; ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "105393228",
+        "company_names": "Evergreen Kereskedelmi Szolgáltató és Beruházó Kft.; ZaFiR Mérnök Tanácsadó Kft.",
+        "contract_value": 105393228.0,
         "contracting_authority": "Tatabányai Tankerületi Központ",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9432_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 2,
         "procurement_title": "Iskolai épületek és udvarok felújítása, korszerűsítése Komáromban és környékén",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "114209931",
+        "contract_value": 114209931.0,
         "contracting_authority": "Várgesztes Község Önkormányzata",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_23821_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ökoturisztikai központ építése",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "116914117",
-        "contracting_authority": "Tarján Község Önkormányzata",
-        "date": "10/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2317_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tarján bölcsőde építés",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "206667710",
-        "contracting_authority": "Szomód Község Önkormányzata",
-        "date": "09/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5990_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szomódi bölcsőde építése",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "74781012",
-        "contracting_authority": "Ácsteszér Község Önkormányzata",
-        "date": "04/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10063_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Minibölcsőde létesítés",
-        "registered_name": "ZaFiR Mérnök Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "ZaFiR Mérnök Tanácsadó Kft."
     }
 ]

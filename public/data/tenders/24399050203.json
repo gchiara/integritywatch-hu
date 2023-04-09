@@ -1,101 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "418287615",
+        "contract_value": 418287615.0,
         "contracting_authority": "Magyarországi Németek Általános Müvelödési Központja Intézményf. és Mük. Közal.",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6209_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Lestár Péter Oktatási Központ / Mercedes-Benz Iskola belső felújítására",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Lecpes Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "330351503",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 330351503.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9170_2018/",
         "main_cpv": "45213150-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés az egri irodaház építésére",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Lecpes Építőipari Kft."
     },
     {
-        "company_names": "Lecpes Építőipari Korlátolt Felelősségű Társaság; SZEMECO Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "903994607",
+        "company_names": "Lecpes Építőipari Kft.; SZEMECO Építőipari és Kereskedelmi Kft.",
+        "contract_value": 903994607.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21858_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Dorottya ház rekonstrukciója",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Lecpes Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "219937550",
+        "contract_value": 219937550.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23996_2018/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Egyetértés u. óvoda infrastrukturális fejlesztése",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Lecpes Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "219937550",
+        "contract_value": 219937550.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15405_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Egyetértés u. óvoda infrastrukturális fejlesztése",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Lecpes Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "949637000",
+        "contract_value": 949637000.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "17/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6380_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Új család- és gyermekjóléti központ",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "397000275",
-        "contracting_authority": "Kecskeméti Tankerületi Központ",
-        "date": "03/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23908_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Tiszakécske új tornaterem kivitelezése",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "145683274",
-        "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
-        "date": "27/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25565_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Energetikai felújítások I.",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "498600000",
-        "contracting_authority": "Tiszakécske Város Önkormányzata",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_26398_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde bővítése és energetikai korszerűsítés",
-        "registered_name": "Lecpes Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Lecpes Építőipari Kft."
     }
 ]

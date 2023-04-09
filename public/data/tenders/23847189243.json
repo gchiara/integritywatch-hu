@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "130460000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 130460000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "10/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_415/megtekint/portal_22401_2018/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "IntellAgent rendszer",
-        "registered_name": "Defensys Rendszerház Informatikai és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Defensys Rendszerház Informatikai és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1718000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1718000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "23/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0326_2019/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "IntellAgent rendszer",
-        "registered_name": "Defensys Rendszerház Informatikai és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Defensys Rendszerház Informatikai és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 130000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20078_2020/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "IntellAgent rendszer szoftvertámogatása",
-        "registered_name": "Defensys Rendszerház Informatikai és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Defensys Rendszerház Informatikai és Tanácsadó Kft."
     }
 ]

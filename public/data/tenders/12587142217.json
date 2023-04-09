@@ -1,24 +1,24 @@
 [
     {
-        "company_names": "Alisca Terra Regionális Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság; VERTIKÁL Közszolgáltató Nonprofit Zártkörűen Működő Részvénytársaság",
-        "contract_value": "434379456",
+        "company_names": "Alisca Terra Regionális Hulladékgazdálkodási Nonprofit Kft.; VERTIKÁL Közszolgáltató Nonprofit Zrt.",
+        "contract_value": 434379456.0,
         "contracting_authority": "Tamási Város Önkormányzata",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19171_2017/",
         "main_cpv": "90500000-2",
         "number_companies_win": 2,
         "procurement_title": "Tamási Város közigazgatási területén keletkező települési szilárd hulladék gyűjtése, elszállítása és kezelése közszolgáltatási szerződés keretében II.",
-        "registered_name": "Alisca Terra Regionális Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "Alisca Terra Regionális Hulladékgazdálkodási Nonprofit Kft."
     },
     {
         "company_names": "",
-        "contract_value": "300000000",
+        "contract_value": 300000000.0,
         "contracting_authority": "Szekszárd Megyei Jogú Város Önkormányzata",
         "date": "27/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0996_2020/",
         "main_cpv": "90611000-3",
         "number_companies_win": 0,
         "procurement_title": "Gépi hó-és síkosságmentesítési feladatok ellátása",
-        "registered_name": "Alisca Terra Regionális Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "Alisca Terra Regionális Hulladékgazdálkodási Nonprofit Kft."
     }
 ]

@@ -1,46 +1,35 @@
 [
     {
-        "company_names": "IMPERIAL TENDER Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság; Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság; Pete és Kiss Ügyvédi Iroda",
-        "contract_value": "800000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "IMPERIAL TENDER Közbeszerzési és Tanácsadó Kft.; Meditkonzult Közbeszerzési és Tanácsadó Kft.; Pete és Kiss Ügyvédi Iroda",
+        "contract_value": 800000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17523_2018/",
         "main_cpv": "79418000-7",
         "number_companies_win": 3,
         "procurement_title": "Megbízási keretszerződés keretében felelős akkreditált közbeszerzési szaktanácsadói, közbeszerzési bonyolítási és egyéb közbeszerzési tanácsadói, szakértői feladatok ellátása",
-        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Kft."
     },
     {
-        "company_names": "Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság; Pete és Kiss Ügyvédi Iroda; Szterényi Ügyvédi Iroda",
-        "contract_value": "530908845",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Meditkonzult Közbeszerzési és Tanácsadó Kft.; Pete és Kiss Ügyvédi Iroda; Szterényi Ügyvédi Iroda",
+        "contract_value": 530908845.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4488_2020/",
         "main_cpv": "79418000-7",
         "number_companies_win": 3,
         "procurement_title": "Közút-, és vasútfejlesztési tárgyú, valamint intermodális csomópontok (IMCS) kiépítéséhez kapcsolódó közbeszerzési eljárások teljes körű bonyolítása, továbbá közbeszerzési szaktanácsadói tevékenység ellátása",
-        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Kft."
     },
     {
-        "company_names": "IMPERIAL TENDER Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság; Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság; Pete és Kiss Ügyvédi Iroda",
-        "contract_value": "1200000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "IMPERIAL TENDER Közbeszerzési és Tanácsadó Kft.; Meditkonzult Közbeszerzési és Tanácsadó Kft.; Pete és Kiss Ügyvédi Iroda",
+        "contract_value": 1200000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23758_2020/",
         "main_cpv": "79418000-7",
         "number_companies_win": 3,
         "procurement_title": "FAKSZ beszerzés 2020",
-        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság; Pete és Kiss Ügyvédi Iroda; Szterényi Ügyvédi Iroda; WIT Zártkörűen Működő Részvénytársaság",
-        "contract_value": "500000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "09/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21511_2021/",
-        "main_cpv": "79418000-7",
-        "number_companies_win": 4,
-        "procurement_title": "Közút- és vasútfejlesztés",
-        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Meditkonzult Közbeszerzési és Tanácsadó Kft."
     }
 ]

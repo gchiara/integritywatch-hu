@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "14684246",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 14684246.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18048_2018/",
         "main_cpv": "34600000-3",
@@ -11,25 +11,14 @@
         "registered_name": "PRIMA CSAPÁGY KERESKEDELMI KFT"
     },
     {
-        "company_names": "BDI Hungary Kereskedelmi Korlátolt Felelősségű Társaság; PRIMA CSAPÁGY KERESKEDELMI KFT",
-        "contract_value": "1273643517,12",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "BDI Hungary Kereskedelmi Kft.; PRIMA CSAPÁGY KERESKEDELMI KFT",
+        "contract_value": 1273643517.12,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18048_2018/",
         "main_cpv": "34600000-3",
         "number_companies_win": 2,
         "procurement_title": "Csapágyak, szimeringek és O gyűrűk beszerzése vontató és vontatott járművekhez",
-        "registered_name": "PRIMA CSAPÁGY KERESKEDELMI KFT"
-    },
-    {
-        "company_names": "BDI Hungary Kereskedelmi Korlátolt Felelősségű Társaság; PRIMA CSAPÁGY KERESKEDELMI KFT",
-        "contract_value": "245697379,02",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "02/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_9624_2021/",
-        "main_cpv": "34630000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Csapágyak beszerzése",
         "registered_name": "PRIMA CSAPÁGY KERESKEDELMI KFT"
     }
 ]

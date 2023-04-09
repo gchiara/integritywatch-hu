@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "6111597",
+        "contract_value": 6111597.0,
         "contracting_authority": "VESZPRÉMI TANKERÜLETI KÖZPONT",
         "date": "29/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7781_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "EFOP-4.1.3.-17 pályázat keretében megvalósítandó építési beruházás kivitelezőjének kiválasztására irányuló közbeszerzési eljárás",
-        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Korlátolt Felelősségű Társaság"
+        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31998112",
+        "contract_value": 31998112.0,
         "contracting_authority": "VESZPRÉMI TANKERÜLETI KÖZPONT",
         "date": "29/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7781_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "EFOP-4.1.3.-17 pályázat keretében megvalósítandó építési beruházás kivitelezőjének kiválasztására irányuló közbeszerzési eljárás",
-        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Korlátolt Felelősségű Társaság"
+        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58288456",
+        "contract_value": 58288456.0,
         "contracting_authority": "Balatonalmádi Város Önkormányzata",
         "date": "24/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12930_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Almádi Magocskák Óvoda főzőkonyhájának fejlesztése",
-        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Korlátolt Felelősségű Társaság"
+        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82609224",
+        "contract_value": 82609224.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "17/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23390_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi alapellátás-fejlesztése Balatonfüreden",
-        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Korlátolt Felelősségű Társaság"
+        "registered_name": "KIVSZER Építőipari Kivitelező és Szervező Kft."
     }
 ]

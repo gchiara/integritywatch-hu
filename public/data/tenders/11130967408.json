@@ -1,57 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "109941",
+        "contract_value": 109941.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "03/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_277/megtekint/portal_6891_2018/",
         "main_cpv": "15812100-4",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodás Cukrászipari termékek",
-        "registered_name": "Eatrend Arrabona Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Eatrend Arrabona Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1414029023",
+        "contract_value": 1414029023.0,
         "contracting_authority": "Gazdasági Működtető Központ Győr, Győr Megyei Jogú Város Önkormányzata",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_18269_2020/",
         "main_cpv": "55510000-8",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetési szolgáltatás nyújtása",
-        "registered_name": "Eatrend Arrabona Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Eatrend Arrabona Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "5294890100",
+        "contract_value": 5294890100.0,
         "contracting_authority": "Pápa Város Önkormányzata, Pápa Város Önkormányzatának Egyesített Szociális Intézménye, Pápai Városi Óvodák",
         "date": "22/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_23334_2020/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Gyermekétkeztetési feladatok ellátása",
-        "registered_name": "Eatrend Arrabona Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1436523600",
-        "contracting_authority": "Egyesített Egészségügyi és Szociális Intézmény Győr",
-        "date": "08/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_24866_2020/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Szociális étkeztetés",
-        "registered_name": "Eatrend Arrabona Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3973500295",
-        "contracting_authority": "Gazdasági Működtető Központ Győr, Győr Megyei Jogú Város Önkormányzata",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_10609_2021/",
-        "main_cpv": "55510000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Közétkeztetési szolgáltatás nyújtása Győr",
-        "registered_name": "Eatrend Arrabona Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Eatrend Arrabona Zrt."
     }
 ]

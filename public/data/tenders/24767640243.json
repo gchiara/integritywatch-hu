@@ -1,90 +1,79 @@
 [
     {
-        "company_names": "EBP Építő Group Korlátolt Felelősségű Társaság; EXTREME-PARK Környezetépítő Korlátolt Felelősségű Társaság; IMV Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "483978576",
+        "company_names": "EBP Építő Group Kft.; EXTREME-PARK Környezetépítő Kft.; IMV Építőipari és Kereskedelmi Kft.",
+        "contract_value": 483978576.0,
         "contracting_authority": "Komárom-Esztergom Megyei Kormányhivatal",
         "date": "24/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_770_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 3,
         "procurement_title": "Komárom-Esztergom Megyei Kormányhivatal Megyeháza épületének energetikai felújítása",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     },
     {
         "company_names": "",
-        "contract_value": "269905768",
-        "contracting_authority": "T-Busz Tatabányai Közlekedési Korlátolt Felelősségű Társaság",
+        "contract_value": 269905768.0,
+        "contracting_authority": "T-Busz Tatabányai Közlekedési Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21393_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tatabánya Megyei Jogú Város helyi autóbusz-közlekedésének átfogó átalakításához kapcsolódó 41 db autóbuszváró felújítása, rekonstrukciója, valamint új autóbuszmegálló helyek kialakítása",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1960703937",
+        "contract_value": 1960703937.0,
         "contracting_authority": "Ferencvárosi Torna Club",
         "date": "24/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6582_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sporttechnológiai fejlesztés",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29926603",
-        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 29926603.0,
+        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zrt.",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11228_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás - garázsok kivitelezése",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80804700",
-        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 80804700.0,
+        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zrt.",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11600_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épitési beruházás - távhővezeték kivitelezése",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     },
     {
         "company_names": "",
-        "contract_value": "121922584",
-        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 121922584.0,
+        "contracting_authority": "T-Szol Tatabányai Szolgáltató Zrt.",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11600_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épitési beruházás - távhővezeték kivitelezése",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     },
     {
         "company_names": "",
-        "contract_value": "294947250",
+        "contract_value": 294947250.0,
         "contracting_authority": "Ferencvárosi Torna Club",
         "date": "16/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3941_2020/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Bontási feladatok ellátása",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "184567513",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "02/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9073_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Pályafelújítási munkák elvégzése",
-        "registered_name": "EBP Építő Group Korlátolt Felelősségű Társaság"
+        "registered_name": "EBP Építő Group Kft."
     }
 ]

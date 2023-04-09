@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "27478000",
+        "contract_value": 27478000.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7274_2019/",
         "main_cpv": "73220000-0",
         "number_companies_win": 0,
         "procurement_title": "Komplex befektetés-ösztönzési, valamint helyi termék- és szolgáltatásfejlesztési szakértői feladatok",
-        "registered_name": "MEGAKOM Stratégiai Tanácsadó Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "MEGAKOM Stratégiai Tanácsadó Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30970000",
+        "contract_value": 30970000.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7274_2019/",
         "main_cpv": "73220000-0",
         "number_companies_win": 0,
         "procurement_title": "Komplex befektetés-ösztönzési, valamint helyi termék- és szolgáltatásfejlesztési szakértői feladatok",
-        "registered_name": "MEGAKOM Stratégiai Tanácsadó Iroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4890000",
-        "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Önkormányzat",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19548_2021/",
-        "main_cpv": "73220000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Paktum-Megvalósíthatósági tanulmány, kézikönyv",
-        "registered_name": "MEGAKOM Stratégiai Tanácsadó Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "MEGAKOM Stratégiai Tanácsadó Iroda Kft."
     }
 ]

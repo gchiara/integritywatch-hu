@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "84758200",
+        "contract_value": 84758200.0,
         "contracting_authority": "Szeged-Csanádi Egyházmegye",
         "date": "15/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15555_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Mikes Kelemen Gimnázium fejlesztése",
-        "registered_name": "ArtAngyal Stúdió Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ArtAngyal Stúdió Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92763108",
+        "contract_value": 92763108.0,
         "contracting_authority": "Szeged-Csanádi Egyházmegye",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21205_2020/",
         "main_cpv": "45214700-7",
         "number_companies_win": 0,
         "procurement_title": "Szent Imre kollégium felújítása",
-        "registered_name": "ArtAngyal Stúdió Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "279959287",
-        "contracting_authority": "Szeged-Csanádi Egyházmegye",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5541_2021/",
-        "main_cpv": "45212200-8",
-        "number_companies_win": 0,
-        "procurement_title": "Ópusztaszer - Iskola infrastrukturális fejlesztése",
-        "registered_name": "ArtAngyal Stúdió Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ArtAngyal Stúdió Kereskedelmi és Szolgáltató Kft."
     }
 ]

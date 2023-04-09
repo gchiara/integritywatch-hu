@@ -1,145 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "27790000",
+        "contract_value": 27790000.0,
         "contracting_authority": "Hajdúszoboszló Város Önkormányzata",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3210_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hajdúszoboszló, Gábor Áron utca útburkolat felújítás és páros oldali járdaburkolat építés című projekt kivitelezése",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "177000000",
+        "contract_value": 177000000.0,
         "contracting_authority": "Hajdúszoboszló Város Önkormányzata",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6309_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hajdúszoboszló, Szabadidő Park I. ütem kivitelezési munkálatai című projekt",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35667935",
+        "contract_value": 35667935.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "05/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17900_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "DE Nagyerdei Campuson parkoló építés",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12471500",
+        "contract_value": 12471500.0,
         "contracting_authority": "Hajdúböszörmény Város Önkormányzata",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0687_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Attila és Karap utcák felújítása",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22868711",
+        "contract_value": 22868711.0,
         "contracting_authority": "Hajdúböszörmény Város Önkormányzata",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0687_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Attila és Karap utcák felújítása",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60372750",
+        "contract_value": 60372750.0,
         "contracting_authority": "Hajdúböszörmény Város Önkormányzata",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6846_2019/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút építése a hajdúböszörményi Vásár téren",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170033920",
+        "contract_value": 170033920.0,
         "contracting_authority": "Hajdúnánás Városi Önkormányzat",
         "date": "14/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8384_2020/",
         "main_cpv": "45236290-9",
         "number_companies_win": 0,
         "procurement_title": "Zöld Város – kivitelezések",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95694895",
+        "contract_value": 95694895.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13033_2020/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kishatár–Torockó u. kerékpáros létesítmény építése",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44387540",
-        "contracting_authority": "Hajdúböszörmény Város Önkormányzata",
-        "date": "24/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11766_2021/",
-        "main_cpv": "45233140-2",
-        "number_companies_win": 0,
-        "procurement_title": "Árpád utca útburkolatának felújítása",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12070837",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18506_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Debrecen, Vasutas utca építése",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "41268587",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18511_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Debrecen, Szelényi Ferenc utca építése",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18916443",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21358_2021/",
-        "main_cpv": "45233252-0",
-        "number_companies_win": 0,
-        "procurement_title": "Debrecen, Kartács utca útépítése",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24890322",
-        "contracting_authority": "Hajdúböszörmény Város Önkormányzata",
-        "date": "15/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22511_2021/",
-        "main_cpv": "45233142-6",
-        "number_companies_win": 0,
-        "procurement_title": "Útfelújítási munkák végzése Hajdúböszörményben",
-        "registered_name": "OCTOPUS-M GENERÁL Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS-M GENERÁL Építőipari Kft."
     }
 ]

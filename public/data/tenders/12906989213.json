@@ -1,101 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "375000000",
-        "contracting_authority": "Szegedi Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 375000000.0,
+        "contracting_authority": "Szegedi Hulladékgazdálkodási Nonprofit Kft.",
         "date": "12/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_282_2018/",
         "main_cpv": "90500000-2",
         "number_companies_win": 0,
         "procurement_title": "Különböző hulladékok előkezelése, osztályozása, rakodása, telephelyre történő beszállítási és telephelyen belüli szállítási munkák ellátása",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     },
     {
-        "company_names": "Alapközmű Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság \"felszámolás alatt\"; GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság",
-        "contract_value": "699158602",
+        "company_names": "Alapközmű Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Kft. \"felszámolás alatt\"; GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft.",
+        "contract_value": 699158602.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "08/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3447_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "A Zöld város kialakítása a szegedi Ligetben című projekt zöldfelületirekonstrukció építési munkáinak generál kivitelezése",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100646859",
-        "contracting_authority": "DEÁK DELTA Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 100646859.0,
+        "contracting_authority": "DEÁK DELTA Ipari, Kereskedelmi és Szolgáltató Kft.",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8089_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Elektronikai gyártóüzem létrehozása a Deák Delta Kft-nél",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80833615",
-        "contracting_authority": "Szegedi Rendezvény- és Médiaközpont Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 80833615.0,
+        "contracting_authority": "Szegedi Rendezvény- és Médiaközpont Nonprofit Kft.",
         "date": "20/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4877_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Partfürdő fejlesztése építési beruházás",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77207945",
+        "contract_value": 77207945.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8903_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tetőtéri állatház",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "149131643",
+        "contract_value": 149131643.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "11/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12950_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Bőrklinika felújítás",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "459905969",
+        "contract_value": 459905969.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "09/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6335_2020/",
         "main_cpv": "45215142-4",
         "number_companies_win": 0,
         "procurement_title": "Koraszülött intenzív osztály (PIC) kialakítása",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "375000000",
-        "contracting_authority": "Szegedi Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3973_2021/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Hulladékok előkezelése, osztályozása, szállítása",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "99689340",
-        "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5741_2021/",
-        "main_cpv": "45240000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Élőhely-rehabilitáció, szivattyús hajómalom építés",
-        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Korlátolt Felelősségű Társaság"
+        "registered_name": "GENÉV Generál Ingatlanforgalmazási Építőipari Vállalkozási Kft."
     }
 ]

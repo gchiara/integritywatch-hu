@@ -1,222 +1,178 @@
 [
     {
         "company_names": "",
-        "contract_value": "273441300",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 273441300.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11880_2018/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Rákóczi kert parképítési és területrendezési munkáinak elvégzése Budapest XXI. Kerület Csepel területén",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "71074338",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 71074338.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13886_2018/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Környezetrendezési és kertépítészeti munkák 4 oktatási és nevelési intézmény udvarában Csepelen",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90388998",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 90388998.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13886_2018/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Környezetrendezési és kertépítészeti munkák 4 oktatási és nevelési intézmény udvarában Csepelen",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90960740",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 90960740.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13886_2018/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Környezetrendezési és kertépítészeti munkák 4 oktatási és nevelési intézmény udvarában Csepelen",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37039664",
+        "contract_value": 37039664.0,
         "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
         "date": "05/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22182_2018/",
         "main_cpv": "45112711-2",
         "number_companies_win": 0,
         "procurement_title": "Haladás - Balassa környezetfejlesztés 2. ütem",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "102329780",
+        "contract_value": 102329780.0,
         "contracting_authority": "Dél-Budai Tankerületi Központ",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1440_2019/",
         "main_cpv": "45262500-6, 45330000-9, 45350000-5, 45422100-2, 45430000-0, 45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Csoportszoba bővítés és belső építési munkák",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "129988784",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 129988784.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "06/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3921_2019/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Brenner János tér közterületi fejlesztése Csepelen",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94576045",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 94576045.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "29/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14139_2019/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Csodakút és Vénusz tagóvodák Csepelen",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "115731065",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 115731065.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "29/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14139_2019/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Csodakút és Vénusz tagóvodák Csepelen",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68896165",
+        "contract_value": 68896165.0,
         "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata",
         "date": "06/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16775_2019/",
         "main_cpv": "45215200-9",
         "number_companies_win": 0,
         "procurement_title": "Csibész Központ átalakítása, bővítése",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299183129",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 299183129.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18011_2019/",
         "main_cpv": "45223300-9",
         "number_companies_win": 0,
         "procurement_title": "P+R parkoló építése - Pestszentimrei vasútállomás",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59842682",
+        "contract_value": 59842682.0,
         "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Budapest XXI. Merkúr u. 4-6. sz. Társasház, Budapest, XXI. Nap utca 6-8. számú Társasház",
         "date": "06/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19924_2019/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Lakóépületek energetikai felújítása",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "180671773",
+        "contract_value": 180671773.0,
         "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Budapest XXI. Merkúr u. 4-6. sz. Társasház, Budapest, XXI. Nap utca 6-8. számú Társasház",
         "date": "06/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19924_2019/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Lakóépületek energetikai felújítása",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "137384966",
+        "contract_value": 137384966.0,
         "contracting_authority": "Duna-Ipoly Nemzeti Park Igazgatóság",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24044_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Pál-völgyi-barlang Látogatóközpont kivitelezése.",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299705210",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 299705210.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Kft.",
         "date": "28/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8743_2020/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Parképítési feladatok ellátása Csepel területén",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "473385281",
+        "contract_value": 473385281.0,
         "contracting_authority": "Duna-Ipoly Nemzeti Park Igazgatóság",
         "date": "14/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16379_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Dunakanyar Látogatóközpont kivitelezése Dömösön",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "299539398",
-        "contracting_authority": "Csepeli Városgazda Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4493_2021/",
-        "main_cpv": "45212422-0",
-        "number_companies_win": 0,
-        "procurement_title": "Étkező épület építési munkálatai",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "229862074",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "25/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15378_2021/",
-        "main_cpv": "45261210-9",
-        "number_companies_win": 0,
-        "procurement_title": "Széchenyi I. Általános Iskola viharkárok helyreállítása",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "298924801",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "06/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15205_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Mátyás Király Általános Iskola felújítási munkái",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "298975488",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata, Csepeli Városfejlesztési és Gazdaságfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23019_2021/",
-        "main_cpv": "45215100-8",
-        "number_companies_win": 0,
-        "procurement_title": "EBP-egynapos sebészet kialakítása TIESZ székhelyén",
-        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MPALADIN Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

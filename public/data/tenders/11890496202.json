@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "95766929",
-        "contracting_authority": "AKA Kereskedelmi,Termelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 95766929.0,
+        "contracting_authority": "AKA Kereskedelmi,Termelő és Szolgáltató Kft.",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_689_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Meglévő mezőgazdasági épület átalakítása, felújítása, korszerűsítése, szerkezeti megerősítése",
-        "registered_name": "Czinege-Huba Építőipari tervező, kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Czinege-Huba Építőipari tervező, kivitelező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "246894988",
-        "contracting_authority": "\"Günzer Tamás Pincészete\" Szőlészeti és Borászati Korlátolt Felelősségű Társaság",
+        "contract_value": 246894988.0,
+        "contracting_authority": "\"Günzer Tamás Pincészete\" Szőlészeti és Borászati Kft.",
         "date": "01/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3183_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Kivitelezési szerződés keretében borászati üzem bővítése Villányban",
-        "registered_name": "Czinege-Huba Építőipari tervező, kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Czinege-Huba Építőipari tervező, kivitelező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "282395427",
-        "contracting_authority": "JACKFALL Bormanufaktúra Termelő Korlátolt Felelősségű Társaság",
+        "contract_value": 282395427.0,
+        "contracting_authority": "JACKFALL Bormanufaktúra Termelő Kft.",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16163_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Meglévő borászat bővítése Kisjakabfalván",
-        "registered_name": "Czinege-Huba Építőipari tervező, kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Czinege-Huba Építőipari tervező, kivitelező és Szolgáltató Kft."
     }
 ]

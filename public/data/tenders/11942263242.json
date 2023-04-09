@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "299500000",
-        "contracting_authority": "UV Újpesti Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 299500000.0,
+        "contracting_authority": "UV Újpesti Vagyonkezelő Zrt.",
         "date": "08/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3733_2018/",
         "main_cpv": "45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Épületgépészeti munkák elvégzése",
-        "registered_name": "GOOD-THERM Épületgépészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "GOOD-THERM Épületgépészeti Kft."
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "41490657",
+        "contract_value": 41490657.0,
         "contracting_authority": "Szolnok Megyei Jogú Város Önkormányzata",
         "date": "19/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5550_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kivitelezési munkálatok elvégzése a Szegő Gábor Általános Iskolában",
-        "registered_name": "BAU-KOMPLEX Építőipari, Vállalkozó és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-KOMPLEX Építőipari, Vállalkozó és Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1408018895",
+        "contract_value": 1408018895.0,
         "contracting_authority": "Szolnok Megyei Jogú Város Önkormányzata",
         "date": "12/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18449_2018/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Kivitelezés, kiviteli tervek elkészítése, tervezői művezetés vállalkozási szerződés keretében a Véső úti Sporttelep és Strandfürdő fejlesztése a Modern Városok Program keretében",
-        "registered_name": "BAU-KOMPLEX Építőipari, Vállalkozó és Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-KOMPLEX Építőipari, Vállalkozó és Ingatlanforgalmazó Kft."
     }
 ]

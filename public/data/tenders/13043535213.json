@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "283016720",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 283016720.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "30/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_15214_2018/",
         "main_cpv": "31400000-0",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "21000000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 21000000.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24515_2018/",
         "main_cpv": "31400000-0",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "11248714",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11248714.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1689_2019/",
         "main_cpv": "31400000-0",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "239850175,95",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 239850175.95,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_1679_2019/",
         "main_cpv": "31400000-0",
@@ -45,8 +45,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "446374111,59",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 446374111.59,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_1679_2019/",
         "main_cpv": "31400000-0",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "1343075994,48",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1343075994.48,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_1679_2019/",
         "main_cpv": "31400000-0",
@@ -67,57 +67,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "153383959,42",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 153383959.42,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_24208_2019/",
         "main_cpv": "31400000-0",
         "number_companies_win": 0,
         "procurement_title": "Vasúti indító/világító akkumulátorok beszerzése",
-        "registered_name": "IBG Magyarország Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "122520970,4",
-        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2344_2021/",
-        "main_cpv": "31158100-9",
-        "number_companies_win": 0,
-        "procurement_title": "Akkumulátor telepek és töltők beszerzése",
-        "registered_name": "IBG Magyarország Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "279337900,8",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság, OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2324_2021/",
-        "main_cpv": "31158100-9",
-        "number_companies_win": 0,
-        "procurement_title": "Akkumulátor telepek és töltők beszerzése",
-        "registered_name": "IBG Magyarország Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "120000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_10821_2021/",
-        "main_cpv": "31400000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Akkumulátor telepcsoportok beszerzése",
-        "registered_name": "IBG Magyarország Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "130000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_10821_2021/",
-        "main_cpv": "31400000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Akkumulátor telepcsoportok beszerzése",
         "registered_name": "IBG Magyarország Kft."
     }
 ]

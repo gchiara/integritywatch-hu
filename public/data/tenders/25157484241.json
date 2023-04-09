@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "1109326222",
-        "contracting_authority": "ÚMT Sport Management Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 1109326222.0,
+        "contracting_authority": "ÚMT Sport Management Szolgáltató Kft.",
         "date": "27/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19605_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "Ív Generál Építő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Ív Generál Építő és Kereskedelmi Kft."
     }
 ]

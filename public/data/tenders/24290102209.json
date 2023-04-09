@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "133450280",
+        "contract_value": 133450280.0,
         "contracting_authority": "Kunmadaras Nagyközség Önkormányzata",
         "date": "22/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10835_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Kunmadarasi Összevont Óvoda Morzsacsillag Tagóvodájának felújítása és bővítése",
-        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Korlátolt Felelősségű Társaság"
+        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27012801",
+        "contract_value": 27012801.0,
         "contracting_authority": "Kunmadaras Nagyközség Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23200_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Kunmadaras diákélelmezési konyha felújítása",
-        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Korlátolt Felelősségű Társaság"
+        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34655392",
+        "contract_value": 34655392.0,
         "contracting_authority": "Kunmadaras Nagyközség Önkormányzata",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1808_2019/",
         "main_cpv": "45212360-7",
         "number_companies_win": 0,
         "procurement_title": "Nagykunsági Templomok útján",
-        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Korlátolt Felelősségű Társaság"
+        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62375170",
+        "contract_value": 62375170.0,
         "contracting_authority": "Kunmadaras Nagyközség Önkormányzata",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1808_2019/",
         "main_cpv": "45212360-7",
         "number_companies_win": 0,
         "procurement_title": "Nagykunsági Templomok útján",
-        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Korlátolt Felelősségű Társaság"
+        "registered_name": "Kelet-Gold-Ingatlan Ingatlanhasznosító Kft."
     }
 ]

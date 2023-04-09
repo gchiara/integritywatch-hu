@@ -1,519 +1,420 @@
 [
     {
         "company_names": "",
-        "contract_value": "14638525",
+        "contract_value": 14638525.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6431_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Pécsi Tudományegyetem Gyakorló Általános Iskolák és Gimnázium infrastrukturális fejlesztése",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18151312",
+        "contract_value": 18151312.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6431_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Pécsi Tudományegyetem Gyakorló Általános Iskolák és Gimnázium infrastrukturális fejlesztése",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25070596",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25070596.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10226_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest II. kerület, Bakfark B. u. 2. sz. alatti épület tetőfelújítás megismételt eljárás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105185298",
+        "contract_value": 105185298.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17872_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "BM OKF Gazdasági Ellátó Központ 1165 Budapest, Újszász utca 104. (Diósy Lajos u. 28.) szám alatt található épületek építészeti felújítási munkáinak kivitelezése",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28700000",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28700000.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19803_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp., X. ker. Népligeti Nagyvendéglő bontás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45000446",
+        "contract_value": 45000446.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19469_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A PTE GYTK déli és keleti homlokzat felújítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
-        "company_names": "Gépész Kivitelező Korlátolt Felelősségű Társaság; Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "122938756",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "Gépész Kivitelező Kft.; Rit-Rock Építésszervező és Szolgáltató Kft.",
+        "contract_value": 122938756.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9869_2019/",
         "main_cpv": "45350000-5",
         "number_companies_win": 2,
         "procurement_title": "Gépészeti munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
-        "company_names": "CERB Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Jánosik és Társai Ipari, Szolgáltató és Karbantartó Korlátolt Felelősségű Társaság; Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "518687684",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "CERB Szolgáltató és Kereskedelmi Kft.; Jánosik és Társai Ipari, Szolgáltató és Karbantartó Kft.; Rit-Rock Építésszervező és Szolgáltató Kft.",
+        "contract_value": 518687684.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9865_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 3,
         "procurement_title": "Belső építészeti munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14815063",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 14815063.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "19/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9300_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Bp., I. ker. Attila út 13/A. klíma korszerűsítés",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27896491",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 27896491.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11440_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. I. ker. Attila út egyéb felújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25668927",
-        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25668927.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
         "date": "04/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12093_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Lakások felújítása 2019. II. ütem",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5035962",
-        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5035962.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12025_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Lakások felújítása 2019. III. ütem",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33167042",
-        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33167042.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
         "date": "01/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14446_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Lakások felújítása 2019. IV. ütem",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33543033",
-        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33543033.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
         "date": "01/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14446_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Lakások felújítása 2019. IV. ütem",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2193173",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2193173.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14146_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőbányai út 22. építőipari munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8176139",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8176139.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14625_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. Napfény u. 26. 5 db lakás felújítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2835332",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2835332.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14143_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Apát u. 24. felújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27914169",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 27914169.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14160_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ipacsfa építési munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5616588",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5616588.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "22/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15088_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest Zách u. 10. építészeti munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6201633",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6201633.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "22/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15124_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ond vezér sétány lakások (3 db) építőipari munkái",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "338880",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 338880.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15408_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sujtás tetőjavítás és kapcsolódó munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1255692",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1255692.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15408_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sujtás tetőjavítás és kapcsolódó munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1318219",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1318219.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15408_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sujtás tetőjavítás és kapcsolódó munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8632533",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8632533.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15245_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budapest Gyöngyike utca 1/b. építőipari munkái",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12441905",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12441905.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15026_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. Duna u. 2-4. építészeti munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24228011",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24228011.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15172_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőbányai út 22. felújítási munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43396048",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 43396048.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "28/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15019_2019/",
         "main_cpv": "45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Kőbányai út 22. víz- és csatornahálózat felújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53517",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 53517.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "03/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14621_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőbányai út 22. épület (rámpa és tető)",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2813400",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2813400.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "03/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14621_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőbányai út 22. épület (rámpa és tető)",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3130037",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3130037.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "25/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17502_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bethesda u. 4. építőipari munkái",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3755047",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3755047.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18972_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. Kassák L. u. 78. építőipari munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3304872",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3304872.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19817_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. Sárrét park 6. lakásfelújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5409510",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5409510.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19911_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. Kassák Lajos u. 78. lakások felújítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "311450",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 311450.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22367_2019/",
         "main_cpv": "45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Gazdagréti tér 4. csatornahálózat javítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10016387",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10016387.0,
+        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zrt.",
         "date": "14/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24083_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. Thököly út 149/c. építészeti munkák",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "187634955",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 187634955.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8833_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kinizsi utcai, Tarkaréti Kollégium felújítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "71447741",
+        "contract_value": 71447741.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "10/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14299_2020/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "BGE Alkotmány u.-i épületének részleges felújítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57619901",
-        "contracting_authority": "KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 57619901.0,
+        "contracting_authority": "KTI Közlekedéstudományi Intézet Nonprofit Kft.",
         "date": "11/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_16554_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tetőfelújítási munkák ellátása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "166067064",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\", OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0452_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Művész Óvoda és Bölcsőde energetikai korszerűsítés",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "465403166",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0595_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Orvosi rendelők felújítása",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2425400",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0791_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kőbányai út 22. felújítás (2. ütem)",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "68393313",
-        "contracting_authority": "Budapest Főváros Vagyonkezelő Központ Zártkörűen Működő Részvénytársaság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2451_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Jurányi tető- és homlokzat helyreállítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "56017453",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "01/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3393_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Önkormányzati lakásfelújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "59203280",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "01/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3393_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Önkormányzati lakásfelújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "68644826",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "01/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3393_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Önkormányzati lakásfelújítás",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "131636522",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\", Óbudai Egyetem",
-        "date": "29/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_7715_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Óbudai Egyetem energetikai fejlesztése - Szőlő u.",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8884223",
-        "contracting_authority": "Pest Megyei Rendőr-Főkapitányság",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10464_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kiegészítő építési munkák - Nagykátai Rendőrkapitányság",
-        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Rit-Rock Építésszervező és Szolgáltató Kft."
     }
 ]

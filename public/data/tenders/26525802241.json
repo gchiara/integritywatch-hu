@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "178582677",
-        "contracting_authority": "MNB-Ingatlan Korlátolt Felelősségű Társaság",
+        "contract_value": 178582677.0,
+        "contracting_authority": "MNB-Ingatlan Kft.",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22090_2020/",
         "main_cpv": "22312000-0",
         "number_companies_win": 0,
         "procurement_title": "4 db művészeti alkotás tulajdonjogának megszerzése",
-        "registered_name": "Optimum Úri 72. Ingatlanbefektetési Korlátolt Felelősségű Társaság"
+        "registered_name": "Optimum Úri 72. Ingatlanbefektetési Kft."
     }
 ]

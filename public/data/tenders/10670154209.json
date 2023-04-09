@@ -1,79 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "7097550",
-        "contracting_authority": "OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 7097550.0,
+        "contracting_authority": "OFA Országos Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "05/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15809_2018/",
         "main_cpv": "64212000-5",
         "number_companies_win": 0,
-        "procurement_title": "Mobiltelefon készülékek és mobiltelefon szolgáltatás előfizetés beszerzése az OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
+        "procurement_title": "Mobiltelefon készülékek és mobiltelefon szolgáltatás előfizetés beszerzése az OFA Országos Foglalkoztatási Közhasznú Nonprofit Kft. részére",
+        "registered_name": "CTS Computer-Technic-Service Kft."
     },
     {
-        "company_names": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1156409116",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "CTS Computer-Technic-Service Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; MACROTEL Telefontechnikai Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; Quality Intelligence Kft.; WALLITRADE Kereskedelmi és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 1156409116.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17242_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 9,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
+        "registered_name": "CTS Computer-Technic-Service Kft."
     },
     {
-        "company_names": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "46608",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "CTS Computer-Technic-Service Kft.; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Kft.; RevoSmart Kft.; TONEXT Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 46608.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19217_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 4,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; RevoSmart Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "33978812,222222",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5366_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "641882999",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5299_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "575294234",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11737_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1697726",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13564_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 4,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "CTS Computer-Technic-Service Korlátolt Felelősségü Társaság"
+        "registered_name": "CTS Computer-Technic-Service Kft."
     }
 ]

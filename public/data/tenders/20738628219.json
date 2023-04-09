@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "43269590",
+        "contract_value": 43269590.0,
         "contracting_authority": "Bakonynána Községi Önkormányzat",
         "date": "13/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18798_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Bakonynána, Óvoda konyha felújítása, bővítése",
-        "registered_name": "KO-BA 2001 Épületgépészeti Betéti Társaság"
+        "registered_name": "KO-BA 2001 Épületgépészeti Bt."
     },
     {
         "company_names": "",
-        "contract_value": "39235323",
+        "contract_value": 39235323.0,
         "contracting_authority": "Csetény Község Önkormányzata",
         "date": "15/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6651_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kastély, vendéglátóegység felújítása",
-        "registered_name": "KO-BA 2001 Épületgépészeti Betéti Társaság"
+        "registered_name": "KO-BA 2001 Épületgépészeti Bt."
     },
     {
         "company_names": "",
-        "contract_value": "75315909",
+        "contract_value": 75315909.0,
         "contracting_authority": "Csetény Község Önkormányzata",
         "date": "15/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6651_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kastély, vendéglátóegység felújítása",
-        "registered_name": "KO-BA 2001 Épületgépészeti Betéti Társaság"
-    },
-    {
-        "company_names": "KO-BA 2001 Épületgépészeti Betéti Társaság",
-        "contract_value": "41625034",
-        "contracting_authority": "Csetény Község Önkormányzata",
-        "date": "14/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6293_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Holitscher-kastély délkeleti szárnyának felújítása",
-        "registered_name": "KO-BA 2001 Épületgépészeti Betéti Társaság"
+        "registered_name": "KO-BA 2001 Épületgépészeti Bt."
     }
 ]

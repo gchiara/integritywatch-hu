@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "126756150",
+        "contract_value": 126756150.0,
         "contracting_authority": "Rácalmás Város Önkormányzat",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4804_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Rácalmás, Sportcsarnok belsőépítészeti munkák",
-        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "187002825",
+        "contract_value": 187002825.0,
         "contracting_authority": "Horváth Milán",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9108_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sertéstartó telep korszerűsítése Perkátán",
-        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "79455971",
-        "contracting_authority": "MEZŐVÁR Mezőgazdasági, Termelő, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 79455971.0,
+        "contracting_authority": "MEZŐVÁR Mezőgazdasági, Termelő, Kereskedő és Szolgáltató Kft.",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24460_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Kisméretű terménytároló, -szárító és -tisztító",
-        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "176789585",
-        "contracting_authority": "MEZŐVÁR Mezőgazdasági, Termelő, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 176789585.0,
+        "contracting_authority": "MEZŐVÁR Mezőgazdasági, Termelő, Kereskedő és Szolgáltató Kft.",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24460_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Kisméretű terménytároló, -szárító és -tisztító",
-        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "474145800",
-        "contracting_authority": "Dunaújváros Megyei Jogú Város Önkormányzata, Vasmű u. 41. Irodaház Ingatlanfejlesztő, Beruházó és Értékesítő Korlátolt Felelősségű Társaság",
+        "contract_value": 474145800.0,
+        "contracting_authority": "Dunaújváros Megyei Jogú Város Önkormányzata, Vasmű u. 41. Irodaház Ingatlanfejlesztő, Beruházó és Értékesítő Kft.",
         "date": "05/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12020_2019/",
         "main_cpv": "45255110-3",
         "number_companies_win": 0,
         "procurement_title": "Csápos kút építése, felújítása",
-        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "299977664",
-        "contracting_authority": "Rácalmás Város Önkormányzat",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14328_2021/",
-        "main_cpv": "45212300-9",
-        "number_companies_win": 0,
-        "procurement_title": "Volt városháza épület átalakítása",
-        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "TIMPANON P + P Építő, Szolgáltató és Kereskedelmi Kft."
     }
 ]

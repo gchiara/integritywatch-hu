@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "7204000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7204000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14627_2018/",
         "main_cpv": "43612200-8",
         "number_companies_win": 0,
         "procurement_title": "Felsővezetéki hosszlánc alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
+        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10462000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10462000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14627_2018/",
         "main_cpv": "43612200-8",
         "number_companies_win": 0,
         "procurement_title": "Felsővezetéki hosszlánc alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
+        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20503000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 20503000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14627_2018/",
         "main_cpv": "43612200-8",
         "number_companies_win": 0,
         "procurement_title": "Felsővezetéki hosszlánc alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
+        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "24/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16628_2018/",
         "main_cpv": "31682410-7",
         "number_companies_win": 0,
         "procurement_title": "Nagyvasúti 25 kV-os rendszerben használt villamos felsővezetéki, csoportos tartószerkezeti alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
+        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13116228",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13116228.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6044_2020/",
         "main_cpv": "31230000-7",
         "number_companies_win": 0,
         "procurement_title": "Felsővezetéki utánfeszítések és alkatrészei",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3024350",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_23886_2020/",
-        "main_cpv": "31682410-7",
-        "number_companies_win": 0,
-        "procurement_title": "Felsővezetéki csoportos tartószerkezeti és hosszlánc alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7651900",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_23886_2020/",
-        "main_cpv": "31682410-7",
-        "number_companies_win": 0,
-        "procurement_title": "Felsővezetéki csoportos tartószerkezeti és hosszlánc alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33665200",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_23886_2020/",
-        "main_cpv": "31682410-7",
-        "number_companies_win": 0,
-        "procurement_title": "Felsővezetéki csoportos tartószerkezeti és hosszlánc alkatrészek beszerzése",
-        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Korlátolt Felelősségű Társaság"
+        "registered_name": "VILLSZER 2005 Felsővezetéki Szerelvénygyártó és Szerelő Kft."
     }
 ]

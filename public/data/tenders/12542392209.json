@@ -1,90 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "10582500",
+        "contract_value": 10582500.0,
         "contracting_authority": "Debreceni Közterület Felügyelet",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12791_2019/",
         "main_cpv": "90900000-6",
         "number_companies_win": 0,
         "procurement_title": "Köztisztasági és egyéb eseti munkák ellátása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "763663891",
+        "contract_value": 763663891.0,
         "contracting_authority": "Debreceni Közterület Felügyelet",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12791_2019/",
         "main_cpv": "90900000-6",
         "number_companies_win": 0,
         "procurement_title": "Köztisztasági és egyéb eseti munkák ellátása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11497590",
-        "contracting_authority": "DV Parking Korlátolt Felelősségű Társaság",
+        "contract_value": 11497590.0,
+        "contracting_authority": "DV Parking Kft.",
         "date": "10/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17113_2019/",
         "main_cpv": "90914000-7",
         "number_companies_win": 0,
         "procurement_title": "Fizető várakozóhelyek takarítása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "338256234",
+        "contract_value": 338256234.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19767_2019/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Belváros zöldfelületi rekonstrukció kivitelezése",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "203642045",
+        "contract_value": 203642045.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0888_2020/",
         "main_cpv": "77313000-7",
         "number_companies_win": 0,
         "procurement_title": "Városi közösségi- és zöldterületek fenntartása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "294214241",
+        "contract_value": 294214241.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0888_2020/",
         "main_cpv": "77313000-7",
         "number_companies_win": 0,
         "procurement_title": "Városi közösségi- és zöldterületek fenntartása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "837014766",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "13/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16460_2021/",
-        "main_cpv": "77313000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Városi közösségi- és zöldterületek fenntartása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1010021104",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "13/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16460_2021/",
-        "main_cpv": "77313000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Városi közösségi- és zöldterületek fenntartása",
-        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAZÁR PARKING 2000 Kereskedelmi és Szolgáltató Kft."
     }
 ]

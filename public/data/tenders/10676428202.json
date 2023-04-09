@@ -1,123 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "8944677",
+        "contract_value": 8944677.0,
         "contracting_authority": "Baranya Megyei Kormányhivatal",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_759_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Baranya Megyei Kormányhivatal Mohácsi Járási Hivatal (Mohács, Széchenyi tér 3. szám alatti ingatlan) épületének homlokzat felújítása (2)",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "371287836",
+        "contract_value": 371287836.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "02/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3502_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bólyi Óvoda és Bölcsőde építése",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "122683914",
+        "contract_value": 122683914.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11654_2018/",
         "main_cpv": "45213200-5",
         "number_companies_win": 0,
         "procurement_title": "Bólyban csarnoképület kialakítása",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "153457517",
+        "contract_value": 153457517.0,
         "contracting_authority": "Wéber Imre",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14756_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Kisméretű terménytároló fejlesztése",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "470056660",
+        "contract_value": 470056660.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16396_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bóly, üzem épületi kialakítása",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53982261",
+        "contract_value": 53982261.0,
         "contracting_authority": "Babarc Község Önkormányzata",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10450_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Babarci Óvoda épület teljes felújítása",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "373825251",
+        "contract_value": 373825251.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20288_2019/",
         "main_cpv": "45212000-6",
         "number_companies_win": 0,
         "procurement_title": "Munkásszállás létesítése Bólyban",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82797565",
+        "contract_value": 82797565.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "17/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6909_2020/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Zöld Város kialakítása Bólyban-étterem felújítása",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111642626",
+        "contract_value": 111642626.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_12368_2020/",
         "main_cpv": "45213200-5",
         "number_companies_win": 0,
         "procurement_title": "Meglévő üzem épület bővítése Bólyban",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "124414588",
-        "contracting_authority": "Bóly Város Önkormányzat",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15269_2021/",
-        "main_cpv": "45213200-5",
-        "number_companies_win": 0,
-        "procurement_title": "Raktárcsarnok épületszárny építése Bólyban",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "64494068",
-        "contracting_authority": "Bóly Város Önkormányzat",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20825_2021/",
-        "main_cpv": "45212500-1",
-        "number_companies_win": 0,
-        "procurement_title": "600 adagos főzőkonyha átalakítása-felújítása",
-        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Korlátolt Felelősségü Társaság"
+        "registered_name": "HVS-BAU Épitőipari és Szolgáltato Kft."
     }
 ]

@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "367000000",
-        "contracting_authority": "MISKOLCI VÁROSGAZDA Városgazdálkodási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 367000000.0,
+        "contracting_authority": "MISKOLCI VÁROSGAZDA Városgazdálkodási Közhasznú Nonprofit Kft.",
         "date": "17/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5605_2018/",
         "main_cpv": "90510000-5",
         "number_companies_win": 0,
         "procurement_title": "Városüzemeltetési feladat ellátásból keletkező hulladékok szállítása, kezelése, hasznosítással és/vagy lerakással történő ártalmatlanítása.",
-        "registered_name": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AROSA Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "573955000",
-        "contracting_authority": "Délkelet-Alföld Regionális Hulladékgazdálkodási Rendszer Létrehozását Célzó Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 573955000.0,
+        "contracting_authority": "Délkelet-Alföld Regionális Hulladékgazdálkodási Rendszer Létrehozását Célzó Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "18/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2847_2019/",
         "main_cpv": "34928480-6",
         "number_companies_win": 0,
         "procurement_title": "Hulladékgyűjtő edények beszerzése",
-        "registered_name": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AROSA Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Fauna Invest Korlátolt Felelősségű Társaság",
-        "contract_value": "23332000",
-        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "AROSA Kereskedelmi és Szolgáltató Kft.; Fauna Invest Kft.",
+        "contract_value": 23332000.0,
+        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zrt.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_8228_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 2,
         "procurement_title": "Zöld- és védterület karbantartása ÉRV Zrt. részére",
-        "registered_name": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AROSA Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "489390000",
+        "contract_value": 489390000.0,
         "contracting_authority": "Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12404_2019/",
         "main_cpv": "34928480-6",
         "number_companies_win": 0,
         "procurement_title": "Hulladékgyűjtő edények és konténerek beszerzése",
-        "registered_name": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AROSA Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "222481000",
-        "contracting_authority": "Érd Megyei Jogú Város Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 222481000.0,
+        "contracting_authority": "Érd Megyei Jogú Város Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18757_2019/",
         "main_cpv": "34928480-6",
         "number_companies_win": 0,
         "procurement_title": "Érd hulladékgyűjtő edény beszerzése",
-        "registered_name": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "240000000",
-        "contracting_authority": "Zempléni Z.H.K. Hulladékkezelési Közszolgáltató Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "06/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22545_2020/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Biológiailag lebomló hulladék hasznosítása",
-        "registered_name": "AROSA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AROSA Kereskedelmi és Szolgáltató Kft."
     }
 ]

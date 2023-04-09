@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "77051848",
+        "contract_value": 77051848.0,
         "contracting_authority": "Budapesti Történeti Múzeum",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7138_2018/",
         "main_cpv": "45262660-5",
         "number_companies_win": 0,
         "procurement_title": "A Budapesti Történeti Múzeum üzemeltetésében lévő központi raktárbázis azbesztmentesítése",
-        "registered_name": "DRYCON HUNGARY Kármentesítő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DRYCON HUNGARY Kármentesítő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74148272",
+        "contract_value": 74148272.0,
         "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8669_2019/",
         "main_cpv": "45262660-5",
         "number_companies_win": 0,
         "procurement_title": "Az Országos Széchényi Könyvtár részleges azbesztmentesítése",
-        "registered_name": "DRYCON HUNGARY Kármentesítő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DRYCON HUNGARY Kármentesítő, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "150000000",
+        "contract_value": 150000000.0,
         "contracting_authority": "Fővárosi Önkormányzat Csarnok és Piac Igazgatósága",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20191_2019/",
         "main_cpv": "45343100-4",
         "number_companies_win": 0,
         "procurement_title": "CSAPI telephelyein tűzgátló bevonatok cseréje",
-        "registered_name": "DRYCON HUNGARY Kármentesítő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "DRYCON HUNGARY Kármentesítő, Szolgáltató és Kereskedelmi Kft."
     }
 ]

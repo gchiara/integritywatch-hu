@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "216505957",
+        "contract_value": 216505957.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5022_2020/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Városi Sportcsarnok felújítása",
-        "registered_name": "Nyugat-Magyarországi Tűz-, Munka-, és Környezetvédelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "369711329",
-        "contracting_authority": "Pápa Város Önkormányzata",
-        "date": "13/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15381_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Pápai Fenyveserdő Bölcsőde átalakítása, felújítása",
-        "registered_name": "Nyugat-Magyarországi Tűz-, Munka-, és Környezetvédelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Nyugat-Magyarországi Tűz-, Munka-, és Környezetvédelmi, Kereskedelmi és Szolgáltató Kft."
     }
 ]

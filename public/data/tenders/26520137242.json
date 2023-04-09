@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "2899000",
+        "contract_value": 2899000.0,
         "contracting_authority": "Dr. László Elek Kórház és Rendelőintézet, Orosháza",
         "date": "15/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21741_2019/",
         "main_cpv": "33162000-3",
         "number_companies_win": 0,
         "procurement_title": "Laparoscopos torony áltsebészetre beszerzése",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
+        "registered_name": "Medical&Press Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5940000",
+        "contract_value": 5940000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1009_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Családbarát szülészet eszköz beszerzés",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
+        "registered_name": "Medical&Press Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8160500",
+        "contract_value": 8160500.0,
         "contracting_authority": "Felső-Szabolcsi Kórház",
         "date": "26/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9321_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Kórházi mobiliák beszerzése",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
+        "registered_name": "Medical&Press Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76495041",
+        "contract_value": 76495041.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9892_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "ÉPC - Orvostechnikai eszközök",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
+        "registered_name": "Medical&Press Kft."
     },
     {
         "company_names": "",
-        "contract_value": "117592696",
+        "contract_value": 117592696.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9901_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "DPC - Orvostechnikai eszközök",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "540000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4976_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Orvosi eszközök beszerzése (BABYROHU-ROHU443 projekt)",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11477000",
-        "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
-        "date": "22/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6944_2021/",
-        "main_cpv": "33192100-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vizsgáló ágy beszerzése",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8820000",
-        "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
-        "date": "03/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9947_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Családbarát szülészet eszköz beszerzés II.",
-        "registered_name": "Medical&Press Korlátolt Felelősségű Társaság"
+        "registered_name": "Medical&Press Kft."
     }
 ]

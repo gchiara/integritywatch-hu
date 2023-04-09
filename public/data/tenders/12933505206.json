@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "2521278600",
+        "contract_value": 2521278600.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft., MVM Égáz-Dégáz Földgázhálózati Zrt.",
         "date": "10/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_19163_2019/",
         "main_cpv": "65500000-8",
         "number_companies_win": 0,
         "procurement_title": "Leolvasási tevékenység",
-        "registered_name": "DL Délalföldi Leolvasó Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DL Délalföldi Leolvasó Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1196000000",
+        "contract_value": 1196000000.0,
         "contracting_authority": "MVM Főgáz Földgázhálózati Kft.",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_22551_2020/",
         "main_cpv": "65500000-8",
         "number_companies_win": 0,
         "procurement_title": "Mérőleolvasás",
-        "registered_name": "DL Délalföldi Leolvasó Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DL Délalföldi Leolvasó Szolgáltató Kft."
     }
 ]

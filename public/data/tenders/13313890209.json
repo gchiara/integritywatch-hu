@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "142235000",
-        "contracting_authority": "REGO-PLAST Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 142235000.0,
+        "contracting_authority": "REGO-PLAST Kereskedelmi és Szolgáltató Kft.",
         "date": "27/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3650_2019/",
         "main_cpv": "42994000-0",
         "number_companies_win": 0,
         "procurement_title": "Műanyaghulladék idegenanyag tartalmának csökkentés",
-        "registered_name": "STORKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "STORKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "480732134,4",
-        "contracting_authority": "REGO-PLAST Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 480732134.4,
+        "contracting_authority": "REGO-PLAST Kereskedelmi és Szolgáltató Kft.",
         "date": "18/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17849_2019/",
         "main_cpv": "42994200-2",
         "number_companies_win": 0,
         "procurement_title": "Műanyag alapanyag gyártás fejlesztés RP Kft.-nél II.",
-        "registered_name": "STORKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "STORKER Kereskedelmi és Szolgáltató Kft."
     }
 ]

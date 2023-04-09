@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "Power Alarm Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; TATA HŰTŐTECHNIKA FŐVÁLLALKOZÓ Zártkörűen Működő Részvénytársaság; TOMFER 66 Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "941300000",
-        "contracting_authority": "PARASZTPORTA MEZŐGAZDASÁGI, KERESKEDELMI ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
+        "company_names": "Power Alarm Kereskedelmi és Szolgáltató Kft.; TATA HŰTŐTECHNIKA FŐVÁLLALKOZÓ Zrt.; TOMFER 66 Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 941300000.0,
+        "contracting_authority": "PARASZTPORTA MEZŐGAZDASÁGI, KERESKEDELMI ÉS SZOLGÁLTATÓ Kft.",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6717_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 3,
         "procurement_title": "Hűtőház bővítése új építésű, fagyasztva és hűtve tároló kamrákkal és azok kiszolgáló tereivel",
-        "registered_name": "Power Alarm Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Power Alarm Kereskedelmi és Szolgáltató Kft."
     }
 ]

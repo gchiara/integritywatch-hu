@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "91763718",
+        "contract_value": 91763718.0,
         "contracting_authority": "Ruzsa Község Önkormányzata",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12175_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "125274023",
+        "contract_value": 125274023.0,
         "contracting_authority": "Ruzsa Község Önkormányzata",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12175_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "46092250",
+        "contract_value": 46092250.0,
         "contracting_authority": "Csongrád-Csanád Megyei Rendőr-Főkapitányság",
         "date": "18/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4284_2020/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "32803120",
+        "contract_value": 32803120.0,
         "contracting_authority": "Szegedi Szakképzési Centrum",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21300_2020/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "82293303",
+        "contract_value": 82293303.0,
         "contracting_authority": "Szegedi Szakképzési Centrum",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21300_2020/",

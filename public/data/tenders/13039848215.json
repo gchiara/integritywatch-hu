@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "117382587",
-        "contracting_authority": "Berettyómenti Mezőgazdasági, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 117382587.0,
+        "contracting_authority": "Berettyómenti Mezőgazdasági, Szolgáltató és Kereskedelmi Zrt.",
         "date": "29/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14950_2018/",
         "main_cpv": "45221250-9",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarhatartó telepek korszerűsítése című projektben Állattartó telepkorszerűsítés a Berettyómenti Zrt-nél keretében mélyépítési beruházás kivitelezése",
-        "registered_name": "Magyar Acélművek Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar Acélművek Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "295362987",
-        "contracting_authority": "Berettyómenti Mezőgazdasági, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 295362987.0,
+        "contracting_authority": "Berettyómenti Mezőgazdasági, Szolgáltató és Kereskedelmi Zrt.",
         "date": "29/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14949_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarhatartó telepek korszerűsítése című projektben Állattartó telepkorszerűsítés a Berettyómenti Zrt-nél keretében magasépítési beruházás kivitelezése",
-        "registered_name": "Magyar Acélművek Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar Acélművek Ipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

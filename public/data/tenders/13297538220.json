@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "74615385",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 74615385.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4282_2018/",
         "main_cpv": "14212300-3",
         "number_companies_win": 0,
         "procurement_title": "Kőanyagok beszerzés 2017",
-        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 110000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4282_2018/",
         "main_cpv": "14212300-3",
         "number_companies_win": 0,
         "procurement_title": "Kőanyagok beszerzés 2017",
-        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "275384616",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 275384616.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4282_2018/",
         "main_cpv": "14212300-3",
         "number_companies_win": 0,
         "procurement_title": "Kőanyagok beszerzés 2017",
-        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 45000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "25/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12628_2019/",
         "main_cpv": "60100000-9",
         "number_companies_win": 0,
         "procurement_title": "Ömlesztett/szóródó/melegaszfalt anyagok szállítása",
-        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Páhok-Transz Fuvarozási Építőipari és Kereskedelmi Kft."
     }
 ]

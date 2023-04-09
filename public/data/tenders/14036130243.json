@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "135067817",
-        "contracting_authority": "Folly Arborétum és Borászati Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 135067817.0,
+        "contracting_authority": "Folly Arborétum és Borászati Nonprofit Kft.",
         "date": "29/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8737_2018/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Folly Arboretum és Borászat - Látogatóközpont kialakítása",
-        "registered_name": "Safe Port Investment Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "470020922",
-        "contracting_authority": "Folly Arborétum és Borászati Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19116_2021/",
-        "main_cpv": "45112700-2",
-        "number_companies_win": 0,
-        "procurement_title": "Folly turisztikai attraktivitás fejlesztés",
-        "registered_name": "Safe Port Investment Korlátolt Felelősségű Társaság"
+        "registered_name": "Safe Port Investment Kft."
     }
 ]

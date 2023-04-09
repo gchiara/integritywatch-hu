@@ -1,57 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "111171760",
+        "contract_value": 111171760.0,
         "contracting_authority": "Tornyospálca Község Önkormányzata",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18282_2019/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Iparterület-fejlesztés közműhálózat kiépítés",
-        "registered_name": "LEV-ZSÓ Builder Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "LEV-ZSÓ Builder Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "105429012",
+        "contract_value": 105429012.0,
         "contracting_authority": "Taktaharkány Nagyközség Önkormányzata",
         "date": "04/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20377_2020/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvízelvezetés",
-        "registered_name": "LEV-ZSÓ Builder Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16054901",
-        "contracting_authority": "Taktaharkány Nagyközség Önkormányzata",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4482_2021/",
-        "main_cpv": "45213140-6",
-        "number_companies_win": 0,
-        "procurement_title": "Termelői piac kialakítása",
-        "registered_name": "LEV-ZSÓ Builder Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16163376",
-        "contracting_authority": "Taktaharkány Nagyközség Önkormányzata",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4482_2021/",
-        "main_cpv": "45213140-6",
-        "number_companies_win": 0,
-        "procurement_title": "Termelői piac kialakítása",
-        "registered_name": "LEV-ZSÓ Builder Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "76935980",
-        "contracting_authority": "Taktaharkány Nagyközség Önkormányzata",
-        "date": "09/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4576_2021/",
-        "main_cpv": "45232130-2",
-        "number_companies_win": 0,
-        "procurement_title": "Csapadékvízelvezetés II. ütem",
-        "registered_name": "LEV-ZSÓ Builder Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "LEV-ZSÓ Builder Építőipari Kft."
     }
 ]

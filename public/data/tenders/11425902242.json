@@ -1,299 +1,255 @@
 [
     {
         "company_names": "",
-        "contract_value": "2500000",
+        "contract_value": 2500000.0,
         "contracting_authority": "Petőfiszállás Községi Önkormányzat",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19299_2017/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Autóbusz-megállóhely létesítése",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "148315803",
+        "contract_value": 148315803.0,
         "contracting_authority": "Csongrád Városi Önkormányzat",
         "date": "19/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2703_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "A csongrádi Körös-torok komplex turisztikai fejlesztése - 1. ütem",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "149890137",
+        "contract_value": 149890137.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7798_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kiskunfélegyháza Város Önkormányzata - Közterületen történő beruházások",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40310166",
+        "contract_value": 40310166.0,
         "contracting_authority": "Csongrád Városi Önkormányzat",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12567_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Csongrád külterületi helyi közutak fejlesztése",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47517166",
+        "contract_value": 47517166.0,
         "contracting_authority": "Csongrád Városi Önkormányzat",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12567_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Csongrád külterületi helyi közutak fejlesztése",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116515000",
+        "contract_value": 116515000.0,
         "contracting_authority": "Dunaharaszti Város Önkormányzata",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12635_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "A Temető utca burkolat felújítási munkái",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "183960000",
+        "contract_value": 183960000.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "30/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13272_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Út és parkolóépítési munkálatok",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96666121",
+        "contract_value": 96666121.0,
         "contracting_authority": "Csanytelek Község Önkormányzata",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14382_2018/",
         "main_cpv": "45233100-0",
         "number_companies_win": 0,
         "procurement_title": "Csanytelek 3 utca felújítás",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51219409",
+        "contract_value": 51219409.0,
         "contracting_authority": "Bócsa Község Önkormányzat",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22608_2018/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Kossuth Lajos utca burkolatfelújítása Bócsán",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97562500",
+        "contract_value": 97562500.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1629_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Korond utca rehabilitációja",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "264000000",
+        "contract_value": 264000000.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "25/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5053_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Belterületi utak felújítása",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "66068678",
+        "contract_value": 66068678.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "03/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7642_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Petőfi lakótelep és Kaffka Margit utcai játszótér",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139731322",
+        "contract_value": 139731322.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "03/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7642_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Petőfi lakótelep és Kaffka Margit utcai játszótér",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31353139",
+        "contract_value": 31353139.0,
         "contracting_authority": "Dunaharaszti Város Önkormányzata",
         "date": "03/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9356_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi útfelújítások Dunaharasztin",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70120790",
+        "contract_value": 70120790.0,
         "contracting_authority": "Dunaharaszti Város Önkormányzata",
         "date": "03/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9356_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi útfelújítások Dunaharasztin",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82626071",
+        "contract_value": 82626071.0,
         "contracting_authority": "Dunaharaszti Város Önkormányzata",
         "date": "03/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9356_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi útfelújítások Dunaharasztin",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19065301",
+        "contract_value": 19065301.0,
         "contracting_authority": "Fülöpháza Község Önkormányzata",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11323_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Közlekedési létesítmények kiépítése Fülöpházán",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35723645",
+        "contract_value": 35723645.0,
         "contracting_authority": "Fülöpháza Község Önkormányzata",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11323_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Közlekedési létesítmények kiépítése Fülöpházán",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "101330000",
+        "contract_value": 101330000.0,
         "contracting_authority": "Dunaharaszti Város Önkormányzata",
         "date": "19/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12896_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Dunaharaszti, Móricz Zsigmond utca útfelújítása",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "83600000",
+        "contract_value": 83600000.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15101_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Kunszentmiklós - ipari park fejlesztése",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30991397",
+        "contract_value": 30991397.0,
         "contracting_authority": "Kerekegyháza Város Önkormányzata",
         "date": "05/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16640_2019/",
         "main_cpv": "45223300-9",
         "number_companies_win": 0,
         "procurement_title": "Kerekegyháza, Fő utcai parkolók kialakítása",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19255000",
+        "contract_value": 19255000.0,
         "contracting_authority": "Ballószög Nagyközség Önkormányzata",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17778_2020/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Hivatásforgalmi fejlesztések Ballószögön",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82340000",
+        "contract_value": 82340000.0,
         "contracting_authority": "Ballószög Nagyközség Önkormányzata",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17778_2020/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Hivatásforgalmi fejlesztések Ballószögön",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9900000",
-        "contracting_authority": "Ballószög Nagyközség Önkormányzata",
-        "date": "05/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24177_2020/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Ballószög-Bem utca 22. előtti autóbuszöböl építés",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "299500000",
-        "contracting_authority": "Dunaharaszti Város Önkormányzata",
-        "date": "04/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13710_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Némedi úti parkoló- és járdaépítés",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "95940000",
-        "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
-        "date": "28/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18294_2021/",
-        "main_cpv": "45233142-6",
-        "number_companies_win": 0,
-        "procurement_title": "Kiskunfélegyháza - Útfelújítási munkálatok",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "176036200",
-        "contracting_authority": "Csongrád Városi Önkormányzat",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21185_2021/",
-        "main_cpv": "45233220-7",
-        "number_companies_win": 0,
-        "procurement_title": "Csongrád Öregszőlők útjának felújítása",
-        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-ÉP-KER 97 Út- és Közműépítő Környezetvédelmi és Kereskedelmi Kft."
     }
 ]

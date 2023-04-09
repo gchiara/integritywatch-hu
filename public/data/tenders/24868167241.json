@@ -1,134 +1,134 @@
 [
     {
         "company_names": "",
-        "contract_value": "36755205",
+        "contract_value": 36755205.0,
         "contracting_authority": "Győr-Moson-Sopron Megyei Kormányhivatal",
         "date": "22/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_876_2018/",
         "main_cpv": "45260000-7",
         "number_companies_win": 0,
         "procurement_title": "Mosonmagyaróvár, Fő út 11. szám alatti épület tetőfelújítása - 2. eljárás",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36000000",
+        "contract_value": 36000000.0,
         "contracting_authority": "FŐVÁROSI TÖRVÉNYSZÉK ",
         "date": "28/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3128_2018/",
         "main_cpv": "31521000-4",
         "number_companies_win": 0,
         "procurement_title": "Korhű, egyedi gyártású világítótestek beszerzése a Fővárosi Törvényszék 1055 Budapest, Markó utca 27. számú épületébe",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "213213034",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 213213034.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3972_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Kivitelezési szerződés alapján a lovasberényi római katolikus templom felújítása.",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "194983275",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Kft.",
+        "contract_value": 194983275.0,
         "contracting_authority": "Budapesti Zsido Hitközség",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7537_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 2,
         "procurement_title": "A Budapest XIV. kerület, Thököly út 83. szám alatti zsinagóga átalakítási munkáinak kivitelezése",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "315086463",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 315086463.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9165_2018/",
         "main_cpv": "45421000-4",
         "number_companies_win": 2,
         "procurement_title": "Pázmány Péter Katolikus Egyetem BTK 1088 Budapest, Mikszáth Kálmán tér 1. alatti ingatlanán homlokzat felújítás, homlokzati nyílászárók cseréje, díszvilágítás kiépítése.",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "146000000",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Kft.",
+        "contract_value": 146000000.0,
         "contracting_authority": "Sopron Megyei Jogú Város Önkormányzata",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12155_2018/",
         "main_cpv": "45443000-4",
         "number_companies_win": 2,
         "procurement_title": "Sopron belvárosi műemléki épületek homlokzatának felújítási munkáinak megvalósítása",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "471154763",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 471154763.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "04/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1880_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Római katolikus templom felújítása",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "492283696",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 492283696.0,
         "contracting_authority": "Győri Egyházmegye",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6381_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Tatai Szt. Kereszt templom felújítása",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74947493",
+        "contract_value": 74947493.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12689_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bezerédj kastély energetikai korszerűsítése",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "303998207",
+        "contract_value": 303998207.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "01/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22009_2020/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "KEHOP Tatai Edzőtábor A és B épület",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "149504435",
+        "contract_value": 149504435.0,
         "contracting_authority": "Ménfőcsanak-Gyirmóti Művelődési Központ",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22065_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bezerédj kastély felújítása a Teret a közösségnek",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "796995249",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 796995249.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_23565_2020/",
         "main_cpv": "45212413-4",
         "number_companies_win": 0,
         "procurement_title": "Hungária munkásszálló átalakítása és bővítése",
-        "registered_name": "ARTemisz & Sofia Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ARTemisz & Sofia Építőipari Kft."
     }
 ]

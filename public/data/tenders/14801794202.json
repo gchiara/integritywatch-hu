@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "488190274",
-        "contracting_authority": "CAADEX Korlátolt Felelősségű Társaság",
+        "contract_value": 488190274.0,
+        "contracting_authority": "CAADEX Kft.",
         "date": "24/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7014_2019/",
         "main_cpv": "42630000-1",
         "number_companies_win": 0,
         "procurement_title": "Betorkolló csonk gyártó gépsor beszerzése",
-        "registered_name": "MOBIL CULT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MOBIL CULT Kereskedelmi és Szolgáltató Kft."
     }
 ]

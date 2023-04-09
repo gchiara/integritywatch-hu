@@ -1,112 +1,112 @@
 [
     {
         "company_names": "",
-        "contract_value": "49882335",
+        "contract_value": 49882335.0,
         "contracting_authority": "Kazár Község Önkormányzata",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4578_2018/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Kazár Egészségház felújítása",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30314228",
+        "contract_value": 30314228.0,
         "contracting_authority": "Mátraverebély Község Önkormányzata",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18711_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Mátraverebély, családsegítő és gyermekjóléti intézmény felújítása",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "Salgó Vagyon Salgótarjáni Önkormányzati Vagyonkezelő és Távhőszolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 100000000.0,
+        "contracting_authority": "Salgó Vagyon Salgótarjáni Önkormányzati Vagyonkezelő és Távhőszolgáltató Kft.",
         "date": "02/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5445_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Keretszerződés felújítási és bontási munkákra",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82425850",
+        "contract_value": 82425850.0,
         "contracting_authority": "Salgótarján Megyei Jogú Város Önkormányzata",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6402_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Pitypang Tagóvoda felújítása",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23613620",
+        "contract_value": 23613620.0,
         "contracting_authority": "Salgótarján Megyei Jogú Város Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13495_2019/",
         "main_cpv": "43325000-7, 45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Közösségi terek felújítása Salgótarjánban",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23616372",
+        "contract_value": 23616372.0,
         "contracting_authority": "Salgótarján Megyei Jogú Város Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13495_2019/",
         "main_cpv": "43325000-7, 45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Közösségi terek felújítása Salgótarjánban",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28784749",
+        "contract_value": 28784749.0,
         "contracting_authority": "Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13992_2020/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Szent László Emlékhely Látogatóközpont építése, a Szent László kilátó kápolna felújítása és a Természetes Energia Állomás Fogadóépület építése",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44801662",
+        "contract_value": 44801662.0,
         "contracting_authority": "Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13992_2020/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Szent László Emlékhely Látogatóközpont építése, a Szent László kilátó kápolna felújítása és a Természetes Energia Állomás Fogadóépület építése",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82667309",
+        "contract_value": 82667309.0,
         "contracting_authority": "AGRÁRMINISZTÉRIUM",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13959_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Iskola felújítások",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "174421091",
+        "contract_value": 174421091.0,
         "contracting_authority": "Mogyoród Nagyközség Önkormányzata",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_22788_2020/",
         "main_cpv": "45232450-1",
         "number_companies_win": 0,
         "procurement_title": "A fokozatú bölcsőde építése",
-        "registered_name": "TRIOMER Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIOMER Szolgáltató Kft."
     }
 ]

@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "57033103",
+        "contract_value": 57033103.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8624_2019/",
         "main_cpv": "45233100-0",
         "number_companies_win": 0,
         "procurement_title": "Szőlőhegyi út kivitelezés",
-        "registered_name": "MÉJE Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MÉJE Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "135053102",
+        "contract_value": 135053102.0,
         "contracting_authority": "Bárdudvarnok Községi Önkormányzat, Kaposmérő Községi Önkormányzat",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10908_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kaposmérő-Bárdudvarnok összekötő út felújítása",
-        "registered_name": "MÉJE Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MÉJE Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "122679310",
+        "contract_value": 122679310.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
         "date": "05/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3680_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kaposvár – Malom és Kertalja utca fejlesztése",
-        "registered_name": "MÉJE Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MÉJE Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24257235",
+        "contract_value": 24257235.0,
         "contracting_authority": "Kaposhomok Községi Önkormányzat",
         "date": "16/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4442_2020/",
         "main_cpv": "45233000-9",
         "number_companies_win": 0,
         "procurement_title": "Utak felújítása Kaposhomokon",
-        "registered_name": "MÉJE Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MÉJE Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59497500",
+        "contract_value": 59497500.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13268_2020/",
         "main_cpv": "45212220-4",
         "number_companies_win": 0,
         "procurement_title": "Kaposvár, Cseri park futókör megvalósítása",
-        "registered_name": "MÉJE Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "112596252",
-        "contracting_authority": "Bedegkér Község Önkormányzata",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4129_2021/",
-        "main_cpv": "45232450-1",
-        "number_companies_win": 0,
-        "procurement_title": "Bedegkér Község csapadékvíz-elvezetés fejlesztés",
-        "registered_name": "MÉJE Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MÉJE Építőipari Kft."
     }
 ]

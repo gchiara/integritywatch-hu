@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "39364102",
+        "contract_value": 39364102.0,
         "contracting_authority": "Német Önkormányzat Geresdlak",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3814_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Geresdlak 168. hrsz. alatti önkormányzatitöbbfunkciósépület rekonstrukciójaéskorszerűsítése",
-        "registered_name": "Balokány Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Balokány Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39013428",
+        "contract_value": 39013428.0,
         "contracting_authority": "Indit Közalapítvány",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2792_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Pécsvárad, Erzsébeti út 0192/2 hrsz. kivitelezés",
-        "registered_name": "Balokány Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Balokány Építőipari Kft."
     }
 ]

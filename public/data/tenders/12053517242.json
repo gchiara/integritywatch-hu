@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "66109616",
+        "contract_value": 66109616.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2717_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "A HM VGH vagyonkezelésében lévő Nőtlenszállók épületenergetikai fejlesztései I. ütem",
-        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság"
+        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Kft."
     },
     {
         "company_names": "",
-        "contract_value": "126571696",
+        "contract_value": 126571696.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2717_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "A HM VGH vagyonkezelésében lévő Nőtlenszállók épületenergetikai fejlesztései I. ütem",
-        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság"
+        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Kft."
     },
     {
-        "company_names": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság; NEXUS Generál Korlátolt Felelősségű Társaság \"kényszertörlés alatt\"",
-        "contract_value": "298647523",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "INTERÉP 2000 Építőanyag Kereskedőház Kft.; NEXUS Generál Kft. \"kényszertörlés alatt\"",
+        "contract_value": 298647523.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20252_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Filmarchívum Főépület felújítása I.ütem",
-        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság"
+        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Kft."
     },
     {
-        "company_names": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság; PAN-AL TRADE Korlátolt Felelősségű Társaság",
-        "contract_value": "384750133",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "INTERÉP 2000 Építőanyag Kereskedőház Kft.; PAN-AL TRADE Kft.",
+        "contract_value": 384750133.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12352_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Filmarchívum Főépület II. ütem",
-        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "135981216",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "13/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15738_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "AC2 homlokzati felújítás",
-        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Korlátolt Felelősségű Társaság"
+        "registered_name": "INTERÉP 2000 Építőanyag Kereskedőház Kft."
     }
 ]

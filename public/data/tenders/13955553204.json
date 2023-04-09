@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "129916430",
-        "contracting_authority": "Gyulai Közüzemi Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 129916430.0,
+        "contracting_authority": "Gyulai Közüzemi Nonprofit Kft.",
         "date": "02/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1887_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Gyulai Közüzemi Nonprofit Kft. Irodaházának épületenergetikai fejlesztése",
-        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9987000",
+        "contract_value": 9987000.0,
         "contracting_authority": "Gyula Város Önkormányzata",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19748_2018/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Városi Könyvtár energetikai korszerűsítése",
-        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11053540",
+        "contract_value": 11053540.0,
         "contracting_authority": "Gyula Város Önkormányzata",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19748_2018/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Városi Könyvtár energetikai korszerűsítése",
-        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GYARMAT KISMESTER Korlátolt Felelősségű Társaság",
-        "contract_value": "24974954",
+        "company_names": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Kft.; GYARMAT KISMESTER Kft.",
+        "contract_value": 24974954.0,
         "contracting_authority": "Gyula Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24585_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Gyulai Polgármármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1980560",
+        "contract_value": 1980560.0,
         "contracting_authority": "Pelikán Vadásztársaság Sarkad",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11745_2020/",
         "main_cpv": "45211100-0",
         "number_companies_win": 0,
         "procurement_title": "Természetjáró ház építése Sarkadon",
-        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DÉLMA-VILL Villanyszerelő, Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -20,7 +20,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="static/organizations.css?v=1">
+  <link rel="stylesheet" href="static/organizations.css?v=4">
 </head>
 <body>
     <div id="app" class="organizations-page">   
@@ -30,13 +30,10 @@
         <div class="row">
           <div class="col-md-12 top-description-content">
             <div class="top-description-text">
-              <h1>INTEGRITY WATCH HUNGARY | Organizations</h1>
-              <h2>This is a user-friendly interactive database that provides a unique overview of organisations and tenders.</h2>
-              <a class="read-more-btn" href="./about.php?section=4">Read more</a>
-              <a class="download-share-btn" href="./data/organizations.json" download><i class="material-icons">cloud_download</i> Download data</a>
-              <button class="download-share-btn twitter-btn" @click="share('twitter')"><img src="./images/twitter-nobg.png" />Share on Twitter</button>
-              <button class="download-share-btn  facebook-btn" @click="share('facebook')"><img src="./images/facebook-nobg.png" />Share on Facebook</button>
-              <p>By simply clicking on the graph or list below users can rank, sort and filter the organisations.</p>
+              <h1>Tenderbajnok | <span class="h1-smaller">Főbb közbeszerzési és cégmutatók</span></h1>
+              <h2>Interaktív adatbázis a közbeszerzéseken nyertes cégekről, tulajdonosaikról és közhatalmi szerepvállalásukról</h2>
+              <button class="download-share-btn" @click="downloadDataset"><i class="material-icons">cloud_download</i> Szűrt adatok letöltése (.csv)</button>
+              <p>Az alábbi grafikonra vagy listára kattintva a felhasználók rangsorolhatják, rendezhetik és szűrhetik a szervezeteket.</p>
             </div>
             <i class="material-icons close-btn" @click="showInfo = false">close</i>
           </div>
@@ -51,9 +48,9 @@
               <chart-header :title="charts.topCompanies.title" :info="charts.topCompanies.info" ></chart-header>
               <div class="filterselect-container">
                 <select id="filterselect-topcompanies">
-                  <option value="amount_won_18_20">By total tenders won</option>
-                  <option value="single_bids_amount">By tenders won alone</option>
-                  <option value="consortium_amount">By tenders won in consortium</option>
+                  <option value="amount_won_18_20">Összes elnyert pályázat szerint</option>
+                  <option value="single_bids_amount">Egyedül elnyert eljárások szerint</option>
+                  <option value="consortium_amount">Konzorciumban elnyert eljárások szerint</option>
                 </select>
               </div>
               <div class="chart-inner" id="topcompanies_chart"></div>
@@ -71,13 +68,13 @@
               <div class="chart-inner" id="salesrevenueratio_chart"></div>
             </div>
           </div>
-          <div class="col-md-6 chart-col">
+          <div class="col-md-3 chart-col">
             <div class="boxed-container chart-container organizations_4">
               <chart-header :title="charts.amountWon.title" :info="charts.amountWon.info" ></chart-header>
               <div class="filterselect-container">
                 <select id="filterselect-amountwon">
-                  <option value="amount_won_category">By total amount won</option>
-                  <option value="amount_won_category_avg">By average amount won</option>
+                  <option value="amount_won_category">Az elnyert eljárások összes értéke szerint</option>
+                  <option value="amount_won_category_avg">Elnyert eljárások átlagos összege szerint</option>
                 </select>
               </div>
               <div class="chart-inner" id="amountwon_chart"></div>
@@ -86,13 +83,31 @@
           <div class="col-md-3 chart-col">
             <div class="boxed-container chart-container organizations_5">
               <chart-header :title="charts.cpv.title" :info="charts.cpv.info" ></chart-header>
+              <div class="filterselect-container">
+                <select id="filterselect-cpv">
+                  <option value="all">All</option>
+                  <option v-for="(item, index) in fullCpvList" :value="item" :key="index">{{item}}</option>
+                </select>
+              </div>
               <div class="chart-inner" id="cpv_chart"></div>
             </div>
           </div>
           <div class="col-md-3 chart-col">
             <div class="boxed-container chart-container organizations_6">
-              <chart-header :title="charts.beneficiaries.title" :info="charts.beneficiaries.info" ></chart-header>
-              <div class="chart-inner" id="beneficiaries_chart"></div>
+              <chart-header :title="charts.contractingAuth.title" :info="charts.contractingAuth.info" ></chart-header>
+              <div class="filterselect-container">
+                <select id="filterselect-auth">
+                  <option value="all">All</option>
+                  <option v-for="(item, index) in fullAuthList" :value="item" :key="index">{{item}}</option>
+                </select>
+              </div>
+              <div class="chart-inner" id="contractingauth_chart"></div>
+            </div>
+          </div>
+          <div class="col-md-3 chart-col">
+            <div class="boxed-container chart-container organizations_7">
+              <chart-header :title="charts.flags.title" :info="charts.flags.info" ></chart-header>
+              <div class="chart-inner" id="flags_chart"></div>
             </div>
           </div>
           <!-- TABLE -->
@@ -103,15 +118,15 @@
                 <table class="table table-hover dc-data-table" id="dc-data-table">
                   <thead>
                     <tr class="header">
-                      <th class="header">Name</th> 
-                      <th class="header">County</th> 
-                      <th class="header dt-body-right">Employees<br />2021</th> 
-                      <th class="header dt-body-right">Revenue<br />2021</th> 
-                      <th class="header dt-body-right">Profit<br />2021</th> 
-                      <th class="header dt-body-right">Amount won<br />18-20</th>
-                      <th class="header dt-body-right">Tenders won</th>
-                      <th class="header dt-body-center">Beneficiaries</th>
-                      <th class="header dt-body-center">Risk indicators</th> 
+                      <th class="header">Cégnév</th> 
+                      <th class="header">A cég székhelye (megye)</th> 
+                      <th class="header dt-body-right">Alkalmazottak száma, 2021 (fő)</th> 
+                      <th class="header dt-body-right">Az értékesítés nettó árbevétele, 2021 (million Ft)</th> 
+                      <th class="header dt-body-right">Adózott eredmény, 2021 (Ft)</th> 
+                      <th class="header dt-body-right">Elnyert eljárások értéke, 2018-2020 (million Ft)</th>
+                      <th class="header dt-body-right">Elnyert eljárások száma, 2018-2020 (db)</th>
+                      <th class="header dt-body-center">Ismert végső tulajdonosok száma, 2021 (fő)</th>
+                      <th class="header header-red dt-body-center">Red flagek száma (db)</th> 
                     </tr>
                   </thead>
                 </table>
@@ -125,21 +140,21 @@
         <div class="row">
           <div class="footer-col col-8 col-sm-4">
             <div class="footer-input">
-              <input type="text" id="search-input" placeholder="Filter by organization, city or county">
+              <input type="text" id="search-input" placeholder="Keresés szervezet, város vagy megye szerint">
               <i class="material-icons">search</i>
             </div>
           </div>
           <div class="footer-col col-4 col-sm-8 footer-counts">
             <div class="dc-data-count count-box">
-              <div class="filter-count">0</div>out of <strong class="total-count">0</strong> organizations
+              <div class="filter-count">0</div>szervezet az <strong class="total-count">0</strong> ból
             </div>
             <div class="count-box count-box-tenders">
-              <div class="filter-count nbtenders">0</div>out of <strong class="total-count-tenders">0</strong> tenders
+              <div class="filter-count nbtenders">0</div>eljárás az <strong class="total-count-tenders">0</strong> ból
             </div>
           </div>
         </div>
         <!-- Reset filters -->
-        <button class="reset-btn"><i class="material-icons">settings_backup_restore</i><span class="reset-btn-text">Reset filters</span></button>
+        <button class="reset-btn"><i class="material-icons">settings_backup_restore</i><span class="reset-btn-text">Szűrők visszaállítása</span></button>
       </div>
       <!-- DETAILS MODAL -->
       <div class="modal" id="detailsModal">
@@ -157,19 +172,21 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <div class="details-line" v-if="selectedOrg.tax_number"><span class="details-line-title">Tax number:</span> {{ selectedOrg.tax_number }}</div>
-                    <div class="details-line" v-if="selectedOrg.city && selectedOrg.county_registered"><span class="details-line-title">City and county:</span> {{ selectedOrg.city }} - {{ selectedOrg.county_registered }}</div>
-                    <div class="details-line" v-if="selectedOrg.most_recent_employees"><span class="details-line-title">Employees in 2021:</span> {{ selectedOrg.employees_2021 }}</div>
-                    <div class="details-line" v-if="selectedOrg.amount_won_18_20"><span class="details-line-title">Amount won 2018 - 2020:</span> {{ formatModalAmount(selectedOrg.amount_won_18_20) }}</div>
-                    <div class="details-line" v-if="selectedOrg.single_bids_number"><span class="details-line-title">Tenders won alone:</span> {{ selectedOrg.single_bids_number}}</div>
-                    <div class="details-line" v-if="selectedOrg.consortium_number"><span class="details-line-title">Tenders won in consortium:</span> {{ selectedOrg.consortium_number}}</div>
+                    <div class="details-line" v-if="selectedOrg.tax_number"><span class="details-line-title">Adószám:</span> {{ selectedOrg.tax_number }}</div>
+                    <div class="details-line" v-if="selectedOrg.city && selectedOrg.county_registered"><span class="details-line-title">A cég székhelye (város és megye):</span> {{ selectedOrg.city }} - {{ selectedOrg.county_registered }}</div>
+                    <div class="details-line" v-if="selectedOrg.most_recent_employees"><span class="details-line-title">Alkalmazottak száma, 2021 (fő):</span> {{ selectedOrg.employees_2021 }}</div>
+                    <div class="details-line" v-if="selectedOrg.amount_won_18_20"><span class="details-line-title">A közbeszerzésen elnyert összeg, 2018-2020 (million Ft):</span> {{ formatModalAmount(shortenNumber(selectedOrg.amount_won_18_20)) }}</div>
+                    <div class="details-line" v-if="selectedOrg.single_bids_number"><span class="details-line-title">Egyedül elnyert eljárások száma, 2018-2020 (db):</span> {{ selectedOrg.single_bids_number}}</div>
+                    <div class="details-line" v-if="selectedOrg.consortium_number"><span class="details-line-title">Konzorciumban nyert eljárások száma, 2018-2020 (db):</span> {{ selectedOrg.consortium_number}}</div>
+                    <div class="details-line" v-if="selectedOrg.notes"><span class="details-line-title">Megjegyzés:</span> {{ selectedOrg.notes }}</div>
+                    <div class="details-line" v-if="selectedOrg.risk_indicators_list_strings && selectedOrg.risk_indicators_list_strings.length > 0"><span class="details-line-title details-line-title-red">Red flagek (figyelmeztető jelzések):</span> {{ selectedOrg.risk_indicators_list_strings.join('; ') }}</div>
                   </div>
                   <!-- Tenders table -->
                   <div class="col-md-12">
-                    <div class="tenders-table-title">Tenders</div>
+                    <div class="tenders-table-title">Eljárások</div>
                     <table id="modalTendersTable" class="tenders-table">
                       <thead>
-                        <tr><th>Title</th><th>Date</th><th>Authority</th><th>Contract Value</th><th>Company Names</th></tr>
+                        <tr><th>Cím</th><th>Dátum</th><th>Ajánlatkérő szervezet neve</th><th>A szerződés egy cégre jutó értéke</th><th>Partnercégek neve neve (konzorcium esetén)</th><th>A konzorcium által elnyert teljes érték</th></tr>
                       </thead>
                     </table>
                   </div>
@@ -181,7 +198,7 @@
         </div>
       </div>
       <!-- Loader -->
-      <loader v-if="loader" :text="'Lorem ipsum sit dolor amet.'" />
+      <loader v-if="loader" :text="''" />
     </div>
 
     <script type="text/javascript" src="vendor/js/d3.v5.min.js"></script>
@@ -190,7 +207,7 @@
     <script type="text/javascript" src="vendor/js/dc.js"></script>
     <script type="text/javascript" src="vendor/js/dc.cloud.js"></script>
 
-    <script src="static/organizations.js"></script>
+    <script src="static/organizations.js?v=4"></script>
 
  
 </body>

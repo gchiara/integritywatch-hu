@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "22734200",
+        "contract_value": 22734200.0,
         "contracting_authority": "Pálhalmai Országos Büntetés-Végrehajtási Intézet",
         "date": "08/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19629_2017/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13243950",
+        "contract_value": 13243950.0,
         "contracting_authority": "Városi Humánsegítő és Szociális Szolgálat",
         "date": "10/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_155_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25412400",
+        "contract_value": 25412400.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2800_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3672000",
+        "contract_value": 3672000.0,
         "contracting_authority": "Budapesti Fegyház és Börtön",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2845_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "43347350",
+        "contract_value": 43347350.0,
         "contracting_authority": "Budapesti Fegyház és Börtön",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2845_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "70755090",
+        "contract_value": 70755090.0,
         "contracting_authority": "Budapest Főváros X. Kerület Kőbányai Önkormányzat",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4523_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4678560",
+        "contract_value": 4678560.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "9650000",
+        "contract_value": 9650000.0,
         "contracting_authority": "Kiskunlacházi Konyha",
         "date": "25/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10540_2018/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1680000",
+        "contract_value": 1680000.0,
         "contracting_authority": "Állami Szívkórház Balatonfüred",
         "date": "04/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11009_2018/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "16518700",
+        "contract_value": 16518700.0,
         "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12749_2018/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1485000",
+        "contract_value": 1485000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14258_2018/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "11100448",
+        "contract_value": 11100448.0,
         "contracting_authority": "Margit Kórház Pásztó",
         "date": "29/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14154_2018/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "70432050",
+        "contract_value": 70432050.0,
         "contracting_authority": "Budapest Főváros XVIII. Kerület Gazdasági Ellátó Szolgálat, Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata Egyesített Bölcsődék",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21073_2018/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14000000",
+        "contract_value": 14000000.0,
         "contracting_authority": "Balassagyarmati Fegyház és Börtön",
         "date": "03/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16867_2018/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "38000000",
+        "contract_value": 38000000.0,
         "contracting_authority": "Balassagyarmati Fegyház és Börtön",
         "date": "03/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16867_2018/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "100979220",
+        "contract_value": 100979220.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22756_2018/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "784000",
+        "contract_value": 784000.0,
         "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0730_2019/",
@@ -188,7 +188,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1965600",
+        "contract_value": 1965600.0,
         "contracting_authority": "Márianosztrai Fegyház és Börtön",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0450_2019/",
@@ -199,7 +199,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "20990000",
+        "contract_value": 20990000.0,
         "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0730_2019/",
@@ -210,7 +210,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "41631150",
+        "contract_value": 41631150.0,
         "contracting_authority": "Márianosztrai Fegyház és Börtön",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0450_2019/",
@@ -221,7 +221,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "26",
+        "contract_value": 26.0,
         "contracting_authority": "Mátrai Gyógyintézet",
         "date": "31/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_1639_2019/",
@@ -232,7 +232,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1914000",
+        "contract_value": 1914000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3717_2019/",
@@ -243,7 +243,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "27690900",
+        "contract_value": 27690900.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3717_2019/",
@@ -254,7 +254,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "24000000",
+        "contract_value": 24000000.0,
         "contracting_authority": "Pálhalmai Országos Büntetés-Végrehajtási Intézet",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7520_2019/",
@@ -265,7 +265,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22492000",
+        "contract_value": 22492000.0,
         "contracting_authority": "Pálhalmai Országos Büntetés-Végrehajtási Intézet",
         "date": "03/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3864_2019/",
@@ -276,7 +276,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1035000",
+        "contract_value": 1035000.0,
         "contracting_authority": "Kiskunfélegyházi Polgármesteri Hivatal",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10981_2019/",
@@ -287,7 +287,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1563102",
+        "contract_value": 1563102.0,
         "contracting_authority": "Kalocsai Közétkeztetési Intézmény",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11162_2019/",
@@ -298,7 +298,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "17956635",
+        "contract_value": 17956635.0,
         "contracting_authority": "Kalocsai Közétkeztetési Intézmény",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11162_2019/",
@@ -309,7 +309,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6595170",
+        "contract_value": 6595170.0,
         "contracting_authority": "Országos Orvosi Rehabilitációs Intézet",
         "date": "23/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15477_2019/",
@@ -320,7 +320,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "20541493",
+        "contract_value": 20541493.0,
         "contracting_authority": "Dr. László Elek Kórház és Rendelőintézet, Orosháza",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16396_2019/",
@@ -331,7 +331,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4748000",
+        "contract_value": 4748000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17670_2019/",
@@ -342,7 +342,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1950000",
+        "contract_value": 1950000.0,
         "contracting_authority": "Fővárosi Önkormányzat Kamaraerdei Úti Idősek Otthona",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18999_2019/",
@@ -353,7 +353,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22753050",
+        "contract_value": 22753050.0,
         "contracting_authority": "Margit Kórház Pásztó",
         "date": "04/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20000_2019/",
@@ -364,7 +364,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4900000",
+        "contract_value": 4900000.0,
         "contracting_authority": "Állampusztai Országos Büntetés-Végrehajtási Intézet",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21018_2019/",
@@ -375,7 +375,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "37312800",
+        "contract_value": 37312800.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
@@ -386,7 +386,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "24000000",
+        "contract_value": 24000000.0,
         "contracting_authority": "Pálhalmai Országos Büntetés-Végrehajtási Intézet",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1596_2020/",
@@ -397,7 +397,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "5180000",
+        "contract_value": 5180000.0,
         "contracting_authority": "Szegedi Fegyház és Börtön",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1858_2020/",
@@ -408,7 +408,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "59997800",
+        "contract_value": 59997800.0,
         "contracting_authority": "Szegedi Fegyház és Börtön",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1858_2020/",
@@ -419,7 +419,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "21501100",
+        "contract_value": 21501100.0,
         "contracting_authority": "Váci Fegyház és Börtön",
         "date": "19/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1856_2020/",
@@ -430,7 +430,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7461000",
+        "contract_value": 7461000.0,
         "contracting_authority": "Békéscsabai Gyermekélelmezési Intézmény",
         "date": "17/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4415_2020/",
@@ -441,7 +441,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "50004700",
+        "contract_value": 50004700.0,
         "contracting_authority": "Békéscsabai Gyermekélelmezési Intézmény",
         "date": "17/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4415_2020/",
@@ -452,7 +452,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22974300",
+        "contract_value": 22974300.0,
         "contracting_authority": "Hévízgyógyfürdő és Szent András Reumakórház, Keszthelyi Kórház",
         "date": "18/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4233_2020/",
@@ -463,7 +463,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "66653700",
+        "contract_value": 66653700.0,
         "contracting_authority": "Hévízgyógyfürdő és Szent András Reumakórház, Keszthelyi Kórház",
         "date": "18/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4233_2020/",
@@ -474,7 +474,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1056888",
+        "contract_value": 1056888.0,
         "contracting_authority": "ALBERT SCHWEITZER KÓRHÁZ-RENDELŐINTÉZET",
         "date": "02/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5514_2020/",
@@ -485,7 +485,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13745286",
+        "contract_value": 13745286.0,
         "contracting_authority": "ALBERT SCHWEITZER KÓRHÁZ-RENDELŐINTÉZET",
         "date": "02/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5514_2020/",
@@ -496,7 +496,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "9170350",
+        "contract_value": 9170350.0,
         "contracting_authority": "Közép-Dunántúli Országos Büntetés-Végrehajtási Intézet",
         "date": "08/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5839_2020/",
@@ -507,7 +507,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "26666780",
+        "contract_value": 26666780.0,
         "contracting_authority": "Közép-Dunántúli Országos Büntetés-Végrehajtási Intézet",
         "date": "08/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5839_2020/",
@@ -518,7 +518,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "392438",
+        "contract_value": 392438.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6514_2020/",
@@ -529,7 +529,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "8617850",
+        "contract_value": 8617850.0,
         "contracting_authority": "Kiskunhalasi Semmelweis Kórház A Szegedi Tudományegyetem Oktató Kórháza",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6722_2020/",
@@ -540,7 +540,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "30644600",
+        "contract_value": 30644600.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság, Zala Megyei Gondoskodás Egyesített Szociális Intézmény",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8042_2020/",
@@ -551,7 +551,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1351350",
+        "contract_value": 1351350.0,
         "contracting_authority": "Kiskunfélegyházi Polgármesteri Hivatal",
         "date": "22/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10454_2020/",
@@ -562,7 +562,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7650500",
+        "contract_value": 7650500.0,
         "contracting_authority": "Kiskunfélegyházi Polgármesteri Hivatal",
         "date": "22/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10454_2020/",
@@ -573,7 +573,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "442800",
+        "contract_value": 442800.0,
         "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
         "date": "13/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12209_2020/",
@@ -584,7 +584,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "10972000",
+        "contract_value": 10972000.0,
         "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
         "date": "13/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12209_2020/",
@@ -594,8 +594,8 @@
         "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
     },
     {
-        "company_names": "Lucky Lemon Korlátolt Felelősségű Társaság; M és Társa Kereskedelmi és Szolgáltató Kft; MORTAK FRUIT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000",
+        "company_names": "Lucky Lemon Kft.; M és Társa Kereskedelmi és Szolgáltató Kft; MORTAK FRUIT Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 20000000.0,
         "contracting_authority": "Országos Orvosi Rehabilitációs Intézet",
         "date": "14/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12181_2020/",
@@ -606,7 +606,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7904500",
+        "contract_value": 7904500.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13116_2020/",
@@ -617,7 +617,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "10669260",
+        "contract_value": 10669260.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13116_2020/",
@@ -628,7 +628,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1080000",
+        "contract_value": 1080000.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14405_2020/",
@@ -639,7 +639,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "46726065",
+        "contract_value": 46726065.0,
         "contracting_authority": "Budapesti Rendőr-Főkapitányság",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14465_2020/",
@@ -650,7 +650,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3180000",
+        "contract_value": 3180000.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "14/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13351_2020/",
@@ -661,7 +661,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18274120",
+        "contract_value": 18274120.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "14/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13351_2020/",
@@ -672,7 +672,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "8414000",
+        "contract_value": 8414000.0,
         "contracting_authority": "Budapest Főváros XVIII. Kerület Gazdasági Ellátó Szolgálat, Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata Egyesített Bölcsődék",
         "date": "14/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16359_2020/",
@@ -683,7 +683,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "8049000",
+        "contract_value": 8049000.0,
         "contracting_authority": "Kiskunlacházi Konyha",
         "date": "25/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16804_2020/",
@@ -694,7 +694,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "27537750",
+        "contract_value": 27537750.0,
         "contracting_authority": "Fővárosi Önkormányzat Kamaraerdei Úti Idősek Otthona",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17250_2020/",
@@ -705,7 +705,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "11918500",
+        "contract_value": 11918500.0,
         "contracting_authority": "\"Harmónia\" Integrált Szociális Intézmény, Bácsborsódi \"Őszi Napfény\" Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Bárka\"Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Platán\" Integrált Szociális Intézmény",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19475_2020/",
@@ -716,7 +716,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "33122770",
+        "contract_value": 33122770.0,
         "contracting_authority": "\"Harmónia\" Integrált Szociális Intézmény, Bácsborsódi \"Őszi Napfény\" Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Bárka\"Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Platán\" Integrált Szociális Intézmény",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19475_2020/",
@@ -727,7 +727,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "37693900",
+        "contract_value": 37693900.0,
         "contracting_authority": "\"Harmónia\" Integrált Szociális Intézmény, Bácsborsódi \"Őszi Napfény\" Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Bárka\"Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Platán\" Integrált Szociális Intézmény",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19475_2020/",
@@ -738,7 +738,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "61956850",
+        "contract_value": 61956850.0,
         "contracting_authority": "\"Harmónia\" Integrált Szociális Intézmény, Bácsborsódi \"Őszi Napfény\" Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Bárka\"Integrált Szociális Intézmény, Bács-Kiskun Megyei \"Platán\" Integrált Szociális Intézmény",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19475_2020/",
@@ -749,7 +749,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "5481100",
+        "contract_value": 5481100.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21412_2020/",
@@ -760,7 +760,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "15000000",
+        "contract_value": 15000000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21246_2020/",
@@ -771,7 +771,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "27000000",
+        "contract_value": 27000000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21246_2020/",
@@ -782,7 +782,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "40547550",
+        "contract_value": 40547550.0,
         "contracting_authority": "Tököli Országos Büntetés-Végrehajtási Intézet",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22311_2020/",
@@ -793,7 +793,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "41926600",
+        "contract_value": 41926600.0,
         "contracting_authority": "Kéthelyi Integrált Szociális Otthon, Somogy Megyei Dr. Takács Imre Szociális Otthon, Somogy Megyei Gondviselés Szociális Otthon, Somogy Megyei Szeretet Szociális Otthon, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22597_2020/",
@@ -804,7 +804,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13725560",
+        "contract_value": 13725560.0,
         "contracting_authority": "Baranya Megyei Dél-Zselic Egyesített Szociális Intézmény, Baranya Megyei Platánliget Otthon, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22708_2020/",
@@ -815,7 +815,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "20921000",
+        "contract_value": 20921000.0,
         "contracting_authority": "Baranya Megyei Dél-Zselic Egyesített Szociális Intézmény, Baranya Megyei Platánliget Otthon, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22708_2020/",
@@ -826,7 +826,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "16445520",
+        "contract_value": 16445520.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "15/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23129_2020/",
@@ -837,211 +837,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "35000000",
+        "contract_value": 35000000.0,
         "contracting_authority": "Balassagyarmati Fegyház és Börtön",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24194_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyagok beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "422800",
-        "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
-        "date": "13/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0054_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12342500",
-        "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
-        "date": "13/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0054_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12842000",
-        "contracting_authority": "Bajai Szent Rókus Kórház",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0152_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "421000",
-        "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4144_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyag beszerzése 2020",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11185200",
-        "contracting_authority": "SZENT MARGIT KÓRHÁZ",
-        "date": "06/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7479_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmezési alapanyagok 2020",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11629060",
-        "contracting_authority": "Kalocsai Közétkeztetési Intézmény",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6127_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmezési alapanyagok beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "341570",
-        "contracting_authority": "Közép-Magyarországi Agrárszakképzési Centrum",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11063_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12338375",
-        "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12816_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55900000",
-        "contracting_authority": "Pálhalmai Országos Büntetés-Végrehajtási Intézet",
-        "date": "21/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13381_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyagok beszerzése 24 hónapra",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12662280",
-        "contracting_authority": "Boldog Gellért Egészségügyi Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13655_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer beszerzése 2020",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8300000",
-        "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
-        "date": "06/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16371_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyagok beszerzése 12 hónapra",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "773500",
-        "contracting_authority": "Kiskunfélegyházi Polgármesteri Hivatal",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18579_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Kiskunfélegyháza-Élelmiszerek beszerzése-2021",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6756750",
-        "contracting_authority": "Kiskunfélegyházi Polgármesteri Hivatal",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18579_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Kiskunfélegyháza-Élelmiszerek beszerzése-2021",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12602200",
-        "contracting_authority": "Kiskunfélegyházi Polgármesteri Hivatal",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18579_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Kiskunfélegyháza-Élelmiszerek beszerzése-2021",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "614900",
-        "contracting_authority": "Szegedi Kistérség Többcélú Társulása Egyesített Szociális Intézmény",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21866_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer és főzési alapanyag beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "31452050",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Gazdasági Ellátó Szolgálat, Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata Egyesített Bölcsődék",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22348_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer beszerzése 2021",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1535300",
-        "contracting_authority": "Országos Korányi Pulmonológiai Intézet",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22152_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2673900",
-        "contracting_authority": "Kiskunhalas Város Önkormányzata Költségvetési Intézmények Gazdasági Szervezete",
-        "date": "14/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24110_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer - alapanyagok beszerzése 2021",
         "registered_name": "M és Társa Kereskedelmi és Szolgáltató Kft"
     }
 ]

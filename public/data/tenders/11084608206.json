@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "91191032",
+        "contract_value": 91191032.0,
         "contracting_authority": "Szegedi Rendészeti Szakgimnázium",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17969_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Szegedi Rendészeti Szakgimnázium tetőtér felújítása",
-        "registered_name": "REGISZTER-ÉP Épületfelújító és Épületfenntartó Korlátolt Felelősségű Társaság"
+        "registered_name": "REGISZTER-ÉP Épületfelújító és Épületfenntartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27914017",
+        "contract_value": 27914017.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14251_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SZTE MGK kivitelezés",
-        "registered_name": "REGISZTER-ÉP Épületfelújító és Épületfenntartó Korlátolt Felelősségű Társaság"
+        "registered_name": "REGISZTER-ÉP Épületfelújító és Épületfenntartó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "56117747",
+        "contract_value": 56117747.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14251_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SZTE MGK kivitelezés",
-        "registered_name": "REGISZTER-ÉP Épületfelújító és Épületfenntartó Korlátolt Felelősségű Társaság"
+        "registered_name": "REGISZTER-ÉP Épületfelújító és Épületfenntartó Kft."
     }
 ]

@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "78000000",
+        "contract_value": 78000000.0,
         "contracting_authority": "Szekszárd Megyei Jogú Város Önkormányzata",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8527_2018/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Szekszárd Megyei Jogú város területén új Tudásközpont épületének építési engedélyezési és kiviteli tervdokumentációjának elkészítése",
-        "registered_name": "Építész Alkotóműhely Korlátolt Felelősségű Társaság"
+        "registered_name": "Építész Alkotóműhely Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23400000",
+        "contract_value": 23400000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "07/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13627_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi szakellátók szállóinak fejlesztése című projekt megvalósítása során szükséges tervezési szolgáltatások, valamint tervezői művezetés beszerzése három részben",
-        "registered_name": "Építész Alkotóműhely Korlátolt Felelősségű Társaság"
+        "registered_name": "Építész Alkotóműhely Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14950000",
+        "contract_value": 14950000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20438_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi szakellátók szállóinak fejlesztése című projekt megvalósítása során szükséges tervezési szolgáltatások beszerzése - Gyula 2",
-        "registered_name": "Építész Alkotóműhely Korlátolt Felelősségű Társaság"
+        "registered_name": "Építész Alkotóműhely Kft."
     }
 ]

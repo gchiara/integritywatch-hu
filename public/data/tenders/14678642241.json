@@ -1,35 +1,35 @@
 [
     {
-        "company_names": "Mpiima Építőipari Korlátolt Felelősségű Társaság; ÖKO-PET RECYCLING Műanyag Újrahasznosító Korlátolt Felelősségű Társaság",
-        "contract_value": "290000000",
-        "contracting_authority": "Újpesti Városgondnokság Szolgáltató Korlátolt Felelősségű Társaság",
+        "company_names": "Mpiima Építőipari Kft.; ÖKO-PET RECYCLING Műanyag Újrahasznosító Kft.",
+        "contract_value": 290000000.0,
+        "contracting_authority": "Újpesti Városgondnokság Szolgáltató Kft.",
         "date": "11/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10044_2020/",
         "main_cpv": "45110000-1",
         "number_companies_win": 2,
         "procurement_title": "Bontási munkálatok elvégzése",
-        "registered_name": "Mpiima Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Mpiima Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299950000",
+        "contract_value": 299950000.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12286_2020/",
         "main_cpv": "45111100-9",
         "number_companies_win": 0,
         "procurement_title": "Bontási munkák",
-        "registered_name": "Mpiima Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Mpiima Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59611813",
+        "contract_value": 59611813.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19139_2020/",
         "main_cpv": "45236290-9",
         "number_companies_win": 0,
         "procurement_title": "Parképítés II. - Attila utca",
-        "registered_name": "Mpiima Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Mpiima Építőipari Kft."
     }
 ]

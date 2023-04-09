@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "20000000",
-        "contracting_authority": "Erzsébetvárosi Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 20000000.0,
+        "contracting_authority": "Erzsébetvárosi Szolgáltató Kft.",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11255_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyorsszolgálati munkák ellátása",
-        "registered_name": "Bau Gom Épszer Korlátolt Felelősségű Társaság"
+        "registered_name": "Bau Gom Épszer Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30000000",
-        "contracting_authority": "Erzsébetvárosi Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 30000000.0,
+        "contracting_authority": "Erzsébetvárosi Szolgáltató Kft.",
         "date": "27/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3024_2020/",
         "main_cpv": "45262500-6",
         "number_companies_win": 0,
         "procurement_title": "Hiba-és veszélyelhárítási (gyorsszolgálati) munkák",
-        "registered_name": "Bau Gom Épszer Korlátolt Felelősségű Társaság"
+        "registered_name": "Bau Gom Épszer Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77000000",
-        "contracting_authority": "Erzsébetvárosi Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 77000000.0,
+        "contracting_authority": "Erzsébetvárosi Szolgáltató Kft.",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11192_2020/",
         "main_cpv": "45262500-6",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási és hiba-veszélyelhárítási munkák",
-        "registered_name": "Bau Gom Épszer Korlátolt Felelősségű Társaság"
+        "registered_name": "Bau Gom Épszer Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26000000",
-        "contracting_authority": "Erzsébetvárosi Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 26000000.0,
+        "contracting_authority": "Erzsébetvárosi Szolgáltató Kft.",
         "date": "23/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17368_2020/",
         "main_cpv": "90000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lomtalanítás és kapcsolódó munkák elvégzése",
-        "registered_name": "Bau Gom Épszer Korlátolt Felelősségű Társaság"
+        "registered_name": "Bau Gom Épszer Kft."
     },
     {
         "company_names": "",
-        "contract_value": "265000000",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 265000000.0,
+        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23542_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási, hiba- és veszélyelhárítási munkák",
-        "registered_name": "Bau Gom Épszer Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "50000000",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8155_2021/",
-        "main_cpv": "90000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Lomtalanítás és kapcsolódó munkák elvégzése",
-        "registered_name": "Bau Gom Épszer Korlátolt Felelősségű Társaság"
+        "registered_name": "Bau Gom Épszer Kft."
     }
 ]

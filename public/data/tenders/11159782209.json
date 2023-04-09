@@ -1,200 +1,167 @@
 [
     {
         "company_names": "",
-        "contract_value": "293816868",
-        "contracting_authority": "ZM-NAGISZ Mezőgazdasági Termelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 293816868.0,
+        "contracting_authority": "ZM-NAGISZ Mezőgazdasági Termelő és Szolgáltató Kft.",
         "date": "25/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1184_2018/",
         "main_cpv": "45213242-1",
         "number_companies_win": 0,
         "procurement_title": "Új szarvasmarha istálló és műtárgyainak építése a Szerep külterület, hrsz.: 0182/4 alatti ingatlanon",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "760277562",
-        "contracting_authority": "BIG-PIG Lellegesi Állattenyésztő Korlátolt Felelősségü Társaság",
+        "contract_value": 760277562.0,
+        "contracting_authority": "BIG-PIG Lellegesi Állattenyésztő Kft.",
         "date": "09/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7614_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "A BIG-PIG Kft. Lellegesi sertéstelepén 2 db hizlaló épület építése",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4761688",
-        "contracting_authority": "NAGISZ Mezőgazdasági Termelő és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4761688.0,
+        "contracting_authority": "NAGISZ Mezőgazdasági Termelő és Szolgáltató Zrt.",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7656_2018/",
         "main_cpv": "38550000-5",
         "number_companies_win": 0,
         "procurement_title": "Pre-,és probiotikumtartalmú takarmánykiegészítő fejlesztése az állatok antioxidáns-, humorális és celluláris immunstátuszának javítására című projekthez kapcsolódó eszközbeszerzés (PULYKA/TYÚK)",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44637505",
-        "contracting_authority": "Pernyéspuszta Állattenyésztő és Növénytermelő Korlátolt Felelősségű Társaság",
+        "contract_value": 44637505.0,
+        "contracting_authority": "Pernyéspuszta Állattenyésztő és Növénytermelő Kft.",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8099_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarha telep energiahatékony korszerűsítése Hajdúszovát külterület 022 hrsz.",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2053890374",
-        "contracting_authority": "HAGE Hajdúsági Agráripari Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2053890374.0,
+        "contracting_authority": "HAGE Hajdúsági Agráripari Zrt.",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9127_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "A HAGE Zrt. Hegedűs-tanya sertéstelepén 3 db hizlalda létesítése",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "274800783",
+        "contract_value": 274800783.0,
         "contracting_authority": "Földes Nagyközség Önkormányzata",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11163_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés Földesi Napközi Otthonos Óvoda Rákóczi u. 11. sz. (88 hrsz.) alatti épületeinek felújítására, két csoportszobás új épületszárny és főzőkonyha építésére, bővítésére, 12 férőhelyes bölcsőde kialakítására",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1185525402",
-        "contracting_authority": "Szováti Sertés Állattenyésztő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1185525402.0,
+        "contracting_authority": "Szováti Sertés Állattenyésztő Zrt.",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13789_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Sertéstelep bővítése 6360 hízó férőhely létesítéssel és technológiai korszerűsítéssel Hajdúszovát külterület 098/7 hrsz.",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "102078358",
+        "contract_value": 102078358.0,
         "contracting_authority": "Báránd Községi Önkormányzat",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2417_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Báránd belvíz 2.",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21822192",
+        "contract_value": 21822192.0,
         "contracting_authority": "Nádudvar Város Önkormányzata",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18386_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Zöld város projekt kivitelezési munkái Nádudvar",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67930701",
+        "contract_value": 67930701.0,
         "contracting_authority": "Nádudvar Város Önkormányzata",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18386_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Zöld város projekt kivitelezési munkái Nádudvar",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89860978",
+        "contract_value": 89860978.0,
         "contracting_authority": "Nádudvar Város Önkormányzata",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18386_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Zöld város projekt kivitelezési munkái Nádudvar",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "124830594",
+        "contract_value": 124830594.0,
         "contracting_authority": "Nádudvar Város Önkormányzata",
         "date": "10/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19411_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Nádudvar Polgármesteri Hivatal felújítása, kiállító terem kialakítása",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42070820",
+        "contract_value": 42070820.0,
         "contracting_authority": "Nádudvar Város Önkormányzata",
         "date": "24/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11027_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Turisztikai rendezvénytér kialakítása Nádudvaron",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30923264",
+        "contract_value": 30923264.0,
         "contracting_authority": "Nádudvar Város Önkormányzata",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13607_2020/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Nádudvar, Emőd I. tó környezetrendezése",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "362013322",
+        "contract_value": 362013322.0,
         "contracting_authority": "Karcagi Tankerületi Központ",
         "date": "10/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22777_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Törökszentmiklóson a Hunyadi Mátyás Magyar-Angol Két Tanítási Nyelvű Általános Iskola infrastrukturális fejlesztése",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "178997933",
-        "contracting_authority": "Debreceni Szakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8653_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Debreceni Szakképzési Centrum Irinyi János Szakgimnáziuma és Szakközépiskolája energetikai fejlesztése",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "101514121",
-        "contracting_authority": "Hajdú-Bihar Megyei Rendőr-Főkapitányság",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11414_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Hajdú-Bihar MRFK épület energetikai fejlesztés, Püspökladány",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "497681064",
-        "contracting_authority": "Mária Iskolatestvérek Szerzetesrend",
-        "date": "28/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18753_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szent Pál Marista Általános Iskola fejlesztése",
-        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NÁDÉP Építőipari és Kereskedelmi, Szolgáltató Kft."
     }
 ]

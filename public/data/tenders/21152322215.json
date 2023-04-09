@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "99845780",
+        "contract_value": 99845780.0,
         "contracting_authority": "Tarpa Nagyközség Önkormányzata",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7724_2019/",
         "main_cpv": "45247112-8",
         "number_companies_win": 0,
         "procurement_title": "Tarpa belvíz 2.",
-        "registered_name": "TAXAT Építőipari és Kereskedelmi Betéti Társaság"
+        "registered_name": "TAXAT Építőipari és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "133223228",
+        "contract_value": 133223228.0,
         "contracting_authority": "Csaholc Község Önkormányzata",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13931_2020/",
         "main_cpv": "45221250-9",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz elvezető rendszer korszerűsítése",
-        "registered_name": "TAXAT Építőipari és Kereskedelmi Betéti Társaság"
+        "registered_name": "TAXAT Építőipari és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "116580720",
+        "contract_value": 116580720.0,
         "contracting_authority": "Tiszabecs Nagyközség Önkormányzata",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18819_2020/",
         "main_cpv": "45221250-9",
         "number_companies_win": 0,
         "procurement_title": "Belvízkezelési fejlesztések Tiszabecs területén",
-        "registered_name": "TAXAT Építőipari és Kereskedelmi Betéti Társaság"
+        "registered_name": "TAXAT Építőipari és Kereskedelmi Bt."
     }
 ]

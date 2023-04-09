@@ -1,189 +1,167 @@
 [
     {
         "company_names": "",
-        "contract_value": "3072000",
+        "contract_value": 3072000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "25/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16754_2018/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Egyszer használatos katéterek beszerzése 24 hónapra",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4287360",
+        "contract_value": 4287360.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "25/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16754_2018/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Egyszer használatos katéterek beszerzése 24 hónapra",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6720120",
+        "contract_value": 6720120.0,
         "contracting_authority": "TOLDY FERENC KÓRHÁZ ÉS RENDELŐINTÉZET",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17812_2018/",
         "main_cpv": "33141120-7",
         "number_companies_win": 0,
         "procurement_title": "Varrógépek és tárak beszerzése 1-5 részben, konszignációs raktár működtetésével",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "225760",
+        "contract_value": 225760.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "25/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13368_2019/",
         "main_cpv": "33111720-4",
         "number_companies_win": 0,
         "procurement_title": "Intervenciós radiológiai eszközök",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1051170",
+        "contract_value": 1051170.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "18/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_23922_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Haemodinamikai eszközök beszerzése",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "102362",
+        "contract_value": 102362.0,
         "contracting_authority": "Állami Szívkórház Balatonfüred",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24611_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Hemodinamikai fogyóanyagok beszerzése-I",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4724409",
+        "contract_value": 4724409.0,
         "contracting_authority": "Állami Szívkórház Balatonfüred",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24611_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Hemodinamikai fogyóanyagok beszerzése-I",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14960630",
+        "contract_value": 14960630.0,
         "contracting_authority": "Állami Szívkórház Balatonfüred",
         "date": "29/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8982_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Hemodinamikai fogyóanyagok beszerzése-IV",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28976378",
+        "contract_value": 28976378.0,
         "contracting_authority": "Állami Szívkórház Balatonfüred",
         "date": "29/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8982_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Hemodinamikai fogyóanyagok beszerzése-IV",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27600000",
+        "contract_value": 27600000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "30/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11161_2020/",
         "main_cpv": "33141210-5",
         "number_companies_win": 0,
         "procurement_title": "PTCA ballonkatéterek és kompressziós eszközök",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32250",
+        "contract_value": 32250.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14258_2020/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Urológiai anyagok beszerzése",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77760",
+        "contract_value": 77760.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14258_2020/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Urológiai anyagok beszerzése",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "180624",
+        "contract_value": 180624.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14258_2020/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Urológiai anyagok beszerzése",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299600",
+        "contract_value": 299600.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14258_2020/",
         "main_cpv": "33141200-2",
         "number_companies_win": 0,
         "procurement_title": "Urológiai anyagok beszerzése",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "356864",
+        "contract_value": 356864.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18890_2020/",
         "main_cpv": "33141125-2",
         "number_companies_win": 0,
         "procurement_title": "Sebészeti varrófonalak beszerzése 24 hónapra",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1675000",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "27/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7211_2021/",
-        "main_cpv": "33111720-4",
-        "number_companies_win": 0,
-        "procurement_title": "Hemodinamika 10 tender konszignációs raktár biztosításával 12 hónapra",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3400000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10610_2021/",
-        "main_cpv": "33141000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Haemodinamikai fogyóanyagok I.",
-        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDLINE Kereskedelmi és Szolgáltató Kft."
     }
 ]

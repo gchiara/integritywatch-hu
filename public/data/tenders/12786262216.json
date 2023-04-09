@@ -1,211 +1,156 @@
 [
     {
         "company_names": "",
-        "contract_value": "312000000",
+        "contract_value": 312000000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9875_2018/",
         "main_cpv": "71500000-3",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodás a Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása tárgyában",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Méretes Szabó Korlátolt Felelősségű Társaság",
-        "contract_value": "312000000",
+        "company_names": "Jelmez-Art Kereskedelmi és Szolgáltató Kft.; Méretes Szabó Kft.",
+        "contract_value": 312000000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9875_2018/",
         "main_cpv": "71500000-3",
         "number_companies_win": 2,
         "procurement_title": "Keretmegállapodás a Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása tárgyában",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25795276",
+        "contract_value": 25795276.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10398_2019/",
         "main_cpv": "19000000-6",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; QUANTUM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "202940972",
+        "company_names": "Jelmez-Art Kereskedelmi és Szolgáltató Kft.; QUANTUM Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 202940972.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10398_2019/",
         "main_cpv": "19000000-6",
         "number_companies_win": 2,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "516600",
+        "contract_value": 516600.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "28/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0847_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29804298",
+        "contract_value": 29804298.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "28/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0847_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "106020",
+        "contract_value": 106020.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6324_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "319370",
+        "contract_value": 319370.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6324_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2793050",
+        "contract_value": 2793050.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6324_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5337000",
+        "contract_value": 5337000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6324_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16021897",
+        "contract_value": 16021897.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6324_2020/",
         "main_cpv": "19200000-8",
         "number_companies_win": 0,
         "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10570000",
+        "contract_value": 10570000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12391_2020/",
         "main_cpv": "71500000-3",
         "number_companies_win": 0,
         "procurement_title": "A Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16767000",
+        "contract_value": 16767000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12391_2020/",
         "main_cpv": "71500000-3",
         "number_companies_win": 0,
         "procurement_title": "A Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1908000",
+        "contract_value": 1908000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18670_2020/",
         "main_cpv": "71500000-3",
         "number_companies_win": 0,
         "procurement_title": "Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "459000",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0283_2021/",
-        "main_cpv": "71500000-3",
-        "number_companies_win": 0,
-        "procurement_title": "A Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2250000",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0283_2021/",
-        "main_cpv": "71500000-3",
-        "number_companies_win": 0,
-        "procurement_title": "A Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1372500",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6017_2021/",
-        "main_cpv": "71500000-3",
-        "number_companies_win": 0,
-        "procurement_title": "A Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19100224",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "19/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6012_2021/",
-        "main_cpv": "19000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Textília beszerzése",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "517500",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "06/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13109_2021/",
-        "main_cpv": "71500000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Magyar Állami Operaház részére színházi jelmezek kivitelezése, szállítása és kapcsolódó szolgáltatások ellátása",
-        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jelmez-Art Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,233 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "129912000",
+        "contract_value": 129912000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5213_2018/",
         "main_cpv": "42968200-1",
         "number_companies_win": 0,
         "procurement_title": "Automatizált betegszintű gyógyszerelő rendszer beszerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94890000",
+        "contract_value": 94890000.0,
         "contracting_authority": "Szent Borbála Kórház",
         "date": "12/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5384_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszeradagoló automata rendszer beszerzése a Szent Borbála Kórház részére",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58149000",
+        "contract_value": 58149000.0,
         "contracting_authority": "Komlói Egészségcentrum, Bányászati Utókezelő és Éjjeli Szanatórium Egészségügyi Központ",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6929_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszerosztó automata, valamint kiegészítőinek szállítása és üzembe helyezése.",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51090000",
+        "contract_value": 51090000.0,
         "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
         "date": "09/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7419_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés, amelynek tárgya automatizált gyógyszerelő rendszer beszerzése és üzemeltetése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62984500",
+        "contract_value": 62984500.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "09/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6574_2018/",
         "main_cpv": "48180000-3",
         "number_companies_win": 0,
         "procurement_title": "KEMOTERÁPIÁS GRAVIMETRIKUS RENDSZER SZÁLLÍTÁSA, ÜZEMBE HELYEZÉSE, 18 HAVI SUPPORT TEVÉKENYSÉG BIZTOSÍTÁSÁVAL",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "172328000",
+        "contract_value": 172328000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "21/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16697_2018/",
         "main_cpv": "42968200-1",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszerelő automata beszerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "179800000",
+        "contract_value": 179800000.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17698_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretében orvostechnikai eszközök és berendezések szállítása, telepítése és üzembe helyezése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42793000",
+        "contract_value": 42793000.0,
         "contracting_authority": "CSOLNOKY FERENC KÓRHÁZ",
         "date": "19/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4584_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Betegbiztonság növelését célzó fejlesztések",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31571000",
+        "contract_value": 31571000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7355_2019/",
         "main_cpv": "48218000-9",
         "number_companies_win": 0,
         "procurement_title": "Debreceni Egyetem Klinikai Központ részére a már meglévő 12 db CATO orvosi licenc további bővítése 10 darabbal",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "126958000",
+        "contract_value": 126958000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6395_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszeradagoló beszerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130000000",
+        "contract_value": 130000000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "17/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6424_2020/",
         "main_cpv": "33194100-7",
         "number_companies_win": 0,
         "procurement_title": "Infúziós pumpák beszerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "305400000",
+        "contract_value": 305400000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "17/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6424_2020/",
         "main_cpv": "33194100-7",
         "number_companies_win": 0,
         "procurement_title": "Infúziós pumpák beszerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "126958000",
+        "contract_value": 126958000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "16/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16525_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszeradagoló automata és informatikai rendszer",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5280000",
-        "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0213_2021/",
-        "main_cpv": "50421000-2",
-        "number_companies_win": 0,
-        "procurement_title": "HD MEDI gyógyszeradagoló rendszer karbantartása",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1072234395,3",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6452_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Lélegeztetőgépek és egyéb orvosi eszközök",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25000000",
-        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
-        "date": "27/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9386_2021/",
-        "main_cpv": "33194000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Infúziós transzfúziós szerelékek kanülök beszerzése 2021",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "46081375",
-        "contracting_authority": "Országos Korányi Pulmonológiai Intézet",
-        "date": "21/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10237_2021/",
-        "main_cpv": "48180000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Kemoterápiás gravimetrikus rendszer beszerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "82550000",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "21/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13240_2021/",
-        "main_cpv": "33194100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Infúziós pumpák beszerzerzése",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "90922500",
-        "contracting_authority": "Szent Lázár Megyei Kórház",
-        "date": "04/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14573_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Eszközbeszerzés Szent Lázár Megyei Kórház",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38825000",
-        "contracting_authority": "Országos Onkológiai Intézet",
-        "date": "29/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18408_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Elasztomerikus, infúziós pumpák beszerzése -OOI",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3388800",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22834_2021/",
-        "main_cpv": "48180000-3",
-        "number_companies_win": 0,
-        "procurement_title": "CATO licenc beszerzése - GINOP",
-        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMIER G. MED ONKO Kereskedelmi Kft."
     }
 ]

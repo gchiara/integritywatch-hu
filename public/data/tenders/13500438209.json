@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "11630000",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 11630000.0,
+        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8711_2019/",
         "main_cpv": "77100000-1",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági szolgáltatások megrendelése",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
+        "registered_name": "KEREKES Mezőgazdasági Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15576000",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 15576000.0,
+        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8711_2019/",
         "main_cpv": "77100000-1",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági szolgáltatások megrendelése",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
+        "registered_name": "KEREKES Mezőgazdasági Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17346000",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 17346000.0,
+        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8711_2019/",
         "main_cpv": "77100000-1",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági szolgáltatások megrendelése",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
+        "registered_name": "KEREKES Mezőgazdasági Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11630000",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 11630000.0,
+        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft.",
         "date": "22/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11000_2020/",
         "main_cpv": "77100000-1",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági szolgáltatás - 2020",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
+        "registered_name": "KEREKES Mezőgazdasági Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16567200",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 16567200.0,
+        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft.",
         "date": "22/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11000_2020/",
         "main_cpv": "77100000-1",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági szolgáltatás - 2020",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5235000",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9883_2021/",
-        "main_cpv": "77100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Mezőgazdasági szolgáltatás megrendelése-2021",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19080600",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9883_2021/",
-        "main_cpv": "77100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Mezőgazdasági szolgáltatás megrendelése-2021",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4594872",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21935_2021/",
-        "main_cpv": "77100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Szervestrágya kiszórás - 2021",
-        "registered_name": "KEREKES Mezőgazdasági Korlátolt Felelősségű Társaság"
+        "registered_name": "KEREKES Mezőgazdasági Kft."
     }
 ]

@@ -1,101 +1,68 @@
 [
     {
-        "company_names": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság; MEDIREX Egészségügyi, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "67813000",
+        "company_names": "HOGE SYSTEMS Szolgáltató Kft.; MEDIREX Egészségügyi, Kereskedelmi és Szolgáltató Zrt.",
+        "contract_value": 67813000.0,
         "contracting_authority": "Betegápoló Irgalmas Rend Budai Háza",
         "date": "25/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6135_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 2,
         "procurement_title": "Adásvételi szerződés Keresztény Családi Centrum orvostechnikai eszközeinek beszerzése tárgyában 2017",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HOGE SYSTEMS Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1428000",
+        "contract_value": 1428000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7133_2018/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Infúziós labor felújításához szükséges eszközbeszerzés konszolidációs támogatás terhére",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HOGE SYSTEMS Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29020000",
+        "contract_value": 29020000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7133_2018/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Infúziós labor felújításához szükséges eszközbeszerzés konszolidációs támogatás terhére",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HOGE SYSTEMS Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51510000",
+        "contract_value": 51510000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7133_2018/",
         "main_cpv": "33191000-5",
         "number_companies_win": 0,
         "procurement_title": "Infúziós labor felújításához szükséges eszközbeszerzés konszolidációs támogatás terhére",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HOGE SYSTEMS Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20130000",
+        "contract_value": 20130000.0,
         "contracting_authority": "Magyar Imre Kórház",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0050_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi eszközök beszerzése",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HOGE SYSTEMS Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11604000",
+        "contract_value": 11604000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5849_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "MVP ÁOK eszközbeszerzés 10.",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16300000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3994_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Lélegeztető és ultrahang készülékek",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36324315",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6700_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi eszközbeszerzés",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26100000",
-        "contracting_authority": "Vaszary Kolos Kórház, Esztergom",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13866_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Gőz-formalin sterilizáló 6 STE",
-        "registered_name": "HOGE SYSTEMS Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HOGE SYSTEMS Szolgáltató Kft."
     }
 ]

@@ -1,101 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "45853600",
+        "contract_value": 45853600.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
         "date": "30/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12062_2018/",
         "main_cpv": "45232411-6",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Füredi úti szennyvízgyűjtő bélelése tárgyában",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99857000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 99857000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
         "date": "06/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23371_2019/",
         "main_cpv": "45247110-4",
         "number_companies_win": 0,
         "procurement_title": "Főgyűjtő csatorna belső megerősítési munkái",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80000000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Korlátolt Felelősségű Társaság",
+        "contract_value": 80000000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Kft.",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25106_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Feltárás nélküli csatornafelújítások",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120000000",
-        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Korlátolt Felelősségű Társaság",
+        "contract_value": 120000000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Kft.",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25106_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Feltárás nélküli csatornafelújítások",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
-        "company_names": "\"KONSTRUKTOR\" Építőipari Korlátolt Felelősségű Társaság; AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "85842122",
+        "company_names": "\"KONSTRUKTOR\" Építőipari Kft.; AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft.",
+        "contract_value": 85842122.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "15/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0407_2020/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Széchenyi utca ivóvízvezeték felújítása II",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170000000",
-        "contracting_authority": "DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 170000000.0,
+        "contracting_authority": "DMRV Duna Menti Regionális Vízmű Zrt.",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_4396_2020/",
         "main_cpv": "65100000-4",
         "number_companies_win": 0,
         "procurement_title": "THM prekurzor eltávolítása ivóvíz vezetékekből",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199995000",
-        "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata, VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 199995000.0,
+        "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata, VASIVÍZ Vas megyei Víz- és Csatornamű Zrt.",
         "date": "17/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12870_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "S001 Szhely-Kőszeg szennyvízrendszer rekonstrukció",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "158416316",
-        "contracting_authority": "BAKONYKARSZT Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 158416316.0,
+        "contracting_authority": "BAKONYKARSZT Víz- és Csatornamű Zrt.",
         "date": "11/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16306_2020/",
         "main_cpv": "45232400-6",
         "number_companies_win": 0,
         "procurement_title": "Veszprém Sz-2-0-0 jelű NA60 beton gravitációs szennyvízcsatorna rekonstrukciója",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "300000000",
-        "contracting_authority": "Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság",
-        "date": "30/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_25562_2021/",
-        "main_cpv": "65100000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Ivóvízhálózat szivacslövedékes tisztítása",
-        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AGRIAPIPE Csőtisztító, Építő és Szolgáltató Kft."
     }
 ]

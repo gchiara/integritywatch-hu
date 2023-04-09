@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "109420000",
+        "contract_value": 109420000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_53_2018/",
         "main_cpv": "42417100-3",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretében csőposta rendszer szállítása",
-        "registered_name": "SCH-ps Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCH-ps Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "112450000",
+        "contract_value": 112450000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_53_2018/",
         "main_cpv": "42417100-3",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretében csőposta rendszer szállítása",
-        "registered_name": "SCH-ps Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCH-ps Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "123200000",
+        "contract_value": 123200000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_53_2018/",
         "main_cpv": "42417100-3",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretében csőposta rendszer szállítása",
-        "registered_name": "SCH-ps Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCH-ps Kereskedelmi és Szolgáltató Kft."
     }
 ]

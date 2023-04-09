@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "211693917",
+        "contract_value": 211693917.0,
         "contracting_authority": "Budafoki Munkás Testedző Egyesület",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6417_2020/",
         "main_cpv": "45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Gépészeti szerelések",
-        "registered_name": "Pilisem Korlátolt Felelősségű Társaság"
+        "registered_name": "Pilisem Kft."
     }
 ]

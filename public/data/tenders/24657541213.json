@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "21799000",
+        "contract_value": 21799000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "17/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23392_2018/",
         "main_cpv": "90913100-1",
         "number_companies_win": 0,
         "procurement_title": "Haltartó rendszer modernizálása",
-        "registered_name": "V-Bio Intézményüzemeltetési Korlátolt Felelősségű Társaság"
+        "registered_name": "V-Bio Intézményüzemeltetési Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62372393",
+        "contract_value": 62372393.0,
         "contracting_authority": "Haszonállat-Génmegőrzési Központ",
         "date": "09/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14815_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kísérleti halkeltető és halnevelő üzem építése",
-        "registered_name": "V-Bio Intézményüzemeltetési Korlátolt Felelősségű Társaság"
+        "registered_name": "V-Bio Intézményüzemeltetési Kft."
     }
 ]

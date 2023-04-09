@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "110313300",
-        "contracting_authority": "BOLD AGRO Mezőgazdasági Korlátolt Felelősségű Társaság",
+        "contract_value": 110313300.0,
+        "contracting_authority": "BOLD AGRO Mezőgazdasági Kft.",
         "date": "01/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1737_2018/",
         "main_cpv": "42213000-2",
         "number_companies_win": 0,
         "procurement_title": "Magas hozzáadott értékű, kiemelkedő táplálkozási tulajdonságokkal rendelkező funkcionális gyümölcslevek és élvezeti értéket nyújtó gyümölcsborok előállításához szükséges technológiai háttér megteremtése",
-        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25000000",
+        "contract_value": 25000000.0,
         "contracting_authority": "Gáti Papa Szociális Szervezet",
         "date": "08/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3800_2018/",
         "main_cpv": "42910000-8",
         "number_companies_win": 0,
         "procurement_title": "Kereskedelmi pálinkafőzde technológia beszerzése",
-        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8960000",
+        "contract_value": 8960000.0,
         "contracting_authority": "TAKLER Pince Borászati Kft.",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17407_2018/",
         "main_cpv": "39145000-0",
         "number_companies_win": 0,
         "procurement_title": "TAKLER Pince - Eszközbeszerzés",
-        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4559000",
+        "contract_value": 4559000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "11/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5990_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi, méréstechnikai eszközök",
-        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "419638368",
-        "contracting_authority": "SPC HUNGARY Élelmiszeripari és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 419638368.0,
+        "contracting_authority": "SPC HUNGARY Élelmiszeripari és Kereskedelmi Kft.",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22210_2019/",
         "main_cpv": "42215200-8",
         "number_companies_win": 0,
         "procurement_title": "Chips gyártó technológiai sor beszerzése",
-        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19215000",
-        "contracting_authority": "Magyar Agrár- és Élettudományi Egyetem",
-        "date": "05/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21717_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Tématerületi Kiválósági Program eszköz beszerzései",
-        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hagyó Kereskedelmi és Szolgáltató Kft."
     }
 ]

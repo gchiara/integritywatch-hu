@@ -1,519 +1,277 @@
 [
     {
         "company_names": "",
-        "contract_value": "809847221",
-        "contracting_authority": "Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 809847221.0,
+        "contracting_authority": "Paks II. Atomerőmű Zrt.",
         "date": "10/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19007_2017/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "Az MVM Paks II. Zrt. részére gépjárműbérleti szolgáltatás nyújtása teljes körű flottakezeléssel és üzemeltetéssel együtt",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "527596800",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 527596800.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_2231_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "GYSEV Zrt. részére közúti gépjárművek tartós bérlete és teljes körű flottarendszerű üzemeltetése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96000000",
-        "contracting_authority": "e-Mobi Elektromobilitás Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 96000000.0,
+        "contracting_authority": "e-Mobi Elektromobilitás Nonprofit Kft.",
         "date": "08/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3227_2018/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "e-Mobi Elektromobilitás Nonprofit Kft. részére elektromos gépjárműpark teljes körű flottarendszerű üzemeltetése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "185000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 185000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20686_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek tartós bérlet keretében történő beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3199705020",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3199705020.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21321_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Könnyűteher gépjárművek beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8950644",
+        "contract_value": 8950644.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "11/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4151_2019/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Személygépjármű bérlet beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "811200000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 811200000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_12114_2019/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "3,5 tonna össztömeget meg nem haladó gépjárművek beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9073274,4",
+        "contract_value": 9073274.4,
         "contracting_authority": "Magyarország Állandó Képviselete az Európai Unió mellett",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19950_2019/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "Tartós bérlet és flottaüzemeltetés 2019",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57134400",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 57134400.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20676_2019/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek tartós bérlet keretében beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "342738887",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 342738887.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "08/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21368_2019/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárműbérlet és flottaüzemeltetési szolgáltatás",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47949706",
-        "contracting_authority": "Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 47949706.0,
+        "contracting_authority": "Városliget Ingatlanfejlesztő Zrt.",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0522_2020/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "5 db személygépjármű bérlése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "322176528",
-        "contracting_authority": "Pro-M Professzionális Mobilrádió Zártkörűen Működő Részvénytársaság",
+        "contract_value": 322176528.0,
+        "contracting_authority": "Pro-M Professzionális Mobilrádió Zrt.",
         "date": "29/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0913_2020/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "Gépjármű flottaüzemeltetés 2019",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41035848",
-        "contracting_authority": "HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 41035848.0,
+        "contracting_authority": "HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zrt.",
         "date": "21/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2275_2020/",
         "main_cpv": "50112000-3",
         "number_companies_win": 0,
         "procurement_title": "3 kategóriába sorolt gépjárművek bérlete",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68000000",
-        "contracting_authority": "Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 68000000.0,
+        "contracting_authority": "Nemzeti Üzleti Szolgáltató Zrt.",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4978_2020/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Gépjármű flotta beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "150000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "contract_value": 150000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_4961_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjármű bérlet és flottakezelés 4 évre-2019",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48942240",
-        "contracting_authority": "HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 48942240.0,
+        "contracting_authority": "HIPA Nemzeti Befektetési Ügynökség Nonprofit Zrt.",
         "date": "09/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5438_2020/",
         "main_cpv": "34111000-8",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek tartós bérlete",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3649581420",
+        "contract_value": 3649581420.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft., MVM Égáz-Dégáz Földgázhálózati Zrt., MVM Főgáz Földgázhálózati Kft.",
         "date": "14/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_8249_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjármű bérlet és flottakezelési szolgáltatások",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "101369491",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 101369491.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10731_2020/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek tartós bérlet keretében történő beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "420923328",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 420923328.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "15/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12419_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek tartós bérlete, flotta üzemeltetése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38066489",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "contract_value": 38066489.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12400_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjármű bérlet és flottakezelés 4 évre-2019",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "162334928",
-        "contracting_authority": "PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 162334928.0,
+        "contracting_authority": "PIP Közép-Duna Menti Térségfejlesztési Nonprofit Kft.",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14141_2020/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "PIP NKft. számára flottakezelés beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "275000000",
-        "contracting_authority": "Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság",
+        "contract_value": 275000000.0,
+        "contracting_authority": "Nemzeti Útdíjfizetési Szolgáltató Zrt.",
         "date": "24/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_15030_2020/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "Flotta/2020",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "266000000",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
+        "contract_value": 266000000.0,
+        "contracting_authority": "MVM Informatika Zrt.",
         "date": "14/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16335_2020/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "Gépjármű flotta bérlet",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "371938380",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 371938380.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "12/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20506_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39427688",
-        "contracting_authority": "Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 39427688.0,
+        "contracting_authority": "Városliget Ingatlanfejlesztő Zrt.",
         "date": "30/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20858_2020/",
         "main_cpv": "50111100-7",
         "number_companies_win": 0,
         "procurement_title": "Flottaüzemeltetési szolgáltatás ellátása",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8218296",
-        "contracting_authority": "Moholy-Nagy Művészeti Egyetem",
-        "date": "05/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24174_2020/",
-        "main_cpv": "34115200-8",
-        "number_companies_win": 0,
-        "procurement_title": "MOME Autó tartós bérlet beszerzés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16994570",
-        "contracting_authority": "Mathias Corvinus Collegium Alapítvány",
-        "date": "03/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1581_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjárművek bérlete",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "108000000",
-        "contracting_authority": "Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "30/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5012_2021/",
-        "main_cpv": "50111100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű flotta beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "207600000",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5563_2021/",
-        "main_cpv": "50111100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Hosszú távú gépjármű bérleti szerződés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5384917",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
-        "date": "15/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6013_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű bérlet és flottakezelés 4 évre-2019",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5153544",
-        "contracting_authority": "Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7734_2021/",
-        "main_cpv": "50111100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Flottaüzemeltetési szolgáltatás",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7175808",
-        "contracting_authority": "Moholy-Nagy Művészeti Egyetem",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11002_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "MOME Autó tartós bérlet",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "70450172",
-        "contracting_authority": "Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "23/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11426_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Személygépjármű tartós bérlet és flottakezelés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45586320",
-        "contracting_authority": "Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "25/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11543_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű bérlet és flottaüzemeltetés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "90954912",
-        "contracting_authority": "HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13897_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű bérlet és flottaüzemeltetés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "67990164",
-        "contracting_authority": "CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17911_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű bérlet és flottakezelési szolgáltatások",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "186325812",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18660_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjárműbérlés és hozzá kapcsolódó flottakezelés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "993132000",
-        "contracting_authority": "Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság",
-        "date": "12/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19472_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Paks II. Zrt. gépjárműbérlet és flottakezelés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6808920",
-        "contracting_authority": "Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20321_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "8 db új személygépjármű bérlete",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19428240",
-        "contracting_authority": "Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20321_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "8 db új személygépjármű bérlete",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "263000000",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "19/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19430_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű bérlet és flottakezelési szolgáltatások",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "188945364",
-        "contracting_authority": "ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20434_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjárművek bérlete és flottakezelése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4101362",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "22/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22589_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjárművek beszerzése",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4738048",
-        "contracting_authority": "Bács-Kiskun Megyei Kormányhivatal",
-        "date": "08/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24380_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "GINOP-5.1.1 projekt keretében bérleti szerződés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4738048",
-        "contracting_authority": "Bács-Kiskun Megyei Kormányhivatal",
-        "date": "08/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24379_2021/",
-        "main_cpv": "34110000-1",
-        "number_companies_win": 0,
-        "procurement_title": "GINOP-5.2.1 projekt keretében bérleti szerződés",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22976047",
-        "contracting_authority": "IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "15/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22749_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Személygépjárművek flottakezelési szolgáltatása II.",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1414160508",
-        "contracting_authority": "MVM Mátra Energia Zártkörűen Működő Részvénytársaság",
-        "date": "28/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_25664_2021/",
-        "main_cpv": "50111100-7",
-        "number_companies_win": 0,
-        "procurement_title": "3,5 t alatti tgk, terepjáró, mikrobusz tartós bérlete",
-        "registered_name": "Mercarius Flottakezelő Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercarius Flottakezelő Kft."
     }
 ]

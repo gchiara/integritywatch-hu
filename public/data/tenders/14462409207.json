@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "108082003",
+        "contract_value": 108082003.0,
         "contracting_authority": "Gárdony Város Önkormányzat",
         "date": "19/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4818_2019/",
         "main_cpv": "45211000-9",
         "number_companies_win": 0,
         "procurement_title": "6 lakásos társasház építése",
-        "registered_name": "MAVAPLUSZ Ingatlanforgalmazó és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MAVAPLUSZ Ingatlanforgalmazó és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52652631",
-        "contracting_authority": "\"VHG\" Velencei-tavi Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 52652631.0,
+        "contracting_authority": "\"VHG\" Velencei-tavi Hulladékgazdálkodási Nonprofit Kft.",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13850_2020/",
         "main_cpv": "45213150-9",
         "number_companies_win": 0,
         "procurement_title": "Új irodaépület létesítése",
-        "registered_name": "MAVAPLUSZ Ingatlanforgalmazó és Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "60422635",
-        "contracting_authority": "Gárdony Város Önkormányzat",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3181_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szabadvízi strandok vizesblokkjainak a fejlesztése",
-        "registered_name": "MAVAPLUSZ Ingatlanforgalmazó és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "MAVAPLUSZ Ingatlanforgalmazó és Építőipari Kft."
     }
 ]

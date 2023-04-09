@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "753174379",
-        "contracting_authority": "\"GOLOP KERT\" Beszerző, Értékesítő és Szolgáltató Szövetkezet, \"HARANGOD-MAG\" Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság, \"Hegyalja\" BOS Mezőgazdasági Kereskedelmi és Szolgáltató korlátolt felelősségű társaság, Béki Ferencné, Borbély Bertalan",
+        "contract_value": 753174379.0,
+        "contracting_authority": "\"GOLOP KERT\" Beszerző, Értékesítő és Szolgáltató Szövetkezet, \"HARANGOD-MAG\" Kereskedelmi és Szolgáltató Kft., \"Hegyalja\" BOS Mezőgazdasági Kereskedelmi és Szolgáltató Kft., Béki Ferencné, Borbély Bertalan",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0564_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Fejlesztés a \"Hegyalja\" BOS Kft.-nél",
-        "registered_name": "INGATLAN TRADE 2001 Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "INGATLAN TRADE 2001 Építőipari és Kereskedelmi Kft."
     }
 ]

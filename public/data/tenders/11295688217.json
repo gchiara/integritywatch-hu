@@ -1,156 +1,134 @@
 [
     {
         "company_names": "",
-        "contract_value": "165227870",
+        "contract_value": 165227870.0,
         "contracting_authority": "Tolnáért - Tolna Megyei Térségfejlesztési Nonprofit Közhasznú Kft.",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7500_2018/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Zomba belterületi vízrendezése elnevezésű projekt keretében megvalósuló csapadékvíz elvezető rendszer, építési beruházás kivitelezése a műszaki dokumentációban szereplő tartalommal, vállalkozási szerződés keretében",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68959356",
+        "contract_value": 68959356.0,
         "contracting_authority": "Attala Község Önkormányzat, Tolnáért - Tolna Megyei Térségfejlesztési Nonprofit Közhasznú Kft.",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10270_2018/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Attala település csapadékvíz elvezetése",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139449990",
+        "contract_value": 139449990.0,
         "contracting_authority": "Tolnáért - Tolna Megyei Térségfejlesztési Nonprofit Közhasznú Kft., Váralja Község Önkormányzata",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10272_2018/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Váralja Község csapadékvíz elvezetési rendszerének korszerűsítése",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "289910980",
-        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 289910980.0,
+        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zrt.",
         "date": "03/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22239_2018/",
         "main_cpv": "45240000-1, 45245000-6, 45252124-3",
         "number_companies_win": 0,
         "procurement_title": "Hasznosi Víztározó kotrási feladatok elvégzése",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "250066600",
-        "contracting_authority": "ÉRV.-SZOLG Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 250066600.0,
+        "contracting_authority": "ÉRV.-SZOLG Kereskedelmi és Szolgáltató Kft.",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21882_2018/",
         "main_cpv": "45240000-1",
         "number_companies_win": 0,
         "procurement_title": "Rakaca-völgyi Víztározó kotrási munkák",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35789696",
+        "contract_value": 35789696.0,
         "contracting_authority": "Györe Község Önkormányzata",
         "date": "17/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22587_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Györe csapadékvíz kialakítása",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49746750",
+        "contract_value": 49746750.0,
         "contracting_authority": "Közép-Dunántúli Vízügyi Igazgatóság",
         "date": "04/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21248_2018/",
         "main_cpv": "45243510-0",
         "number_companies_win": 0,
         "procurement_title": "Sió csatorna árvízvédelmi töltés áthelyezés kivitelezése",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "129993527",
+        "contract_value": 129993527.0,
         "contracting_authority": "Sióagárd Község Önkormányzata",
         "date": "18/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8285_2020/",
         "main_cpv": "45252100-9",
         "number_companies_win": 0,
         "procurement_title": "A szennyvíztisztító telep kiegészítése utótisztító",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "129711434",
+        "contract_value": 129711434.0,
         "contracting_authority": "Sióagárd Község Önkormányzata",
         "date": "24/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_15076_2020/",
         "main_cpv": "45252100-9",
         "number_companies_win": 0,
         "procurement_title": "A szennyvíztisztító telep kiegészítése Sióagárdon",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
+        "contract_value": 200000000.0,
         "contracting_authority": "Alsó-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "11/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16568_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hidraulikus kotróval történő kotrási munkálatok",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22834500",
+        "contract_value": 22834500.0,
         "contracting_authority": "Alsó-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "10/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19828_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hidraulikus kotróval történő kotrási munkálatok",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "200185850",
-        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 200185850.0,
+        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zrt.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24074_2020/",
         "main_cpv": "45245000-6",
         "number_companies_win": 0,
         "procurement_title": "Kotrási feladatok Komravölgyi Víztározó",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "78429000",
-        "contracting_authority": "Alsó-Duna-Völgyi Vízügyi Igazgatóság",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6011_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Hidraulikus kotróval történő kotrási munkálatok",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "74919156",
-        "contracting_authority": "Harc Község Önkormányzata",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14130_2021/",
-        "main_cpv": "45232400-6",
-        "number_companies_win": 0,
-        "procurement_title": "Harc Község szennyvízcsatornázása",
-        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOTECHNIKA '84 Víz- és Csatornaépítő Kft."
     }
 ]

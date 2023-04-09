@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "69795873",
+        "contract_value": 69795873.0,
         "contracting_authority": "Dunaszentmiklós Község Önkormányzata",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14429_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dunaszentmiklós közösségi tér építése",
-        "registered_name": "KEIL-BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KEIL-BAU Építőipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "248342820",
-        "contracting_authority": "Kősziklás Borászat Korlátolt Felelősségű Társaság",
+        "contract_value": 248342820.0,
+        "contracting_authority": "Kősziklás Borászat Kft.",
         "date": "18/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18589_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kősziklás borászat építési fejlesztése",
-        "registered_name": "KEIL-BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KEIL-BAU Építőipari Szolgáltató Kft."
     }
 ]

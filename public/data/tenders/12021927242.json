@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "2184770",
+        "contract_value": 2184770.0,
         "contracting_authority": "Nemzetbiztonsági Szakszolgálat",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18053_2017/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "83800",
+        "contract_value": 83800.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3819_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "492400",
+        "contract_value": 492400.0,
         "contracting_authority": "Információs Hivatal",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3672_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "15994300",
+        "contract_value": 15994300.0,
         "contracting_authority": "FŐVÁROSI TÖRVÉNYSZÉK ",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10077_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4110000",
+        "contract_value": 4110000.0,
         "contracting_authority": "Információs Hivatal",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10539_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7845000",
+        "contract_value": 7845000.0,
         "contracting_authority": "Információs Hivatal",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10539_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "2033000",
+        "contract_value": 2033000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12232_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "2139360",
+        "contract_value": 2139360.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12232_2018/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "2198000",
+        "contract_value": 2198000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12232_2018/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3253010",
+        "contract_value": 3253010.0,
         "contracting_authority": "Nemzetbiztonsági Szakszolgálat",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13482_2018/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "93778556",
+        "contract_value": 93778556.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "03/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15300_2018/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "114603114",
+        "contract_value": 114603114.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "03/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15300_2018/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "155335164",
+        "contract_value": 155335164.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "03/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15300_2018/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "15000000",
+        "contract_value": 15000000.0,
         "contracting_authority": "FŐVÁROSI TÖRVÉNYSZÉK ",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6791_2019/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "463500",
+        "contract_value": 463500.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21377_2019/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "35100000",
+        "contract_value": 35100000.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "20/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7823_2020/",
@@ -176,9 +176,9 @@
         "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EXISTORE Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "2060926653",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; Delta Systems Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO ONE Számítástechnikai Zrt.; EXISTORE Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
+        "contract_value": 2060926653.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
@@ -187,9 +187,9 @@
         "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSTYLE Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "12061555438",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALBACOMP SH Szoftverház Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; iSTYLE Hungary Kereskedelmi és Szolgáltató Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 12061555438.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
@@ -198,9 +198,9 @@
         "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ADATKÖZPONT Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "55101615043",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ADATKÖZPONT Kft.; ALBACOMP SH Szoftverház Kft.; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; DOKUCENTRUM Irodai Rendszerek Kft.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; IMG Solution Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invigor Informatika Kft.; Invitech ICT Services Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; MACROTEL Telefontechnikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 55101615043.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
@@ -209,9 +209,9 @@
         "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
     },
     {
-        "company_names": "Delta Systems Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "122007355",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Delta Systems Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
+        "contract_value": 122007355.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23395_2020/",
         "main_cpv": "30200000-1",
@@ -221,8 +221,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "35984273",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "contract_value": 35984273.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24170_2020/",
         "main_cpv": "30200000-1",
@@ -232,79 +232,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "159619624",
-        "contracting_authority": "MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 159619624.0,
+        "contracting_authority": "MÁV Szolgáltató Központ Zrt.",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24369_2020/",
         "main_cpv": "30125000-1",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatási kellékanyagok szállítása",
-        "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
-    },
-    {
-        "company_names": "Boost IT Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "74849688",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2179_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 9,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
-    },
-    {
-        "company_names": "ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EXISTORE Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "359608152",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1684_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 7,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
-    },
-    {
-        "company_names": "Boost IT Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1104855598",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3008_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 9,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
-    },
-    {
-        "company_names": "Delta Systems Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "47521339",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4257_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 2,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "754094590",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5689_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "2412716",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13497_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
         "registered_name": "WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft."
     }
 ]

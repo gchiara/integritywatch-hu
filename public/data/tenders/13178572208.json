@@ -1,167 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "15006696",
+        "contract_value": 15006696.0,
         "contracting_authority": "Kimle Község Önkormányzata",
         "date": "15/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2278_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "TOP turisztika - Csónakház felújítása, sportpályára futókör kialakítása és látogatóközpont kialakítása- 2. kör",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57230754",
+        "contract_value": 57230754.0,
         "contracting_authority": "Kóny Község Önkormányzata",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3199_2018/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Helyi Termelői Piac létesítése Kóny községben - építési beruházás",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46834872",
+        "contract_value": 46834872.0,
         "contracting_authority": "Kisbajcs Község Önkormányzata",
         "date": "08/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7538_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Kisbajcs ipari terület fejlesztésének építési beruházása",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
-        "company_names": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság; STRABAG Általános Építő Korlátolt Felelősségű Társaság; SWIETELSKY Magyarország Korlátolt Felelősségű Társaság",
-        "contract_value": "6000000000",
+        "company_names": "ARVIA ÉPÍTŐ Kft.; STRABAG Általános Építő Kft.; SWIETELSKY Magyarország Kft.",
+        "contract_value": 6000000000.0,
         "contracting_authority": "Sopron Megyei Jogú Város Önkormányzata",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6662_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás Sopron Megyei Jogú Város úthálózatának, közlekedési létesítményeinek csatorna rendszerének, közműhálózatának, ivóvízhálózatának fenntartása és fejlesztése, továbbá parképítési munkák elvégzése tárgyában",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89577515",
+        "contract_value": 89577515.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8778_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kapuvár Város települési csapadékvíz elvezetés I. ütem",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "137228596",
+        "contract_value": 137228596.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9456_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárosbarát-fejlesztési és közlekedésbiztonsági intézkedések megvalósítása Kapuváron",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33105158",
+        "contract_value": 33105158.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21206_2018/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Kapuvár, Vargyas utca útburkolat felújítása II.",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28672138",
+        "contract_value": 28672138.0,
         "contracting_authority": "Győrújbarát Község Önkormányzata",
         "date": "01/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12860_2019/",
         "main_cpv": "45233128-2",
         "number_companies_win": 0,
         "procurement_title": "2019. évi út- és járdaépítési munkák Győrújbaráton",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37729930",
+        "contract_value": 37729930.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "02/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14394_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Gárdonyi Géza utca útburkolat felújítása",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52904805",
+        "contract_value": 52904805.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "20/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22409_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Kapuvár Zrínyi utca útburkolat felújítása",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45992986",
+        "contract_value": 45992986.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "05/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9821_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Barnamezős területek rehabilitációja Kapuváron",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "242172473",
+        "contract_value": 242172473.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "05/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9821_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Barnamezős területek rehabilitációja Kapuváron",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "155291732",
+        "contract_value": 155291732.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "08/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9862_2020/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Kapuvár, Széchenyi utca útfelújítás",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "46799970",
-        "contracting_authority": "Kapuvár Városi Önkormányzat",
-        "date": "29/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7664_2021/",
-        "main_cpv": "45233142-6",
-        "number_companies_win": 0,
-        "procurement_title": "Felsőmező utca útburkolat felújítás",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "122886624",
-        "contracting_authority": "Kapuvár Városi Önkormányzat",
-        "date": "25/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11940_2021/",
-        "main_cpv": "45212100-7",
-        "number_companies_win": 0,
-        "procurement_title": "Multifunkciós épület építése",
-        "registered_name": "ARVIA ÉPÍTŐ Korlátolt Felelősségű Társaság"
+        "registered_name": "ARVIA ÉPÍTŐ Kft."
     }
 ]

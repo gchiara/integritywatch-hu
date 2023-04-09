@@ -1,167 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "82747388",
+        "contract_value": 82747388.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20780_2018/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Tatabánya bontás II",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS Invest Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "117549000",
+        "contract_value": 117549000.0,
         "contracting_authority": "Budakeszi Város Önkormányzata",
         "date": "30/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16051_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budakeszi közlekedésfejlesztés VEKOP",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS Invest Szolgáltató Kft."
     },
     {
-        "company_names": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság; RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; VALID SOLUTION Tanácsadó Korlátolt Felelősségű Társaság; ZIB Komplex Korlátolt Felelősségű Társaság",
-        "contract_value": "5195058101",
+        "company_names": "OCTOPUS Invest Szolgáltató Kft.; RABEL-DEKOR Építőipari és Szolgáltató Kft.; VALID SOLUTION Tanácsadó Kft.; ZIB Komplex Kft.",
+        "contract_value": 5195058101.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17285_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 4,
         "procurement_title": "Tatabányai Gimnázium kivitelezés.",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS Invest Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7447000",
+        "contract_value": 7447000.0,
         "contracting_authority": "Dunaújváros Megyei Jogú Város Önkormányzata",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19187_2019/",
         "main_cpv": "35121000-8",
         "number_companies_win": 0,
         "procurement_title": "Térfelügyeleti kamerák kihelyezése 5 helyszínen",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS Invest Szolgáltató Kft."
     },
     {
-        "company_names": "Falcon Global Zártkörűen Működő Részvénytársaság; OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "353517086",
+        "company_names": "Falcon Global Zrt.; OCTOPUS Invest Szolgáltató Kft.",
+        "contract_value": 353517086.0,
         "contracting_authority": "SZOMBATHELYI TANKERÜLETI KÖZPONT",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_21493_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Építőipari munkálatok",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS Invest Szolgáltató Kft."
     },
     {
-        "company_names": "Falcon Global Zártkörűen Működő Részvénytársaság; OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "788155483",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "company_names": "Falcon Global Zrt.; OCTOPUS Invest Szolgáltató Kft.",
+        "contract_value": 788155483.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_22906_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Tanuszoda kivitelezése Mosonmagyaróváron",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Falcon Global Zártkörűen Működő Részvénytársaság; OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "415005078",
-        "contracting_authority": "Vác Város Önkormányzat",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_24698_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Bölcsőde építése",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Falcon Global Zártkörűen Működő Részvénytársaság; OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság; Professional Marketing Manager Korlátolt felelősségű társaság",
-        "contract_value": "3328174769",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0640_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Tűzoltósági épület építése, Pécs I. II",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23885831",
-        "contracting_authority": "Székesfehérvári Tankerületi Központ",
-        "date": "08/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1823_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "7 intézmény infrastrukturális fejlesztése",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38662135",
-        "contracting_authority": "Székesfehérvári Tankerületi Központ",
-        "date": "08/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1823_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "7 intézmény infrastrukturális fejlesztése",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "40402319",
-        "contracting_authority": "Székesfehérvári Tankerületi Központ",
-        "date": "08/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1823_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "7 intézmény infrastrukturális fejlesztése",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Falcon Global Zártkörűen Működő Részvénytársaság; OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "221000108",
-        "contracting_authority": "Balatonfüred Város Önkormányzata",
-        "date": "11/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2407_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Brázay Étterem építése",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "290274774",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "30/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5205_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "PTE Balassa kollégium felújítás befejező munkái",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "909537676",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10870_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tanuszoda kivitelezése Csornán",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "147053264",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24936_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "OKF 4 épület energetikai felújítása",
-        "registered_name": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OCTOPUS Invest Szolgáltató Kft."
     }
 ]

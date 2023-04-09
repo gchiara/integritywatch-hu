@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "155841891",
+        "contract_value": 155841891.0,
         "contracting_authority": "Tát Város Önkormányzata",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12171_2018/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetési szolgáltatás beszerzése",
-        "registered_name": "Brilla és Tischner Termelő és Szolgáltató Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "211076577",
-        "contracting_authority": "Tát Város Önkormányzata",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7229_2021/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Közétkeztetési szolgáltatás beszerzése",
-        "registered_name": "Brilla és Tischner Termelő és Szolgáltató Betéti Társaság"
+        "registered_name": "Brilla és Tischner Termelő és Szolgáltató Bt."
     }
 ]

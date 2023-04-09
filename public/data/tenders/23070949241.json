@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "398716800",
-        "contracting_authority": "Gyöngytojás Korlátolt Felelősségű Társaság",
+        "contract_value": 398716800.0,
+        "contracting_authority": "Gyöngytojás Kft.",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20864_2018/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep korszerűsítése eszközbeszerzés",
-        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "CONFECTOR Mérnök Iroda Korlátolt Felelősségű Társaság; HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2159300000",
-        "contracting_authority": "Bro-Bio-Tojás Mezőgazdasági Termelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "company_names": "CONFECTOR Mérnök Iroda Kft.; HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 2159300000.0,
+        "contracting_authority": "Bro-Bio-Tojás Mezőgazdasági Termelő és Szolgáltató Kft.",
         "date": "12/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2770_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Baromfitartó telep korszerűsítése",
-        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "79728000",
-        "contracting_authority": "Csabatáj Mezőgazdasági Zártkörűen Működő Részvénytársaság",
+        "contract_value": 79728000.0,
+        "contracting_authority": "Csabatáj Mezőgazdasági Zrt.",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13524_2019/",
         "main_cpv": "16650000-6",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep eszközbeszerzés",
-        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "136015000",
-        "contracting_authority": "Csabatáj Mezőgazdasági Zártkörűen Működő Részvénytársaság",
+        "contract_value": 136015000.0,
+        "contracting_authority": "Csabatáj Mezőgazdasági Zrt.",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13524_2019/",
         "main_cpv": "16650000-6",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep eszközbeszerzés",
-        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "274250000",
-        "contracting_authority": "Mizsetáp Mezőgazdasági Korlátolt Felelősségű Társaság",
+        "contract_value": 274250000.0,
+        "contracting_authority": "Mizsetáp Mezőgazdasági Kft.",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13170_2019/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep technológia",
-        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HAT-AGRO Baromfitechnológia Kereskedelmi és Szolgáltató Kft."
     }
 ]

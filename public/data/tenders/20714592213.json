@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "21037000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 21037000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_406/megtekint/portal_19003_2017/",
         "main_cpv": "39830000-9",
         "number_companies_win": 0,
         "procurement_title": "Általános tisztítószerek beszerzése",
-        "registered_name": "KERESE Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "KERESE Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "58920000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 58920000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_406/megtekint/portal_19003_2017/",
         "main_cpv": "39830000-9",
         "number_companies_win": 0,
         "procurement_title": "Általános tisztítószerek beszerzése",
-        "registered_name": "KERESE Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "KERESE Kereskedelmi és Szolgáltató Bt."
     },
     {
-        "company_names": "Carwash Hungary Korlátolt Felelősségű Társaság; KERESE Kereskedelmi és Szolgáltató Betéti Társaság",
-        "contract_value": "66000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "Carwash Hungary Kft.; KERESE Kereskedelmi és Szolgáltató Bt.",
+        "contract_value": 66000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_309_2018/",
         "main_cpv": "39830000-9",
         "number_companies_win": 2,
         "procurement_title": "FLIRT villamos motorvonatok tisztításához szükséges tisztítószerek beszerzése",
-        "registered_name": "KERESE Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "KERESE Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "90000000",
+        "contract_value": 90000000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8563_2018/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Munkavédelmi anyagok beszerzése",
-        "registered_name": "KERESE Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "KERESE Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "30195984",
+        "contract_value": 30195984.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11501_2018/",
         "main_cpv": "39830000-9",
         "number_companies_win": 0,
         "procurement_title": "Takarító, tisztítószerek, konyhai tisztítószerek, mosási anyagok, fenntartási anyagok, uszodai vegyszerek beszerzése",
-        "registered_name": "KERESE Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "KERESE Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "362440000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 362440000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12528_2018/",
         "main_cpv": "39830000-9",
         "number_companies_win": 0,
         "procurement_title": "Vasúti személyszállító járművek külső tisztításához szükséges vegyszerek beszerzése",
-        "registered_name": "KERESE Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "KERESE Kereskedelmi és Szolgáltató Bt."
     }
 ]

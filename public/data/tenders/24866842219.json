@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "39731485",
+        "contract_value": 39731485.0,
         "contracting_authority": "Vállus Község Önkormányzata",
         "date": "21/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21402_2018/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Belterületi vízrendezés Válluson.",
-        "registered_name": "BARANTA MŰVEK Korlátolt Felelősségű Társaság"
+        "registered_name": "BARANTA MŰVEK Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53418608",
+        "contract_value": 53418608.0,
         "contracting_authority": "Balatonederics Község Önkormányzata",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13634_2020/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz elvezetés fejlesztése Balatonedericsen",
-        "registered_name": "BARANTA MŰVEK Korlátolt Felelősségű Társaság"
+        "registered_name": "BARANTA MŰVEK Kft."
     }
 ]

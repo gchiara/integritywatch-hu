@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "87401571,84",
+        "contract_value": 87401571.84,
         "contracting_authority": "Zala Megyei Kormányhivatal",
         "date": "10/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5173_2018/",
         "main_cpv": "79634000-7",
         "number_companies_win": 0,
         "procurement_title": "Megbízási szerződés az Ifjúsági Garancia Program keretében a projekt mentori szolgáltatási és tanácsadási feladatainak ellátására",
-        "registered_name": "Kontakt Humán Szolgáltató Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "Kontakt Humán Szolgáltató Nonprofit Kft."
     },
     {
         "company_names": "",
-        "contract_value": "88522000",
+        "contract_value": 88522000.0,
         "contracting_authority": "Zala Megyei Kormányhivatal",
         "date": "22/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8710_2019/",
         "main_cpv": "79634000-7",
         "number_companies_win": 0,
         "procurement_title": "Mentori feladatok ellátása II. ütem",
-        "registered_name": "Kontakt Humán Szolgáltató Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "Kontakt Humán Szolgáltató Nonprofit Kft."
     }
 ]

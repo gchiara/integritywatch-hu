@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "175248000",
+        "contract_value": 175248000.0,
         "contracting_authority": "SZENT MARGIT KÓRHÁZ",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12471_2018/",
         "main_cpv": "85140000-2",
         "number_companies_win": 0,
         "procurement_title": "Mammográfiás szűrés- és komplex emlődiagnosztikai tevékenység ellátása",
-        "registered_name": "GÉ-RAD Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GÉ-RAD Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "537993920",
+        "contract_value": 537993920.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "10/12/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_22187_2018/",
         "main_cpv": "85140000-2",
         "number_companies_win": 0,
         "procurement_title": "Mammográfiás szűrés és tevékenység ellátása",
-        "registered_name": "GÉ-RAD Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43133946",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "29/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18892_2021/",
-        "main_cpv": "85120000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Mammográfiai diagnosztika és leletezés",
-        "registered_name": "GÉ-RAD Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GÉ-RAD Szolgáltató Kft."
     }
 ]

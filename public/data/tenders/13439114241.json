@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "38371274",
+        "contract_value": 38371274.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15547_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "BGE Rendezvényszervezés 2018",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     },
     {
         "company_names": "",
-        "contract_value": "113374016",
+        "contract_value": 113374016.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15547_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "BGE Rendezvényszervezés 2018",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23500000",
+        "contract_value": 23500000.0,
         "contracting_authority": "Oktatási Hivatal",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1425_2019/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "Személyszállítási szolgáltatás",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17666051",
+        "contract_value": 17666051.0,
         "contracting_authority": "Oktatási Hivatal",
         "date": "28/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1422_2019/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "Személyszállítási szolgáltatás",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72097728",
+        "contract_value": 72097728.0,
         "contracting_authority": "Oktatási Hivatal",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5489_2019/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "Személyszállítás (nagy)",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     },
     {
         "company_names": "",
-        "contract_value": "134711024",
+        "contract_value": 134711024.0,
         "contracting_authority": "Oktatási Hivatal",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5933_2019/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "Személyszállítás (nagy)",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37000000",
+        "contract_value": 37000000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0285_2020/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "Rendezvényszervezés",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16031000",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20782_2021/",
-        "main_cpv": "70220000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Hintőanyag tároló ideiglenes sátor",
-        "registered_name": "Prestige Event Korlátolt Felelősségű Társaság"
+        "registered_name": "Prestige Event Kft."
     }
 ]

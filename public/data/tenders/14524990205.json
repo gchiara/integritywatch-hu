@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "15656575",
+        "contract_value": 15656575.0,
         "contracting_authority": "Dubicsány Község Önkormányzata",
         "date": "14/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8571_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés Dubicsány községben",
-        "registered_name": "ME-GA ÉPÍTŐK Korlátolt Felelősségű Társaság"
+        "registered_name": "ME-GA ÉPÍTŐK Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29416144",
+        "contract_value": 29416144.0,
         "contracting_authority": "Dubicsány Község Önkormányzata",
         "date": "14/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8571_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés Dubicsány községben",
-        "registered_name": "ME-GA ÉPÍTŐK Korlátolt Felelősségű Társaság"
+        "registered_name": "ME-GA ÉPÍTŐK Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34999511",
+        "contract_value": 34999511.0,
         "contracting_authority": "Uppony Község Önkormányzata",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9878_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Uppony turisztikai pihenőhely kialakítása",
-        "registered_name": "ME-GA ÉPÍTŐK Korlátolt Felelősségű Társaság"
+        "registered_name": "ME-GA ÉPÍTŐK Kft."
     }
 ]

@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "35310000",
+        "contract_value": 35310000.0,
         "contracting_authority": "Esztár Község Önkormányzata",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2212_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri Hivatal épületének korszerűsítése Esztáron",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34829747",
+        "contract_value": 34829747.0,
         "contracting_authority": "Kömörői Református Egyházközség",
         "date": "10/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5142_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kömörői Református Templom felújítása című projekt kivitelezése",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29500000",
+        "contract_value": 29500000.0,
         "contracting_authority": "Esztár Község Önkormányzata",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7903_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Az Esztári Epreskert Óvoda szolgáltatásainak fejlesztése új eszközök, fedett terasz és parkoló kialakítása által",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74098594",
+        "contract_value": 74098594.0,
         "contracting_authority": "Hosszúpályi Nagyközség Önkormányzata",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24349_2018/",
         "main_cpv": "nan",
         "number_companies_win": 0,
         "procurement_title": "Roma nemzetiségi óvoda felújítása",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91099168",
+        "contract_value": 91099168.0,
         "contracting_authority": "Esztár Község Önkormányzata",
         "date": "25/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20815_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Esztár Község fenntartható turizmusfejlesztése",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "226032343",
+        "contract_value": 226032343.0,
         "contracting_authority": "Balmazújvárosi Református Egyházközség",
         "date": "27/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22666_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "124991790",
-        "contracting_authority": "Hosszúpályi Nagyközség Önkormányzata",
-        "date": "27/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6281_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Új bölcsőde létesítése Hosszúpályiban",
-        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Korlátolt Felelősségű Társaság"
+        "registered_name": "HUMÁN-ÉP Ingatlanforgalmazó Kft."
     }
 ]

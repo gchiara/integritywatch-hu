@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "11913920",
+        "contract_value": 11913920.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_17931_2017/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "83306000",
+        "contract_value": 83306000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10664_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "69300000",
+        "contract_value": 69300000.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13578_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "68900000",
+        "contract_value": 68900000.0,
         "contracting_authority": "Atommagkutató Intézet",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9417_2019/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "28150000",
+        "contract_value": 28150000.0,
         "contracting_authority": "Magyar Bányászati és Földtani Szolgálat",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17035_2019/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "853050",
+        "contract_value": 853050.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "06/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20267_2019/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22379800",
+        "contract_value": 22379800.0,
         "contracting_authority": "Pannon Egyetem",
         "date": "26/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5108_2020/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "9088300",
+        "contract_value": 9088300.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "27/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21491_2020/",
@@ -89,57 +89,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "10672300",
+        "contract_value": 10672300.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "22/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23505_2020/",
         "main_cpv": "38400000-9",
         "number_companies_win": 0,
         "procurement_title": "Különféle mérőműszerek beszerzése",
-        "registered_name": "AUSTRO-LAB Kereskedelmi- és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "14735100",
-        "contracting_authority": "Pannon Egyetem",
-        "date": "27/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8784_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle mérőkészülékek, eszközök beszerzése (I.)",
-        "registered_name": "AUSTRO-LAB Kereskedelmi- és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "105995000",
-        "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19230_2021/",
-        "main_cpv": "38432000-2",
-        "number_companies_win": 0,
-        "procurement_title": "NSZKK laboratóriumi vizsgálati kapacitás fejlesztése",
-        "registered_name": "AUSTRO-LAB Kereskedelmi- és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "25099000",
-        "contracting_authority": "Magyar Bányászati és Földtani Szolgálat",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21055_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Eszközbeszerzés",
-        "registered_name": "AUSTRO-LAB Kereskedelmi- és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "115147260",
-        "contracting_authority": "Szépművészeti Múzeum",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21156_2021/",
-        "main_cpv": "33111600-7",
-        "number_companies_win": 0,
-        "procurement_title": "OMRRK anyag- és technológiai eszköz 1. ütem",
         "registered_name": "AUSTRO-LAB Kereskedelmi- és Szolgáltató Kft."
     }
 ]

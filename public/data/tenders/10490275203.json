@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "42029780",
+        "contract_value": 42029780.0,
         "contracting_authority": "Bátya Község Önkormányzata",
         "date": "01/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3342_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bercsényi, Mikes, Rákóczi és Széchenyi utcák csapadékvíz elvezetése Bátya területén",
-        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32305558",
+        "contract_value": 32305558.0,
         "contracting_authority": "Bátya Község Önkormányzata",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18691_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ady Endre utca és Bajai út csapadékvíz elvezetése",
-        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32304190",
+        "contract_value": 32304190.0,
         "contracting_authority": "Dunaszentbenedek Község Önkormányzata",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21038_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Járda és kerékpárút burkolat felújítása",
-        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33105760",
+        "contract_value": 33105760.0,
         "contracting_authority": "Bátya Község Önkormányzata",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24732_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz befogadó rekonstrukciója Bátyán",
-        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16546429",
+        "contract_value": 16546429.0,
         "contracting_authority": "Uszód Községi Önkormányzat",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3830_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Komplex fenntartható közlekedésfejlesztés Uszódon",
-        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28831605",
+        "contract_value": 28831605.0,
         "contracting_authority": "Uszód Községi Önkormányzat",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3830_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Komplex fenntartható közlekedésfejlesztés Uszódon",
-        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "VIKTOR Szolgáltató és Kereskedelmi Kft."
     }
 ]

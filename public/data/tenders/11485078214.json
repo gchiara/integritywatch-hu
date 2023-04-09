@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "96096103",
-        "contracting_authority": "AGRO-MODUL Termelő Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság",
+        "contract_value": 96096103.0,
+        "contracting_authority": "AGRO-MODUL Termelő Kereskedelmi és Szolgáltató Kft.",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10971_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kisméretű terménytároló építése",
-        "registered_name": "Alfa-Invest Építőipari Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "Alfa-Invest Építőipari Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "250504787",
+        "contract_value": 250504787.0,
         "contracting_authority": "Kaposmérő Községi Önkormányzat",
         "date": "25/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18256_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kaposmérő, Ipari park, hűtőház építés",
-        "registered_name": "Alfa-Invest Építőipari Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "Alfa-Invest Építőipari Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "218466243",
+        "contract_value": 218466243.0,
         "contracting_authority": "Kaposvári Egyetem",
         "date": "13/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12559_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Precíziós tejtermelő laboratórium kivitelezése",
-        "registered_name": "Alfa-Invest Építőipari Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "Alfa-Invest Építőipari Tervező és Kivitelező Kft."
     }
 ]

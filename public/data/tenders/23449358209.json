@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "14200000",
+        "contract_value": 14200000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13719_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A Debreceni Nemzetközi Repülőtér technikai fejlesztése projekt tervezési feladatainak ellátása",
-        "registered_name": "GLOBÁLTERV Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁLTERV Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32000000",
+        "contract_value": 32000000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13719_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A Debreceni Nemzetközi Repülőtér technikai fejlesztése projekt tervezési feladatainak ellátása",
-        "registered_name": "GLOBÁLTERV Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁLTERV Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36576000",
+        "contract_value": 36576000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21516_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyugati kiskörút III. ütem és kerékpárút építésének tervezése",
-        "registered_name": "GLOBÁLTERV Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁLTERV Mérnökiroda Kft."
     }
 ]

@@ -1,266 +1,211 @@
 [
     {
         "company_names": "",
-        "contract_value": "359988581",
+        "contract_value": 359988581.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_417_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szombathely, Markusovszky Egyetemi Oktatókórház, Manuális tömb nyugati szárny, II. emeleti Általános-, és Érsebészeti Osztály felújítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1234978237",
+        "contract_value": 1234978237.0,
         "contracting_authority": "Sopron Megyei Jogú Város Önkormányzata",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7446_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Lenck-villa és kertjének megújítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "180904990",
+        "contract_value": 180904990.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "07/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13999_2018/",
         "main_cpv": "45421100-5",
         "number_companies_win": 0,
         "procurement_title": "Markusovszky kórház energetikai korszerűsítése",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
-        "company_names": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "10891038608",
+        "company_names": "Fertődi Építő és Szolgáltató Zrt.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 10891038608.0,
         "contracting_authority": "Sopron Megyei Jogú Város Önkormányzata",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24127_2018/",
         "main_cpv": "45212212-5",
         "number_companies_win": 2,
         "procurement_title": "Modern Városok Program - Lőverek Program tárgyú pályázat keretében új fedett uszoda építése",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2189763780",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2189763780.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19138_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési feladatok az SE telephelyein",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "85269774",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 85269774.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0210_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SE-KKTK Betegellátó épület felújítása, átalakítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "177974464",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 177974464.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0225_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SE-Onkológiai Klinika felújítása, átalakítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "233716814",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 233716814.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0222_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SE-BKT Gazdasági Igazgatóság épület felújítása, átalakítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "428575374",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 428575374.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0216_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SE-KKT I. Sz. Belgyógyászati Klinika felújítása, átalakítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "476848453",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 476848453.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0213_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SE-Szt. Rókus Kórház 1.számú telephelyén részleges felújítás, átalakítás",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "586852577",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 586852577.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0221_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "SE-KKT 1.sz. Sebészeti Klinika felújítása, átalakítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2469077801",
-        "contracting_authority": "SOPRON HOLDING Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2469077801.0,
+        "contracting_authority": "SOPRON HOLDING Vagyonkezelő Zrt.",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7440_2020/",
         "main_cpv": "45213312-3",
         "number_companies_win": 0,
         "procurement_title": "Árpád utcai parkolóház kivitelezése",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "19599749693",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; Fertődi Építő és Szolgáltató Zrt.",
+        "contract_value": 19599749693.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "19/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10343_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Győri vízi élménypark kialakítása - kivitelezés",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1489359601",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1489359601.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13391_2020/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "SE II. Belgyógyászati Klinika felújítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
-        "company_names": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2189848516",
-        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Fertődi Építő és Szolgáltató Zrt.; ZÁÉV Építőipari Zrt.",
+        "contract_value": 2189848516.0,
+        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Kft.",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18147_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "A nagycenki Széchenyi-kastély turisztikai célú fejlesztése",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
-        "company_names": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; SZABÓ ÉS TÁRSA BELSŐÉPÍTÉSZETI Korlátolt Felelősségű Társaság",
-        "contract_value": "2088800000",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Fertődi Építő és Szolgáltató Zrt.; SZABÓ ÉS TÁRSA BELSŐÉPÍTÉSZETI Kft.",
+        "contract_value": 2088800000.0,
+        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Kft.",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18305_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Múzeum negyed kialakítása III.",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "213900000",
-        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 213900000.0,
+        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Kft.",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21733_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Keleti Gránátos-ház felújítása és átalakítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "51544775",
+        "contract_value": 51544775.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "27/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21334_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyugat-magyarországi kivitelezés - egynapos sebészetek fejlesztése",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     },
     {
-        "company_names": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3198000000",
-        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Fertődi Építő és Szolgáltató Zrt.; ZÁÉV Építőipari Zrt.",
+        "contract_value": 3198000000.0,
+        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Kft.",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22681_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Esterházy-kastély Múzeumi tömb kivitelezés",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "117950000",
-        "contracting_authority": "Győr-Moson-Sopron Megyei Kormányhivatal",
-        "date": "20/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9241_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Sopron, Fő tér 5. ingatlan részleges felújítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "949900000",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_9511_2021/",
-        "main_cpv": "45300000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Harka-Általános Iskola korszerűsítése",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "299854729",
-        "contracting_authority": "Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet",
-        "date": "31/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16655_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Nővérszálló fejlesztés",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1266085673",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18200_2021/",
-        "main_cpv": "31000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Szegedi kézilabdacsarnok eszközbeszerzés",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; ZÁÉV Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2624945400",
-        "contracting_authority": "Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "30/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25983_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Esterházy-kastély Nyugati szárny felújítása",
-        "registered_name": "Fertődi Építő és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Fertődi Építő és Szolgáltató Zrt."
     }
 ]

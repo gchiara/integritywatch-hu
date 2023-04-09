@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "96696",
+        "contract_value": 96696.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6919_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "609732",
+        "contract_value": 609732.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6919_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "724568",
+        "contract_value": 724568.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6919_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3222510",
+        "contract_value": 3222510.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6919_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6892728",
+        "contract_value": 6892728.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6919_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "225189500",
+        "contract_value": 225189500.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6919_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "48020900",
+        "contract_value": 48020900.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "21/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14489_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "51323050",
+        "contract_value": 51323050.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "21/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14489_2018/",
@@ -88,8 +88,8 @@
         "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
     },
     {
-        "company_names": "PALOTA Környezetvédelmi Korlátolt Felelősségű Társaság; SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft.",
-        "contract_value": "21627764",
+        "company_names": "PALOTA Környezetvédelmi Kft.; SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft.",
+        "contract_value": 21627764.0,
         "contracting_authority": "Észak-Közép-Budai Centrum, Új Szent János Kórház és Szakrendelő",
         "date": "13/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18626_2018/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1045000",
+        "contract_value": 1045000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "04/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21949_2018/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14233500",
+        "contract_value": 14233500.0,
         "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23365_2018/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "66125250",
+        "contract_value": 66125250.0,
         "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23365_2018/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "38812000",
+        "contract_value": 38812000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0316_2019/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18751000",
+        "contract_value": 18751000.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4218_2019/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "19263100",
+        "contract_value": 19263100.0,
         "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4218_2019/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13127222",
+        "contract_value": 13127222.0,
         "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8116_2019/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "40281580",
+        "contract_value": 40281580.0,
         "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8116_2019/",
@@ -188,7 +188,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "39406016",
+        "contract_value": 39406016.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "14/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15161_2019/",
@@ -199,7 +199,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "623915",
+        "contract_value": 623915.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15385_2019/",
@@ -210,7 +210,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "637980000",
+        "contract_value": 637980000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "12/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16973_2019/",
@@ -221,7 +221,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "22878000",
+        "contract_value": 22878000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "06/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22482_2019/",
@@ -232,7 +232,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "27184000",
+        "contract_value": 27184000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "06/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22482_2019/",
@@ -243,8 +243,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "32196355",
-        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 32196355.0,
+        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25113_2019/",
         "main_cpv": "90524000-6",
@@ -254,7 +254,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "274366575",
+        "contract_value": 274366575.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0705_2020/",
@@ -265,7 +265,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25484856",
+        "contract_value": 25484856.0,
         "contracting_authority": "Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6300_2020/",
@@ -276,7 +276,7 @@
     },
     {
         "company_names": "NHSZ Zounok Zártkörű Részvénytársaság; SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft.",
-        "contract_value": "230773200",
+        "contract_value": 230773200.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7322_2020/",
@@ -287,7 +287,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "82097060",
+        "contract_value": 82097060.0,
         "contracting_authority": "Uzsoki Utcai Kórház",
         "date": "22/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10557_2020/",
@@ -298,7 +298,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "62640086",
+        "contract_value": 62640086.0,
         "contracting_authority": "TOLDY FERENC KÓRHÁZ ÉS RENDELŐINTÉZET",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12128_2020/",
@@ -309,7 +309,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "98736",
+        "contract_value": 98736.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16331_2020/",
@@ -320,7 +320,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "715544",
+        "contract_value": 715544.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16331_2020/",
@@ -331,7 +331,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1141912",
+        "contract_value": 1141912.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16331_2020/",
@@ -342,7 +342,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4082964",
+        "contract_value": 4082964.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16331_2020/",
@@ -353,145 +353,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "294916244",
+        "contract_value": 294916244.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16331_2020/",
         "main_cpv": "90524400-0",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi Veszélyes hulladék szállítása",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "100000",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3712_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék és gyűjtőedények",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "465000",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3712_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék és gyűjtőedények",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "576750",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3712_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék és gyűjtőedények",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "1260000",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3712_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék és gyűjtőedények",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "4158500",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3712_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék és gyűjtőedények",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "26198500",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3712_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék és gyűjtőedények",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "36870000",
-        "contracting_authority": "CSOLNOKY FERENC KÓRHÁZ",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10545_2021/",
-        "main_cpv": "90510000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék elszállítása, ártalmatlanítása",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "12300000",
-        "contracting_authority": "Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18029_2021/",
-        "main_cpv": "90524000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi veszélyes hulladék ártalmatlanítása",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "23002900",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18356_2021/",
-        "main_cpv": "90000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék tender",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "14280500",
-        "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19901_2021/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi veszélyes hulladék",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "44397129",
-        "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19901_2021/",
-        "main_cpv": "90500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi veszélyes hulladék",
-        "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "43195800",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "09/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24370_2021/",
-        "main_cpv": "90524400-0",
-        "number_companies_win": 0,
-        "procurement_title": "Veszélyes hulladék 2021",
         "registered_name": "SEPTOX Kórházi és Egészségügyi Hulladékokat Gyűjtő Szállító és Ártalmatlanító Kft."
     }
 ]

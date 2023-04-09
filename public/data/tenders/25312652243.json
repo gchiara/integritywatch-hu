@@ -1,970 +1,541 @@
 [
     {
         "company_names": "",
-        "contract_value": "12975000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12975000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4296_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Tervezési szolgáltatás budapesti útfelújítások előkészítésére II. ütem",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24270000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24270000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4296_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Tervezési szolgáltatás budapesti útfelújítások előkészítésére II. ütem",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116650000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 116650000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11330_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Tervezési szerződések a 2018. évhez kapcsolódó országos közúthálózaton történő fejlesztési és felújítási munkákra vonatkozóan 6 részben",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság",
-        "contract_value": "819549041",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Kft.; FLAVUS Mérnökiroda Kft.; FŐMTERV Mérnöki Tervező Zrt.; RODEN Mérnöki Iroda Kft.; SPECIÁLTERV Építőmérnöki Kft.",
+        "contract_value": 819549041.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19606_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 5,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "853627097",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.; FLAVUS Mérnökiroda Kft.; SPECIÁLTERV Építőmérnöki Kft.; UVATERV Út-, Vasúttervező Zrt.",
+        "contract_value": 853627097.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19606_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 5,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "131486000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 131486000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6878_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3030000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3030000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4880000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4880000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6293000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6293000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6913000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6913000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7873680",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7873680.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9449810",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9449810.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15271500",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 15271500.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16144000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 16144000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "86293263",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 86293263.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1650000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1650000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1770000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1770000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4185100",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4185100.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6400000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6400000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6500000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6500000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7300000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7300000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7500000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7500000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21836742",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 21836742.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7858_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "130000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Kft.; FLAVUS Mérnökiroda Kft.",
+        "contract_value": 130000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11948_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "Pusztaszabolcs elkerülő út tanulmány- és engedélyezési tervének elkészítése",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12200002",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12200002.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7677_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19899999",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 19899999.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7677_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2600000",
+        "contract_value": 2600000.0,
         "contracting_authority": "Szekszárd Megyei Jogú Város Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14793_2020/",
         "main_cpv": "71300000-1",
         "number_companies_win": 0,
         "procurement_title": "Útfejlesztés tervezés",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12500000",
+        "contract_value": 12500000.0,
         "contracting_authority": "Szekszárd Megyei Jogú Város Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14793_2020/",
         "main_cpv": "71300000-1",
         "number_companies_win": 0,
         "procurement_title": "Útfejlesztés tervezés",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30150000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 30150000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "24/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14824_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "21. sz. főút továbbfejlesztése tervezési feladat",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4700001",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4700001.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5937450",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5937450.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6350000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6350000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6639780",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6639780.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6717000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6717000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6980400",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6980400.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7409450",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7409450.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7478000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7478000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9511630",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9511630.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10583520",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10583520.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12412300",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12412300.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13263000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13263000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15838470",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 15838470.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17846_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - ÉM régió - 2020 III. negyedév",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11783100",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11783100.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13805600",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13805600.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15015600",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 15015600.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46333100",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 46333100.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
-        "company_names": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; PANNONWAY Építő Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6215000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "FLAVUS Mérnökiroda Kft.; PANNONWAY Építő Kft.; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Kft.; TURA-Terv Mérnökiroda Kft.; UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; UTIBER Közúti Beruházó Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 6215000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19941_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 7,
         "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     },
     {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7255000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Kft.; FLAVUS Mérnökiroda Kft.; FŐMTERV Mérnöki Tervező Zrt.; RODEN Mérnöki Iroda Kft.; SPECIÁLTERV Építőmérnöki Kft.; UVATERV Út-, Vasúttervező Zrt.",
+        "contract_value": 7255000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19941_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 6,
         "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "206750000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1116_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Göd feltáró útjainak tervezése",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7915580",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9588_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8167470",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10034245",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11570280",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13053972",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36520600",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "54262331",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "96806216",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "103654214",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "147606300",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10325_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42087640",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12804_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9363920",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19894836",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21949424",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27682460",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "28175000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34340000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44095578",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2507920",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2981004",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3583764",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4424400",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5578428",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8847148",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9008612",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10616282",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14640288",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16192350",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20607612",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22916314",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25998422",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27323080",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "28048640",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "88536840",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16217_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12341908",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19655_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása-NYMo. és KeMo.",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38723816",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19655_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása-NYMo. és KeMo.",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3729796933",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22862_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 8,
-        "procurement_title": "2021-2025 évekhez kapcsolódó uniós tervezés",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7459593866",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22862_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 8,
-        "procurement_title": "2021-2025 évekhez kapcsolódó uniós tervezés",
-        "registered_name": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "FLAVUS Mérnökiroda Kft."
     }
 ]

@@ -1,68 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "60564932",
+        "contract_value": 60564932.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "22/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11596_2019/",
         "main_cpv": "33696000-5",
         "number_companies_win": 0,
         "procurement_title": "Labordiagnosztikai reagensek beszerzése",
-        "registered_name": "Pannonlog Invest Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pannonlog Invest Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "64777236",
+        "contract_value": 64777236.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "22/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11596_2019/",
         "main_cpv": "33696000-5",
         "number_companies_win": 0,
         "procurement_title": "Labordiagnosztikai reagensek beszerzése",
-        "registered_name": "Pannonlog Invest Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pannonlog Invest Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "201469200",
+        "contract_value": 201469200.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "22/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11596_2019/",
         "main_cpv": "33696000-5",
         "number_companies_win": 0,
         "procurement_title": "Labordiagnosztikai reagensek beszerzése",
-        "registered_name": "Pannonlog Invest Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pannonlog Invest Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "47768661",
+        "contract_value": 47768661.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "16/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20668_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Egyszer használatos laboratóriumi eszközök",
-        "registered_name": "Pannonlog Invest Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4313000",
-        "contracting_authority": "Dr. Hetés Ferenc Szakorvosi Rendelőintézet",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10663_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Orvosi eszközök beszerzése",
-        "registered_name": "Pannonlog Invest Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "108227675",
-        "contracting_authority": "Szent Lázár Megyei Kórház",
-        "date": "16/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15056_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 0,
-        "procurement_title": "Laboreszköz beszerzés Szent Lázár Megyei Kórházba",
-        "registered_name": "Pannonlog Invest Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Pannonlog Invest Zrt."
     }
 ]

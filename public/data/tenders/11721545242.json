@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "ADFACTOO Marketing Szolgáltató Korlátolt Felelősségű Társaság \"kényszertörlés alatt\"; Profundo Consulting Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "148800000",
+        "company_names": "ADFACTOO Marketing Szolgáltató Kft. \"kényszertörlés alatt\"; Profundo Consulting Szolgáltató Kft.",
+        "contract_value": 148800000.0,
         "contracting_authority": "Miskolc Megyei Jogú Város Önkormányzata",
         "date": "21/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16724_2018/",
         "main_cpv": "71000000-8",
         "number_companies_win": 2,
         "procurement_title": "Úthálózati eltérések, zöldterületi kataszter felm.",
-        "registered_name": "Profundo Consulting Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Profundo Consulting Szolgáltató Kft."
     }
 ]

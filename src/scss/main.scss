@@ -2,7 +2,7 @@
 $color_TI: #3b95d0;
 $color_TI_darker: darken( $color_TI, 20% );
 //$color_lobby: #42b983;
-$color_lobby: #e51f5c;
+$color_lobby: #fc3503;
 
 /* HEADER */
 
@@ -21,15 +21,48 @@ $color_lobby: #e51f5c;
     transition: .4s all;
     &.active, &:hover {
       color: $color_TI_darker;
+      @media only screen and (min-width: 992px) {
+        color: #fff;
+      }
     }
   }
-  .nav-link-about {
+  .nav-link-section {
     @media only screen and (min-width: 992px) {
       background: $color_TI;
       color: #fff;
       padding: 5px 15px;
       position: relative;
       top: 3px;
+      margin-right: 10px;
+      transition: .4s all;
+      &:hover, &.active {
+        color: #fff !important;
+        background: $color_TI_darker;
+      }
+    }
+  }
+  .nav-link-about {
+    @media only screen and (min-width: 992px) {
+      background: $color_TI;
+      color: #fff;
+      padding: 5px 25px;
+      position: relative;
+      top: 3px;
+      transition: .4s all;
+      &:hover, &:active {
+        color: #fff;
+        background: $color_TI_darker;
+      }
+    }
+  }
+  .nav-link-other {
+    @media only screen and (min-width: 992px) {
+      background: $color_TI;
+      color: #fff;
+      padding: 5px 15px;
+      position: relative;
+      top: 3px;
+      margin-left: 10px;
       transition: .4s all;
       &:hover, &:active {
         color: #fff;
@@ -77,6 +110,9 @@ $color_lobby: #e51f5c;
       font-family: Oswald;
       font-weight: 600;
       //letter-spacing: 1px;
+      .h1-smaller {
+        font-size: 35px;
+      }
     }
     h2 {
       font-size: 23px;
@@ -242,13 +278,37 @@ $color_lobby: #e51f5c;
     height: 530px;
   }
   &.organizations_4 {
-    height: 530px;
+    height: 560px;
   }
   &.organizations_5 {
-    height: 530px;
+    height: 560px;
   }
   &.organizations_6 {
-    height: 530px;
+    height: 560px;
+  }
+  &.organizations_7 {
+    height: 560px;
+  }
+  &.owners_1 {
+    height: 490px;
+  }
+  &.owners_2 {
+    height: 490px;
+  }
+  &.owners_3 {
+    height: 490px;
+  }
+  &.owners_4 {
+    height: 510px;
+  }
+  &.owners_5 {
+    height: 510px;
+  }
+  &.owners_6 {
+    height: 510px;
+  }
+  &.owners_7 {
+    height: 510px;
   }
   @media only screen and (max-width: 767px) {
     height: auto !important;
@@ -256,14 +316,14 @@ $color_lobby: #e51f5c;
 }
 
 /* MODAL TABLE */
-.tenders-table-title {
+.tenders-table-title, .companies-table-title {
   font-size: 18px;
   margin: 20px 0;
   text-align: left;
   font-weight: 700;
   color: $color_TI;
 }
-.tenders-table {
+.tenders-table, .companies-table {
   width: 100% !important;
   margin-bottom: 15px;
   td, th {
@@ -277,7 +337,20 @@ $color_lobby: #e51f5c;
     color: #3a89c1;
   }
 }
-#modalTendersTable_wrapper {
+.tenders-table {
+  tr {
+    cursor: default;
+    td {
+      cursor: default;
+      a {
+        font-weight: 600;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    }
+  }
+}
+#modalTendersTable_wrapper, #modalCompaniesTable_wrapper {
   .dataTables_info {
     width: auto;
     padding: 10px 0;
@@ -286,19 +359,6 @@ $color_lobby: #e51f5c;
       width: 100%;
       text-align: center;
       margin: 0 auto;
-    }
-  }
-  th:nth-child(3) {
-    min-width: 250px !important; 
-  }
-  th:nth-child(2) {
-    min-width: 85px !important; 
-  }
-  td, th {
-    &:nth-child(3), &:nth-child(4) {
-      @media only screen and (max-width: 768px) {
-        display: none;
-      }
     }
   }
   .dataTables_paginate {
@@ -324,6 +384,22 @@ $color_lobby: #e51f5c;
       border: 1px solid #ddd;
       padding: 2px 10px;
       font-size: 14px;
+    }
+  }
+}
+
+#modalTendersTable_wrapper {
+  th:nth-child(3) {
+    min-width: 250px !important; 
+  }
+  th:nth-child(2) {
+    min-width: 85px !important; 
+  }
+  td, th {
+    &:nth-child(3), &:nth-child(4) {
+      @media only screen and (max-width: 768px) {
+        display: none;
+      }
     }
   }
 }
@@ -401,8 +477,11 @@ $color_lobby: #e51f5c;
           display: none;
         }
       }
-      &.count-box-published-meetings {
-        width: 200px;
+      &.count-box-amountwon {
+        width: 300px;
+        @media only screen and (max-width: 1200px) {
+          display: none;
+        }
       }
       .filter-count {
         color: $color_TI_darker;
@@ -549,6 +628,9 @@ $color_lobby: #e51f5c;
     .details-line-title {
       font-weight: 600;
     }
+    .details-line-title-red {
+      color: #fc3503;
+    }
   }
   .modal-activities-title {
     font-weight: 600;
@@ -653,9 +735,18 @@ table.dataTable thead .sorting_desc_disabled {
   th {
     color: $color_TI;
     text-align: left;
+    font-size: 14px;
+    &.header-red {
+      color: #fc3503;
+    }
   }
   td {
     text-align: left;
+    font-size: 14px;
+  }
+  .redflag-img {
+    width: 15px;
+    margin-right: 2px;
   }
   .dataTables_info {
     width: 40%;
@@ -781,7 +872,33 @@ th:nth-child(3) {
   }
   .chart-table {
     td, th {
-      &:nth-child(1), &:nth-child(3), &:nth-child(4), &:nth-child(5), &:nth-child(6) {
+      &:nth-child(2), &:nth-child(3), &:nth-child(4), &:nth-child(5), &:nth-child(7), &:nth-child(8) {
+        @media only screen and (max-width: 768px) {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+/* OWNERS PAGE STYLE */
+.owners-page {
+  #detailsModal {
+    a {
+      color: darken($color_TI, 0%);
+      font-weight: 600;
+    }
+    .modal-title {
+      font-weight: 700;
+      color: darken($color_TI, 0%);
+    }
+    .details-line {
+      text-align: left;
+    }
+  }
+  .chart-table {
+    td, th {
+      &:nth-child(2), &:nth-child(4), &:nth-child(5), &:nth-child(6) {
         @media only screen and (max-width: 768px) {
           display: none;
         }

@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "837935628",
+        "contract_value": 837935628.0,
         "contracting_authority": "Magyar Bencés Kongregáció Pannonhalmi Főapátság",
         "date": "15/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18872_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőszegi Bencés Rendház felújítás - II. ütem",
-        "registered_name": "T-Hof Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "T-Hof Bau Kft."
     },
     {
         "company_names": "",
-        "contract_value": "330099147",
+        "contract_value": 330099147.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "21/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8827_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ercsi kivitelezés II.",
-        "registered_name": "T-Hof Bau Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "191785605",
-        "contracting_authority": "Piliscsaba Német Nemzetiségi Önkormányzata, Piliscsaba Római Katolikus Plébánia",
-        "date": "18/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4556_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Piliscsaba Római Katolikus Templom felújítása",
-        "registered_name": "T-Hof Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "T-Hof Bau Kft."
     }
 ]

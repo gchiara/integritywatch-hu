@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "189504000",
+        "contract_value": 189504000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5376_2020/",
         "main_cpv": "85100000-0",
         "number_companies_win": 0,
         "procurement_title": "Neonatológiai szakorvosi ügyeleti tevékenység végzése",
-        "registered_name": "Nagybányai Humán Egészségügyi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Nagybányai Humán Egészségügyi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "245280000",
+        "contract_value": 245280000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "07/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12052_2020/",
         "main_cpv": "85140000-2",
         "number_companies_win": 0,
         "procurement_title": "Neonatológiai orvosi egészségügyi tevékenység",
-        "registered_name": "Nagybányai Humán Egészségügyi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Nagybányai Humán Egészségügyi Szolgáltató Kft."
     }
 ]

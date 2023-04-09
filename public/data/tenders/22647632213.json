@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "280000000",
+        "contract_value": 280000000.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10113_2018/",
         "main_cpv": "45342000-6",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodás megkötése labdarúgópályák kerítés kivitelezésére",
-        "registered_name": "Cornus Kert Korlátolt Felelősségű Társaság"
+        "registered_name": "Cornus Kert Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24973600",
+        "contract_value": 24973600.0,
         "contracting_authority": "Vecsés Város Önkormányzata",
         "date": "03/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11410_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vecsés, Gyáli-patak melletti futópálya és közvilágításának kiépítése",
-        "registered_name": "Cornus Kert Korlátolt Felelősségű Társaság"
+        "registered_name": "Cornus Kert Kft."
     }
 ]

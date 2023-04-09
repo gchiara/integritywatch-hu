@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "150971746",
+        "contract_value": 150971746.0,
         "contracting_authority": "Magyar Lovas Turisztikai Közhasznú Egyesület",
         "date": "10/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10017_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lovasturisztikai megállópontok létesítése",
-        "registered_name": "FONOTERV Mérnökiroda és Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FONOTERV Mérnökiroda és Építőipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "144117342",
+        "contract_value": 144117342.0,
         "contracting_authority": "Lóska Ménes Sportegyesület",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12472_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lovas Rendezvényközpont kialakítása",
-        "registered_name": "FONOTERV Mérnökiroda és Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FONOTERV Mérnökiroda és Építőipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "185940234",
+        "contract_value": 185940234.0,
         "contracting_authority": "Lóska Ménes Sportegyesület",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12472_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lovas Rendezvényközpont kialakítása",
-        "registered_name": "FONOTERV Mérnökiroda és Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FONOTERV Mérnökiroda és Építőipari Szolgáltató Kft."
     }
 ]

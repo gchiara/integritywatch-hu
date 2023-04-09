@@ -1,673 +1,398 @@
 [
     {
         "company_names": "",
-        "contract_value": "800000",
+        "contract_value": 800000.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_912_2018/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1150000",
+        "contract_value": 1150000.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_912_2018/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1950000",
+        "contract_value": 1950000.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_912_2018/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3900000",
+        "contract_value": 3900000.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_912_2018/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4250000",
+        "contract_value": 4250000.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_912_2018/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tervezési feladatok",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; TRENECON Tanácsadó és Tervező Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "727000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Kft.; TRENECON Tanácsadó és Tervező Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 727000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8189_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 3,
         "procurement_title": "Tervezési szerződés a 23 és 25 sz. főutak Bátonyterenye-Ózd közötti fejlesztése kapcsán a főutak rekonstrukciójához szükséges tervezési és engedélyeztetési feladatok ellátására",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78300000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 78300000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9392_2018/",
         "main_cpv": "71245000-7",
         "number_companies_win": 0,
         "procurement_title": "2017-2018. évben felújítandó útvonalak engedélyezési és kiviteli terveinek elkészítése - Árpád út",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "597932560",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "TURA-Terv Mérnökiroda Kft.; UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 597932560.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11330_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 3,
         "procurement_title": "Tervezési szerződések a 2018. évhez kapcsolódó országos közúthálózaton történő fejlesztési és felújítási munkákra vonatkozóan 6 részben",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "PANNONWAY Építő Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "700735055",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "PANNONWAY Építő Kft.; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Kft.; TURA-Terv Mérnökiroda Kft.; UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zrt.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 700735055.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19606_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 7,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12600000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12600000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17761_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Tervezési szolgáltatás budapesti útfelújítások előkészítésére - III. ütem",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28400000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 28400000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "28/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23724_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "8. és a 82. sz. főút tantervének és EVD készítése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11430000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11430000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0689_2019/",
         "main_cpv": "71245000-7",
         "number_companies_win": 0,
         "procurement_title": "Podmaniczky utca engedélyezési és kiviteli tervei",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43680000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 43680000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1584_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Páty település és M1 autópálya között út tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1450000",
+        "contract_value": 1450000.0,
         "contracting_authority": "Pápa Város Önkormányzata",
         "date": "04/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2137_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervező kiválasztása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "Cívis Komplex Mérnök Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "189420000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Cívis Komplex Mérnök Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 189420000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4971_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "M4 autópálya és a 42. sz. főút tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24500000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24500000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5531_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Fővárosi útfelújítások előkészítése, tervezés IV.",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "174647968",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "TURA-Terv Mérnökiroda Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 174647968.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6878_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - 6. régió vonatkozásában",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "230000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "TURA-Terv Mérnökiroda Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 230000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "01/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11340_2019/",
         "main_cpv": "71250000-5",
         "number_companies_win": 2,
         "procurement_title": "Kerékpáros útvonalak tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12920000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 12920000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "11/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10393_2019/",
         "main_cpv": "71300000-1",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárforgalmi létesítmények tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "20179500",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "TURA-Terv Mérnökiroda Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 20179500.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "23/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0934_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89420000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 89420000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "03/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3462_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Paks M6-6 ök, 6. sz. főút négynyomúsítás folytatása északi irányból az atomerőmű déli bejáróig engedélyezési és kiviteli terveinek elkészítése, Biritópuszta városrészt feltáró út engedélyezési és kiviteli terveinek elkészítése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "420000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 420000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "08/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5908_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "51. sz. főút Kalocsa-M9, 55. sz. főút Baja-Pörböly",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34700000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 34700000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6170_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Tervezési szerződés-Közép-Duna menti térség-közút",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "113410000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 113410000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10519_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Zalaszentiván - Kehidakustány kerékpárút tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6840000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 6840000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "30/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10893_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Balatonfüred, Örvényes, Alsóörs kerékpárút tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9370000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 9370000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "30/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10893_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Balatonfüred, Örvényes, Alsóörs kerékpárút tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "97662140",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "TURA-Terv Mérnökiroda Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 97662140.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7677_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "A 2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3850000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 3850000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "22/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12740_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárforgalmi létesítmények tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "FŐMTERV Mérnöki Tervező Zrt.; PANNONWAY Építő Korlátolt Felelősségű Társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1749390000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "FŐMTERV Mérnöki Tervező Zrt.; PANNONWAY Építő Kft.; RODEN Mérnöki Iroda Kft.; TURA-Terv Mérnökiroda Kft.; UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zrt.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 1749390000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "14/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14349_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 8,
         "procurement_title": "Tervezési munkák",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "93503700",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "TURA-Terv Mérnökiroda Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 93503700.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "08/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17847_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "2018-2020 évekhez kapcsolódóan, helyi- és országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása - DD és KDKM régió - 2020 III.név",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7500000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7500000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9300000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9300000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10600000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10600000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11400000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11400000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "19/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18728_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Közúti határátkelők akadálymentesítése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6215000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Kft.; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Kft.; RODEN Mérnöki Iroda Kft.; SPECIÁLTERV Építőmérnöki Kft.; TURA-Terv Mérnökiroda Kft.; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zrt.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 6215000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19941_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 8,
         "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     },
     {
-        "company_names": "FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; PANNONWAY Építő Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6215000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "FLAVUS Mérnökiroda Kft.; PANNONWAY Építő Kft.; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Kft.; TURA-Terv Mérnökiroda Kft.; UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; UTIBER Közúti Beruházó Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 6215000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19941_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 7,
         "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "85290115",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5939_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "51900000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8305_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 3,
-        "procurement_title": "4 - 82. sz. főút, Zirc elkerülő szakasz",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "358507807",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "20/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8892_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "185802696",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9588_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; TRENECON Tanácsadó és Tervező Korlátolt Felelősségű Társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; Züblin Építőipari Beruházási és Szolgáltató Korlátolt Felelősségü Társaság",
-        "contract_value": "150000000",
-        "contracting_authority": "Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10485_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 7,
-        "procurement_title": "Kerékpárforgalmi létesítmények tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; Cívis Komplex Mérnök Korlátolt Felelősségű Társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; TRENECON Tanácsadó és Tervező Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; Züblin Építőipari Beruházási és Szolgáltató Korlátolt Felelősségü Társaság",
-        "contract_value": "1350000000",
-        "contracting_authority": "Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10485_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 7,
-        "procurement_title": "Kerékpárforgalmi létesítmények tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "275647811",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12804_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "194800000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "30/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14219_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Siófok-Pécs kerékpárút tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16400000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "06/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14201_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Fácánkert Bethlen G. utca rekonstrukciója",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "135082000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "11/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15047_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Környe elkerülő út tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "65000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "13/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15384_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 3,
-        "procurement_title": "61.sz. főút, Simontornya elkerülő szakasz megvalósítása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "292739089",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14632_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Tervezési keretszerződés 2020-2024 évekhez",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "28840000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "03/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16908_2021/",
-        "main_cpv": "71300000-1",
-        "number_companies_win": 0,
-        "procurement_title": "M3 autópálya, Gödöllő csomópont fejlesztés engedélyezési és kiviteli terveinek elkészítése,",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Hello Wood Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "489000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "22/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18065_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "P+R parkolók és B+R parkoló tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3529161",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19655_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "A 2020-2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátása-NYMo. és KeMo.",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27320000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "21/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20752_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezés - 26. sz. főút, Szirmabesenyő csomópont",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Cívis Komplex Mérnök Korlátolt Felelősségű Társaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "274785000",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "03/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21418_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Debrecen-DGÖ infrastruktúra fejlesztés tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "112850000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "10/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20645_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szigetvár-Kaposvár kerékpárút tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "129950000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "10/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20645_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szigetvár-Kaposvár kerékpárút tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "197850000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21954_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezés - 32 sz. főút négynyomúsítása",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "98600000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21761_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "EuroVelo 6 és Eurovelo 14 tervezés és engedélyezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "29700000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22437_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Baja ÉNY-i elkerülő út tervezése",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "PANNONWAY Építő Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3729796933",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22862_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 6,
-        "procurement_title": "2021-2025 évekhez kapcsolódó uniós tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7459593866",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22862_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 8,
-        "procurement_title": "2021-2025 évekhez kapcsolódó uniós tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; PANNONWAY Építő Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; TURA-Terv Mérnökiroda Korlátolt Felelősségű Társaság; UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "8702859511",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22862_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 8,
-        "procurement_title": "2021-2025 évekhez kapcsolódó uniós tervezés",
-        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VIA FUTURA Mérnöki, Tanácsadó és Szolgáltató Kft."
     }
 ]

@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "5346168",
-        "contracting_authority": "Zsolnay Örökségkezelő Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 5346168.0,
+        "contracting_authority": "Zsolnay Örökségkezelő Nonprofit Kft.",
         "date": "14/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19015_2018/",
         "main_cpv": "90911200-8",
         "number_companies_win": 0,
         "procurement_title": "Zsolnay Örökségkezelő Nonprofit Kft. üzemeltetésében levő épületek takarítási munkái",
-        "registered_name": "Csepo Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "Csepo Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "77592564",
-        "contracting_authority": "Zsolnay Örökségkezelő Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 77592564.0,
+        "contracting_authority": "Zsolnay Örökségkezelő Nonprofit Kft.",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8861_2019/",
         "main_cpv": "90911200-8",
         "number_companies_win": 0,
         "procurement_title": "ZSÖK NKft. üzemeltetésében levő épületek takarítása",
-        "registered_name": "Csepo Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "Csepo Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "49669609",
+        "contract_value": 49669609.0,
         "contracting_authority": "Baranya Megyei Szakképzési Centrum",
         "date": "06/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5825_2020/",
         "main_cpv": "90911200-8",
         "number_companies_win": 0,
         "procurement_title": "Takarítási szolgáltatás a  Zipernowsky K. Műszaki Szakgimnázium részére",
-        "registered_name": "Csepo Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "Csepo Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "13167780",
+        "contract_value": 13167780.0,
         "contracting_authority": "Baptista Szeretetszolgálat Ejsz Széchenyi István Gimnáziuma és Technikuma",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18734_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "Iskola épületeinek takarítása",
-        "registered_name": "Csepo Szolgáltató és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "67000000",
-        "contracting_authority": "Koch Valéria Gimnázium, Általános Iskola, Óvoda, Kollégium és Pedagógiai Intézet",
-        "date": "09/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24514_2021/",
-        "main_cpv": "90910000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Takarítási szolgáltatás ellátása",
-        "registered_name": "Csepo Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "Csepo Szolgáltató és Kereskedelmi Bt."
     }
 ]

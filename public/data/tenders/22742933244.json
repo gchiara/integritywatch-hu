@@ -1,519 +1,486 @@
 [
     {
         "company_names": "",
-        "contract_value": "22605000",
+        "contract_value": 22605000.0,
         "contracting_authority": "Esztergom Megyei Jogú Város Önkormányzata",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19497_2017/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítási infrastruktúra villamos energiával történő ellátása",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "259759077",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 259759077.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19353_2017/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz beszerzése 2018. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5815732",
+        "contract_value": 5815732.0,
         "contracting_authority": "Újfehértó Város Önkormányzata",
         "date": "09/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18912_2017/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése Újfehértó Város Önkormányzata és intézményei részére 2018.01.01. 00:00 CET - 2019.12.31. 24:00 CET időszakra vonatkozóan",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30943486",
+        "contract_value": 30943486.0,
         "contracting_authority": "Kiskunfélegyháza Város Önkormányzata",
         "date": "09/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_65_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Kiskunfélegyháza Város Önkormányzata és Intézményei részére közvilágítási célú és intézményi felhasználási célú villamos energia beszerzése 2018. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30930544",
-        "contracting_authority": "Pro Pócsmegyer Településfejlesztési Korlátolt Felelősségű Társaság",
+        "contract_value": 30930544.0,
+        "contracting_authority": "Pro Pócsmegyer Településfejlesztési Kft.",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_506_2018/",
         "main_cpv": "45316100-6",
         "number_companies_win": 0,
         "procurement_title": "Pócsmegyer község közvilágítási rendszerének korszerűsítése korszerű, LED-es technológiájú lámpatestekkel",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17486350",
+        "contract_value": 17486350.0,
         "contracting_authority": "Budapesti Operettszínház",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_217_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos áram beszerzése a 2018. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "346484762",
+        "contract_value": 346484762.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_634_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés villamos energia beszerzése tárgyában a Debreceni Egyetem részére",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48200000",
+        "contract_value": 48200000.0,
         "contracting_authority": "Göd Város Önkormányzata",
         "date": "25/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_818_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése Göd Város Önkormányzata és Intézményei részére 2018-2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1558680",
+        "contract_value": 1558680.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_336_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése a 2018. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96488520",
+        "contract_value": 96488520.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_336_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése a 2018. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "254330708",
+        "contract_value": 254330708.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "02/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_927_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése 2018. és 2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4558312",
-        "contracting_authority": "Örkény István Színház Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 4558312.0,
+        "contracting_authority": "Örkény István Színház Nonprofit Kft.",
         "date": "15/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1095_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése az Örkény István Színház Nonprofit Kft részére",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27105820",
+        "contract_value": 27105820.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "06/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2511_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Budapest Főváros II. kerületi Önkormányzat összönkormányzati villamos energia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35036618",
+        "contract_value": 35036618.0,
         "contracting_authority": "Budapesti Honvéd Sportegyesület",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9788_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "A Budapesti Honvéd Sportegyesület villamos energia beszerzése 2018",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104140000",
-        "contracting_authority": "Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 104140000.0,
+        "contracting_authority": "Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Kft.",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10047_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzés a 2018. évre vonatkozóan",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "125900000",
+        "contract_value": 125900000.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10884_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Gázenergia-beszerzés a Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat részére 2018-2019.",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62900000",
+        "contract_value": 62900000.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "29/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10890_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamosenergia-beszerzés a Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat részére 2018-2019.",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91219608",
-        "contracting_authority": "VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 91219608.0,
+        "contracting_authority": "VASIVÍZ Vas megyei Víz- és Csatornamű Zrt.",
         "date": "06/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11851_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz energia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35966539",
-        "contracting_authority": "Budapest Főváros X. Kerület Kőbányai Önkormányzat, Kocsis Sándor Sportközpont, Kőbányai Egyesített Bölcsődék, Kőbányai Mocorgó Óvoda, Kőbányai Szivárvány Szociális Gondoskodást Nyújtó Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 35966539.0,
+        "contracting_authority": "Budapest Főváros X. Kerület Kőbányai Önkormányzat, Kocsis Sándor Sportközpont, Kőbányai Egyesített Bölcsődék, Kőbányai Mocorgó Óvoda, Kőbányai Szivárvány Szociális Gondoskodást Nyújtó Közhasznú Nonprofit Kft.",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14240_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz energia értékesítése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1033323075",
+        "contract_value": 1033323075.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "14/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14166_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia szabadpiaci beszerzése 2019.01.01. - 2019.12.31. időszakra vonatkozóan",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104325000",
-        "contracting_authority": "Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Családsegítő és Gyermekjóléti Központ, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Fejlesztő Napközi Otthon, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Hegyvidéki Szociális Központ, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Krisztinavárosi Bölcsőde, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Svábhegyi Bölcsőde, Budapest Főváros XII. kerület Hegyvidéki Polgármesteri Hivatal, Budapest Főváros XII. Kerület Virányosi Közösségi Ház, FÁBER Üzemeltető, Városfejlesztő és -fenntartó Kft., Hegyvidék Lapkiadó, Hegyvidéki Szabadidősport Nonprofit Korlátolt Felelősségű Társaság, Kimbi Óvoda, Mackós Óvoda, MOM Kulturális Központ Nonprofit Korlátolt Felelősségű Társaság, Normafa Óvoda, NORMAFA PARK FENNTARTÓ ÉS ÜZEMELTETŐ INTÉZMÉNY, Orbánhegyi Óvodák, Süni Óvodák, Táltos Óvoda, Városmajori Óvodák, Zugliget Óvoda",
+        "contract_value": 104325000.0,
+        "contracting_authority": "Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Családsegítő és Gyermekjóléti Központ, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Fejlesztő Napközi Otthon, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Hegyvidéki Szociális Központ, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Krisztinavárosi Bölcsőde, Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat Svábhegyi Bölcsőde, Budapest Főváros XII. kerület Hegyvidéki Polgármesteri Hivatal, Budapest Főváros XII. Kerület Virányosi Közösségi Ház, FÁBER Üzemeltető, Városfejlesztő és -fenntartó Kft., Hegyvidék Lapkiadó, Hegyvidéki Szabadidősport Nonprofit Kft., Kimbi Óvoda, Mackós Óvoda, MOM Kulturális Központ Nonprofit Kft., Normafa Óvoda, NORMAFA PARK FENNTARTÓ ÉS ÜZEMELTETŐ INTÉZMÉNY, Orbánhegyi Óvodák, Süni Óvodák, Táltos Óvoda, Városmajori Óvodák, Zugliget Óvoda",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14851_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Budapest Főváros XII. kerület Hegyvidéki Önkormányzat és egyes intézményeinek villamos energia ellátása 2019-2020. évekre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52155242",
-        "contracting_authority": "BTG Budaörsi Településgazdálkodási Nonprofit Korlátolt Felelősségű Társaság, Budaörs Város Önkormányzat Egyesített Bölcsődei Intézmények, Budaörs Város Önkormányzata, Budaörsi Csicsergő Óvoda, Holdfény Utcai Óvoda",
+        "contract_value": 52155242.0,
+        "contracting_authority": "BTG Budaörsi Településgazdálkodási Nonprofit Kft., Budaörs Város Önkormányzat Egyesített Bölcsődei Intézmények, Budaörs Város Önkormányzata, Budaörsi Csicsergő Óvoda, Holdfény Utcai Óvoda",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13663_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Intézmények részére gázenergia szállítása",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72225000",
-        "contracting_authority": "BTG Budaörsi Településgazdálkodási Nonprofit Korlátolt Felelősségű Társaság, Budaörs Város Önkormányzat Egyesített Bölcsődei Intézmények, Budaörs Város Önkormányzata, Budaörsi Csicsergő Óvoda, Budaörsi Csillagfürt Óvoda, Budaörsi Jókai Mór Művelődési Ház, Budaörsi Kincskereső Óvoda, Budaörsi Latinovits Színház, Budaörsi Mákszem Óvoda, Budaörsi Polgármesteri Hivatal, Budaörsi Vackor Óvoda, Ceglédi Tankerületi Központ, Esély Szociális Társulás Szociális és Gyermekjóléti Központ, Farkasréti Pagony Óvoda, Gróf Bercsényi Zsuzsanna Városi Könyvtár, Holdfény Utcai Óvoda, Zippel-Zappel Német Nemzetiségi Óvoda",
+        "contract_value": 72225000.0,
+        "contracting_authority": "BTG Budaörsi Településgazdálkodási Nonprofit Kft., Budaörs Város Önkormányzat Egyesített Bölcsődei Intézmények, Budaörs Város Önkormányzata, Budaörsi Csicsergő Óvoda, Budaörsi Csillagfürt Óvoda, Budaörsi Jókai Mór Művelődési Ház, Budaörsi Kincskereső Óvoda, Budaörsi Latinovits Színház, Budaörsi Mákszem Óvoda, Budaörsi Polgármesteri Hivatal, Budaörsi Vackor Óvoda, Ceglédi Tankerületi Központ, Esély Szociális Társulás Szociális és Gyermekjóléti Központ, Farkasréti Pagony Óvoda, Gróf Bercsényi Zsuzsanna Városi Könyvtár, Holdfény Utcai Óvoda, Zippel-Zappel Német Nemzetiségi Óvoda",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13664_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Intézmények részére villamos energia szállítása",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10645317",
+        "contract_value": 10645317.0,
         "contracting_authority": "Balatonföldvár Város Önkormányzata",
         "date": "29/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11178_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos Energia Beszerzés",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23642193",
+        "contract_value": 23642193.0,
         "contracting_authority": "Balatonföldvár Város Önkormányzata",
         "date": "29/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11178_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos Energia Beszerzés",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "291521110",
-        "contracting_authority": "Herman Ottó Múzeum, MIHŐ Miskolci Hőszolgáltató Korlátolt Felelősségű Társaság, MiReHu Miskolci Regionális Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság, Miskolc Holding Önkormányzati Vagyonkezelő Zártkörűen működő Részvénytársaság, Miskolc Megyei Jogú Város Önkormányzata Őszi Napsugár Otthon, Miskolci Egyesített Szociális, Egészségügyi és Gyermekjóléti Intézmény, Miskolci Eszterlánc Néphagyományőrző Óvoda, Miskolci Fürdők Korlátolt Felelősségű Társaság, Miskolci József Úti Óvoda, MISKOLCI KÖZINTÉZMÉNY-MŰKÖDTETŐ KÖZPONT, Miskolci Kulturális Központ Nonprofit Korlátolt Felelősségű Társaság, Miskolci Nemzeti Színház Nonprofit Korlátolt Felelősségű Társaság, Miskolci Sportiskola Nonprofit Közhasznú Korlátolt Felelősségű Társaság, MISKOLCI VÁROSGAZDA Városgazdálkodási Közhasznú Nonprofit Korlátolt Felelősségű Társaság, MIVÍZ Miskolci Vízmű Korlátolt Felelősségű Társaság, MVK Miskolc Városi Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 291521110.0,
+        "contracting_authority": "Herman Ottó Múzeum, MIHŐ Miskolci Hőszolgáltató Kft., MiReHu Miskolci Regionális Hulladékgazdálkodási Nonprofit Kft., Miskolc Holding Önkormányzati Vagyonkezelő Zrt., Miskolc Megyei Jogú Város Önkormányzata Őszi Napsugár Otthon, Miskolci Egyesített Szociális, Egészségügyi és Gyermekjóléti Intézmény, Miskolci Eszterlánc Néphagyományőrző Óvoda, Miskolci Fürdők Kft., Miskolci József Úti Óvoda, MISKOLCI KÖZINTÉZMÉNY-MŰKÖDTETŐ KÖZPONT, Miskolci Kulturális Központ Nonprofit Kft., Miskolci Nemzeti Színház Nonprofit Kft., Miskolci Sportiskola Nonprofit Közhasznú Kft., MISKOLCI VÁROSGAZDA Városgazdálkodási Közhasznú Nonprofit Kft., MIVÍZ Miskolci Vízmű Kft., MVK Miskolc Városi Közlekedési Zrt.",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14798_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21010000",
+        "contract_value": 21010000.0,
         "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17059_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamosenergia beszerzés",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22941878",
+        "contract_value": 22941878.0,
         "contracting_authority": "Szegedi Szakképzési Centrum",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16655_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz beszerzése - SZSZC - Gábor Dénes",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2244660960",
-        "contracting_authority": "Soproni Vízmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2244660960.0,
+        "contracting_authority": "Soproni Vízmű Zrt.",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17162_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia szállítása 2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199042415",
+        "contract_value": 199042415.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "28/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16920_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz energia beszerzés 2018/2019. gázévre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12000000",
+        "contract_value": 12000000.0,
         "contracting_authority": "Fót Város Önkormányzata",
         "date": "05/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17769_2018/",
         "main_cpv": "09300000-2",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1765140000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1765140000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_17888_2018/",
         "main_cpv": "09000000-3",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzés 2019.évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "211450748",
+        "contract_value": 211450748.0,
         "contracting_authority": "ÉSZAK-PESTI TANKERÜLETI KÖZPONT",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19044_2018/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgázenergia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89132900",
-        "contracting_authority": "Celldömölk Város Önkormányzata, Celldömölki Közös Önkormányzati Hivatal, Celldömölki Városi Óvoda, Kemenes Vulkán Park, Kemenesaljai Művelődési Központ és Könyvtár, Népjóléti Szolgálat, Városgondnokság Celldömölk, Vulkán Gyógy- és Élményfürdő Üzemeltető Korlátolt Felelősségű Társaság",
+        "contract_value": 89132900.0,
+        "contracting_authority": "Celldömölk Város Önkormányzata, Celldömölki Közös Önkormányzati Hivatal, Celldömölki Városi Óvoda, Kemenes Vulkán Park, Kemenesaljai Művelődési Központ és Könyvtár, Népjóléti Szolgálat, Városgondnokság Celldömölk, Vulkán Gyógy- és Élményfürdő Üzemeltető Kft.",
         "date": "31/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19363_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia szabadpiaci beszerzése Celldömölk",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92128432",
-        "contracting_authority": "Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézet, Magyar Művészeti Akadémia Titkársága, Műcsarnok Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Pesti Vigadó Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 92128432.0,
+        "contracting_authority": "Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézet, Magyar Művészeti Akadémia Titkársága, Műcsarnok Közhasznú Nonprofit Kft., Pesti Vigadó Nonprofit Kft.",
         "date": "27/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19103_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Földgáz és villamos energia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19662700",
+        "contract_value": 19662700.0,
         "contracting_authority": "Marcali Város Önkormányzata",
         "date": "05/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22480_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése MVÖ részére 2019.",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25300000",
+        "contract_value": 25300000.0,
         "contracting_authority": "Budapesti Operettszínház",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23081_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos áram beszerzése a 2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20205146",
-        "contracting_authority": "Bölcsődék és Fogyatékosok Intézménye, Dr. Kenéz Zoltán Idősek Otthona és Klubja, Katona Lajos Városi Könyvtár, Madách Imre Művelődési Központ, Szociális Szolgáltatások Háza, Tragor Ignác Múzeum, Vác Város Levéltára, Vác Város Önkormányzat, Vác Város Önkormányzat Gazdasági Hivatala, Váci Alsóvárosi Óvoda, Váci Deákvári Óvoda, Váci Kisvác-Középvárosi Óvoda, Váci Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Váci Városfejlesztő Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 20205146.0,
+        "contracting_authority": "Bölcsődék és Fogyatékosok Intézménye, Dr. Kenéz Zoltán Idősek Otthona és Klubja, Katona Lajos Városi Könyvtár, Madách Imre Művelődési Központ, Szociális Szolgáltatások Háza, Tragor Ignác Múzeum, Vác Város Levéltára, Vác Város Önkormányzat, Vác Város Önkormányzat Gazdasági Hivatala, Váci Alsóvárosi Óvoda, Váci Deákvári Óvoda, Váci Kisvác-Középvárosi Óvoda, Váci Sport Közhasznú Nonprofit Kft., Váci Városfejlesztő Szolgáltató Kft.",
         "date": "18/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23580_2018/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos áram beszerzése a 2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2043360",
+        "contract_value": 2043360.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "28/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0844_2019/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése 2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "126720000",
+        "contract_value": 126720000.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "28/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0844_2019/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése 2019. évre",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48300028",
-        "contracting_authority": "A.K.S.D. Városgazdálkodási Korlátolt Felelősségű Társaság",
+        "contract_value": 48300028.0,
+        "contracting_authority": "A.K.S.D. Városgazdálkodási Kft.",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11226_2019/",
         "main_cpv": "09123000-7",
         "number_companies_win": 0,
         "procurement_title": "Földgáz beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27888153",
-        "contracting_authority": "Városüzemeltető és Fenntartó Korlátolt Felelősségű Társaság",
+        "contract_value": 27888153.0,
+        "contracting_authority": "Városüzemeltető és Fenntartó Kft.",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23676_2020/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Intézményi villamos energia",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "151150693",
-        "contracting_authority": "\"Pécs-pogányi repülőteret működtető Korlátolt Felelősségű Társaság, Apáczai Óvoda, BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság, Csorba Győző Könyvtár, Dél-Kom Dél-Dunántúli Kommunális Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Integrált Nappali Szociális Intézmény, Irány Pécs Turisztikai Információs és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Janus Pannonius Múzeum, Keleti Városrészi Óvoda, Kertvárosi Óvoda, Nyugati Városrészi Óvoda, Pannon Filharmonikusok-Pécs Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Pécs Megye Jogú Város Önkormányzata Integrált Szociális Intézmény, Pécs Megyei Jogú Város Egyesített Egészségügyi Intézmények, Pécs Megyei Jogú Város Önkormányzata, Pécs Megyei Jogú Város Önkormányzatának Kisgyermek Szociális Intézmények Igazgatosága, Pécs Megyei Jogú Város Polgármesteri Hivatala, Pécsi Állatkert és Akvárium-Terrárium Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Pécsi Ellátó Központ, Pécsi Kulturális Központ, Pécsi Nemzeti Színház Nonprofit Korlátolt Felelősségű Társaság, Pécsi Sport Nonprofit Zártkörűen Működő Részvénytársaság, Pécsi Vagyonhasznosító Zártkörűen Működő Részvénytársaság, Pécsi Városfejlesztési Nonprofit Zártkörűen Működő Részvénytársaság, TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zártkörűen Működő Részvénytársaság, Tüke Busz Közösségi Közlekedési Zártkörűen Működő Részvénytársaság, Városközponti Óvoda, Zsolnay Örökségkezelő Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 151150693.0,
+        "contracting_authority": "\"Pécs-pogányi repülőteret működtető Kft., Apáczai Óvoda, BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft., Csorba Győző Könyvtár, Dél-Kom Dél-Dunántúli Kommunális Szolgáltató Nonprofit Kft., Integrált Nappali Szociális Intézmény, Irány Pécs Turisztikai Információs és Szolgáltató Nonprofit Kft., Janus Pannonius Múzeum, Keleti Városrészi Óvoda, Kertvárosi Óvoda, Nyugati Városrészi Óvoda, Pannon Filharmonikusok-Pécs Közhasznú Nonprofit Kft., Pécs Megye Jogú Város Önkormányzata Integrált Szociális Intézmény, Pécs Megyei Jogú Város Egyesített Egészségügyi Intézmények, Pécs Megyei Jogú Város Önkormányzata, Pécs Megyei Jogú Város Önkormányzatának Kisgyermek Szociális Intézmények Igazgatosága, Pécs Megyei Jogú Város Polgármesteri Hivatala, Pécsi Állatkert és Akvárium-Terrárium Közhasznú Nonprofit Kft., Pécsi Ellátó Központ, Pécsi Kulturális Központ, Pécsi Nemzeti Színház Nonprofit Kft., Pécsi Sport Nonprofit Zrt., Pécsi Vagyonhasznosító Zrt., Pécsi Városfejlesztési Nonprofit Zrt., TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zrt., Tüke Busz Közösségi Közlekedési Zrt., Városközponti Óvoda, Zsolnay Örökségkezelő Nonprofit Kft.",
         "date": "29/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24169_2020/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "494496952",
-        "contracting_authority": "\"Pécs-pogányi repülőteret működtető Korlátolt Felelősségű Társaság, Apáczai Óvoda, BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság, Csorba Győző Könyvtár, Dél-Kom Dél-Dunántúli Kommunális Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Integrált Nappali Szociális Intézmény, Irány Pécs Turisztikai Információs és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Janus Pannonius Múzeum, Keleti Városrészi Óvoda, Kertvárosi Óvoda, Nyugati Városrészi Óvoda, Pannon Filharmonikusok-Pécs Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Pécs Megye Jogú Város Önkormányzata Integrált Szociális Intézmény, Pécs Megyei Jogú Város Egyesített Egészségügyi Intézmények, Pécs Megyei Jogú Város Önkormányzata, Pécs Megyei Jogú Város Önkormányzatának Kisgyermek Szociális Intézmények Igazgatosága, Pécs Megyei Jogú Város Polgármesteri Hivatala, Pécsi Állatkert és Akvárium-Terrárium Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Pécsi Ellátó Központ, Pécsi Kulturális Központ, Pécsi Nemzeti Színház Nonprofit Korlátolt Felelősségű Társaság, Pécsi Sport Nonprofit Zártkörűen Működő Részvénytársaság, Pécsi Vagyonhasznosító Zártkörűen Működő Részvénytársaság, Pécsi Városfejlesztési Nonprofit Zártkörűen Működő Részvénytársaság, TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zártkörűen Működő Részvénytársaság, Tüke Busz Közösségi Közlekedési Zártkörűen Működő Részvénytársaság, Városközponti Óvoda, Zsolnay Örökségkezelő Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 494496952.0,
+        "contracting_authority": "\"Pécs-pogányi repülőteret működtető Kft., Apáczai Óvoda, BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft., Csorba Győző Könyvtár, Dél-Kom Dél-Dunántúli Kommunális Szolgáltató Nonprofit Kft., Integrált Nappali Szociális Intézmény, Irány Pécs Turisztikai Információs és Szolgáltató Nonprofit Kft., Janus Pannonius Múzeum, Keleti Városrészi Óvoda, Kertvárosi Óvoda, Nyugati Városrészi Óvoda, Pannon Filharmonikusok-Pécs Közhasznú Nonprofit Kft., Pécs Megye Jogú Város Önkormányzata Integrált Szociális Intézmény, Pécs Megyei Jogú Város Egyesített Egészségügyi Intézmények, Pécs Megyei Jogú Város Önkormányzata, Pécs Megyei Jogú Város Önkormányzatának Kisgyermek Szociális Intézmények Igazgatosága, Pécs Megyei Jogú Város Polgármesteri Hivatala, Pécsi Állatkert és Akvárium-Terrárium Közhasznú Nonprofit Kft., Pécsi Ellátó Központ, Pécsi Kulturális Központ, Pécsi Nemzeti Színház Nonprofit Kft., Pécsi Sport Nonprofit Zrt., Pécsi Vagyonhasznosító Zrt., Pécsi Városfejlesztési Nonprofit Zrt., TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zrt., Tüke Busz Közösségi Közlekedési Zrt., Városközponti Óvoda, Zsolnay Örökségkezelő Nonprofit Kft.",
         "date": "29/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24169_2020/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia beszerzése",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "37564574",
-        "contracting_authority": "Szekszárd Megyei Jogú Város Önkormányzata, Szekszárd Megyei Jogú Város Önkormányzatának Városi Bölcsődéje, Szekszárd Megyei Jogú Város Polgármesteri Hivatala, Szekszárdi 1. Számú Óvoda Kindergarten, Szekszárdi 2. Számú Óvoda-Bölcsőde, Szekszárdi Gyermeklánc Óvoda, Szekszárdi Közművelődési Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Szekszárdi Sportközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Tolna Megyei Illyés Gyula Könyvtár, Wosinsky Mór Megyei Múzeum",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0857_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Villamos energia beszerzés_2021",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság; E2 Hungary Energiakereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; ELMŰ-ÉMÁSZ Energiakereskedő Korlátolt Felelősségű Társaság; JAS Budapest Kereskedelmi és Szolgáltató Zrt \"felszámolás alatt\"; MVM Next Energiakereskedelmi Zrt.",
-        "contract_value": "75000000000",
-        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4195_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 5,
-        "procurement_title": "Villamos energia központosított – 2022/23",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "99855990",
-        "contracting_authority": "Budapest Film Forgalmazó és Moziüzemi Zártkörűen Működő Részvénytársaság",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24832_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Villamos energia beszerzése 2022",
-        "registered_name": "CYEB Energiakereskedő Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CYEB Energiakereskedő Szolgáltató Kft."
     }
 ]

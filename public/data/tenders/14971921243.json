@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "12800000",
+        "contract_value": 12800000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4167_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "21400000",
+        "contract_value": 21400000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4167_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "35450000",
+        "contract_value": 35450000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "22/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4167_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "34567400",
+        "contract_value": 34567400.0,
         "contracting_authority": "Csornai Margit Kórház",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5838_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3950000",
+        "contract_value": 3950000.0,
         "contracting_authority": "Dombóvári Szent Lukács Kórház",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6815_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "11600000",
+        "contract_value": 11600000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "07/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7133_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "11700000",
+        "contract_value": 11700000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7997_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4995000",
+        "contract_value": 4995000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8901_2018/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "46700000",
+        "contract_value": 46700000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "11/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11477_2018/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6950000",
+        "contract_value": 6950000.0,
         "contracting_authority": "Mátrai Gyógyintézet",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13192_2018/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6704000",
+        "contract_value": 6704000.0,
         "contracting_authority": "Vaszary Kolos Kórház, Esztergom",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13433_2018/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6950000",
+        "contract_value": 6950000.0,
         "contracting_authority": "Magyar Imre Kórház",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14876_2018/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6995000",
+        "contract_value": 6995000.0,
         "contracting_authority": "Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő",
         "date": "21/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15700_2018/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "32000",
+        "contract_value": 32000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16917_2018/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "2748000",
+        "contract_value": 2748000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16917_2018/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7796000",
+        "contract_value": 7796000.0,
         "contracting_authority": "Csongrád-Csanád Megyei Mellkasi Betegségek Szakkórháza",
         "date": "05/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18181_2018/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13995000",
+        "contract_value": 13995000.0,
         "contracting_authority": "Batthyány Kázmér Szakkórház",
         "date": "13/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20019_2018/",
@@ -188,7 +188,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "19800000",
+        "contract_value": 19800000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "15/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19369_2018/",
@@ -199,7 +199,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6995000",
+        "contract_value": 6995000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20878_2018/",
@@ -210,8 +210,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "6684360",
-        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 6684360.0,
+        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4019_2019/",
         "main_cpv": "33100000-1",
@@ -221,7 +221,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3700000",
+        "contract_value": 3700000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "13/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14909_2019/",
@@ -232,7 +232,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "53991",
+        "contract_value": 53991.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16115_2019/",
@@ -243,7 +243,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "768958",
+        "contract_value": 768958.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16115_2019/",
@@ -254,7 +254,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1415500",
+        "contract_value": 1415500.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16115_2019/",
@@ -265,7 +265,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "1924555",
+        "contract_value": 1924555.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16115_2019/",
@@ -276,7 +276,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "27550000",
+        "contract_value": 27550000.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2883_2020/",
@@ -287,7 +287,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "63860000",
+        "contract_value": 63860000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9892_2020/",
@@ -298,7 +298,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "17440000",
+        "contract_value": 17440000.0,
         "contracting_authority": "Csornai Margit Kórház",
         "date": "26/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11306_2020/",
@@ -309,7 +309,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "16850000",
+        "contract_value": 16850000.0,
         "contracting_authority": "Zirci Erzsébet Kórház-Rendelőintézet",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17651_2020/",
@@ -320,7 +320,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "30610000",
+        "contract_value": 30610000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "06/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17719_2020/",
@@ -331,7 +331,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "12000000",
+        "contract_value": 12000000.0,
         "contracting_authority": "Dombóvári Szent Lukács Kórház",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20378_2020/",
@@ -342,156 +342,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "17050000",
+        "contract_value": 17050000.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22448_2020/",
         "main_cpv": "33191100-6",
         "number_companies_win": 0,
         "procurement_title": "Sterilizáló berendezés beszerzés",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "52040000",
-        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
-        "date": "05/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24568_2020/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "EBP-orvostechnikai eszközbeszerzés",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "4380000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24943_2020/",
-        "main_cpv": "33124130-5",
-        "number_companies_win": 0,
-        "procurement_title": "Orvosi eszközök beszerzése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "24350000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0180_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "MVP ÁOK eszközbeszerzés",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "4950000",
-        "contracting_authority": "Országos Korányi Pulmonológiai Intézet",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0574_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Higiéniás eszközök 2.",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "4026000",
-        "contracting_authority": "Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5006_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Higiéniás eszközök beszerzése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "26500000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11020_2021/",
-        "main_cpv": "42924720-2",
-        "number_companies_win": 0,
-        "procurement_title": "DE Klinikai Központ Kórházhigiénés Osztály részére 1 db autokláv és 1 db mosogató/fertőtlenítő beszerzése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "16990010",
-        "contracting_authority": "Országos Sportegészségügyi Intézet",
-        "date": "04/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18612_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Betegbiztonságot növelő beszerzések",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "3995000",
-        "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20749_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Infekciókontroll - eszközök beszerzése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "4500000",
-        "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20749_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Infekciókontroll - eszközök beszerzése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "180000",
-        "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21362_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "GOKVI infekciókontroll fejlesztése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "1560000",
-        "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21362_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "GOKVI infekciókontroll fejlesztése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "13500000",
-        "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21362_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "GOKVI infekciókontroll fejlesztése",
-        "registered_name": "Steelco Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "17690000",
-        "contracting_authority": "Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely-Makó",
-        "date": "26/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23268_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Takarító gépek beszerzése",
         "registered_name": "Steelco Hungary Kft."
     }
 ]

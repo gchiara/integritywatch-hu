@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "1494000000",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1494000000.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13630_2020/",
         "main_cpv": "72230000-6",
         "number_companies_win": 0,
         "procurement_title": "KÖKIR és kapcsolódó rendszerek továbbfejlesztése",
-        "registered_name": "LaSalle Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LaSalle Informatikai és Szolgáltató Kft."
     }
 ]

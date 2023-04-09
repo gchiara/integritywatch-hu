@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "19796988",
+        "contract_value": 19796988.0,
         "contracting_authority": "Budapest Főváros XX. Kerület Pesterzsébet Önkormányzata",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12684_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Zöldfelületi rekonstrukció (Deák tér)",
-        "registered_name": "Petrolépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Petrolépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "179970859",
+        "contract_value": 179970859.0,
         "contracting_authority": "Budapest Főváros XX. Kerület Pesterzsébet Önkormányzata",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14244_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Az I-es számú csónakház építészeti felújítása",
-        "registered_name": "Petrolépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Petrolépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63700840",
+        "contract_value": 63700840.0,
         "contracting_authority": "Budapest Főváros XX. Kerület Pesterzsébet Önkormányzata",
         "date": "25/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3357_2019/",
         "main_cpv": "45233140-2, 45233142-6, 45233221-4, 45233228-3, 45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Budapest XX. kerület Pöltenberg utca Vörösmarty u. – Török Flóris u. közötti szakaszainak felújítása II.",
-        "registered_name": "Petrolépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Petrolépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24575169",
+        "contract_value": 24575169.0,
         "contracting_authority": "Budapest Főváros XX. Kerület Pesterzsébet Önkormányzata",
         "date": "28/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11656_2019/",
         "main_cpv": "45112710-5",
         "number_companies_win": 0,
         "procurement_title": "Zöldfelületi rekonstrukció Budapest Pesterzsébet",
-        "registered_name": "Petrolépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Petrolépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39242903",
+        "contract_value": 39242903.0,
         "contracting_authority": "Budapest Főváros XX. Kerület Pesterzsébet Önkormányzata",
         "date": "28/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11656_2019/",
         "main_cpv": "45112710-5",
         "number_companies_win": 0,
         "procurement_title": "Zöldfelületi rekonstrukció Budapest Pesterzsébet",
-        "registered_name": "Petrolépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Petrolépítő Kft."
     }
 ]

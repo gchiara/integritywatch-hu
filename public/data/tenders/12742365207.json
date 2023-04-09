@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "47139202",
+        "contract_value": 47139202.0,
         "contracting_authority": "Bevándorlási és Menekültügyi Hivatal Menekültügyi Őrzött Befogadó Központ",
         "date": "03/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4656_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "A kiskunhalasi telephely területén áramfejlesztő berendezés megvalósítása",
-        "registered_name": "LogSol Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LogSol Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104000000",
+        "contract_value": 104000000.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "06/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_16399_2019/",
         "main_cpv": "31122000-7",
         "number_companies_win": 0,
         "procurement_title": "Önjáró áramfejlesztő egységek szállítása",
-        "registered_name": "LogSol Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LogSol Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "140000000",
+        "contract_value": 140000000.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "06/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_16399_2019/",
         "main_cpv": "31122000-7",
         "number_companies_win": 0,
         "procurement_title": "Önjáró áramfejlesztő egységek szállítása",
-        "registered_name": "LogSol Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LogSol Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "190000000",
+        "contract_value": 190000000.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "06/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_16399_2019/",
         "main_cpv": "31122000-7",
         "number_companies_win": 0,
         "procurement_title": "Önjáró áramfejlesztő egységek szállítása",
-        "registered_name": "LogSol Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LogSol Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20801400",
+        "contract_value": 20801400.0,
         "contracting_authority": "Dr. Kenessey Albert Kórház - Rendelőintézet",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3150_2020/",
         "main_cpv": "31120000-3",
         "number_companies_win": 0,
         "procurement_title": "Aggregátor beszerzése",
-        "registered_name": "LogSol Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LogSol Kereskedelmi és Szolgáltató Kft."
     }
 ]

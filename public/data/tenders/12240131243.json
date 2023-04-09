@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "BauM Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; BETON-STAR Univerzális Betonszerkezet Gyártó és Kivitelező Korlátolt Felelősségű Társaság",
-        "contract_value": "519360701",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "company_names": "BauM Építőipari és Szolgáltató Kft.; BETON-STAR Univerzális Betonszerkezet Gyártó és Kivitelező Kft.",
+        "contract_value": 519360701.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11066_2019/",
         "main_cpv": "34946000-0",
         "number_companies_win": 2,
         "procurement_title": "Villamos pályaépítéshez anyagok beszerzése",
-        "registered_name": "BauM Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "31861370",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "14/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_19734_2021/",
-        "main_cpv": "34946000-0",
-        "number_companies_win": 0,
-        "procurement_title": "DBR – Vasúti infrastruktúra üzemeltetési anyagok",
-        "registered_name": "BauM Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BauM Építőipari és Szolgáltató Kft."
     }
 ]

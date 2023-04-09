@@ -1,750 +1,563 @@
 [
     {
         "company_names": "",
-        "contract_value": "17119000",
+        "contract_value": 17119000.0,
         "contracting_authority": "Magyar Református Szeretetszolgálat Alapítvány",
         "date": "10/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18645_2017/",
         "main_cpv": "18100000-0",
         "number_companies_win": 0,
         "procurement_title": "MRSZA Országos Közfoglalkoztatási Program 2017/2018 ADÁSVÉTELI szerződés keretében",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1795000",
-        "contracting_authority": "MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1795000.0,
+        "contracting_authority": "MFB Magyar Fejlesztési Bank Zrt.",
         "date": "08/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1799_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése négy részben (1. rész: munkaállomások (PC); 2. rész: SSD diszkek; 3. rész: notebookok dokkolóval; 4. rész: monitorok)",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2287100",
-        "contracting_authority": "Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság",
+        "contract_value": 2287100.0,
+        "contracting_authority": "Nemzeti Útdíjfizetési Szolgáltató Zrt.",
         "date": "06/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3585_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "informatikai eszközök, szoftverek és interaktív tábla beszerzése/2017.",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42000",
+        "contract_value": 42000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3819_2018/",
         "main_cpv": "30237000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a Pécsi Tudományegyetem részére",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6875000",
-        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6875000.0,
+        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zrt.",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5862_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai alkatrészek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9282800",
+        "contract_value": 9282800.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14252_2018/",
         "main_cpv": "30213100-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle informatikai és kutatási eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1575000",
+        "contract_value": 1575000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "28/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15667_2018/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése 8 részben",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3673500",
+        "contract_value": 3673500.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "28/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15667_2018/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése 8 részben",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8408900",
+        "contract_value": 8408900.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "15/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19218_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a Pázmány Péter Katolikus Egyetem részére - 2.",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8605700",
+        "contract_value": 8605700.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "15/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19218_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a Pázmány Péter Katolikus Egyetem részére - 2.",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11863400",
+        "contract_value": 11863400.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "15/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19218_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a Pázmány Péter Katolikus Egyetem részére - 2.",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "788700",
+        "contract_value": 788700.0,
         "contracting_authority": "Széchenyi István Egyetem",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18814_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése - kriminalisztika, mobil-IoT, VR valamint oktatástechnika tématerületekhez - a Széchenyi István Egyetemen",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36426700",
+        "contract_value": 36426700.0,
         "contracting_authority": "Széchenyi István Egyetem",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18814_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése - kriminalisztika, mobil-IoT, VR valamint oktatástechnika tématerületekhez - a Széchenyi István Egyetemen",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3293000",
+        "contract_value": 3293000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20016_2018/",
         "main_cpv": "39162000-5",
         "number_companies_win": 0,
         "procurement_title": "A Debreceni Nemzetközi Iskola működéséhez szükséges eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8841300",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8841300.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21337_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Számítógépek és szoftverek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3433400",
+        "contract_value": 3433400.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21122_2018/",
         "main_cpv": "39161000-8",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "981234,2",
-        "contracting_authority": "PLASTICOR Műanyagfeldolgozó Korlátolt Felelősségű Társaság",
+        "contract_value": 981234.2,
+        "contracting_authority": "PLASTICOR Műanyagfeldolgozó Kft.",
         "date": "08/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18811_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a PLASTICOR Műanyagfeldolgozó Kft. részére",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44244300",
-        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 44244300.0,
+        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Kft.",
         "date": "06/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1543_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24544200",
+        "contract_value": 24544200.0,
         "contracting_authority": "Hajdúböszörményi Tankerületi Központ",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2900_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29994000",
-        "contracting_authority": "\"Sóstó-Gyógyfürdők\" Szolgáltató és Fejlesztő Zártkörűen Működő Részvénytársaság, Nyíregyháza Megyei Jogú Város Önkormányzata",
+        "contract_value": 29994000.0,
+        "contracting_authority": "\"Sóstó-Gyógyfürdők\" Szolgáltató és Fejlesztő Zrt., Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9730_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Hotel Sóstó elektromos berendezések beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26515200",
+        "contract_value": 26515200.0,
         "contracting_authority": "Méliusz Juhász Péter Könyvtár",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11530_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközbeszerzés",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "109580666",
+        "contract_value": 109580666.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12252_2019/",
         "main_cpv": "39162000-5",
         "number_companies_win": 0,
         "procurement_title": "A Debreceni Nemzetközi Iskola eszközbeszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2798400",
+        "contract_value": 2798400.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16767_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9999500",
+        "contract_value": 9999500.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16767_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14982200",
+        "contract_value": 14982200.0,
         "contracting_authority": "Széchenyi István Egyetem",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17552_2019/",
         "main_cpv": "38550000-5",
         "number_companies_win": 0,
         "procurement_title": "Kiberfizikai laboreszközök",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "725400",
+        "contract_value": 725400.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19840_2019/",
         "main_cpv": "30210000-4",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése eü-i intézménynek",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9898800",
+        "contract_value": 9898800.0,
         "contracting_authority": "Eszterházy Károly Egyetem",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21986_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése uniós forrásból",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17694200",
+        "contract_value": 17694200.0,
         "contracting_authority": "Dél-budai Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű",
         "date": "20/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21279_2019/",
         "main_cpv": "30213000-5",
         "number_companies_win": 0,
         "procurement_title": "IT munkaállomások beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13710700",
+        "contract_value": 13710700.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3016_2020/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Duális informatikai eszközbeszerzés",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15471900",
+        "contract_value": 15471900.0,
         "contracting_authority": "Veszprémi Szakképzési Centrum",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3268_2020/",
         "main_cpv": "31000000-6",
         "number_companies_win": 0,
         "procurement_title": "Tanulói eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4623600",
+        "contract_value": 4623600.0,
         "contracting_authority": "Debreceni Tankerületi Központ",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3410_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök - EFOP",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1244500",
+        "contract_value": 1244500.0,
         "contracting_authority": "Ökológiai Kutatóközpont",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8237_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése – ÖSZ GINOP, INFRA",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "845700",
+        "contract_value": 845700.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "18/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8448_2020/",
         "main_cpv": "30213000-5",
         "number_companies_win": 0,
         "procurement_title": "Speciális számítógépek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1310500",
+        "contract_value": 1310500.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "18/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8448_2020/",
         "main_cpv": "30213000-5",
         "number_companies_win": 0,
         "procurement_title": "Speciális számítógépek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50005200",
-        "contracting_authority": "Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 50005200.0,
+        "contracting_authority": "Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zrt.",
         "date": "26/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11006_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Kliens oldali IT II.",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3460800",
+        "contract_value": 3460800.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "21/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12187_2020/",
         "main_cpv": "30213200-7",
         "number_companies_win": 0,
         "procurement_title": "Táblagépek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28808700",
+        "contract_value": 28808700.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12844_2020/",
         "main_cpv": "42991200-1",
         "number_companies_win": 0,
         "procurement_title": "MVP-Nyomdaipari eszközök",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1461800",
+        "contract_value": 1461800.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13048_2020/",
         "main_cpv": "30236000-2",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP projektekben",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13627400",
+        "contract_value": 13627400.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13048_2020/",
         "main_cpv": "30236000-2",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP projektekben",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "109100",
+        "contract_value": 109100.0,
         "contracting_authority": "Nógrád Megyei Kormányhivatal",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12497_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Információtechnológai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12823800",
+        "contract_value": 12823800.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13125_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Különféle informatikai, kutatási eszközök 2.",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1079500",
+        "contract_value": 1079500.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "06/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18105_2020/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai és audiovizuális eszközök, szoftverek",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4268400",
-        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 4268400.0,
+        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.",
         "date": "08/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18376_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök: workstation, szerver, szoftver",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4297200",
-        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 4297200.0,
+        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.",
         "date": "08/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18376_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök: workstation, szerver, szoftver",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19032600",
+        "contract_value": 19032600.0,
         "contracting_authority": "Hatvan Város Önkormányzata",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19762_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Könyvtár felújításához kapcsolódó eszközbeszerzés",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25959600",
+        "contract_value": 25959600.0,
         "contracting_authority": "Dunaújvárosi Egyetem",
         "date": "03/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19255_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "DUE MAID Laboratórium eszközbeszerzés",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3691000",
+        "contract_value": 3691000.0,
         "contracting_authority": "Nyíregyházi Tankerületi Központ",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21471_2020/",
         "main_cpv": "39162000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "154900",
+        "contract_value": 154900.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "30/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22138_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "PC-vel összekötve is használható VR szemüveg",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14461800",
+        "contract_value": 14461800.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23479_2020/",
         "main_cpv": "32270000-6",
         "number_companies_win": 0,
         "procurement_title": "JAMK - Digitális labor és informatikai eszközök",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17859700",
+        "contract_value": 17859700.0,
         "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23479_2020/",
         "main_cpv": "32270000-6",
         "number_companies_win": 0,
         "procurement_title": "JAMK - Digitális labor és informatikai eszközök",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     },
     {
         "company_names": "",
-        "contract_value": "275600",
+        "contract_value": 275600.0,
         "contracting_authority": "Nemzeti Agrárkutatási és Innovációs Központ",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24730_2020/",
         "main_cpv": "03300000-2",
         "number_companies_win": 0,
         "procurement_title": "Levegőztető, etető",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5487200",
-        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság",
-        "date": "05/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24826_2020/",
-        "main_cpv": "30214000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Kliensoldali eszközök - 2020",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "980000",
-        "contracting_authority": "Berettyóújfalui Tankerületi Központ",
-        "date": "26/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5146_2021/",
-        "main_cpv": "30213000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14078100",
-        "contracting_authority": "Debreceni Tankerületi Központ",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6588_2021/",
-        "main_cpv": "39162110-9",
-        "number_companies_win": 0,
-        "procurement_title": "További oktatási eszközök szállítása",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2537800",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "14/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8797_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök GINOP, EFOP-VEKOP forrásból",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10818200",
-        "contracting_authority": "Madách Színház Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "02/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10190_2021/",
-        "main_cpv": "32330000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Video-, hang- és világítástechnikai eszközök",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10948400",
-        "contracting_authority": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10571_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "KIR hardverek és szoftverek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "664600",
-        "contracting_authority": "Miskolci Egyetem",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11114_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5510500",
-        "contracting_authority": "Országgyűlés Hivatala",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11380_2021/",
-        "main_cpv": "30213100-6",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök, szoftverek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12435100",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "23/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11233_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "IT alkatrészek, tartozékok beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3763700",
-        "contracting_authority": "Széchenyi István Egyetem",
-        "date": "07/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16504_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "5 részterületes informatika",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2464000",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19130_2021/",
-        "main_cpv": "30213300-8",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "391300",
-        "contracting_authority": "Magyar Agrár- és Élettudományi Egyetem",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19832_2021/",
-        "main_cpv": "30213100-6",
-        "number_companies_win": 0,
-        "procurement_title": "Speciális számítógépek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "660500",
-        "contracting_authority": "Magyar Agrár- és Élettudományi Egyetem",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19832_2021/",
-        "main_cpv": "30213100-6",
-        "number_companies_win": 0,
-        "procurement_title": "Speciális számítógépek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "697300",
-        "contracting_authority": "Magyar Agrár- és Élettudományi Egyetem",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19832_2021/",
-        "main_cpv": "30213100-6",
-        "number_companies_win": 0,
-        "procurement_title": "Speciális számítógépek beszerzése",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11788000",
-        "contracting_authority": "IdomSoft Informatikai Zártkörűen Működő Részvénytársaság",
-        "date": "21/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20686_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Tenable.SC Nessus vagy azzal egyenértékű licenc",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24705900",
-        "contracting_authority": "Budapest Főváros XV. Kerületi Rákospalota, Pestújhely, Újpalota Önkormányzat Gazdasági Működtetési Központ",
-        "date": "09/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21885_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszköz és szoftver beszerzése 2021",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9147000",
-        "contracting_authority": "Magyar Honvédség Parancsnoksága, Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "11/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21154_2021/",
-        "main_cpv": "30214000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Asztali és Mobil terepértékelő munkaállomások",
-        "registered_name": "Infopolis Korlátolt Felelősségű Társaság"
+        "registered_name": "Infopolis Kft."
     }
 ]

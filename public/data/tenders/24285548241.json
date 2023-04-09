@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "233070866",
-        "contracting_authority": "MNB-Ingatlan Korlátolt Felelősségű Társaság",
+        "contract_value": 233070866.0,
+        "contracting_authority": "MNB-Ingatlan Kft.",
         "date": "24/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21200_2020/",
         "main_cpv": "22312000-0",
         "number_companies_win": 0,
         "procurement_title": "17 db művészeti alkotás tulajdonának megszerzése",
-        "registered_name": "Vintage Galéria Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "107898418",
-        "contracting_authority": "MNB-Ingatlan Korlátolt Felelősségű Társaság",
-        "date": "21/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0342_2021/",
-        "main_cpv": "22312000-0",
-        "number_companies_win": 0,
-        "procurement_title": "14 db művészeti alkotás tulajdonának megszerzése",
-        "registered_name": "Vintage Galéria Korlátolt Felelősségű Társaság"
+        "registered_name": "Vintage Galéria Kft."
     }
 ]

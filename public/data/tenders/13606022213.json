@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "1396727000",
+        "contract_value": 1396727000.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8885_2018/",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "3661450",
-        "contracting_authority": "Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 3661450.0,
+        "contracting_authority": "Új Világ Nonprofit Szolgáltató Kft.",
         "date": "01/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3506_2019/",
         "main_cpv": "72250000-2",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "27749500",
-        "contracting_authority": "Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 27749500.0,
+        "contracting_authority": "Új Világ Nonprofit Szolgáltató Kft.",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15712_2019/",
         "main_cpv": "48820000-2",
@@ -33,9 +33,9 @@
         "registered_name": "HumanoiT Informatikai Kft."
     },
     {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "963654271",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Areus Infokommunikációs Zrt.; Delta Systems Kft.; EURO ONE Számítástechnikai Zrt.; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; Sysman Informatikai Zrt.",
+        "contract_value": 963654271.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21522_2020/",
         "main_cpv": "48820000-2",
@@ -44,99 +44,11 @@
         "registered_name": "HumanoiT Informatikai Kft."
     },
     {
-        "company_names": "Delta Systems Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság",
-        "contract_value": "2418402175",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Delta Systems Kft.; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.",
+        "contract_value": 2418402175.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "27/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21229_2020/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 4,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1199744810",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0931_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 7,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "Delta Systems Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság",
-        "contract_value": "2814571469",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2737_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 4,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1911314994",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13131_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 7,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "Delta Systems Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság",
-        "contract_value": "2421869394",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13829_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 4,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MHM Computer Hungária Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Syspro Informatika Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "80000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 41,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "120000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 43,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "674800500",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24910_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 7,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "HumanoiT Informatikai Kft."
-    },
-    {
-        "company_names": "Delta Systems Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság",
-        "contract_value": "69487566",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24922_2021/",
         "main_cpv": "48820000-2",
         "number_companies_win": 4,
         "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",

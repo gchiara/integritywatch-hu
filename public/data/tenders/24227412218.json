@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "97804581",
+        "contract_value": 97804581.0,
         "contracting_authority": "Trianon Múzeum Alapítvány",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18086_2020/",
         "main_cpv": "79821000-5",
         "number_companies_win": 0,
         "procurement_title": "Nyomdai szolgáltatás - 2020.",
-        "registered_name": "Szülőföld Könyvkiadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Szülőföld Könyvkiadó Kft."
     }
 ]

@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "298052394",
+        "contract_value": 298052394.0,
         "contracting_authority": "Esztergom Megyei Jogú Város Önkormányzata",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9439_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Esztergom, Kossuth Lajos utca 38/B szám alatti társasházi lakóépület felújítása",
-        "registered_name": "ARCHITECT-BAU 2000 Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ARCHITECT-BAU 2000 Építőipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "242946979",
+        "contract_value": 242946979.0,
         "contracting_authority": "Esztergom Megyei Jogú Város Önkormányzata",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16576_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Simor János utca díszburkolat kialakítása",
-        "registered_name": "ARCHITECT-BAU 2000 Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "246446160",
-        "contracting_authority": "Esztergom Megyei Jogú Város Önkormányzata",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4783_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Fürdő Szálló homlokzatfelújítás",
-        "registered_name": "ARCHITECT-BAU 2000 Építőipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ARCHITECT-BAU 2000 Építőipari Szolgáltató Kft."
     }
 ]

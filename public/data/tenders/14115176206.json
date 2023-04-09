@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "54134150",
+        "contract_value": 54134150.0,
         "contracting_authority": "Királyhegyes Község Önkormányzata",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7368_2018/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Járdafelújítás",
-        "registered_name": "MESTER-BauHolding Korlátolt Felelősségű Társaság"
+        "registered_name": "MESTER-BauHolding Kft."
     },
     {
         "company_names": "",
-        "contract_value": "84985389",
+        "contract_value": 84985389.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17437_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szeged, Stefánia sétány 1. számú épület felújítása",
-        "registered_name": "MESTER-BauHolding Korlátolt Felelősségű Társaság"
+        "registered_name": "MESTER-BauHolding Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52884082",
+        "contract_value": 52884082.0,
         "contracting_authority": "Karolina Óvoda, Általános Iskola, Gimnázium, Alapfoku Müvészeti Iskola és Kollégium",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11978_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Udvarfelújítás",
-        "registered_name": "MESTER-BauHolding Korlátolt Felelősségű Társaság"
+        "registered_name": "MESTER-BauHolding Kft."
     },
     {
         "company_names": "",
-        "contract_value": "236157234",
+        "contract_value": 236157234.0,
         "contracting_authority": "Boldogasszony Iskolanővérek",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18095_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Boldogasszony Iskolanővérek energetikai felújítás",
-        "registered_name": "MESTER-BauHolding Korlátolt Felelősségű Társaság"
+        "registered_name": "MESTER-BauHolding Kft."
     }
 ]

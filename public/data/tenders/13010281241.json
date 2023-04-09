@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "64100000",
-        "contracting_authority": "KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 64100000.0,
+        "contracting_authority": "KTI Közlekedéstudományi Intézet Nonprofit Kft.",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5835_2020/",
         "main_cpv": "38424000-3",
         "number_companies_win": 0,
         "procurement_title": "Zajmonitoring és mobil zajmérés fejlesztés",
-        "registered_name": "LightPort Informatikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LightPort Informatikai, Kereskedelmi és Szolgáltató Kft."
     }
 ]

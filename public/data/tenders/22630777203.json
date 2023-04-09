@@ -1,596 +1,574 @@
 [
     {
         "company_names": "",
-        "contract_value": "6345678",
+        "contract_value": 6345678.0,
         "contracting_authority": "Közép-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3259_2018/",
         "main_cpv": "34136000-9",
         "number_companies_win": 0,
         "procurement_title": "Egy darab furgon, kishaszongépjármű beszerzése a Közép-Duna-völgyi Vízügyi Igazgatóság részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7980464",
+        "contract_value": 7980464.0,
         "contracting_authority": "Deák Ferenc Megyei és Városi Könyvtár",
         "date": "21/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9600_2018/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11096628",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11096628.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5738_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek és kistehergépjárművek beszerzése és minőségi cseréje a Budapest Közút Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21085080",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 21085080.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5738_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek és kistehergépjárművek beszerzése és minőségi cseréje a Budapest Közút Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1981833785,46",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1981833785.46,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5738_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek és kistehergépjárművek beszerzése és minőségi cseréje a Budapest Közút Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11244827",
+        "contract_value": 11244827.0,
         "contracting_authority": "Szigetvári Tankerületi Központ",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11931_2018/",
         "main_cpv": "39162200-7",
         "number_companies_win": 0,
         "procurement_title": "Szigetvári Tankerületi Központ eszközbeszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11883750",
+        "contract_value": 11883750.0,
         "contracting_authority": "Budapest Főváros Önkormányzata",
         "date": "07/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15506_2018/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Idősek Otthona Gödöllő, fokozott ápolást igénylő idősek otthona kialakítása (Erdőkertes kiváltása) első készletbeszerzés- II. ütem",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "207590",
-        "contracting_authority": "Miskolc Holding Önkormányzati Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "contract_value": 207590.0,
+        "contracting_authority": "Miskolc Holding Önkormányzati Vagyonkezelő Zrt.",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14253_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "956613",
-        "contracting_authority": "Miskolc Holding Önkormányzati Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "contract_value": 956613.0,
+        "contracting_authority": "Miskolc Holding Önkormányzati Vagyonkezelő Zrt.",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14253_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12680000",
+        "contract_value": 12680000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16615_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Speciális gépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5686540",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5686540.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16766_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek és kistehergépjárművek beszerzése és minőségi cseréje a Budapest Közút Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7245678",
+        "contract_value": 7245678.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15591_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kisteherautók beszerzése a Főkert Nonprofit Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10345000",
+        "contract_value": 10345000.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15591_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kisteherautók beszerzése a Főkert Nonprofit Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12444000",
+        "contract_value": 12444000.0,
         "contracting_authority": "Fővárosi Kertészeti Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15591_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kisteherautók beszerzése a Főkert Nonprofit Zrt. részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13992417",
+        "contract_value": 13992417.0,
         "contracting_authority": "Információs Hivatal",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17675_2018/",
         "main_cpv": "34115000-6",
         "number_companies_win": 0,
         "procurement_title": "Kisáruszállító gépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9900000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9900000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19340_2018/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Személygépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38066425",
+        "contract_value": 38066425.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1291_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "CsabaPark eszközbeszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "468585",
+        "contract_value": 468585.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2277_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése EFOP programok keretében",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35961420",
+        "contract_value": 35961420.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "11/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4237_2019/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "OBH részére 3db 8-as felső-közép kategóriás gépjármű beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10489000",
+        "contract_value": 10489000.0,
         "contracting_authority": "Debreceni Törvényszék",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5143_2019/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Debreceni Törvényszék hivatali gépjárműbeszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10987654",
+        "contract_value": 10987654.0,
         "contracting_authority": "Debreceni Törvényszék",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5143_2019/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Debreceni Törvényszék hivatali gépjárműbeszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3454577",
+        "contract_value": 3454577.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "03/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5671_2019/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Innovatív Szociális Szolgáltató Központ gépjármű beszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3676899",
+        "contract_value": 3676899.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "03/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5671_2019/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Innovatív Szociális Szolgáltató Központ gépjármű beszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "229250",
+        "contract_value": 229250.0,
         "contracting_authority": "Siófoki Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6174_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "949600",
+        "contract_value": 949600.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1064378",
+        "contract_value": 1064378.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1525920",
+        "contract_value": 1525920.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1833720",
+        "contract_value": 1833720.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3000000",
+        "contract_value": 3000000.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3567542",
+        "contract_value": 3567542.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4858920",
+        "contract_value": 4858920.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8846820",
+        "contract_value": 8846820.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39591003",
+        "contract_value": 39591003.0,
         "contracting_authority": "Szegedi Tankerületi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5948_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorok beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7471656",
+        "contract_value": 7471656.0,
         "contracting_authority": "Nyugat-Dunántúli Vízügyi Igazgatóság",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7305_2019/",
         "main_cpv": "34110000-1, 34113300-5",
         "number_companies_win": 0,
         "procurement_title": "Személygépkocsi beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8590590",
+        "contract_value": 8590590.0,
         "contracting_authority": "Vasas Sport Club",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9288_2019/",
         "main_cpv": "34114400-3",
         "number_companies_win": 0,
         "procurement_title": "Buszbeszerzés a Vasas SC részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9363363",
+        "contract_value": 9363363.0,
         "contracting_authority": "Vasas Sport Club",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9288_2019/",
         "main_cpv": "34114400-3",
         "number_companies_win": 0,
         "procurement_title": "Buszbeszerzés a Vasas SC részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14090014",
+        "contract_value": 14090014.0,
         "contracting_authority": "Vasas Sport Club",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9288_2019/",
         "main_cpv": "34114400-3",
         "number_companies_win": 0,
         "procurement_title": "Buszbeszerzés a Vasas SC részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13784630",
+        "contract_value": 13784630.0,
         "contracting_authority": "Balaton-Felvidéki Nemzeti Park Igazgatóság",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9771_2019/",
         "main_cpv": "34130000-7",
         "number_companies_win": 0,
         "procurement_title": "Ötszemélyes áruszállító (pick-up) terepjáró haszongépjárművek beszerzése a Balaton-felvidéki Nemzeti Park Igazgatóság részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13984630",
+        "contract_value": 13984630.0,
         "contracting_authority": "Balaton-Felvidéki Nemzeti Park Igazgatóság",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9771_2019/",
         "main_cpv": "34130000-7",
         "number_companies_win": 0,
         "procurement_title": "Ötszemélyes áruszállító (pick-up) terepjáró haszongépjárművek beszerzése a Balaton-felvidéki Nemzeti Park Igazgatóság részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13033107",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 13033107.0,
+        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft.",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20319_2019/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11987000",
+        "contract_value": 11987000.0,
         "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
         "date": "31/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1433_2020/",
         "main_cpv": "34113300-5",
         "number_companies_win": 0,
         "procurement_title": "KEHOP gépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6586328",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 6586328.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5548_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kistehergépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6686456",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 6686456.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5548_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kistehergépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6786131",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 6786131.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5548_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kistehergépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6986296",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 6986296.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5548_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kistehergépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14493552",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 14493552.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5548_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Kistehergépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9278278",
+        "contract_value": 9278278.0,
         "contracting_authority": "Budapest Főváros Főpolgármesteri Hivatal",
         "date": "06/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5901_2020/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Személygépjármű beszerzés 2020",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72380000",
+        "contract_value": 72380000.0,
         "contracting_authority": "Somogy Megyei Kormányhivatal",
         "date": "27/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6948_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "SMKH részére személygépjárművek beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29480480",
+        "contract_value": 29480480.0,
         "contracting_authority": "Győr-Moson-Sopron Megyei Kormányhivatal",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14989_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Helyszíni ellenőrzésekhez szükséges gépjárművek beszerzése a Győr-Moson-Sopron Megyei Kormányhivatal részére",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10200000",
+        "contract_value": 10200000.0,
         "contracting_authority": "Budapest Főváros Főpolgármesteri Hivatal",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19927_2020/",
         "main_cpv": "34115200-8",
         "number_companies_win": 0,
         "procurement_title": "Mikrobusz beszerzés",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7450000",
+        "contract_value": 7450000.0,
         "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23448_2020/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági, erdészeti és őrszolgálati járművek",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15480000",
+        "contract_value": 15480000.0,
         "contracting_authority": "Kiskunsági Nemzeti Park Igazgatóság",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23448_2020/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági, erdészeti és őrszolgálati járművek",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9875000",
-        "contracting_authority": "Karancslapujtő Község Önkormányzata",
-        "date": "17/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9087_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjárművek, munkagépek, gépi eszközök beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18180000",
-        "contracting_authority": "Karancslapujtő Község Önkormányzata",
-        "date": "17/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9087_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjárművek, munkagépek, gépi eszközök beszerzése",
-        "registered_name": "CPM Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "CPM Hungary Kft."
     }
 ]

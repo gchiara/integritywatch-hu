@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "218696397",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 218696397.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4840_2018/",
         "main_cpv": "45221119-9",
         "number_companies_win": 0,
         "procurement_title": "Hídfelújítás VI. 2017.",
-        "registered_name": "Egomax Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Egomax Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "525561210",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 525561210.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4840_2018/",
         "main_cpv": "45221119-9",
         "number_companies_win": 0,
         "procurement_title": "Hídfelújítás VI. 2017.",
-        "registered_name": "Egomax Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Egomax Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "809603228",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 809603228.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4840_2018/",
         "main_cpv": "45221119-9",
         "number_companies_win": 0,
         "procurement_title": "Hídfelújítás VI. 2017.",
-        "registered_name": "Egomax Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Egomax Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1110573073",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1110573073.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4840_2018/",
         "main_cpv": "45221119-9",
         "number_companies_win": 0,
         "procurement_title": "Hídfelújítás VI. 2017.",
-        "registered_name": "Egomax Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Egomax Építőipari Kft."
     },
     {
-        "company_names": "Egomax Építőipari Korlátolt Felelősségű Társaság; Híd-Tám Hídépítési Fővállalkozó, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3000000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "Egomax Építőipari Kft.; Híd-Tám Hídépítési Fővállalkozó, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 3000000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20461_2019/",
         "main_cpv": "45221119-9",
         "number_companies_win": 2,
         "procurement_title": "Hidak karbantartása 2019",
-        "registered_name": "Egomax Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Egomax Építőipari Kft."
     },
     {
-        "company_names": "Colas Közlekedésépítő Zártkörűen Működő Részvénytársaság; Egomax Építőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "1245540021",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "Colas Közlekedésépítő Zrt.; Egomax Építőipari Kft.",
+        "contract_value": 1245540021.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "28/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2891_2020/",
         "main_cpv": "45221119-9",
         "number_companies_win": 2,
         "procurement_title": "Szendrőládi Bódva-híd felújítása",
-        "registered_name": "Egomax Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Egomax Építőipari Kft."
     }
 ]

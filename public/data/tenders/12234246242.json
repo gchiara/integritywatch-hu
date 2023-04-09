@@ -1,134 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "20775000",
+        "contract_value": 20775000.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "24/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18298_2017/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "ASP Ingatlanvagyon-kataszter szakrendszer (ASP.IVK) supportja",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32788800",
+        "contract_value": 32788800.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "04/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4788_2019/",
         "main_cpv": "72212610-8",
         "number_companies_win": 0,
         "procurement_title": "ASP Ipar- és kereskedelmi karbantartás",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33930000",
+        "contract_value": 33930000.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "04/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4781_2019/",
         "main_cpv": "72212610-8",
         "number_companies_win": 0,
         "procurement_title": "ASP Hagyatéki leltár rendszer karbantartása",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42980400",
+        "contract_value": 42980400.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "04/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4784_2019/",
         "main_cpv": "72212610-8",
         "number_companies_win": 0,
         "procurement_title": "ASP Ingatlanvagyon-kataszter karbantartás",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34507300",
+        "contract_value": 34507300.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8521_2020/",
         "main_cpv": "72266000-7",
         "number_companies_win": 0,
         "procurement_title": "ASP Ipar- és kereskedelmi szakrendszer supportja",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35498400",
+        "contract_value": 35498400.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8516_2020/",
         "main_cpv": "72266000-7",
         "number_companies_win": 0,
         "procurement_title": "ASP Hagyatéki szakrendszer supportja",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48523000",
+        "contract_value": 48523000.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8520_2020/",
         "main_cpv": "72266000-7",
         "number_companies_win": 0,
         "procurement_title": "ASP Ingatlanvagyon szakrendszer supportja",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11800000",
+        "contract_value": 11800000.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "16/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10525_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "ASP Hagyatéki leltár rendszer egyedi fejlesztése",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38275000",
-        "contracting_authority": "Magyar Államkincstár",
-        "date": "18/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8619_2021/",
-        "main_cpv": "72267100-0",
-        "number_companies_win": 0,
-        "procurement_title": "ASP support",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43275000",
-        "contracting_authority": "Magyar Államkincstár",
-        "date": "18/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8619_2021/",
-        "main_cpv": "72267100-0",
-        "number_companies_win": 0,
-        "procurement_title": "ASP support",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "52825000",
-        "contracting_authority": "Magyar Államkincstár",
-        "date": "18/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8619_2021/",
-        "main_cpv": "72267100-0",
-        "number_companies_win": 0,
-        "procurement_title": "ASP support",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "64260000",
-        "contracting_authority": "FEV IX. Ferencvárosi Vagyonkezelő és Városfejlesztő Zártkörűen Működő Részvénytársaság",
-        "date": "02/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12125_2021/",
-        "main_cpv": "98351000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Parkolási rendszer üzemeltetést támogató ügyviteli szoftver",
-        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Komunáldata Számitástechnikai Fejlesztő és Szolgáltató Kft."
     }
 ]

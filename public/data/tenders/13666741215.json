@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "290000000",
+        "contract_value": 290000000.0,
         "contracting_authority": "Budapesti Komplex Szakképzési Centrum",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23946_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási és javítási feladatok ellátása",
-        "registered_name": "WORTEX Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "WORTEX Szolgáltató Kft."
     }
 ]

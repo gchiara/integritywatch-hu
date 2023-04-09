@@ -1,35 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "137373731",
+        "contract_value": 137373731.0,
         "contracting_authority": "Egyházmegyei Katolikus Iskolák Főhatósága",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22095_2019/",
         "main_cpv": "71356400-2",
         "number_companies_win": 0,
         "procurement_title": "A Karolina Katolikus Általános Iskola tervezése 2.",
-        "registered_name": "4D Építész Stúdió Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "78787878",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "04/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7595_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Science Park Szeged Öthalmi Campus tervezése",
-        "registered_name": "4D Építész Stúdió Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55555555",
-        "contracting_authority": "Tokaj Borvidék Fejlődéséért Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "12/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18567_2021/",
-        "main_cpv": "71000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Tokaj-Hegyalja Egyetem kampusz fejlesztése",
-        "registered_name": "4D Építész Stúdió Korlátolt Felelősségű Társaság"
+        "registered_name": "4D Építész Stúdió Kft."
     }
 ]

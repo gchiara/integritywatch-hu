@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "115245132",
+        "contract_value": 115245132.0,
         "contracting_authority": "Pétervására Városi Önkormányzat",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1577_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Pétervásárai Napköziotthonos Óvoda Bölcsődei szolgáltatási egység létrehozásával egybekötött infrastrukturális fejlesztése",
-        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20250843",
+        "contract_value": 20250843.0,
         "contracting_authority": "Hatvani Tankerületi Központ",
         "date": "05/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15646_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Különböző épületek felújítási munkálatai",
-        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28276846",
+        "contract_value": 28276846.0,
         "contracting_authority": "Tarnalelesz Községi Önkormányzat",
         "date": "05/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15182_2018/",
         "main_cpv": "45212500-1",
         "number_companies_win": 0,
         "procurement_title": "Főzőkonyha kialakítása Tarnaleleszen",
-        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24778942",
-        "contracting_authority": "PET-FORM Flakongyártó és Forgalmazó Korlátolt Felelősségű Társaság",
+        "contract_value": 24778942.0,
+        "contracting_authority": "PET-FORM Flakongyártó és Forgalmazó Kft.",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17575_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Üzemcsarnok építése",
-        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "295617116",
-        "contracting_authority": "Equitum Castra Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 295617116.0,
+        "contracting_authority": "Equitum Castra Nonprofit Kft.",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13185_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Új turisztikai központ létesítése Kisfüzesen",
-        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BAFAG Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

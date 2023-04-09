@@ -1,112 +1,68 @@
 [
     {
-        "company_names": "Magyar Mérnök Céh Korlátolt Felelősségű Társaság; Országos Vízügyi Beruházási Mérnöki Konzulens és Tervező Korlátolt Felelősségű Társaság; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság; UTIBER Közúti Beruházó Kft.",
-        "contract_value": "1298316979",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Magyar Mérnök Céh Kft.; Országos Vízügyi Beruházási Mérnöki Konzulens és Tervező Kft.; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft.; UTIBER Közúti Beruházó Kft.",
+        "contract_value": 1298316979.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_285/megtekint/portal_729_2018/",
         "main_cpv": "71247000-1, 71300000-1, 71311000-1, 71311100-2, 71311230-2, 71318000-0",
         "number_companies_win": 4,
         "procurement_title": "Megbízási szerződés az Ajánlatkérő által megrendelendő vasút építési beruházási munkák lebonyolítását támogató szakértői feladatok (független mérnöki, lebonyolítói, műszaki ellenőri, ellenőrző mérnöki (FIDIC mérnöki), műszaki szakértői, tervellenőri) ellátására, adott esetben a FIDIC rendszer feltételei szerint.",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
+        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft."
     },
     {
-        "company_names": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság; UTIBER Közúti Beruházó Kft.",
-        "contract_value": "138500000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft.; UTIBER Közúti Beruházó Kft.",
+        "contract_value": 138500000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2234_2018/",
         "main_cpv": "71300000-1",
         "number_companies_win": 2,
         "procurement_title": "M86 gyorsforgalmi út VÁMOSCSALÁD tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely és RÁBAKÖZ komplex pihenőhely kivitelezéséhez kapcsolód mérnöki munkák ellátása.",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
+        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft."
     },
     {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság",
-        "contract_value": "29018000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Kft.; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft.",
+        "contract_value": 29018000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "10/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0209_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 2,
         "procurement_title": "Pilisborosjenő, Ipartelep bekötés létesítése",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
+        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft."
     },
     {
-        "company_names": "Magyar Mérnök Céh Korlátolt Felelősségű Társaság; Országos Vízügyi Beruházási Mérnöki Konzulens és Tervező Korlátolt Felelősségű Társaság; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság; UTIBER Közúti Beruházó Kft.",
-        "contract_value": "351627648",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "Magyar Mérnök Céh Kft.; Országos Vízügyi Beruházási Mérnöki Konzulens és Tervező Kft.; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft.; UTIBER Közúti Beruházó Kft.",
+        "contract_value": 351627648.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "22/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_277/megtekint/portal_5008_2019/",
         "main_cpv": "71247000-1, 71300000-1, 71311000-1, 71311100-2, 71311230-2, 71318000-0",
         "number_companies_win": 4,
         "procurement_title": "Vasút építési beruházási munkák lebonyolítását támogató szakértői feladatok",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
+        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96600000",
+        "contract_value": 96600000.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "23/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24129_2019/",
         "main_cpv": "71241000-9",
         "number_companies_win": 0,
         "procurement_title": "Megvalósíthatósági tanulmányterv készítése",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
+        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1525000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 1525000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "25/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17428_2020/",
         "main_cpv": "71310000-4",
         "number_companies_win": 0,
         "procurement_title": "Dél-Balatoni kiegészítő munkák – Mérnök feladatok",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24200000",
-        "contracting_authority": "Toll Service Zártkörűen Működő Részvénytársaság",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18656_2021/",
-        "main_cpv": "90700000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Kragujevac megvalósíthatósági tanulmány-2/2021",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Enrawell Consulting Korlátolt Felelősségű Társaság; Ex Ante Tanácsadó Iroda Korlátolt Felelősségű Társaság; Investmentor Agency Tanácsadó Korlátolt Felelősségű Társaság; MSB Fejlesztési Tanácsadó Zártkörűen Működő Részvénytársaság; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság",
-        "contract_value": "157480314",
-        "contracting_authority": "Pécs Megyei Jogú Város Önkormányzata",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18976_2021/",
-        "main_cpv": "71241000-9",
-        "number_companies_win": 5,
-        "procurement_title": "Pécs Megyei Jogú Város Önkormányzata a 2021-2027-es uniós fejlesztési ciklusban megvalósuló beruházásainak megfelelő és módszeres előkészítése érdekében szakértői feladatok beszerzése",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Ex Ante Tanácsadó Iroda Korlátolt Felelősségű Társaság; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság",
-        "contract_value": "47800000",
-        "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
-        "date": "13/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23789_2021/",
-        "main_cpv": "71241000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Börgönd repülőtér- megvalósíthatósági tanulmány",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság",
-        "contract_value": "36000000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Önkormányzat",
-        "date": "16/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24248_2021/",
-        "main_cpv": "71241000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Megyei kerékpárforgalmi főhálózati terv készítése",
-        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Korlátolt Felelősségű Társaság"
+        "registered_name": "Transinvest-Budapest Mérnöki, Konzultánsi, Kereskedelmi és ügynöki Kft."
     }
 ]

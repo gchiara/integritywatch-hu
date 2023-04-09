@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "133027670",
-        "contracting_authority": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 133027670.0,
+        "contracting_authority": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Kft.",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13042_2018/",
         "main_cpv": "45213250-0",
         "number_companies_win": 0,
         "procurement_title": "A Bodrogi Bau Kft. polisztirolhab gyártó üzemének építési kivitelezése",
-        "registered_name": "GB ÉSZAKPROJEKT Innovációs, Műszaki és Gazdasági Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "GB ÉSZAKPROJEKT Innovációs, Műszaki és Gazdasági Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116829653",
-        "contracting_authority": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 116829653.0,
+        "contracting_authority": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Kft.",
         "date": "18/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18605_2018/",
         "main_cpv": "45213250-0",
         "number_companies_win": 0,
         "procurement_title": "Polisztirolhab feldolgozó üzem fejlesztése 2. ütem",
-        "registered_name": "GB ÉSZAKPROJEKT Innovációs, Műszaki és Gazdasági Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "GB ÉSZAKPROJEKT Innovációs, Műszaki és Gazdasági Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "249282321",
-        "contracting_authority": "ZOLEND Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 249282321.0,
+        "contracting_authority": "ZOLEND Szolgáltató és Kereskedelmi Kft.",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22646_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás debreceni telephely",
-        "registered_name": "GB ÉSZAKPROJEKT Innovációs, Műszaki és Gazdasági Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "GB ÉSZAKPROJEKT Innovációs, Műszaki és Gazdasági Fejlesztő Kft."
     }
 ]

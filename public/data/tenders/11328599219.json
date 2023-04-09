@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "180447560",
+        "contract_value": 180447560.0,
         "contracting_authority": "Balatonfűzfő Város Önkormányzata Szivárvány Óvoda és Bölcsőde",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0684_2019/",
         "main_cpv": "55510000-8",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetés 4 évre",
-        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "139972260",
+        "contract_value": 139972260.0,
         "contracting_authority": "Balatonfűzfő Város Önkormányzata",
         "date": "18/01/2019",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_0685_2019/",
         "main_cpv": "55510000-8",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetés 4 évre",
-        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "505051555",
+        "contract_value": 505051555.0,
         "contracting_authority": "Veszprémi Intézményi Szolgáltató Szervezet",
         "date": "30/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_11230_2020/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetési feladatok ellátása",
-        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "355505931",
+        "contract_value": 355505931.0,
         "contracting_authority": "Balatonalmádi Városgondnokság",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_22543_2020/",
         "main_cpv": "55524000-9",
         "number_companies_win": 0,
         "procurement_title": "Vásárolt élelmezési szolgáltatások beszerzés",
-        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12227254363",
-        "contracting_authority": "Veszprémi Intézményi Szolgáltató Szervezet",
-        "date": "29/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_11785_2021/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Veszprém közétkeztetés 2021",
-        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Bakony GASZT Kereskedelmi, Vendéglátó és Szolgáltató Zrt."
     }
 ]

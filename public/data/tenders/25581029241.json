@@ -1,24 +1,24 @@
 [
     {
-        "company_names": "IDEONA Zártkörűen Működő Részvénytársaság; Rávezető Projekt Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "450642000",
+        "company_names": "IDEONA Zrt.; Rávezető Projekt Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 450642000.0,
         "contracting_authority": "Veszprém Megyei Kormányhivatal",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16797_2019/",
         "main_cpv": "80500000-9",
         "number_companies_win": 2,
         "procurement_title": "Képzés és kapcsolódó szolgáltatás",
-        "registered_name": "IDEONA Zártkörűen Működő Részvénytársaság"
+        "registered_name": "IDEONA Zrt."
     },
     {
-        "company_names": "CREATIVE TRAVEL FACTORY Korlátolt Felelősségű Társaság; IDEONA Zártkörűen Működő Részvénytársaság",
-        "contract_value": "503102362",
+        "company_names": "CREATIVE TRAVEL FACTORY Kft.; IDEONA Zrt.",
+        "contract_value": 503102362.0,
         "contracting_authority": "Veszprém Megyei Kormányhivatal",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16797_2019/",
         "main_cpv": "80500000-9",
         "number_companies_win": 2,
         "procurement_title": "Képzés és kapcsolódó szolgáltatás",
-        "registered_name": "IDEONA Zártkörűen Működő Részvénytársaság"
+        "registered_name": "IDEONA Zrt."
     }
 ]

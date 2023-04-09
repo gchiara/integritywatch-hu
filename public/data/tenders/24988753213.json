@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "1701345935",
-        "contracting_authority": "Maragoni Élelmiszeripari Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1701345935.0,
+        "contracting_authority": "Maragoni Élelmiszeripari Zrt.",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11626_2018/",
         "main_cpv": "39312000-2",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "68000000",
-        "contracting_authority": "Márka Üdítőgyártó Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 68000000.0,
+        "contracting_authority": "Márka Üdítőgyártó Kereskedelmi és Szolgáltató Kft.",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14138_2018/",
         "main_cpv": "42000000-6",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "23995964",
+        "contract_value": 23995964.0,
         "contracting_authority": "Természettudományi Kutatóközpont",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14664_2018/",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "64408340",
-        "contracting_authority": "\"Silvestris & Szilas\" Gyógynövényfeldolgozó Korlátolt Felelősségü Társaság",
+        "contract_value": 64408340.0,
+        "contracting_authority": "\"Silvestris & Szilas\" Gyógynövényfeldolgozó Kft.",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9246_2019/",
         "main_cpv": "42000000-6",

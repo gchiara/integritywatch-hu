@@ -1,937 +1,618 @@
 [
     {
         "company_names": "",
-        "contract_value": "80000000",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 80000000.0,
+        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft.",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4487_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretében Microsoft licencek beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; Compliance Data Systems Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Korlátolt Felelősségű Társaság; Networker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Soloron 40 Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TR Consult Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; Black Cell Magyarország Kft.; Compliance Data Systems Kft.; Cyber Services Zrt.; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Kft.; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; filter:max Informatikai Kereskedelmi és Szolgáltató Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; Grepton Informatikai Zrt.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invigor Informatika Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Kft.; Networker Kereskedelmi és Szolgáltató Kft.; NOREG Információvédelmi Kft.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; Pegasus Informatikai Kft.; PIK-SYS Informatikai és Tanácsadó Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; SERCO Informatika Kft.; Soloron 40 Kft.; SYMPORT HOLDING Informatikai Zrt.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TR Consult Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; Visoft Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XS Matrix Security Solutions Kft.",
+        "contract_value": 20000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7487_2018/",
         "main_cpv": "48730000-4",
         "number_companies_win": 62,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BIT SERVICE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; IMG Solution Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SeE Enterprise e-Solutions Kereskedelmi és Szolgáltató Kft.; SOFTLINE SERVICES Korlátolt Felelősségű Társaság; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "10000000000",
+        "company_names": "ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BIT SERVICE Kereskedelmi és Szolgáltató Kft.; Duna Elektronika Számítástechnikai Kft.; Grepton Informatikai Zrt.; IMG Solution Kft.; Invitech Megoldások Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SeE Enterprise e-Solutions Kereskedelmi és Szolgáltató Kft.; SOFTLINE SERVICES Kft.; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Kft.; Sysman Informatikai Zrt.; T-Systems Magyarország Zrt.",
+        "contract_value": 10000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7578_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 15,
         "procurement_title": "Microsoft szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése, cseréje, valamint új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHANET Informatikai Zártkörűen Működő Részvénytársaság \"felszámolás alatt\"; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; E-ZumIT Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; SMP Solutions Korlátolt Felelősségű Társaság; Soloron 40 Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TR Consult Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; VRS Magyarország Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2500000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHANET Informatikai Zrt. \"felszámolás alatt\"; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Delta Systems Kft.; Digitran Hungária Digitális Transzformáció Zrt.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; E-ZumIT Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invigor Informatika Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; PANOR Informatika Zrt.; PROFESSZIONÁL Informatikai Zrt.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SERCO Informatika Kft.; SMP Solutions Kft.; Soloron 40 Kft.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TR Consult Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; VRS Magyarország Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 2500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8088_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 45,
         "procurement_title": "VMware virtualizációs szoftverlicenszek beszerzése és kapcsolódó szolgálatások teljesítése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74800000",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 74800000.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9223_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Az Univerzál Beszerző Kft. részére informatikai eszközök és hálózatfüggetlen mobiltelefonok szállítása",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "174000000",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 174000000.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9223_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Az Univerzál Beszerző Kft. részére informatikai eszközök és hálózatfüggetlen mobiltelefonok szállítása",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; CompuTREND Zártkörűen Működő Részvénytársaság; Corollis Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; WEBSTAR CSOPORT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "28000000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ASH Szoftverház Kft.; CompuTREND Zrt.; Corollis Kft.; Delta Systems Kft.; EURO ONE Számítástechnikai Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; Grepton Informatikai Zrt.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.; WEBSTAR CSOPORT Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 28000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9868_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 31,
         "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "166452",
+        "contract_value": 166452.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12225_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "69 db informatikai eszköz beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "\"HOSTLINE\" Kommunikációs Rendszer Szolgáltató Korlátolt Felelősségű Társaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GEOMANT-ALGOTECH Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Merlion Tech Korlátolt Felelősségű Társaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; Spacenet Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "27500000000",
+        "company_names": "\"HOSTLINE\" Kommunikációs Rendszer Szolgáltató Kft.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; BRAVONET Kft.; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GEOMANT-ALGOTECH Zrt.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; LANeX Tanácsadó Kft.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; Merlion Tech Kft.; MWMS Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; PANOR Informatika Zrt.; PIK-SYS Informatikai és Tanácsadó Kft.; PORION-DIGITAL Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; S&T Services Hungary Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; Secops Kereskedelmi és Szolgáltató Kft.; SERCO Informatika Kft.; Spacenet Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szinva Net Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 27500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "02/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13311_2018/",
         "main_cpv": "32400000-7",
         "number_companies_win": 64,
         "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése - 2018",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "107159668",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 107159668.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "31/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15240_2018/",
         "main_cpv": "30199000-0",
         "number_companies_win": 0,
         "procurement_title": "Az Univerzál Beszerző Kft. részére papír és nyomtatási segédanyagok szállítása",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139590",
+        "contract_value": 139590.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16061_2018/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "277673",
+        "contract_value": 277673.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16061_2018/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34567312",
+        "contract_value": 34567312.0,
         "contracting_authority": "Mohácsi Tankerületi Központ",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17579_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Digitális Tanterem - eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "492372",
+        "contract_value": 492372.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17949_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP pályázatokhoz kapcsolódóan",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "843240",
+        "contract_value": 843240.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17949_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP pályázatokhoz kapcsolódóan",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12940295",
+        "contract_value": 12940295.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17949_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP pályázatokhoz kapcsolódóan",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25745034",
+        "contract_value": 25745034.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17949_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP pályázatokhoz kapcsolódóan",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46911573",
+        "contract_value": 46911573.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17949_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése EFOP pályázatokhoz kapcsolódóan",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8750500",
+        "contract_value": 8750500.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "12/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22640_2018/",
         "main_cpv": "38652100-1",
         "number_companies_win": 0,
         "procurement_title": "Projektorok beszerzése 2. a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; CENTER COMPUTER Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DELTA SYSTEM Informatikai és Kereskedelmi Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Korlátolt Felelősségű Társaság; Infocopy Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Piackutató és Kereskedelmi Korlátolt Felelősségű társaság.; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RENDESWEB Fejlesztési és Tanácsadó Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "9500000000",
+        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; CANON HUNGARIA Kereskedelmi Kft.; CENTER COMPUTER Számítástechnikai Kereskedelmi Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Informatika Kereskedelmi és Szolgáltató Zrt.; Delta Services Kereskedelmi és Szolgáltató Kft.; DELTA SYSTEM Informatikai és Kereskedelmi Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Kft.; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Kft.; Infocopy Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; LÉZER Irodatechnika Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MFP Applications Szoftverfejlesztő Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Pegasus Piackutató és Kereskedelmi Kft..; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; Quality Intelligence Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RENDESWEB Fejlesztési és Tanácsadó Kft.; RevoSmart Kft.; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; WALLITRADE Kereskedelmi és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 9500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 54,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3160800",
+        "contract_value": 3160800.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0732_2019/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP pályázatok informatikai eszközei II.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8257205",
+        "contract_value": 8257205.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0732_2019/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP pályázatok informatikai eszközei II.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8431078",
+        "contract_value": 8431078.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0732_2019/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP pályázatok informatikai eszközei II.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70957235",
+        "contract_value": 70957235.0,
         "contracting_authority": "Pécsi Egyházmegye",
         "date": "11/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4388_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "192400",
+        "contract_value": 192400.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7481_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "318990",
+        "contract_value": 318990.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7481_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1856032",
+        "contract_value": 1856032.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7481_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2363145",
+        "contract_value": 2363145.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7481_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2535450",
+        "contract_value": 2535450.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7481_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7776128",
+        "contract_value": 7776128.0,
         "contracting_authority": "Tamási Tankerületi Központ",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8650_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Digitális interaktív eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4914000",
+        "contract_value": 4914000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10563_2019/",
         "main_cpv": "30213300-8",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2999000",
+        "contract_value": 2999000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10485_2019/",
         "main_cpv": "33124100-6",
         "number_companies_win": 0,
         "procurement_title": "MVP ÁOK Eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13748626",
+        "contract_value": 13748626.0,
         "contracting_authority": "Harkány Város Önkormányzata",
         "date": "05/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16480_2019/",
         "main_cpv": "37500000-3",
         "number_companies_win": 0,
         "procurement_title": "EFOP és TOP pályázatokhoz eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5954020",
+        "contract_value": 5954020.0,
         "contracting_authority": "Baranya Megyei Rendőr-Főkapitányság",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21155_2019/",
         "main_cpv": "31154000-0",
         "number_companies_win": 0,
         "procurement_title": "Szünetmentes áramforrások beszerzése és telepítése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8025780",
+        "contract_value": 8025780.0,
         "contracting_authority": "Szigetvár Város Önkormányzat",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20929_2019/",
         "main_cpv": "39522530-1",
         "number_companies_win": 0,
         "procurement_title": "GINOP-7.1.3-15 projekthez kapcsolódó eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2585015",
+        "contract_value": 2585015.0,
         "contracting_authority": "Nemzetbiztonsági Szakszolgálat",
         "date": "25/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21899_2019/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Tintapatron, toner beszerzés 2019.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21109859",
+        "contract_value": 21109859.0,
         "contracting_authority": "Nemzetbiztonsági Szakszolgálat",
         "date": "25/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21899_2019/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Tintapatron, toner beszerzés 2019.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3987900",
+        "contract_value": 3987900.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1274_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4985225",
+        "contract_value": 4985225.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1274_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5187728",
+        "contract_value": 5187728.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1274_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61622",
+        "contract_value": 61622.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "07/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7519_2020/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Anyag és eszköz beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "712126",
+        "contract_value": 712126.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "20/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8658_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "IT eszközök beszerzése a PTE részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29486523",
+        "contract_value": 29486523.0,
         "contracting_authority": "Pécs Megyei Jogú Város Polgármesteri Hivatala",
         "date": "13/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12407_2020/",
         "main_cpv": "48218000-9",
         "number_companies_win": 0,
         "procurement_title": "Microsoft licenszek használati jogának megszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "FŐVÁROSI TÖRVÉNYSZÉK ",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13472_2020/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "OEM eredeti tonerek szállítása",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EXISTORE Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
-        "contract_value": "2060926653",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; Delta Systems Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO ONE Számítástechnikai Zrt.; EXISTORE Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.",
+        "contract_value": 2060926653.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 21,
         "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MEDIUM Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3925756741",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 3925756741.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 22,
         "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "905921322",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; Delta Informatika Kereskedelmi és Szolgáltató Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MFP Applications Szoftverfejlesztő Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Pegasus Informatikai Kft.; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 905921322.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17242_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 9,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21795414",
+        "contract_value": 21795414.0,
         "contracting_authority": "Almamellék Községi Önkormányzat, Dencsháza Községi Önkormányzat, Kétújfalu Község Önkormányzat, Somogyapáti Község Önkormányzata, Somogyhárságy Község Önkormányzata, Szigetvár Város Önkormányzat",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17716_2020/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "TOP, EFOP pályázatokhoz kapcsolódó árubeszerzés",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSTYLE Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "12061555438",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALBACOMP SH Szoftverház Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; iSTYLE Hungary Kereskedelmi és Szolgáltató Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 12061555438.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 40,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ADATKÖZPONT Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "55101615043",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ADATKÖZPONT Kft.; ALBACOMP SH Szoftverház Kft.; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; DOKUCENTRUM Irodai Rendszerek Kft.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; IMG Solution Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invigor Informatika Kft.; Invitech ICT Services Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; MACROTEL Telefontechnikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 55101615043.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 53,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Corollis Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Korlátolt Felelősségű Társaság",
-        "contract_value": "1863476692",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; Corollis Kft.; EURO ONE Számítástechnikai Zrt.; INNOMATRIX SERVICES Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Kft.",
+        "contract_value": 1863476692.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20721_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 7,
         "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "622979074",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; Black Cell Magyarország Kft.; ETIAM Kft.; Gloster Networks Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; PIK-SYS Informatikai és Tanácsadó Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; USER RENDSZERHÁZ Informatikai Kft.",
+        "contract_value": 622979074.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "26/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21464_2020/",
         "main_cpv": "48730000-4",
         "number_companies_win": 11,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "1705950004",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "BRAVONET Kft.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PROFITEXPERT Számitástechnikai Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.",
+        "contract_value": 1705950004.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "27/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21229_2020/",
         "main_cpv": "48820000-2",
         "number_companies_win": 13,
         "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "Grepton Informatikai Zártkörűen Működő Részvénytársaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SOFTLINE SERVICES Korlátolt Felelősségű Társaság",
-        "contract_value": "192511114",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Grepton Informatikai Zrt.; Invitech Megoldások Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SOFTLINE SERVICES Kft.",
+        "contract_value": 192511114.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23038_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 5,
         "procurement_title": "Microsoft szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése, cseréje, valamint újszoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "1659019600",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; Gloster Networks Kft.; LANeX Tanácsadó Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; Officium Szolgáltató Kft.; PIK-SYS Informatikai és Tanácsadó Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; TIGRA Computer - és Irodatechnikai Kft.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.",
+        "contract_value": 1659019600.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23144_2020/",
         "main_cpv": "32400000-7",
         "number_companies_win": 13,
         "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     },
     {
-        "company_names": "Grepton Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; Magyar Telekom Távközlési Nyilvánosan Működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "242837220",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Grepton Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; Magyar Telekom Távközlési Nyrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Szinva Net Informatikai Zrt.",
+        "contract_value": 242837220.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23395_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 6,
         "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "611971163",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1416_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 11,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Corollis Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Korlátolt Felelősségű Társaság",
-        "contract_value": "1893216993",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "04/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1582_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 7,
-        "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
-        "contract_value": "5713472",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2179_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 5,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "Alpha-ess Hungary Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "54177056",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1684_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 8,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "2061232420",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2737_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 13,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "1178265358",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2921_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 13,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10845083",
-        "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
-        "date": "05/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3127_2021/",
-        "main_cpv": "39162110-9",
-        "number_companies_win": 0,
-        "procurement_title": "EFOP anyag és eszköz beszerzések 2020",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9437382",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3693_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Laptopok beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
-        "contract_value": "4481493",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3008_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 5,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "Alpha-ess Hungary Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "126380976",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3406_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 8,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "Grepton Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; Magyar Telekom Távközlési Nyilvánosan Működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "67894033",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4257_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 6,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "175564671",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5299_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Corollis Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Korlátolt Felelősségű Társaság",
-        "contract_value": "922287048",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11710_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 7,
-        "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "58930336",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11737_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 9,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "1478389305",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13829_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 12,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MHM Computer Hungária Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Syspro Informatika Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "80000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 41,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "120000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 43,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "609051290",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15425_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 11,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "732419567",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14409_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 13,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6505296",
-        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19130_2021/",
-        "main_cpv": "30213300-8",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "75451479",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21001_2021/",
-        "main_cpv": "43800000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Kutatási eszközök beszerzése PTE MIK részére",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14573960",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20692_2021/",
-        "main_cpv": "30192112-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "196473590",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20692_2021/",
-        "main_cpv": "30192112-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GEOMANT-ALGOTECH Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; IMG Solution Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Soloron 40 Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "130000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20940_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 36,
-        "procurement_title": "Hálózati aktív és passzív eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; IMG Solution Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "260000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20940_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 52,
-        "procurement_title": "Hálózati aktív és passzív eszközök beszerzése",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17621635",
-        "contracting_authority": "Székesfehérvár Megyei Jogú Város Polgármesteri Hivatala",
-        "date": "07/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24246_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Microsoft Exchange és Windows Server licenszek",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "226082524",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23680_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 11,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság",
-        "contract_value": "442664756",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23445_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 13,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "791795190",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24922_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 12,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft."
     }
 ]

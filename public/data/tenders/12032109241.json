@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "460000000",
+        "contract_value": 460000000.0,
         "contracting_authority": "Magyar Művészeti Akadémia Titkársága",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9777_2018/",
         "main_cpv": "90900000-6",
         "number_companies_win": 0,
         "procurement_title": "Az MMA intézményeiben takarítási feladatok elvégzése",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "485992872",
+        "contract_value": 485992872.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12880_2018/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "A Pest Megyei Flór Ferenc Kórház székhelyén takarítási feladatok ellátása vállalkozási szerződés keretében",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "752512500",
+        "contract_value": 752512500.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14604_2018/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet kezelésében lévő ingatlanok takarítására",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "Prizma FM Services Szolgáltató Korlátolt Felelősségű Társaság; PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1688188893",
+        "company_names": "Prizma FM Services Szolgáltató Kft.; PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft.",
+        "contract_value": 1688188893.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19233_2018/",
         "main_cpv": "90910000-9",
         "number_companies_win": 2,
         "procurement_title": "Takarítási feladatok ellátása a Pécsi Tudományegyetem telephelyein",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "496745424",
+        "contract_value": 496745424.0,
         "contracting_authority": "Bajai Szent Rókus Kórház",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5323_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "Takarítás 36 hónapra",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67552950",
-        "contracting_authority": "Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság",
+        "contract_value": 67552950.0,
+        "contracting_authority": "Magyar Turisztikai Ügynökség Zrt.",
         "date": "10/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14505_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "Külső- és belső takarítási feladatok ellátása",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33680016",
-        "contracting_authority": "UV Újpesti Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33680016.0,
+        "contracting_authority": "UV Újpesti Vagyonkezelő Zrt.",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20950_2020/",
         "main_cpv": "90900000-6",
         "number_companies_win": 0,
         "procurement_title": "Takarítási feladatok ellátása",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "505000000",
-        "contracting_authority": "Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központ, Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézet, Magyar Művészeti Akadémia Titkársága, Műcsarnok Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Pesti Vigadó Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "28/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24427_2021/",
-        "main_cpv": "90900000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Takarítás MMA",
-        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PROFI-KOMFORT Üzemviteli, Létesítmény-higiéniai, Építőipari és Szolgáltató Kft."
     }
 ]

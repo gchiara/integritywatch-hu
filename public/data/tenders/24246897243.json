@@ -1,178 +1,68 @@
 [
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; Compliance Data Systems Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Korlátolt Felelősségű Társaság; Networker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Soloron 40 Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TR Consult Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; Black Cell Magyarország Kft.; Compliance Data Systems Kft.; Cyber Services Zrt.; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Kft.; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; filter:max Informatikai Kereskedelmi és Szolgáltató Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; Grepton Informatikai Zrt.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invigor Informatika Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Kft.; Networker Kereskedelmi és Szolgáltató Kft.; NOREG Információvédelmi Kft.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; Pegasus Informatikai Kft.; PIK-SYS Informatikai és Tanácsadó Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; SERCO Informatika Kft.; Soloron 40 Kft.; SYMPORT HOLDING Informatikai Zrt.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TR Consult Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; Visoft Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XS Matrix Security Solutions Kft.",
+        "contract_value": 20000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7487_2018/",
         "main_cpv": "48730000-4",
         "number_companies_win": 62,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
+        "registered_name": "QZRT Infotech Kft."
     },
     {
-        "company_names": "\"HOSTLINE\" Kommunikációs Rendszer Szolgáltató Korlátolt Felelősségű Társaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GEOMANT-ALGOTECH Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Merlion Tech Korlátolt Felelősségű Társaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; Spacenet Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "27500000000",
+        "company_names": "\"HOSTLINE\" Kommunikációs Rendszer Szolgáltató Kft.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; BRAVONET Kft.; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GEOMANT-ALGOTECH Zrt.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; LANeX Tanácsadó Kft.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; Merlion Tech Kft.; MWMS Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; PANOR Informatika Zrt.; PIK-SYS Informatikai és Tanácsadó Kft.; PORION-DIGITAL Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; S&T Services Hungary Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; Secops Kereskedelmi és Szolgáltató Kft.; SERCO Informatika Kft.; Spacenet Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szinva Net Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 27500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "02/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13311_2018/",
         "main_cpv": "32400000-7",
         "number_companies_win": 64,
         "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése - 2018",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
+        "registered_name": "QZRT Infotech Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSTYLE Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "12061555438",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALBACOMP SH Szoftverház Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; iSTYLE Hungary Kereskedelmi és Szolgáltató Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 12061555438.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 40,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
+        "registered_name": "QZRT Infotech Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ADATKÖZPONT Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "55101615043",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ADATKÖZPONT Kft.; ALBACOMP SH Szoftverház Kft.; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; DOKUCENTRUM Irodai Rendszerek Kft.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; IMG Solution Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invigor Informatika Kft.; Invitech ICT Services Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; MACROTEL Telefontechnikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 55101615043.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 53,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
+        "registered_name": "QZRT Infotech Kft."
     },
     {
-        "company_names": "Compliance Data Systems Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "223550413",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Compliance Data Systems Kft.; QZRT Infotech Kft.; Sysman Informatikai Zrt.",
+        "contract_value": 223550413.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "26/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21464_2020/",
         "main_cpv": "48730000-4",
         "number_companies_win": 3,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
+        "registered_name": "QZRT Infotech Kft."
     },
     {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "89026886",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "NETvisor Informatikai és Kommunikációs Zrt.; QZRT Infotech Kft.; Sysman Informatikai Zrt.",
+        "contract_value": 89026886.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23144_2020/",
         "main_cpv": "32400000-7",
         "number_companies_win": 3,
         "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Compliance Data Systems Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "421183538",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1416_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 3,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "32645058",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2179_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 8,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "99496427",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2921_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "135447275",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3008_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 8,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1037674",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13201_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 8,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "28476089",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14409_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Compliance Data Systems Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "745168266",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15425_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 3,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "14187060",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14369_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 8,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Compliance Data Systems Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7730407",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23680_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 3,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "30208369",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23445_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "QZRT Infotech Korlátolt Felelősségű Társaság"
+        "registered_name": "QZRT Infotech Kft."
     }
 ]

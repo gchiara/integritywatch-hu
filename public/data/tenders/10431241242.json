@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "28800000",
+        "contract_value": 28800000.0,
         "contracting_authority": "RÁBA-VAD Feldolgozó, Kereskedelmi és Szolgáltató Korlátolt Felelőségű Társaság",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5664_2018/",
         "main_cpv": "39711130-9",
         "number_companies_win": 0,
         "procurement_title": "RÁBA-VAD Feldolgozó, Kereskedelmi és Szolgáltató Kft. Élelmiszeripari üzem fejlesztése, eszköz beszerzés",
-        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Korlátolt Felelősségű Társaság"
+        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94900000",
-        "contracting_authority": "DINGIR-INVEST Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 94900000.0,
+        "contracting_authority": "DINGIR-INVEST Tanácsadó és Szolgáltató Kft.",
         "date": "24/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18270_2018/",
         "main_cpv": "39711211-1",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer feldolgozó, csomagológép beszerzése",
-        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Korlátolt Felelősségű Társaság"
+        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35733037",
+        "contract_value": 35733037.0,
         "contracting_authority": "Tóth Gyula",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22011_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Töltelékáru készítő eszközök beszerzése",
-        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Korlátolt Felelősségű Társaság"
+        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3872000",
-        "contracting_authority": "PIG AND HUS Sertéstenyésztő-Hizlaló és Értékesitő Korlátolt Felelősségü Társaság",
+        "contract_value": 3872000.0,
+        "contracting_authority": "PIG AND HUS Sertéstenyésztő-Hizlaló és Értékesitő Kft.",
         "date": "23/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0302_2019/",
         "main_cpv": "42210000-1",
         "number_companies_win": 0,
         "procurement_title": "Húskockázó gép beszerzése",
-        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Korlátolt Felelősségű Társaság"
+        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1376035907,4",
-        "contracting_authority": "KOMETA 99 Élelmiszeripari Zártkörűen működő Részvénytársaság",
+        "contract_value": 1376035907.4,
+        "contracting_authority": "KOMETA 99 Élelmiszeripari Zrt.",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8075_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Vágóhídi melléktermékekből zsír és állati liszt előállítását célzó feldolgozó berendezés beszerzése",
-        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Korlátolt Felelősségű Társaság"
+        "registered_name": "SECOSER Európai Kereskedelmi és Szerviz Kft."
     }
 ]

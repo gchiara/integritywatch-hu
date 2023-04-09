@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "70000000",
+        "contract_value": 70000000.0,
         "contracting_authority": "MVM Égáz-Dégáz Földgázhálózati Zrt.",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_9772_2019/",
         "main_cpv": "45231100-6",
         "number_companies_win": 0,
         "procurement_title": "Alépítményi és helyreállítási munkák",
-        "registered_name": "Hudák Közmű Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hudák Közmű Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "230000000",
+        "contract_value": 230000000.0,
         "contracting_authority": "MVM Égáz-Dégáz Földgázhálózati Zrt.",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_9772_2019/",
         "main_cpv": "45231100-6",
         "number_companies_win": 0,
         "procurement_title": "Alépítményi és helyreállítási munkák",
-        "registered_name": "Hudák Közmű Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hudák Közmű Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

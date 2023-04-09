@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "97350264",
+        "contract_value": 97350264.0,
         "contracting_authority": "Pest Megyei Kormányhivatal",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20327_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "20058550",
+        "contract_value": 20058550.0,
         "contracting_authority": "Központi Statisztikai Hivatal",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10623_2019/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25229610",
+        "contract_value": 25229610.0,
         "contracting_authority": "Központi Statisztikai Hivatal",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10623_2019/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "46102849",
+        "contract_value": 46102849.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "12/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17442_2019/",
@@ -44,8 +44,8 @@
         "registered_name": "System Bau Trade Kft."
     },
     {
-        "company_names": "EB HUNGARY INVEST Ingatlanfejlesztő és Építőipari Korlátolt Felelősségű Társaság; System Bau Trade Kft.",
-        "contract_value": "5684038034",
+        "company_names": "EB HUNGARY INVEST Ingatlanfejlesztő és Építőipari Kft.; System Bau Trade Kft.",
+        "contract_value": 5684038034.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "02/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22867_2019/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "276053438",
+        "contract_value": 276053438.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "29/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9201_2020/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "2367483266",
+        "contract_value": 2367483266.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9228_2020/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "108460083",
+        "contract_value": 108460083.0,
         "contracting_authority": "Nemzeti Népegészségügyi Központ",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12989_2020/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "214947452",
+        "contract_value": 214947452.0,
         "contracting_authority": "Nemzeti Népegészségügyi Központ",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13300_2020/",

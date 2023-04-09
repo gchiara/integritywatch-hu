@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "174921715",
+        "contract_value": 174921715.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "03/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13357_2018/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Reménység Katolikus Általános Iskola részleges emeletráépítése",
-        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Korlátolt felelősségű Társaság"
+        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "766417801",
+        "contract_value": 766417801.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "23/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9251_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyetemi templom felújítása",
-        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Korlátolt felelősségű Társaság"
+        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "369921715",
+        "contract_value": 369921715.0,
         "contracting_authority": "Visegrád Város Önkormányzata",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18629_2019/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "A visegrádi Magyar László tornacsarnok felújítása",
-        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Korlátolt felelősségű Társaság"
+        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "291921715",
+        "contract_value": 291921715.0,
         "contracting_authority": "Magyarországi Baptista Egyház",
         "date": "14/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19397_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Magyarországi Baptista Egyház épületének energetikai felújítása",
-        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Korlátolt felelősségű Társaság"
+        "registered_name": "BAU-VIP GENERÁL Építőipari és Szolgáltató Kft."
     }
 ]

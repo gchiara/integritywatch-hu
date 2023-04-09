@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "576798100",
+        "contract_value": 576798100.0,
         "contracting_authority": "Balatonföldvár Város Önkormányzata",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12931_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Balatonföldvár - Zöld Város II. - kivitelezés",
-        "registered_name": "Átrium 88 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Átrium 88 Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111275018",
+        "contract_value": 111275018.0,
         "contracting_authority": "Győri Tankerületi Központ",
         "date": "22/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17105_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Köznevelési feltételek megteremtése - Kisfaludy",
-        "registered_name": "Átrium 88 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "84707500",
-        "contracting_authority": "Szentlőrinci Sportegyesület",
-        "date": "24/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16186_2021/",
-        "main_cpv": "45212200-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élőfüves sportpálya építése",
-        "registered_name": "Átrium 88 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Átrium 88 Építőipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

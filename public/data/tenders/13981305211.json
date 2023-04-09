@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "32258101",
+        "contract_value": 32258101.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21879_2018/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "Karitász ház belső átalakítása",
-        "registered_name": "S-TEAM BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "S-TEAM BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "202690898",
+        "contract_value": 202690898.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "17/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23668_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épületfelújítási munkálatok",
-        "registered_name": "S-TEAM BAU Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "205373781",
-        "contracting_authority": "Nyergesújfalu Város Önkormányzata",
-        "date": "30/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4815_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kernstok villa felújítása-2020",
-        "registered_name": "S-TEAM BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "S-TEAM BAU Építőipari Kft."
     }
 ]

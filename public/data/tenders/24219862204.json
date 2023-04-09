@@ -1,123 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "45040706",
+        "contract_value": 45040706.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "13/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4417_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Blaha Lujza utcai óvoda felújítása és bővítése",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31090911",
+        "contract_value": 31090911.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12394_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi út- és járda karbantartás",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72768805",
+        "contract_value": 72768805.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18394_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Kállai Ferenc Kulturális Központ felújítása",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2702576",
+        "contract_value": 2702576.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "14/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19496_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi út és parkoló építés",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4459644",
+        "contract_value": 4459644.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "14/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19496_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "2019. évi út és parkoló építés",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2537872",
+        "contract_value": 2537872.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13970_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Út, járda, parkoló felújítás 2020",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8983295",
+        "contract_value": 8983295.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13970_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Út, járda, parkoló felújítás 2020",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10450966",
+        "contract_value": 10450966.0,
         "contracting_authority": "Gyomaendrőd Város Önkormányzata",
         "date": "11/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16492_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Parkoló építés és járda felújítás 2020",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9723303",
-        "contracting_authority": "Gyomaendrőd Város Önkormányzata",
-        "date": "27/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7468_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Út és járdafelújítás 2021. évben",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4539263",
-        "contracting_authority": "Gyomaendrőd Város Önkormányzata",
-        "date": "03/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14810_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Út- és járdafelújítás, parkolóépítés 2021. 2 ütem",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11470940",
-        "contracting_authority": "Gyomaendrőd Város Önkormányzata",
-        "date": "03/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14810_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Út- és járdafelújítás, parkolóépítés 2021. 2 ütem",
-        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "CSABATECHNIKA Építőipari Szolgáltató és Kereskedelmi Kft."
     }
 ]

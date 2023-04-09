@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "13558200",
+        "contract_value": 13558200.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "23/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13275_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Nanomalom laboreszközök beszerzése",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15038980",
+        "contract_value": 15038980.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5228_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Kontaktszögmérő, mikro keménységmérő beszerzése",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28444850",
+        "contract_value": 28444850.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "12/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20593_2020/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Eszközbesz. 2. csomag",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "56400000",
+        "contract_value": 56400000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "12/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20593_2020/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Eszközbesz. 2. csomag",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22538800",
+        "contract_value": 22538800.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "13/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20572_2020/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Eszközbesz. 3. csomag",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3350000",
+        "contract_value": 3350000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23442_2020/",
         "main_cpv": "42900000-5",
         "number_companies_win": 0,
         "procurement_title": "HPHT iszapnyomó cella",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4599000",
-        "contracting_authority": "Magyar Agrár- és Élettudományi Egyetem",
-        "date": "28/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25605_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "GINOP Laboreszköz beszerzés",
-        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "UNITESTER Műszerkereskedelmi, Szolgáltató és Szaktanácsadó Kft."
     }
 ]

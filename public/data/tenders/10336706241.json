@@ -1,8 +1,8 @@
 [
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; PRO URBE Mérnöki és Városrendezési Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "244800000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; PRO URBE Mérnöki és Városrendezési Kft.; UVATERV Út-, Vasúttervező Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 244800000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "10/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4790_2018/",
         "main_cpv": "71320000-7",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "9400000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9400000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7111_2018/",
         "main_cpv": "71000000-8",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "8800000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8800000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "03/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7174_2018/",
         "main_cpv": "71000000-8",
@@ -33,9 +33,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Create Value Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "58600000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Create Value Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 58600000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "22/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10380_2018/",
         "main_cpv": "71241000-9",
@@ -44,9 +44,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "139200000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; UVATERV Út-, Vasúttervező Zrt.",
+        "contract_value": 139200000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13590_2018/",
         "main_cpv": "71320000-7",
@@ -55,9 +55,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság; FLAVUS Mérnökiroda Korlátolt Felelősségű Társaság; SPECIÁLTERV Építőmérnöki Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "853627097",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.; FLAVUS Mérnökiroda Kft.; SPECIÁLTERV Építőmérnöki Kft.; UVATERV Út-, Vasúttervező Zrt.",
+        "contract_value": 853627097.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19606_2018/",
         "main_cpv": "71320000-7",
@@ -66,9 +66,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; BOKÚT-TERV Mérnöki és Vállalkozó Korlátolt Felelősségű Társaság; CTB Mérnökiroda Korlátolt Felelősségű Társaság; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Korlátolt Felelősségű társaság; RODEN Mérnöki Iroda Korlátolt Felelősségű Társaság; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "985121666",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; BOKÚT-TERV Mérnöki és Vállalkozó Kft.; CTB Mérnökiroda Kft.; PARTNER Mérnöki Iroda Tervező, Kivitelező Szolgáltató Kft.; RODEN Mérnöki Iroda Kft.; UTIBER Közúti Beruházó Kft.; UVATERV Út-, Vasúttervező Zrt.",
+        "contract_value": 985121666.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19606_2018/",
         "main_cpv": "71320000-7",
@@ -78,8 +78,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "19100000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 19100000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17761_2018/",
         "main_cpv": "71220000-6",
@@ -89,8 +89,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "8200000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8200000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21149_2018/",
         "main_cpv": "71322500-6",
@@ -100,8 +100,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "21000000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 21000000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21149_2018/",
         "main_cpv": "71322500-6",
@@ -111,8 +111,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "23000000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 23000000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21149_2018/",
         "main_cpv": "71322500-6",
@@ -122,8 +122,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "66700000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 66700000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21123_2018/",
         "main_cpv": "71245000-7",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14000000",
+        "contract_value": 14000000.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5851_2019/",
@@ -143,9 +143,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "50533230",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.",
+        "contract_value": 50533230.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6864_2019/",
         "main_cpv": "71320000-7",
@@ -155,8 +155,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "48900000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 48900000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8340_2019/",
         "main_cpv": "71320000-7",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7500000",
+        "contract_value": 7500000.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "28/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16301_2019/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "19400000",
+        "contract_value": 19400000.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "28/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16301_2019/",
@@ -188,8 +188,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "73800000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 73800000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "27/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20989_2019/",
         "main_cpv": "71320000-7",
@@ -198,9 +198,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "19441793",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.",
+        "contract_value": 19441793.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12421_2020/",
         "main_cpv": "71320000-7",
@@ -209,9 +209,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "45270590",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.",
+        "contract_value": 45270590.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7677_2020/",
         "main_cpv": "71320000-7",
@@ -220,9 +220,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság",
-        "contract_value": "115800000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; UVATERV Út-, Vasúttervező Zrt.",
+        "contract_value": 115800000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13911_2020/",
         "main_cpv": "71320000-7",
@@ -232,7 +232,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "9200000",
+        "contract_value": 9200000.0,
         "contracting_authority": "Szekszárd Megyei Jogú Város Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14793_2020/",
@@ -242,9 +242,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "27338900",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.",
+        "contract_value": 27338900.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "08/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17847_2020/",
         "main_cpv": "71320000-7",
@@ -253,9 +253,9 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "13098150",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; CTB Mérnökiroda Kft.",
+        "contract_value": 13098150.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17844_2020/",
         "main_cpv": "71320000-7",
@@ -264,124 +264,14 @@
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     },
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1000000000",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1000000000.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18674_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 2,
         "procurement_title": "Mélyépítési tervezési feladatok",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; \"TEN-T\" Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság; ARCUS Mérnöki Iroda Korlátolt Felelősségű Társaság",
-        "contract_value": "334000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3828_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Villamospálya tervezése az Új Duna-hídon",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "22961030",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13597_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Bárczy István u. megújítása tervezés",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "27584842",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13598_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Hild téri játszótér és környéke megújítása",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Középülettervező Zártkörűen működő Részvénytársaság",
-        "contract_value": "824000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16687_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Kelenföldi intermodális csomópont őrmezői autóbusz-terminál megvalósításának és a P+R parkolók bővítésének előkészítése (tervezési szolgáltatás)",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "97200000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
-        "date": "22/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17588_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "RAK-PARK, módosított engedélyezési tervek és kiviteli tervek készítése",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Mobilissimus Korlátolt Felelősségű Társaság",
-        "contract_value": "237800000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "22/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18065_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "P+R parkolók és B+R parkoló tervezése",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "37800000",
-        "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18926_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szeged, Nagykörút fejlesztés-tanulmányterv készítés",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "10947923",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17863_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Belvárosi Futópálya Építési Program tervezés",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7387050",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "18/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19943_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Régiposta és Türr I. utca megújítása tervezés",
-        "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; VÁROS-TEAMPANNON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "9450517",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "18/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19942_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Zoltán utca és környéke rekonstrukciója tervezés",
         "registered_name": "KÖZLEKEDÉS Tervező Iroda Kft."
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "418030000",
-        "contracting_authority": "NOBILIS Első Hazai Élelmiszerfeldolgozó és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 418030000.0,
+        "contracting_authority": "NOBILIS Első Hazai Élelmiszerfeldolgozó és Kereskedelmi Zrt.",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9808_2019/",
         "main_cpv": "42210000-1",
         "number_companies_win": 0,
         "procurement_title": "Technológiai gépsor beszerzése",
-        "registered_name": "CHRIS TEAM CO Gyártó, Karbantartó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CHRIS TEAM CO Gyártó, Karbantartó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "376000000",
-        "contracting_authority": "NOBILIS Első Hazai Élelmiszerfeldolgozó és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 376000000.0,
+        "contracting_authority": "NOBILIS Első Hazai Élelmiszerfeldolgozó és Kereskedelmi Zrt.",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3766_2020/",
         "main_cpv": "42210000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "CHRIS TEAM CO Gyártó, Karbantartó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CHRIS TEAM CO Gyártó, Karbantartó és Szolgáltató Kft."
     }
 ]

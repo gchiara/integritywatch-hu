@@ -1,717 +1,574 @@
 [
     {
         "company_names": "",
-        "contract_value": "390004562",
+        "contract_value": 390004562.0,
         "contracting_authority": "Emőd Város Önkormányzata",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2327_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Új Művelődési Ház és Könyvtár építése Emődön",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27534515",
+        "contract_value": 27534515.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7860_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Új orvosi rendelő építése Mezőkövesden",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44354901",
+        "contract_value": 44354901.0,
         "contracting_authority": "Ónod Község Önkormányzata",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8312_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ónodi vásártér fejlesztése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "150400628",
+        "contract_value": 150400628.0,
         "contracting_authority": "Ónod Község Önkormányzata",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8312_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ónodi vásártér fejlesztése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
-        "company_names": "Colas Út Építőipari Zártkörűen Működő Részvénytársaság; SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "139536045",
+        "company_names": "Colas Út Építőipari Zrt.; SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft.",
+        "contract_value": 139536045.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9350_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 2,
         "procurement_title": "Gödöllő, Blaháné útja felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "124049694",
+        "contract_value": 124049694.0,
         "contracting_authority": "Magyar Kékkereszt Egyesület",
         "date": "04/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10774_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szenvedélybetegek Átmeneti Otthonának korszerűsítése Dömösön",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85378126",
+        "contract_value": 85378126.0,
         "contracting_authority": "Emőd Város Önkormányzata",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15792_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri Hivatal és Iskola felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32205001",
+        "contract_value": 32205001.0,
         "contracting_authority": "Bogács Község Önkormányzata",
         "date": "12/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18259_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Termelői Piac létesítése Bogácson",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28741900",
+        "contract_value": 28741900.0,
         "contracting_authority": "Tiszatarján Község Önkormányzata",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21211_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tiszatarján-Iskola, óvoda energetikai korszerűsítés",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38919440",
+        "contract_value": 38919440.0,
         "contracting_authority": "Tiszatarján Község Önkormányzata",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21211_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tiszatarján-Iskola, óvoda energetikai korszerűsítés",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16740560",
+        "contract_value": 16740560.0,
         "contracting_authority": "Tiszadorogma Község Önkormányzata",
         "date": "18/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22384_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Községháza és turistaszálló energetikai korszerűsítése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13703000",
+        "contract_value": 13703000.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24198_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés és felújítás Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22300000",
+        "contract_value": 22300000.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24198_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés és felújítás Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22500000",
+        "contract_value": 22500000.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24198_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés és felújítás Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34010000",
+        "contract_value": 34010000.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24198_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés és felújítás Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "133424144",
+        "contract_value": 133424144.0,
         "contracting_authority": "Ózd Város Önkormányzata",
         "date": "11/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10414_2019/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Útfelújítási munkálatok",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23803278",
+        "contract_value": 23803278.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1726_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda felújítás Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30011242",
+        "contract_value": 30011242.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1726_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda felújítás Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120050000",
+        "contract_value": 120050000.0,
         "contracting_authority": "Tiszaújváros Város Önkormányzata",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11512_2019/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Játszótér felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30925931",
+        "contract_value": 30925931.0,
         "contracting_authority": "Tiszadorogma Község Önkormányzata",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10306_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Turistaszálló energetikai felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15777174",
+        "contract_value": 15777174.0,
         "contracting_authority": "Tiszatarján Község Önkormányzata",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7688_2019/",
         "main_cpv": "nan",
         "number_companies_win": 0,
         "procurement_title": "Művelődési ház energetikai felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "248350000",
-        "contracting_authority": "Bogács Község Önkormányzata, Bükkzsérc Község Önkormányzata, Cserépfalu Község Önkormányzata, Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság, Mezőkövesd Város Önkormányzata",
+        "contract_value": 248350000.0,
+        "contracting_authority": "Bogács Község Önkormányzata, Bükkzsérc Község Önkormányzata, Cserépfalu Község Önkormányzata, Magyar Közút Nonprofit Zrt., Mezőkövesd Város Önkormányzata",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12498_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút és körforgalom kivitelezési munkái",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37923971",
+        "contract_value": 37923971.0,
         "contracting_authority": "Emőd Város Önkormányzata",
         "date": "05/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13470_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda energetikai korszerűsítése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14979042",
+        "contract_value": 14979042.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata, Mezőcsáti Napocska Óvoda",
         "date": "06/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13320_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Az új Művelődési Központ és Városi könyvtár fejlesztése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35528214",
+        "contract_value": 35528214.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata, Mezőcsáti Napocska Óvoda",
         "date": "06/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13320_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Az új Művelődési Központ és Városi könyvtár fejlesztése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "83764931",
+        "contract_value": 83764931.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16113_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vásárcsarnok építése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "556459",
+        "contract_value": 556459.0,
         "contracting_authority": "Tiszakeszi Község Önkormányzata",
         "date": "12/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17393_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházások Tiszakeszi településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9414209",
+        "contract_value": 9414209.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17787_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati utak burkolatfelújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15390565",
+        "contract_value": 15390565.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17787_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati utak burkolatfelújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23602908",
+        "contract_value": 23602908.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17787_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati utak burkolatfelújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78662704",
+        "contract_value": 78662704.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17787_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati utak burkolatfelújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8324565",
+        "contract_value": 8324565.0,
         "contracting_authority": "Szentistván Nagyközség Önkormányzata",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17000_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzat épületek korszerűsítése Szentistvánon",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21069821",
+        "contract_value": 21069821.0,
         "contracting_authority": "Szentistván Nagyközség Önkormányzata",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17000_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzat épületek korszerűsítése Szentistvánon",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21394431",
+        "contract_value": 21394431.0,
         "contracting_authority": "Szentistván Nagyközség Önkormányzata",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17000_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzat épületek korszerűsítése Szentistvánon",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8999397",
+        "contract_value": 8999397.0,
         "contracting_authority": "Tiszakeszi Község Önkormányzata",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20203_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Orvosi rendelő felújítása Tiszakeszin",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24925454",
+        "contract_value": 24925454.0,
         "contracting_authority": "Tiszakeszi Község Önkormányzata",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20203_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Orvosi rendelő felújítása Tiszakeszin",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62995854",
+        "contract_value": 62995854.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "26/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22460_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Városi Rendelőintézet udvari épületének felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36792989",
+        "contract_value": 36792989.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "28/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22967_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Közösségi ház-színházterem felújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96311783",
+        "contract_value": 96311783.0,
         "contracting_authority": "Mezőkövesd Város Önkormányzata",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23809_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hadas vr. Fejlesztése - mélyépítés",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24500231",
+        "contract_value": 24500231.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "07/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0760_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szociális célú városrehabilitáció Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94000587",
+        "contract_value": 94000587.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "07/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0760_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szociális célú városrehabilitáció Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69665576",
+        "contract_value": 69665576.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2866_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hűtőház építése Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94771900",
+        "contract_value": 94771900.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2865_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szociális célú városrehabilitáció Mezőcsáton II.",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "117922480",
+        "contract_value": 117922480.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2863_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése Mezőcsáton",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120720354",
+        "contract_value": 120720354.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2865_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szociális célú városrehabilitáció Mezőcsáton II.",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59255010",
+        "contract_value": 59255010.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "25/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3618_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ipari Park fejlesztése - magasépítés",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "241934335",
+        "contract_value": 241934335.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "25/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3618_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ipari Park fejlesztése - magasépítés",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "480140000",
+        "contract_value": 480140000.0,
         "contracting_authority": "Mezőcsát Város Önkormányzata",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5637_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Termálfürdő fejlesztés",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116513533",
+        "contract_value": 116513533.0,
         "contracting_authority": "Szentistván Nagyközség Önkormányzata",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8263_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése Szentistván településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1023239723",
+        "contract_value": 1023239723.0,
         "contracting_authority": "Bogács Község Önkormányzata, Bükkzsérc Község Önkormányzata, Cserépfalu Község Önkormányzata, Mezőkövesd Város Önkormányzata",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13364_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút kivitelezési munkái",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110000000",
+        "contract_value": 110000000.0,
         "contracting_authority": "Nyékládháza Város Önkormányzata",
         "date": "15/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15635_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyékládháza belterületi vízrendezése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104842640",
-        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 104842640.0,
+        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zrt.",
         "date": "28/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17519_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bp. VI. kerület Játékvár Óvoda udvarának felújítás",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38805840",
-        "contracting_authority": "Mezőkövesd Város Önkormányzata",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0427_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Művelődési ház energetikai korszerűsítése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "57999603",
-        "contracting_authority": "Mezőkövesd Város Önkormányzata",
-        "date": "27/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0455_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Parkolóhely, járda, gyalogátkelőhely kialakítása - Dohány utca",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26406409",
-        "contracting_authority": "Ónod Község Önkormányzata",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4191_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési beruházások Ónod településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "96106760",
-        "contracting_authority": "Ónod Község Önkormányzata",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4191_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési beruházások Ónod településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "120664422",
-        "contracting_authority": "Ónod Község Önkormányzata",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4191_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési beruházások Ónod településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15703927",
-        "contracting_authority": "Szentistván Nagyközség Önkormányzata",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4487_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési beruházások Szentistván településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27548025",
-        "contracting_authority": "Szentistván Nagyközség Önkormányzata",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4487_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési beruházások Szentistván településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34259495",
-        "contracting_authority": "Szentistván Nagyközség Önkormányzata",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4487_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Építési beruházások Szentistván településen",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "210014066",
-        "contracting_authority": "Mezőkövesd Város Önkormányzata",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16059_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építése Mezőkövesden",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20805202",
-        "contracting_authority": "Polgár Város Önkormányzata",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16906_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Fenntartható települési közlekedésfejlesztés Polgáron",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "384010868",
-        "contracting_authority": "Polgár Város Önkormányzata",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16906_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Fenntartható települési közlekedésfejlesztés Polgáron",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "711436544",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "22/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22309_2021/",
-        "main_cpv": "45212314-0",
-        "number_companies_win": 0,
-        "procurement_title": "Füzérradványi Károlyi-kastély villafelújítása",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "690014052",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_26112_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mezőkövesdi új autóbusz-állomás építése",
-        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILVÁSI Építő, Beruházó, Kereskedő és Szolgáltató Kft."
     }
 ]

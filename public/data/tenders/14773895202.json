@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "299000000",
+        "contract_value": 299000000.0,
         "contracting_authority": "Kecskeméti Katona József Múzeum",
         "date": "29/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9062_2019/",
         "main_cpv": "45112450-4",
         "number_companies_win": 0,
         "procurement_title": "Régészeti bontómunka",
-        "registered_name": "ADLEMAR Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ADLEMAR Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299000000",
+        "contract_value": 299000000.0,
         "contracting_authority": "Kecskeméti Katona József Múzeum",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23618_2020/",
         "main_cpv": "45112450-4",
         "number_companies_win": 0,
         "procurement_title": "Régészeti bontómunka ellátása-2021",
-        "registered_name": "ADLEMAR Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ADLEMAR Kereskedelmi és Szolgáltató Kft."
     }
 ]

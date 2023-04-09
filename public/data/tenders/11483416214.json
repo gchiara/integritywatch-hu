@@ -1,123 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "40268056",
+        "contract_value": 40268056.0,
         "contracting_authority": "Kaposmérő Községi Önkormányzat",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16403_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ivóvíz vezeték cseréje Kaposmérőben",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67501921",
-        "contracting_authority": "V-95 Általános Vállalkozási Korlátolt Felelősségű Társaság",
+        "contract_value": 67501921.0,
+        "contracting_authority": "V-95 Általános Vállalkozási Kft.",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17449_2018/",
         "main_cpv": "45213000-3",
         "number_companies_win": 0,
         "procurement_title": "Táptároló csarnok építése",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120039919",
-        "contracting_authority": "V-95 Általános Vállalkozási Korlátolt Felelősségű Társaság",
+        "contract_value": 120039919.0,
+        "contracting_authority": "V-95 Általános Vállalkozási Kft.",
         "date": "15/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18849_2018/",
         "main_cpv": "45220000-5",
         "number_companies_win": 0,
         "procurement_title": "Telelőárkok átalakítása és útépítés",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69998548",
+        "contract_value": 69998548.0,
         "contracting_authority": "Győri \"Előre\" Halászati Termelőszövetkezet",
         "date": "07/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20221_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Betonmedencék lefedése és útburkolat javítása",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77859079",
+        "contract_value": 77859079.0,
         "contracting_authority": "Csurgónagymarton Község Önkormányzata, Iharos Községi Önkormányzat",
         "date": "10/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8320_2019/",
         "main_cpv": "45233123-7",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági út építése",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77777795",
+        "contract_value": 77777795.0,
         "contracting_authority": "Nagyatád Város Önkormányzata",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20270_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Honvéd utcai szennyvízrendszer rekonstrukciója",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "169919958",
+        "contract_value": 169919958.0,
         "contracting_authority": "Csurgó Város Önkormányzata",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23593_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpáros turizmus fejlesztése Csurgó településen",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "331450000",
+        "contract_value": 331450000.0,
         "contracting_authority": "Somogyi Református Egyházmegye",
         "date": "03/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3765_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Új tornacsarnok építése Csurgón a CSVMRG részére",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     },
     {
-        "company_names": "\"GEOWATT\" Ipari- Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság",
-        "contract_value": "215583953",
+        "company_names": "\"GEOWATT\" Ipari- Szolgáltató és Kereskedelmi Kft.; Novics és Társa Közmüépitő Kft.",
+        "contract_value": 215583953.0,
         "contracting_authority": "Nagyatád Város Önkormányzata",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_23116_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Nagyatádi geotermális fűtési rendszer kialakítása",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság; Reaszfalt Építőipari, Kereskedelmi és Szolgáltató Korlátolt felelősségű Társaság",
-        "contract_value": "454999860",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság, Nagyatád Város Önkormányzata",
-        "date": "06/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8280_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Nagyatádi kerékpárút hálózat fejlesztése",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság; Reaszfalt Építőipari, Kereskedelmi és Szolgáltató Korlátolt felelősségű Társaság",
-        "contract_value": "554870751",
-        "contracting_authority": "Nagyatád Város Önkormányzata",
-        "date": "27/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9699_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "A déli iparterület fejlesztése Nagyatádon",
-        "registered_name": "Novics és Társa Közmüépitő Korlátolt Felelősségü Társaság"
+        "registered_name": "Novics és Társa Közmüépitő Kft."
     }
 ]

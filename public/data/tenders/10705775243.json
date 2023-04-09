@@ -1,772 +1,629 @@
 [
     {
         "company_names": "",
-        "contract_value": "376800",
+        "contract_value": 376800.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "07/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1316_2018/",
         "main_cpv": "33170000-2",
         "number_companies_win": 0,
         "procurement_title": "Anesztéziás és intenzív ellátás anyagainak beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24426000",
+        "contract_value": 24426000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3999_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Magas hűségű szülészeti szimulátor beszerzése a Pécsi Tudományegyetem részére",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20601000",
+        "contract_value": 20601000.0,
         "contracting_authority": "Magyar Máltai Szeretetszolgálat Egyesület",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4485_2018/",
         "main_cpv": "33172200-8",
         "number_companies_win": 0,
         "procurement_title": "Elsősegélynyújtási és oktatási eszközök beszerzése a Magyar Máltai Szeretetszolgálat Egyesület részére",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38326000",
+        "contract_value": 38326000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "22/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7745_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Defibrillátor fogyóanyag beszerzése ZOLL X Series Defibrillátorokhoz",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22982191",
+        "contract_value": 22982191.0,
         "contracting_authority": "Magyar Máltai Szeretetszolgálat Egyesület",
         "date": "07/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9691_2018/",
         "main_cpv": "33182100-0",
         "number_companies_win": 0,
         "procurement_title": "Zoll AED3 Defibrillátor, ZOLL X Series defibrillátor/monitor beszerzése bérleti konstrukcióban",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "443000",
+        "contract_value": 443000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12618_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Pécsi Tudományegyetem Általános Orvostudományi Kar részére a Modern Városok Program keretein belül 5.",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "753000",
+        "contract_value": 753000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12618_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Pécsi Tudományegyetem Általános Orvostudományi Kar részére a Modern Városok Program keretein belül 5.",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1967300",
+        "contract_value": 1967300.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13367_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnikai eszközök beszerzése az Országos Mentőszolgálat részére",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2594900",
+        "contract_value": 2594900.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13367_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnikai eszközök beszerzése az Országos Mentőszolgálat részére",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32257330",
+        "contract_value": 32257330.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13367_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnikai eszközök beszerzése az Országos Mentőszolgálat részére",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42024800",
+        "contract_value": 42024800.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15920_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszer oktatási eszközeinek szállítása és üzembe helyezése a Skill laborok fejlesztése elnevezésű projektben",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98975100",
+        "contract_value": 98975100.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15920_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszer oktatási eszközeinek szállítása és üzembe helyezése a Skill laborok fejlesztése elnevezésű projektben",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "MEDIREX Egészségügyi, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft.",
-        "contract_value": "1470250450",
+        "company_names": "MEDIREX Egészségügyi, Kereskedelmi és Szolgáltató Zrt.; SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1470250450.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15920_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 2,
         "procurement_title": "Orvosi műszer oktatási eszközeinek szállítása és üzembe helyezése a Skill laborok fejlesztése elnevezésű projektben",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft.",
-        "contract_value": "1908165142",
+        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Kft.; SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1908165142.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem",
         "date": "17/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15920_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 2,
         "procurement_title": "Orvosi műszer oktatási eszközeinek szállítása és üzembe helyezése a Skill laborok fejlesztése elnevezésű projektben",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "140107",
+        "contract_value": 140107.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "27/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21354_2018/",
         "main_cpv": "39162200-7",
         "number_companies_win": 0,
         "procurement_title": "Oktatási eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "226468",
+        "contract_value": 226468.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "27/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21354_2018/",
         "main_cpv": "39162200-7",
         "number_companies_win": 0,
         "procurement_title": "Oktatási eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70086250",
+        "contract_value": 70086250.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21165_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Neuro- és mozgásszervi rehabilitációs eszközpark kialakítása 2. a Pécsi Tudományegyetemen",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18180665",
+        "contract_value": 18180665.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem",
         "date": "28/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1202_2019/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "ÁEEK-Biológiai szemléltető modellek modellek szállítása",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17100000",
+        "contract_value": 17100000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3591_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Orvosi szimulációs eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28619790",
+        "contract_value": 28619790.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3591_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Orvosi szimulációs eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31000000",
+        "contract_value": 31000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3591_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Orvosi szimulációs eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9795500",
+        "contract_value": 9795500.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4396_2019/",
         "main_cpv": "39162000-5",
         "number_companies_win": 0,
         "procurement_title": "Kiképzési szakanyagok",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30182750",
+        "contract_value": 30182750.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4396_2019/",
         "main_cpv": "39162000-5",
         "number_companies_win": 0,
         "procurement_title": "Kiképzési szakanyagok",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft.",
-        "contract_value": "433075000",
+        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Kft.; SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 433075000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Pécsi Tudományegyetem",
         "date": "18/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6404_2019/",
         "main_cpv": "32321200-1",
         "number_companies_win": 2,
         "procurement_title": "Szimulációs oktatást támogató audiovizuális hálózati rendszer kialakítása a Skill laborokban",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4563000",
+        "contract_value": 4563000.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8951_2019/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "Oktatási szimulátorok beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5870000",
+        "contract_value": 5870000.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8951_2019/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "Oktatási szimulátorok beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6194000",
+        "contract_value": 6194000.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8951_2019/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "Oktatási szimulátorok beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1111000",
+        "contract_value": 1111000.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11376_2019/",
         "main_cpv": "33141770-8",
         "number_companies_win": 0,
         "procurement_title": "Szakanyagok beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "439000",
+        "contract_value": 439000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "09/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15011_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Szimulációs és oktató eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "472740",
+        "contract_value": 472740.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24076_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "EÜFTI 2019 Oktatási szakanyag  beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "514720",
+        "contract_value": 514720.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24076_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "EÜFTI 2019 Oktatási szakanyag  beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "522900",
+        "contract_value": 522900.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24076_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "EÜFTI 2019 Oktatási szakanyag  beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1051750",
+        "contract_value": 1051750.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24076_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "EÜFTI 2019 Oktatási szakanyag  beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1057500",
+        "contract_value": 1057500.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24076_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "EÜFTI 2019 Oktatási szakanyag  beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1882880",
+        "contract_value": 1882880.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24076_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "EÜFTI 2019 Oktatási szakanyag  beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "594270",
+        "contract_value": 594270.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25232_2019/",
         "main_cpv": "33141770-8",
         "number_companies_win": 0,
         "procurement_title": "Törésrögzítők beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "859530",
+        "contract_value": 859530.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25232_2019/",
         "main_cpv": "33141770-8",
         "number_companies_win": 0,
         "procurement_title": "Törésrögzítők beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1386620",
+        "contract_value": 1386620.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25232_2019/",
         "main_cpv": "33141770-8",
         "number_companies_win": 0,
         "procurement_title": "Törésrögzítők beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2795750",
+        "contract_value": 2795750.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25232_2019/",
         "main_cpv": "33141770-8",
         "number_companies_win": 0,
         "procurement_title": "Törésrögzítők beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29370000",
+        "contract_value": 29370000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "14/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2373_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Neuro- és mozgásszervi rehabilitációs eszközök 3.",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1051032",
+        "contract_value": 1051032.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5849_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "MVP ÁOK eszközbeszerzés 10.",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5779080",
+        "contract_value": 5779080.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8051_2020/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "Skill eszközbeszerzés II.",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13529720",
+        "contract_value": 13529720.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Debreceni Egyetem, Pécsi Tudományegyetem",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8051_2020/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "Skill eszközbeszerzés II.",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1392500",
+        "contract_value": 1392500.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7580_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Fogóanyagok beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3629800",
+        "contract_value": 3629800.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "22/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8962_2020/",
         "main_cpv": "33190000-8",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1071060",
+        "contract_value": 1071060.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12109_2020/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "EÜ Kar eszköz beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3920000",
+        "contract_value": 3920000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12109_2020/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "EÜ Kar eszköz beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "118220930",
+        "contract_value": 118220930.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12109_2020/",
         "main_cpv": "34152000-7",
         "number_companies_win": 0,
         "procurement_title": "EÜ Kar eszköz beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2794000",
+        "contract_value": 2794000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12618_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "OMSZ egyszerhasználatos I. 2019",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "353482275",
+        "contract_value": 353482275.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12618_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "OMSZ egyszerhasználatos I. 2019",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "CPP-BUDAPEST Egészségügyi Cikkeket Gyártó, Forgalmazó és Szolgáltató Korlátolt Felelősségű Társaság; SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft.",
-        "contract_value": "71658138",
+        "company_names": "CPP-BUDAPEST Egészségügyi Cikkeket Gyártó, Forgalmazó és Szolgáltató Kft.; SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 71658138.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "20/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12618_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 2,
         "procurement_title": "OMSZ egyszerhasználatos I. 2019",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4012700",
+        "contract_value": 4012700.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13846_2020/",
         "main_cpv": "33141110-4",
         "number_companies_win": 0,
         "procurement_title": "Kötszerek beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8558100",
+        "contract_value": 8558100.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15060_2020/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Oktató eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16550100",
+        "contract_value": 16550100.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15060_2020/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Oktató eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft.; TakTiMed Egészségügyi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "449872000",
+        "company_names": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft.; TakTiMed Egészségügyi, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 449872000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18383_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 2,
         "procurement_title": "Orvosi képzés eszközei és mobilia",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft.",
-        "contract_value": "1160025135",
+        "company_names": "ALADDIN MEDICAL Kereskedelmi és Szolgáltató Kft.; SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1160025135.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18383_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 2,
         "procurement_title": "Orvosi képzés eszközei és mobilia",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1014300",
+        "contract_value": 1014300.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_24816_2020/",
         "main_cpv": "33170000-2",
         "number_companies_win": 0,
         "procurement_title": "Anesztéziás anyagok beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "23295800",
-        "contracting_authority": "Terrorelhárítási Központ",
-        "date": "14/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8780_2021/",
-        "main_cpv": "35112100-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szimulációs eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "31000000",
-        "contracting_authority": "Terrorelhárítási Központ",
-        "date": "14/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8780_2021/",
-        "main_cpv": "35112100-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szimulációs eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "671000",
-        "contracting_authority": "CSOLNOKY FERENC KÓRHÁZ",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10834_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "CSBSZ - Eszközbeszerzés",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "6863210",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "05/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11331_2021/",
-        "main_cpv": "33171000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Demonstrációs terem eszközeinek beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "32058000",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12935_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "OMSZ egyszerhasználatos anyagok, valamint orvostechnikai eszközök beszerzése II. 2020",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "36521550",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12935_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "OMSZ egyszerhasználatos anyagok, valamint orvostechnikai eszközök beszerzése II. 2020",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "14100000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "21/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17337_2021/",
-        "main_cpv": "34150000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi oktatás skill eszközök",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "50051000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "21/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17337_2021/",
-        "main_cpv": "34150000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi oktatás skill eszközök",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "91885000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "21/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17337_2021/",
-        "main_cpv": "34150000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi oktatás skill eszközök",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "2557200",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20612_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Családbarát szülészet árubeszerzés/2",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "3310800",
-        "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20749_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Infekciókontroll - eszközök beszerzése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "5770000",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "22/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20612_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Családbarát szülészet árubeszerzés/2",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "200484140",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22449_2021/",
-        "main_cpv": "32321200-1",
-        "number_companies_win": 0,
-        "procurement_title": "Skill labor technikai fejlesztése",
-        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató kft."
+        "registered_name": "SPEEDING Mérnöki Kereskedelmi és Szolgáltató Kft."
     }
 ]

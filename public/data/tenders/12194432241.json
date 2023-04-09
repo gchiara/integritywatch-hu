@@ -1,739 +1,508 @@
 [
     {
         "company_names": "",
-        "contract_value": "462752000",
+        "contract_value": 462752000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_33_2018/",
         "main_cpv": "50530000-9",
         "number_companies_win": 0,
         "procurement_title": "A RIK hűtési-fűtési illetve vízellátó és szennyvízelvezető rendszeréhez tartozó hűtőgépek és kiegészítő berendezéseik karbantartása és eseti hibajavítási munkái",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13449500",
+        "contract_value": 13449500.0,
         "contracting_authority": "Vas Megyei Kormányhivatal",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5418_2018/",
         "main_cpv": "34000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilizált ügyfélszolgálat beszerzése a Vas Megyei Kormányhivatal részére.",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7389970",
+        "contract_value": 7389970.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5367_2018/",
         "main_cpv": "38430000-8",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés - forenzikus szakértők és egységek kapacitásfejlesztése érdekében különféle laboratóriumi eszközök beszerzése 7 részben.",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "243860",
+        "contract_value": 243860.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "276975",
+        "contract_value": 276975.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "320295",
+        "contract_value": 320295.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "517500",
+        "contract_value": 517500.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "745080",
+        "contract_value": 745080.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "997645",
+        "contract_value": 997645.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3377675",
+        "contract_value": 3377675.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12394500",
+        "contract_value": 12394500.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5599_2018/",
         "main_cpv": "31100000-7",
         "number_companies_win": 0,
         "procurement_title": "Mobilkommunikációs eszközök beszerzése a Nemzeti Védelmi Szolgálat részére II",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32312820",
+        "contract_value": 32312820.0,
         "contracting_authority": "Országos Rendőr-Főkapitányság",
         "date": "09/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7301_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Kiszolgálói infrastruktúra, PC és biometrikus eszközök beszerzése adásvételi szerződés alapján BBA projektek keretén belül és az 1250/2017. (V.5.) Korm. határozat terhére - tájékoztató az eljárás eredményéről.",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39580040",
+        "contract_value": 39580040.0,
         "contracting_authority": "Országos Rendőr-Főkapitányság",
         "date": "09/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7301_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Kiszolgálói infrastruktúra, PC és biometrikus eszközök beszerzése adásvételi szerződés alapján BBA projektek keretén belül és az 1250/2017. (V.5.) Korm. határozat terhére - tájékoztató az eljárás eredményéről.",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68568652",
+        "contract_value": 68568652.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11656_2018/",
         "main_cpv": "45331200-8",
         "number_companies_win": 0,
         "procurement_title": "Klímarendszerek felújítása és karbantartási feladatok ellátása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13790000",
+        "contract_value": 13790000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13368_2018/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek beszerzése 11 részben",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25500000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25500000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19266_2018/",
         "main_cpv": "34923000-3",
         "number_companies_win": 0,
         "procurement_title": "Forgalomtechnikai terelő eszközök beszerzése a Budapest Közút Zrt. részére.",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40982450",
-        "contracting_authority": "Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság",
+        "contract_value": 40982450.0,
+        "contracting_authority": "Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zrt.",
         "date": "01/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_1830_2019/",
         "main_cpv": "31681410-0",
         "number_companies_win": 0,
         "procurement_title": "Tűzoltó gépjárművekhez elektromos alapanyagok",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "778928",
+        "contract_value": 778928.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1200000",
+        "contract_value": 1200000.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1316610",
+        "contract_value": 1316610.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1396395",
+        "contract_value": 1396395.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2653155",
+        "contract_value": 2653155.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2750593",
+        "contract_value": 2750593.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14762757",
+        "contract_value": 14762757.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55719091",
+        "contract_value": 55719091.0,
         "contracting_authority": "BUDAPEST KÖRNYÉKI TÖRVÉNYSZÉK",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4701_2019/",
         "main_cpv": "45331220-4",
         "number_companies_win": 0,
         "procurement_title": "Ceglédi Járásbíróság hűtési rendszerének kiépítése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12244500",
+        "contract_value": 12244500.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8318_2019/",
         "main_cpv": "50000000-5",
         "number_companies_win": 0,
         "procurement_title": "Klíma karbantartás és szivárgásvizsgálat",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2994000",
+        "contract_value": 2994000.0,
         "contracting_authority": "NEMZETI KÖZSZOLGÁLATI EGYETEM",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9055_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Kriminalisztikai eszközök oktatási célokra",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3818610",
+        "contract_value": 3818610.0,
         "contracting_authority": "NEMZETI KÖZSZOLGÁLATI EGYETEM",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9055_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Kriminalisztikai eszközök oktatási célokra",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10762510",
+        "contract_value": 10762510.0,
         "contracting_authority": "NEMZETI KÖZSZOLGÁLATI EGYETEM",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9055_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Kriminalisztikai eszközök oktatási célokra",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22938540",
+        "contract_value": 22938540.0,
         "contracting_authority": "NEMZETI KÖZSZOLGÁLATI EGYETEM",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9055_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Kriminalisztikai eszközök oktatási célokra",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25468790",
+        "contract_value": 25468790.0,
         "contracting_authority": "NEMZETI KÖZSZOLGÁLATI EGYETEM",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9055_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Kriminalisztikai eszközök oktatási célokra",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27335785",
+        "contract_value": 27335785.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "11/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10452_2019/",
         "main_cpv": "45331000-6",
         "number_companies_win": 0,
         "procurement_title": "PPKE HTK könyvtári klíma",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104390690",
+        "contract_value": 104390690.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "11/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8899_2019/",
         "main_cpv": "34114000-9",
         "number_companies_win": 0,
         "procurement_title": "Mérőgépkocsi beszerzése, átalakítása és leszállítása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 69000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11726_2019/",
         "main_cpv": "31521310-0",
         "number_companies_win": 0,
         "procurement_title": "Megkülönböztető jelzés beszerzése és karbantartása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32000000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 32000000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "24/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20418_2019/",
         "main_cpv": "34923000-3",
         "number_companies_win": 0,
         "procurement_title": "Forgalomtechnikai terelő eszközök beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69451530",
+        "contract_value": 69451530.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "11/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4091_2020/",
         "main_cpv": "31141000-6",
         "number_companies_win": 0,
         "procurement_title": "Folyadékhűtők cseréjének tervezése és kivitelezése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46449780",
+        "contract_value": 46449780.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5246_2020/",
         "main_cpv": "38900000-4",
         "number_companies_win": 0,
         "procurement_title": "Nyomelőhívó berendezés beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15000000",
+        "contract_value": 15000000.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5295_2020/",
         "main_cpv": "50324200-4",
         "number_companies_win": 0,
         "procurement_title": "Légtechnikai-és klímarendszerek karbantartása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "64567632",
+        "contract_value": 64567632.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6629_2020/",
         "main_cpv": "34144000-8",
         "number_companies_win": 0,
         "procurement_title": "Felderítő, beavatkozó és mentesítő járművek",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3964476",
+        "contract_value": 3964476.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "09/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9343_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek és (fogyó)eszközök NSZKK részére",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10163_2020/",
         "main_cpv": "50433000-9",
         "number_companies_win": 0,
         "procurement_title": "Légalkoholmérők javítása, kalibrálása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11490000",
+        "contract_value": 11490000.0,
         "contracting_authority": "Budapesti Rendőr-Főkapitányság",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11710_2020/",
         "main_cpv": "35000000-4",
         "number_companies_win": 0,
         "procurement_title": "Mobil és taposó kordonok beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19461600",
+        "contract_value": 19461600.0,
         "contracting_authority": "Budapesti Rendőr-Főkapitányság",
         "date": "02/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11710_2020/",
         "main_cpv": "35000000-4",
         "number_companies_win": 0,
         "procurement_title": "Mobil és taposó kordonok beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46867319",
-        "contracting_authority": "KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 46867319.0,
+        "contracting_authority": "KTI Közlekedéstudományi Intézet Nonprofit Kft.",
         "date": "15/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_16715_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Klimatizálási munkák ellátása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3964476",
+        "contract_value": 3964476.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "12/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17991_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek és (fogyó)eszközök NSZKK részére",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34487800",
-        "contracting_authority": "Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 34487800.0,
+        "contracting_authority": "Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.",
         "date": "10/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22997_2020/",
         "main_cpv": "34114000-9",
         "number_companies_win": 0,
         "procurement_title": "Radioaktív hulladékot szállító jármű beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "691000",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "09/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1953_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Forenzikus eszközök és szoftverek",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34856760",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "09/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1953_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Forenzikus eszközök és szoftverek",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16000000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3076_2021/",
-        "main_cpv": "34923000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Forgalomtechnikai terelő eszközök",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25948110",
-        "contracting_authority": "Országos Rendőr-Főkapitányság",
-        "date": "12/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3633_2021/",
-        "main_cpv": "35000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Okmányvizsgáló és archiváló eszközök beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "234486000",
-        "contracting_authority": "Országos Rendőr-Főkapitányság",
-        "date": "12/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3633_2021/",
-        "main_cpv": "35000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Okmányvizsgáló és archiváló eszközök beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5100000",
-        "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6644_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Drogteszt, szárazkémiai tesztcsík beszerzés",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19920000",
-        "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
-        "date": "23/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6644_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Drogteszt, szárazkémiai tesztcsík beszerzés",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "144000",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10176_2021/",
-        "main_cpv": "32000000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Kamerák, rögzítők, inverter, akkumulátorok, egyéb",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "592000",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10176_2021/",
-        "main_cpv": "32000000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Kamerák, rögzítők, inverter, akkumulátorok, egyéb",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3487000",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10176_2021/",
-        "main_cpv": "32000000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Kamerák, rögzítők, inverter, akkumulátorok, egyéb",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15967600",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10176_2021/",
-        "main_cpv": "32000000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Kamerák, rögzítők, inverter, akkumulátorok, egyéb",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "82286700",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13667_2021/",
-        "main_cpv": "48517000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Forensic elemző szoftver beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5317200",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13237_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "TEMPEST LEVEL-A besorolású informatikai eszközök",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21289800",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13237_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "TEMPEST LEVEL-A besorolású informatikai eszközök",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "111555600",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13237_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 0,
-        "procurement_title": "TEMPEST LEVEL-A besorolású informatikai eszközök",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10846250",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14235_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 0,
-        "procurement_title": "Teszterek beszerzése-2",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24673000",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13827_2021/",
-        "main_cpv": "30213000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Terepi laptop és tablet",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "596420",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "03/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14842_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 0,
-        "procurement_title": "Teszterek beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "75000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14902_2021/",
-        "main_cpv": "31521310-0",
-        "number_companies_win": 0,
-        "procurement_title": "Megkülönböztető és figyelmeztető jelzés beszerzése és karbantartása",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14778230",
-        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
-        "date": "26/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16272_2021/",
-        "main_cpv": "48700000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Adatmentő eszközök (duplikátorok) beszerzése",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "144482100",
-        "contracting_authority": "Országos Rendőr-Főkapitányság, Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16416_2021/",
-        "main_cpv": "42960000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Mobil okmány- és ujjlenyomat olvasó készülék",
-        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCORPIO Kereskedelmi és Szolgáltató Kft."
     }
 ]

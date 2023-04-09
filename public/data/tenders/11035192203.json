@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "170273934",
+        "contract_value": 170273934.0,
         "contracting_authority": "Rozsi József János",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2478_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarhatartó telep korszerűsítése - építési és technológiai fejlesztése",
-        "registered_name": "Liptai Épitőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "Liptai Épitőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "766196863",
-        "contracting_authority": NaN,
+        "contract_value": 766196863.0,
+        "contracting_authority": "nan",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6693_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Hatvani Zalán őstermelőnél (HU-6237 Kecel, 0156/4 hrsz.) 660 férőhelyes kocatelep létesítése",
-        "registered_name": "Liptai Épitőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "Liptai Épitőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97372992",
+        "contract_value": 97372992.0,
         "contracting_authority": "Kenyeres Zoltán",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6648_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Szigetelt trágyatárolók kialakítása Bátmonostoron",
-        "registered_name": "Liptai Épitőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "Liptai Épitőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

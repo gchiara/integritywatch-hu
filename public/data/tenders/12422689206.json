@@ -1,112 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "39237513",
+        "contract_value": 39237513.0,
         "contracting_authority": "Apátfalva Község Önkormányzata",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5807_2018/",
         "main_cpv": "45232450-1",
         "number_companies_win": 0,
         "procurement_title": "Belterületi csapadék- és belvízelvezetés Apátfalva településen",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38969187",
+        "contract_value": 38969187.0,
         "contracting_authority": "Földeák Községi Önkormányzat",
         "date": "23/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12760_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "PIAC ÉPÍTÉS, BEL- ÉS CSAPADÉKVÍZ ELVEZETÉS",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     },
     {
         "company_names": "",
-        "contract_value": "114738531",
+        "contract_value": 114738531.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "09/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6056_2020/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Korona Szálló emeletének fejlesztése",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17755144",
+        "contract_value": 17755144.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "23/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21670_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Játszótér építése interaktív elemekkel",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24460067",
+        "contract_value": 24460067.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "23/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21670_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Játszótér építése interaktív elemekkel",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25603179",
+        "contract_value": 25603179.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "23/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21670_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Játszótér építése interaktív elemekkel",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92614511",
+        "contract_value": 92614511.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "23/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21670_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Játszótér építése interaktív elemekkel",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3422500",
-        "contracting_authority": "Maroslele Községi Önkormányzat",
-        "date": "30/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4932_2021/",
-        "main_cpv": "45215220-5",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építés",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23293570",
-        "contracting_authority": "Maroslele Községi Önkormányzat",
-        "date": "30/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4932_2021/",
-        "main_cpv": "45215220-5",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építés",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "97618422",
-        "contracting_authority": "Maroslele Községi Önkormányzat",
-        "date": "30/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4932_2021/",
-        "main_cpv": "45215220-5",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építés",
-        "registered_name": "Maros Project Korlátolt Felelősségű Társaság"
+        "registered_name": "Maros Project Kft."
     }
 ]

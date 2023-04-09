@@ -1,90 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "61000000",
+        "contract_value": 61000000.0,
         "contracting_authority": "Keszthelyi Kórház",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10032_2018/",
         "main_cpv": "22455100-5",
         "number_companies_win": 0,
         "procurement_title": "Beteg leolvasó (mobil), betegérzékelő karszalag és betegazonosító rendszer szállítása, illesztése- és bevezetése a Keszthelyi Kórház részére",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46250000",
+        "contract_value": 46250000.0,
         "contracting_authority": "Tolna Megyei Balassa János Kórház",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13206_2018/",
         "main_cpv": "30216000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "56160000",
+        "contract_value": 56160000.0,
         "contracting_authority": "Hévízgyógyfürdő és Szent András Reumakórház",
         "date": "14/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10028_2018/",
         "main_cpv": "22455100-5",
         "number_companies_win": 0,
         "procurement_title": "Beteg leolvasó (mobil), betegérzékelő karszalag és betegazonosító rendszer szállítása, illesztése- és bevezetése a Hévízgyógyfürdő és Szent András Reumakórház részére",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39860000",
+        "contract_value": 39860000.0,
         "contracting_authority": "Bajai Szent Rókus Kórház",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13940_2018/",
         "main_cpv": "22455100-5",
         "number_companies_win": 0,
         "procurement_title": "Beteg leolvasó (mobil), betegérzékelő karszalag és betegazonosító rendszer szállítása, illesztése- és bevezetés",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68290000",
+        "contract_value": 68290000.0,
         "contracting_authority": "Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely-Makó",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16122_2018/",
         "main_cpv": "33197000-7",
         "number_companies_win": 0,
         "procurement_title": "Egységes betegazonosító rendszer bevezetése, fejlesztése",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95000000",
+        "contract_value": 95000000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20878_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Betegbiztonság növelését célzó komplex infrastrukturális fejlesztés a Zala Megyei Szent Rafael Kórház részére",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29400000",
+        "contract_value": 29400000.0,
         "contracting_authority": "Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet",
         "date": "06/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2958_2019/",
         "main_cpv": "48814200-9",
         "number_companies_win": 0,
         "procurement_title": "Egységes betegazonosító rendszer beszerzése",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90700000",
+        "contract_value": 90700000.0,
         "contracting_authority": "Heim Pál Országos Gyermekgyógyászati Intézet",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18525_2019/",
         "main_cpv": "35121000-8",
         "number_companies_win": 0,
         "procurement_title": "HOGYI –Egységes betegazonosító rendszer bevezetése",
-        "registered_name": "iERP Hungary Informatikai és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "iERP Hungary Informatikai és Szolgáltató Kft."
     }
 ]

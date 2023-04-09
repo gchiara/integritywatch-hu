@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "129330978",
+        "contract_value": 129330978.0,
         "contracting_authority": "Paks Város Önkormányzata",
         "date": "20/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4865_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Csengey Dénes Kulturális Központ tetőfelújítása",
-        "registered_name": "SZAK SZOLG PAKS Szakipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZAK SZOLG PAKS Szakipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "368262923",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 368262923.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24266_2019/",
         "main_cpv": "45261900-3",
         "number_companies_win": 0,
         "procurement_title": "Épületek tetőszigetelésének karbantartása/javítása",
-        "registered_name": "SZAK SZOLG PAKS Szakipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZAK SZOLG PAKS Szakipari és Szolgáltató Kft."
     }
 ]

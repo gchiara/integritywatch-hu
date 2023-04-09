@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "298826245",
+        "contract_value": 298826245.0,
         "contracting_authority": "Mercsek György",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7871_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Sertéstelep létesítése",
-        "registered_name": "LOGÉPKER Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "LOGÉPKER Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1464139433",
-        "contracting_authority": "DÉL-TISZAI SERTÉS Vágósertést Termelő, Beszerző és Értékesítő Korlátolt Felelősségű Társaság",
+        "contract_value": 1464139433.0,
+        "contracting_authority": "DÉL-TISZAI SERTÉS Vágósertést Termelő, Beszerző és Értékesítő Kft.",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12526_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "1000 kocás sertéstelep építése és technológiai kivitelezése",
-        "registered_name": "LOGÉPKER Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "LOGÉPKER Szolgáltató és Kereskedelmi Kft."
     }
 ]

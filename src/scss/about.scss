@@ -68,12 +68,19 @@
   font-family: Arial;
   margin: 20px auto;
   img {
-    width: 200px;
+    width: 300px;
   }
   p {
     font-size: 13px;
     margin-top: 10px;
+    margin-bottom: 5px;
   }
+}
+.cc-logo {
+  width: 30px;
+  margin-right: 10px;
+  position: relative;
+  top: -2px;
 }
 
 /* 404 PAGE */

@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "42230400",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 42230400.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2043_2018/",
         "main_cpv": "43325000-7",
         "number_companies_win": 0,
         "procurement_title": "A Barcika Park Városüzemeltetési Nonprofit Kft. számára játszó és sporteszközök szállítása és telepítése, valamint a hozzátartozó burkolat kivitelezése",
-        "registered_name": "ETICON Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ETICON Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "129075625",
-        "contracting_authority": "BARCIKA PARK Városüzemeltetési Nonprofit Korlátolt Felelősségű Társaság, Kazincbarcika Város Önkormányzata",
+        "contract_value": 129075625.0,
+        "contracting_authority": "BARCIKA PARK Városüzemeltetési Nonprofit Kft., Kazincbarcika Város Önkormányzata",
         "date": "14/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8408_2019/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Fő téri játszótér fejlesztése",
-        "registered_name": "ETICON Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ETICON Tanácsadó és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92331340",
+        "contract_value": 92331340.0,
         "contracting_authority": "Kazincbarcika Város Önkormányzata",
         "date": "25/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17454_2019/",
         "main_cpv": "45212120-3",
         "number_companies_win": 0,
         "procurement_title": "Völgypark játszótér építése 2019",
-        "registered_name": "ETICON Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "167353692",
-        "contracting_authority": "Kazincbarcika Város Önkormányzata",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1892_2021/",
-        "main_cpv": "45262300-4",
-        "number_companies_win": 0,
-        "procurement_title": "Sportpályák és kiegészítő infrastruktúra",
-        "registered_name": "ETICON Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ETICON Tanácsadó és Szolgáltató Kft."
     }
 ]

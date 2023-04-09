@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "4413432",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 4413432.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "12/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15384_2018/",
         "main_cpv": "39800000-0",
         "number_companies_win": 0,
         "procurement_title": "Fényezési segédanyagok és polírozó anyagok beszerzése",
-        "registered_name": "ColorBlue-Mix Korlátolt Felelősségű Társaság"
+        "registered_name": "ColorBlue-Mix Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12203950",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 12203950.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "12/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15384_2018/",
         "main_cpv": "39800000-0",
         "number_companies_win": 0,
         "procurement_title": "Fényezési segédanyagok és polírozó anyagok beszerzése",
-        "registered_name": "ColorBlue-Mix Korlátolt Felelősségű Társaság"
+        "registered_name": "ColorBlue-Mix Kft."
     },
     {
         "company_names": "",
-        "contract_value": "350000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 350000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6007_2019/",
         "main_cpv": "44810000-1",
         "number_companies_win": 0,
         "procurement_title": "Festék, festési anyagok, eszközök beszállítása",
-        "registered_name": "ColorBlue-Mix Korlátolt Felelősségű Társaság"
+        "registered_name": "ColorBlue-Mix Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7832000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 7832000.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12503_2020/",
         "main_cpv": "39800000-0",
         "number_companies_win": 0,
         "procurement_title": "FÉNYEZÉSI SEGÉDANYAGOK BESZERZÉSE",
-        "registered_name": "ColorBlue-Mix Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9341916",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "11/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22225_2021/",
-        "main_cpv": "39800000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Fényezési segédanyagok beszerzése",
-        "registered_name": "ColorBlue-Mix Korlátolt Felelősségű Társaság"
+        "registered_name": "ColorBlue-Mix Kft."
     }
 ]

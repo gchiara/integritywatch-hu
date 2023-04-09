@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "138648063",
-        "contracting_authority": "Infodrops Consulting Tanácsadói és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 138648063.0,
+        "contracting_authority": "Infodrops Consulting Tanácsadói és Szolgáltató Kft.",
         "date": "13/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23128_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kísérleti biopolimer fermentációs üzem kialakítás",
-        "registered_name": "EU-FIRE Ingatlanfejlesztő és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "EU-FIRE Ingatlanfejlesztő és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97736245",
+        "contract_value": 97736245.0,
         "contracting_authority": "Nemzeti Agrárkutatási és Innovációs Központ",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22863_2020/",
         "main_cpv": "45221250-9",
         "number_companies_win": 0,
         "procurement_title": "Hígtrágyatároló kivitelezése",
-        "registered_name": "EU-FIRE Ingatlanfejlesztő és Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "EU-FIRE Ingatlanfejlesztő és Tanácsadó Kft."
     }
 ]

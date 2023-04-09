@@ -1,101 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "28956580",
+        "contract_value": 28956580.0,
         "contracting_authority": "Pamuk Község Önkormányzata",
         "date": "19/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2688_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Pamuki Művelődési Ház energetikai korszerűsítése",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42094973",
+        "contract_value": 42094973.0,
         "contracting_authority": "Kaposvári Egyházmegye",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8954_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Napraforgó bölcsőde felújítása",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48880127",
+        "contract_value": 48880127.0,
         "contracting_authority": "Kaposvári Egyházmegye",
         "date": "11/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9783_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Somogyhárságyi plébánia felújítása",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27296402",
+        "contract_value": 27296402.0,
         "contracting_authority": "Kolping Nagyváthy János Technikum, Szakgimnázium, Szakképző Iskola és Kollégium",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20712_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "KOLPING Nagyváthy Iskola energetika felújítása.",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "132194402",
+        "contract_value": 132194402.0,
         "contracting_authority": "Kolping Nagyváthy János Technikum, Szakgimnázium, Szakképző Iskola és Kollégium",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20712_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "KOLPING Nagyváthy Iskola energetika felújítása.",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8791714",
-        "contracting_authority": "Dombóvár Város Önkormányzata",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7939_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szociális bérlakások felújítása",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42270340",
-        "contracting_authority": "Dombóvár Város Önkormányzata",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7939_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szociális bérlakások felújítása",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "112766039",
-        "contracting_authority": "Dombóvár Város Önkormányzata",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7939_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szociális bérlakások felújítása",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "264570533",
-        "contracting_authority": "Dombóvár Város Önkormányzata",
-        "date": "03/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7934_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Dombóvári József A. Általános Iskola energetikai korszerűsítése",
-        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAUDAI Építőipari, Szolgáltató és Kereskedelmi Kft."
     }
 ]

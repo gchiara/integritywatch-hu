@@ -1,365 +1,321 @@
 [
     {
         "company_names": "",
-        "contract_value": "423060",
+        "contract_value": 423060.0,
         "contracting_authority": "Sellye Város Önkormányzat",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18247_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "EFOP pályázatokhoz kapcsolódó eszközbeszerzések",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; CENTER COMPUTER Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DELTA SYSTEM Informatikai és Kereskedelmi Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Korlátolt Felelősségű Társaság; Infocopy Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Piackutató és Kereskedelmi Korlátolt Felelősségű társaság.; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RENDESWEB Fejlesztési és Tanácsadó Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "9500000000",
+        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; CANON HUNGARIA Kereskedelmi Kft.; CENTER COMPUTER Számítástechnikai Kereskedelmi Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Informatika Kereskedelmi és Szolgáltató Zrt.; Delta Services Kereskedelmi és Szolgáltató Kft.; DELTA SYSTEM Informatikai és Kereskedelmi Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Kft.; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Kft.; Infocopy Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; LÉZER Irodatechnika Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MFP Applications Szoftverfejlesztő Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Pegasus Piackutató és Kereskedelmi Kft..; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; Quality Intelligence Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RENDESWEB Fejlesztési és Tanácsadó Kft.; RevoSmart Kft.; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; WALLITRADE Kereskedelmi és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 9500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 54,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8940750",
+        "contract_value": 8940750.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0862_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "VEKOP Laboreszköz beszerzés",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12657708",
+        "contract_value": 12657708.0,
         "contracting_authority": "Pécs Megyei Jogú Város Önkormányzata",
         "date": "01/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1356_2019/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "A Csorba Győző Könyvtár integrált fejlesztése c. projekthez kapcsolódó eszközbeszerzés",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28066370",
+        "contract_value": 28066370.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "04/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1072_2019/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "Tobii szemmozgáskövető eszköz beszerzése",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "206800",
+        "contract_value": 206800.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2277_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése EFOP programok keretében",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1410600",
+        "contract_value": 1410600.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2277_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése EFOP programok keretében",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4827920",
+        "contract_value": 4827920.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2277_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése EFOP programok keretében",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7803740",
+        "contract_value": 7803740.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2277_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése EFOP programok keretében",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16101820",
+        "contract_value": 16101820.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4013_2019/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Vizuális eszközök",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6100200",
+        "contract_value": 6100200.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "12/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3051_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "PTE SZESZI, IGYK bútorbeszerzés",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4000000",
+        "contract_value": 4000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "05/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13386_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6500000",
+        "contract_value": 6500000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "05/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13386_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15000000",
+        "contract_value": 15000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "05/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13386_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24000000",
+        "contract_value": 24000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "05/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13386_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1254000",
+        "contract_value": 1254000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15300_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1950000",
+        "contract_value": 1950000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15300_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7560000",
+        "contract_value": 7560000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15300_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21506350",
+        "contract_value": 21506350.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15300_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2715000",
+        "contract_value": 2715000.0,
         "contracting_authority": "Harkány Város Önkormányzata",
         "date": "05/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16480_2019/",
         "main_cpv": "37500000-3",
         "number_companies_win": 0,
         "procurement_title": "EFOP és TOP pályázatokhoz eszközbeszerzés",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "929360",
+        "contract_value": 929360.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "20/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4814_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Vizuális eszközök beszerzése",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "790705",
+        "contract_value": 790705.0,
         "contracting_authority": "Sásd Város Önkormányzata",
         "date": "29/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7485_2020/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7000000",
+        "contract_value": 7000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13899_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a PTE részére 2019",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8000000",
+        "contract_value": 8000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13899_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a PTE részére 2019",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13899_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a PTE részére 2019",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30000000",
+        "contract_value": 30000000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13899_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Bútorbeszerzés a PTE részére 2019",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11107370",
+        "contract_value": 11107370.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "22/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16718_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "MVP ÁOK eszközbeszerzés 12.",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
-        "company_names": "CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; NEW LINE TECHNOLOGIES Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "649448917",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "CANON HUNGARIA Kereskedelmi Kft.; Exicom Informatika Kereskedőház Kft.; H - COPEX Irodatechnika Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; LÉZER Irodatechnika Kft.; NEW LINE TECHNOLOGIES Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 649448917.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17242_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 7,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1465970",
+        "contract_value": 1465970.0,
         "contracting_authority": "Székesfehérvári Szakképzési Centrum",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23594_2020/",
         "main_cpv": "38650000-6",
         "number_companies_win": 0,
         "procurement_title": "Szórakoztató elektronikai és informatikai eszközök",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "223500",
-        "contracting_authority": "Sásd Város Önkormányzata",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3467_2021/",
-        "main_cpv": "30000000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Számítástechnikai eszközök",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "947200",
-        "contracting_authority": "Sásd Város Önkormányzata",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3467_2021/",
-        "main_cpv": "30000000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Számítástechnikai eszközök",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; NEW LINE TECHNOLOGIES Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "190410904",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5299_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 7,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; NEW LINE TECHNOLOGIES Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "97620683",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11737_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 7,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "H - COPEX Irodatechnika Korlátolt Felelősségű Társaság"
+        "registered_name": "H - COPEX Irodatechnika Kft."
     }
 ]

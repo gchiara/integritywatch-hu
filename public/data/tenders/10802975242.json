@@ -1,68 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "2466959500",
-        "contracting_authority": "AQUA Szolgáltató Korlátolt Felelősségű Társaság, BAKONYKARSZT Víz- és Csatornamű Zártkörűen Működő Részvénytársaság, Délzalai Víz- és Csatornamű Zártkörűen Működő Részvénytársaság, Észak-zalai Víz- és Csatornamű Zártkörűen Működő Részvénytársaság, FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zártkörűen Működő Részvénytársaság, PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság, Soproni Vízmű Zártkörűen Működő Részvénytársaság, VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2466959500.0,
+        "contracting_authority": "AQUA Szolgáltató Kft., BAKONYKARSZT Víz- és Csatornamű Zrt., Délzalai Víz- és Csatornamű Zrt., Észak-zalai Víz- és Csatornamű Zrt., FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zrt., PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zrt., Soproni Vízmű Zrt., VASIVÍZ Vas megyei Víz- és Csatornamű Zrt.",
         "date": "23/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0548_2020/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Villamos energia szállítása 2020. évre",
-        "registered_name": "MITCO Energia Korlátolt Felelősségű Társaság"
+        "registered_name": "MITCO Energia Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1521401490",
-        "contracting_authority": "AQUA Szolgáltató Korlátolt Felelősségű Társaság, BAKONYKARSZT Víz- és Csatornamű Zártkörűen Működő Részvénytársaság, FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zártkörűen Működő Részvénytársaság, PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság, Soproni Vízmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1521401490.0,
+        "contracting_authority": "AQUA Szolgáltató Kft., BAKONYKARSZT Víz- és Csatornamű Zrt., FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zrt., PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zrt., Soproni Vízmű Zrt.",
         "date": "12/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9922_2020/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
         "procurement_title": "Sopron Vízmű villamos energia szállítás 2021.",
-        "registered_name": "MITCO Energia Korlátolt Felelősségű Társaság"
+        "registered_name": "MITCO Energia Kft."
     },
     {
         "company_names": "",
-        "contract_value": "429624000",
-        "contracting_authority": "VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 429624000.0,
+        "contracting_authority": "VASIVÍZ Vas megyei Víz- és Csatornamű Zrt.",
         "date": "05/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_17738_2020/",
         "main_cpv": "09310000-5",
         "number_companies_win": 0,
-        "procurement_title": "Vasivíz ZRt. - villamos energia beszerzése",
-        "registered_name": "MITCO Energia Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "922726350",
-        "contracting_authority": "VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_19490_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 0,
-        "procurement_title": "VASIVIZ villamos energia szállítás 2022",
-        "registered_name": "MITCO Energia Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4230350000",
-        "contracting_authority": "ALFÖLDVÍZ Regionális Víziközmű- szolgáltató Zártkörűen Működő Részvénytársaság, BÁCSVÍZ Víz- és Csatornaszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "28/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_25370_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Villamos energia szállítás 2022",
-        "registered_name": "MITCO Energia Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1294849530",
-        "contracting_authority": "BAKONYKARSZT Víz- és Csatornamű Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_25708_2021/",
-        "main_cpv": "09310000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Villamos energia beszerzése",
-        "registered_name": "MITCO Energia Korlátolt Felelősségű Társaság"
+        "procurement_title": "Vasivíz Zrt. - villamos energia beszerzése",
+        "registered_name": "MITCO Energia Kft."
     }
 ]

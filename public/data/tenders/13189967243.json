@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "14118800",
-        "contracting_authority": "Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 14118800.0,
+        "contracting_authority": "Családbarát Magyarország Központ Nonprofit Közhasznú Kft.",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4110_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "Kreatív tervezési, - kivitelezési, valamint rendezvényszervezési szolgáltatás nyújtása KRÍZISKEZELŐ SZOLGÁLATOK FEJLESZTÉSE elnevezésű projekt keretében",
-        "registered_name": "L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság"
+        "registered_name": "L.A. Multi-Zone Humán Szervíz Kft."
     },
     {
-        "company_names": "Investment 2000 Szervező és Pénzügyi Tanácsadó Bt.; L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság",
-        "contract_value": "10793900",
+        "company_names": "Investment 2000 Szervező és Pénzügyi Tanácsadó Bt.; L.A. Multi-Zone Humán Szervíz Kft.",
+        "contract_value": 10793900.0,
         "contracting_authority": "Pannon Egyetem",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3586_2018/",
         "main_cpv": "79340000-9",
         "number_companies_win": 2,
         "procurement_title": "Nyilvánosság biztosítása a Pannon Egyetem részére összesen 8 db Európai Uniós projekt keretében",
-        "registered_name": "L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság"
+        "registered_name": "L.A. Multi-Zone Humán Szervíz Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3200000",
+        "contract_value": 3200000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Kormányhivatal",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11253_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 0,
         "procurement_title": "Nők a családban és a munkahelyeken elnevezésű projektek keretében rendezvényszervezési szolgáltatások biztosítása",
-        "registered_name": "L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság"
+        "registered_name": "L.A. Multi-Zone Humán Szervíz Kft."
     },
     {
-        "company_names": "Budapest Party Service Vendéglátó és Szolgáltató Korlátolt Felelősségű Társaság; Comp-let Party Service Vendéglátó, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EuroPro Consulting Korlátolt Felelősségű Társaság; HAMU és GYÉMÁNT Média Korlátolt Felelősségű Társaság; KEIOK Közép-Európai Innovációs és Oktatási Központ Korlátolt Felelősségű Társaság; KIRÁLY és NOVOTNY Kereskedelmi és Szolgáltató Kft.; L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság; Sensation Event&Congress Korlátolt Felelősségű Társaság",
-        "contract_value": "11000000000",
-        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Budapest Party Service Vendéglátó és Szolgáltató Kft.; Comp-let Party Service Vendéglátó, Kereskedelmi és Szolgáltató Kft.; EuroPro Consulting Kft.; HAMU és GYÉMÁNT Média Kft.; KEIOK Közép-Európai Innovációs és Oktatási Központ Kft.; KIRÁLY és NOVOTNY Kereskedelmi és Szolgáltató Kft.; L.A. Multi-Zone Humán Szervíz Kft.; Sensation Event&Congress Kft.",
+        "contract_value": 11000000000.0,
+        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Kft.",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18161_2018/",
         "main_cpv": "79952000-2",
         "number_companies_win": 8,
         "procurement_title": "Keretmegállapodás Komplex rendezvényszervezési szolgáltatások ellátására",
-        "registered_name": "L.A. Multi-Zone Humán Szervíz Korlátolt Felelősségű Társaság"
+        "registered_name": "L.A. Multi-Zone Humán Szervíz Kft."
     }
 ]

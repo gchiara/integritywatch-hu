@@ -1,79 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "45000932",
+        "contract_value": 45000932.0,
         "contracting_authority": "Római Katolikus Plébánia",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6759_2018/",
         "main_cpv": "45443000-4",
         "number_companies_win": 0,
         "procurement_title": "Nagymarosi Rk. templom homlokzat felújítási munkái",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓD Ipari - Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "220649683",
+        "contract_value": 220649683.0,
         "contracting_authority": "Zsemberi Larion",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10236_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági szárító, tisztító tároló és takarmánykeverő telep létesítése Verőcén",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓD Ipari - Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104707604",
+        "contract_value": 104707604.0,
         "contracting_authority": "Duna-Ipoly Nemzeti Park Igazgatóság",
         "date": "19/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3068_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Ipolyvecei major fejlesztése",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓD Ipari - Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "161299613",
+        "contract_value": 161299613.0,
         "contracting_authority": "Verőce Község Önkormányzata",
         "date": "04/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19233_2019/",
         "main_cpv": "45211100-0",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde épület fejlesztése, építése",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓD Ipari - Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68536287",
+        "contract_value": 68536287.0,
         "contracting_authority": "Kismaros Község Önkormányzata",
         "date": "29/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7513_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egészségház felújítása és bővítése",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "238994381",
-        "contracting_authority": "Kismaros Község Önkormányzata",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0599_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bölcsőde építése Kismaroson",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "794403018",
-        "contracting_authority": "IPOLY ERDŐ Zártkörűen Működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22074_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Magas-Taxi turistaház bontása és építése",
-        "registered_name": "HÓD Ipari - Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓD Ipari - Kereskedelmi Kft."
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "190200000",
+        "contract_value": 190200000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "10/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19299_2018/",
         "main_cpv": "60130000-8",
         "number_companies_win": 0,
         "procurement_title": "PTE betegszállítás 2018",
-        "registered_name": "Betegtaxi Korlátolt Felelősségű Társaság"
+        "registered_name": "Betegtaxi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63615385",
+        "contract_value": 63615385.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5404_2019/",
         "main_cpv": "60130000-8",
         "number_companies_win": 0,
         "procurement_title": "NEAK finanszírozott betegszállítás",
-        "registered_name": "Betegtaxi Korlátolt Felelősségű Társaság"
+        "registered_name": "Betegtaxi Kft."
     }
 ]

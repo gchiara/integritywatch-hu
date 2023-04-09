@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "340110305",
-        "contracting_authority": "Panna Cocktail Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 340110305.0,
+        "contracting_authority": "Panna Cocktail Kereskedelmi Kft.",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19607_2017/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sörfőző és raktárcsarnok építése Nagytarcsán",
-        "registered_name": "SZILÁRD - ACÉL Lakatosipari Korlátolt Felelősségű Társaság"
+        "registered_name": "SZILÁRD - ACÉL Lakatosipari Kft."
     }
 ]

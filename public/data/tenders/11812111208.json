@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "55957008",
+        "contract_value": 55957008.0,
         "contracting_authority": "Mosonmagyaróvár Város Önkormányzata",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4516_2018/",
         "main_cpv": "77300000-3",
         "number_companies_win": 0,
         "procurement_title": "Mosonmagyaróvári kiemelt zöldterületek gondozási, parkfenntartási munkái 2 évre vonatkozóan",
-        "registered_name": "DZSUNGELORSZÁG Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DZSUNGELORSZÁG Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "66943058",
+        "contract_value": 66943058.0,
         "contracting_authority": "Mosonmagyaróvár Város Önkormányzata",
         "date": "10/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4120_2020/",
         "main_cpv": "77300000-3",
         "number_companies_win": 0,
         "procurement_title": "Parkgondozás 2020-2021.",
-        "registered_name": "DZSUNGELORSZÁG Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43641317",
-        "contracting_authority": "Széchenyi István Egyetem",
-        "date": "27/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25525_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Látogatói területek kialakítása Mosonmagyaróváron",
-        "registered_name": "DZSUNGELORSZÁG Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DZSUNGELORSZÁG Kereskedelmi és Szolgáltató Kft."
     }
 ]

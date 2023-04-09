@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "147704717",
+        "contract_value": 147704717.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20379_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építőipari beruházás",
-        "registered_name": "ISTVÁN STONE Építőipari Generálkivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ISTVÁN STONE Építőipari Generálkivitelező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63933110",
+        "contract_value": 63933110.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23600_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szülészet fejlesztés - Építési beruházás",
-        "registered_name": "ISTVÁN STONE Építőipari Generálkivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ISTVÁN STONE Építőipari Generálkivitelező és Kereskedelmi Kft."
     }
 ]

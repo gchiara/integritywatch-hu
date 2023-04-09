@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "CANOE Üzemeltető és Szolgáltató Korlátolt Felelősségű Társaság; IRUB Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "728723892",
+        "company_names": "CANOE Üzemeltető és Szolgáltató Kft.; IRUB Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 728723892.0,
         "contracting_authority": "Magyar Úszó Szövetség",
         "date": "17/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4418_2020/",
         "main_cpv": "92622000-7",
         "number_companies_win": 2,
         "procurement_title": "2020-as Úszó-Európa-bajnokság szervezési feladatai",
-        "registered_name": "CANOE Üzemeltető és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CANOE Üzemeltető és Szolgáltató Kft."
     }
 ]

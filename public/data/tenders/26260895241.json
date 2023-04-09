@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "242943953",
-        "contracting_authority": "DOME Winery kft.",
+        "contract_value": 242943953.0,
+        "contracting_authority": "DOME Winery Kft.",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9115_2018/",
         "main_cpv": "45000000-7",
@@ -12,24 +12,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "78390060",
+        "contract_value": 78390060.0,
         "contracting_authority": "Mád Község Önkormányzata",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14457_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Időskorúak nappali ellátása - épületfelújítás",
-        "registered_name": "A-W Projekt Hungary Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "508175468",
-        "contracting_authority": "Tokaj Borvidék Fejlődéséért Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23737_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Látogatóközpont kialakítása",
         "registered_name": "A-W Projekt Hungary Kft."
     }
 ]

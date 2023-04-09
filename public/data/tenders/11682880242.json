@@ -1,112 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "55414001",
+        "contract_value": 55414001.0,
         "contracting_authority": "Patak Község Önkormányzata",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14780_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szociális főzőkonyha és családsegítő, gyermekjóléti iroda kialakítása Patakon",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "NILAX BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15631878",
+        "contract_value": 15631878.0,
         "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17477_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskola felújítások a Balassagyarmat Tankerületben",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "NILAX BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26491989",
+        "contract_value": 26491989.0,
         "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17477_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskola felújítások a Balassagyarmat Tankerületben",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "NILAX BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61226013",
+        "contract_value": 61226013.0,
         "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17477_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskola felújítások a Balassagyarmat Tankerületben",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "NILAX BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "101260108",
+        "contract_value": 101260108.0,
         "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17477_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskola felújítások a Balassagyarmat Tankerületben",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10452122",
-        "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10758_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tankerületi iskolák felújítása MFP forrásból",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16713258",
-        "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10758_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tankerületi iskolák felújítása MFP forrásból",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20082727",
-        "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10758_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tankerületi iskolák felújítása MFP forrásból",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "29358602",
-        "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10758_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tankerületi iskolák felújítása MFP forrásból",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36503034",
-        "contracting_authority": "BALASSAGYARMATI TANKERÜLETI KÖZPONT",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10758_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Tankerületi iskolák felújítása MFP forrásból",
-        "registered_name": "NILAX BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "NILAX BAU Építőipari Kft."
     }
 ]

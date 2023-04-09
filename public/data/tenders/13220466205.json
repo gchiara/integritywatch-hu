@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "465211160",
-        "contracting_authority": "Budai Farm Korlátolt Felelősségű Társaság",
+        "contract_value": 465211160.0,
+        "contracting_authority": "Budai Farm Kft.",
         "date": "11/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9634_2018/",
         "main_cpv": "42213000-2",
         "number_companies_win": 0,
         "procurement_title": "Új pálinkafőző üzem részére technológiai eszközbeszerzés",
-        "registered_name": "RUSZKAI ÉS RUSZKAI Kisüsti Pálinkaföző és Szeszipari Berendezéseket Gyártó, Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RUSZKAI ÉS RUSZKAI Kisüsti Pálinkaföző és Szeszipari Berendezéseket Gyártó, Ipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

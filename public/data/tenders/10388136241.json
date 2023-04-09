@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "GYŐRBER Mérnöki és Szolgáltató Korlátolt Felelősségű Társaság; K+K Környezetgazdálkodási és Közműtervező Kft.; ÓBUDA-ÚJLAK Beruházásszervező és Fővállalkozó zártkörűen működő Részvénytársaság",
-        "contract_value": "3094000000",
+        "company_names": "GYŐRBER Mérnöki és Szolgáltató Kft.; K+K Környezetgazdálkodási és Közműtervező Kft.; ÓBUDA-ÚJLAK Beruházásszervező és Fővállalkozó Zrt.",
+        "contract_value": 3094000000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "01/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18308_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 3,
         "procurement_title": "Tervtanácsadói feladatok ellátása",
-        "registered_name": "K+K Környezetgazdálkodási és Közműtervező Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "648440000",
-        "contracting_authority": "Magyarországi Evangélikus Egyház",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14121_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Rehabilitációs-ápolási szakkórház tervezése",
         "registered_name": "K+K Környezetgazdálkodási és Közműtervező Kft."
     }
 ]

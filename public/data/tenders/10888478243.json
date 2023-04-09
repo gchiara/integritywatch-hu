@@ -1,101 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "91325000",
+        "contract_value": 91325000.0,
         "contracting_authority": "Budapest Főváros Kormányhivatala",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8858_2018/",
         "main_cpv": "71354200-6",
         "number_companies_win": 0,
         "procurement_title": "Légifényképezés és ortofotó készítése - 2018.",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19800000",
-        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 19800000.0,
+        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Kft.",
         "date": "20/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2297_2019/",
         "main_cpv": "71354200-6",
         "number_companies_win": 0,
         "procurement_title": "Lézer alapú távérzékelési felmérések",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "191523150",
-        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 191523150.0,
+        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Kft.",
         "date": "18/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6563_2019/",
         "main_cpv": "71354000-4",
         "number_companies_win": 0,
         "procurement_title": "Légifelvételek és ortofotók beszerzése",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24920000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24920000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6682_2019/",
         "main_cpv": "79961200-0",
         "number_companies_win": 0,
         "procurement_title": "Légi fénykép, és digitális ortofotó készítése, Budapest",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99789200",
+        "contract_value": 99789200.0,
         "contracting_authority": "Budapest Főváros Kormányhivatala",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7155_2019/",
         "main_cpv": "71354200-6",
         "number_companies_win": 0,
         "procurement_title": "Légifényképezés és ortofotó készítése - 2019.",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18800000",
-        "contracting_authority": "Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 18800000.0,
+        "contracting_authority": "Lechner Tudásközpont Nonprofit Kft.",
         "date": "20/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2137_2020/",
         "main_cpv": "71354200-6",
         "number_companies_win": 0,
         "procurement_title": "Légi felmérés és LOD2.2 modellek előállítása Monor",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99677400",
+        "contract_value": 99677400.0,
         "contracting_authority": "Nemzeti Földügyi Központ",
         "date": "15/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5970_2020/",
         "main_cpv": "71354200-6",
         "number_companies_win": 0,
         "procurement_title": "Légifelvételek és ortofotók beszerzése",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     },
     {
         "company_names": "",
-        "contract_value": "84961800",
-        "contracting_authority": "Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 84961800.0,
+        "contracting_authority": "Lechner Tudásközpont Nonprofit Kft.",
         "date": "10/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13560_2020/",
         "main_cpv": "71354200-6",
         "number_companies_win": 0,
         "procurement_title": "Ortofotó 2020",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23900000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3278_2021/",
-        "main_cpv": "79961200-0",
-        "number_companies_win": 0,
-        "procurement_title": "Ortofotó 2021",
-        "registered_name": "Eurosense Légi Térképészeti Korlátolt Felelősségű Társaság"
+        "registered_name": "Eurosense Légi Térképészeti Kft."
     }
 ]

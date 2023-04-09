@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "677926735",
+        "contract_value": 677926735.0,
         "contracting_authority": "Szentgotthárd Város Önkormányzata",
         "date": "14/03/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_3588_2018/",
         "main_cpv": "55524000-9",
         "number_companies_win": 0,
         "procurement_title": "Szentgotthárd Város Önkormányzatának feladatkörébe tartozó közétkeztetés biztosítása a Szentgotthárdon működő oktatási-, nevelési- és szociális intézményekben",
-        "registered_name": "JustFood Korlátolt Felelősségű Társaság"
+        "registered_name": "JustFood Kft."
     }
 ]

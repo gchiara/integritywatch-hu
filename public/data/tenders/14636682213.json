@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "131526248",
+        "contract_value": 131526248.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "09/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6927_2018/",
         "main_cpv": "33111000-1",
         "number_companies_win": 0,
         "procurement_title": "Mikrofókuszált sugárforrással rendelkező röntgen-egykristálydiffrakciós berendezés beszerzése",
-        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "173220000",
+        "contract_value": 173220000.0,
         "contracting_authority": "Atommagkutató Intézet",
         "date": "28/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3260_2020/",
         "main_cpv": "33111000-1",
         "number_companies_win": 0,
         "procurement_title": "Vékonyfilm vizsgáló Röntgen-diffrakciós berendezés",
-        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8990000",
+        "contract_value": 8990000.0,
         "contracting_authority": "Soproni Egyetem",
         "date": "23/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16824_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés 7.",
-        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29400000",
+        "contract_value": 29400000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19495_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "ELTE részére K+F eszközök beszerzése VEKOP projekt",
-        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11340000",
-        "contracting_authority": "Szépművészeti Múzeum",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21156_2021/",
-        "main_cpv": "33111600-7",
-        "number_companies_win": 0,
-        "procurement_title": "OMRRK anyag- és technológiai eszköz 1. ütem",
-        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NANOTEST HUNGARY Kereskedelmi és Szolgáltató Kft."
     }
 ]

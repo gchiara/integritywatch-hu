@@ -1,79 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "26005230",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 26005230.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "21/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_10245_2018/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Villamos mozdony tengelyhajtómű alkatrészek beszerzése",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
+        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Kft."
     },
     {
         "company_names": "",
-        "contract_value": "126360000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 126360000.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17455_2018/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "T5C5, T5C5 K2 jármű TE 023 motorjához kommutátor valamint jármű hajtóművéhez fogaskerekek és behajtó tengely agy beszerzése konszignációs raktár üzemeltetésével",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
+        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6865846",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6865846.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "08/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_7880_2019/",
         "main_cpv": "42141300-2",
         "number_companies_win": 0,
         "procurement_title": "Fogaskerekek beszerzése",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
+        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8054106",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8054106.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "08/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_7880_2019/",
         "main_cpv": "42141300-2",
         "number_companies_win": 0,
         "procurement_title": "Fogaskerekek beszerzése",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
+        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9564400",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9564400.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "08/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_7880_2019/",
         "main_cpv": "42141300-2",
         "number_companies_win": 0,
         "procurement_title": "Fogaskerekek beszerzése",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33110000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11405_2021/",
-        "main_cpv": "50220000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Fogaskerék fogazat köszörülés",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36132000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "18/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11405_2021/",
-        "main_cpv": "50220000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Fogaskerék fogazat köszörülés",
-        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Korlátolt Felelősségű Társaság"
+        "registered_name": "Fogaskerék és Alkatrészgyártó Centrum Kft."
     }
 ]

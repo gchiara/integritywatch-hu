@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "46542107",
-        "contracting_authority": "Kőbányai Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 46542107.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10191_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Kőbánya kertváros forgalomtechnika - Budapest X. kerület, Jászberényi út - Zöldpálya utca - Vadszőlő utca által határolt területen épített sebességcsökkentő eszközök kivitelezése",
-        "registered_name": "Aszfaltbeton Vállalkozási és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfaltbeton Vállalkozási és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49495000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 49495000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "23/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21370_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "XI. Bazsalikom utca felújítása",
-        "registered_name": "Aszfaltbeton Vállalkozási és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfaltbeton Vállalkozási és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2000000000",
+        "contract_value": 2000000000.0,
         "contracting_authority": "Budapest Főváros XIII. Kerületi Önkormányzat",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0971_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Útfenntartás, fejlesztés, tervezés",
-        "registered_name": "Aszfaltbeton Vállalkozási és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfaltbeton Vállalkozási és Kereskedelmi Kft."
     }
 ]

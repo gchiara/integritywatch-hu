@@ -1,541 +1,486 @@
 [
     {
         "company_names": "",
-        "contract_value": "28770000",
+        "contract_value": 28770000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "17/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_271_2018/",
         "main_cpv": "38550000-5",
         "number_companies_win": 0,
         "procurement_title": "Tárgyi eszközök beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7100000",
+        "contract_value": 7100000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5217_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülékek beszerzése a Markusovszky Egyetemi Oktatókórház részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14490000",
+        "contract_value": 14490000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5217_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülékek beszerzése a Markusovszky Egyetemi Oktatókórház részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15670000",
+        "contract_value": 15670000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5217_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülékek beszerzése a Markusovszky Egyetemi Oktatókórház részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37130000",
+        "contract_value": 37130000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6033_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Markhot Ferenc Oktatókórház és Rendelőintézet számára történő kiemelt szintű ultrahang diagnosztikai beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41700000",
+        "contract_value": 41700000.0,
         "contracting_authority": "Budapesti Szent Ferenc Korház",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6093_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Budapesti Szent Ferenc Kórház számára történő 1 db Korszerű kardiológiai ultrahang vizsgáló berendezés beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15975000",
+        "contract_value": 15975000.0,
         "contracting_authority": "Keszthelyi Kórház",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7177_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "KESZTHELYI KÓRHÁZ SZÁMÁRA TÖRTÉNŐ ULTRAHANG BERENDEZÉSEK BESZERZÉSE",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22520000",
+        "contract_value": 22520000.0,
         "contracting_authority": "Keszthelyi Kórház",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7177_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "KESZTHELYI KÓRHÁZ SZÁMÁRA TÖRTÉNŐ ULTRAHANG BERENDEZÉSEK BESZERZÉSE",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8745000",
+        "contract_value": 8745000.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7292_2018/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi műszerek beszerzése neurobiológiai, élettani és viselkedésbeli változások összehasonlító vizsgálatára",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37500000",
+        "contract_value": 37500000.0,
         "contracting_authority": "CSOLNOKY FERENC KÓRHÁZ",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7512_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretében Kiemelt szintű radiológiai ultrahang berendezés beszerzése a Csolnoky Ferenc Kórház részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16250000",
+        "contract_value": 16250000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8220_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang eszközpark fejlesztése a Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézetben",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21930000",
+        "contract_value": 21930000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8220_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang eszközpark fejlesztése a Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézetben",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14650000",
+        "contract_value": 14650000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "11/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9103_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés ultrahang készülékek beszerzésére a Debreceni Egyetem részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23045000",
+        "contract_value": 23045000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "11/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9103_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés ultrahang készülékek beszerzésére a Debreceni Egyetem részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "71500000",
+        "contract_value": 71500000.0,
         "contracting_authority": "NAGYATÁDI KÓRHÁZ",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9650_2018/",
         "main_cpv": "33115100-0",
         "number_companies_win": 0,
         "procurement_title": "Új CT berendezés beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29250000",
+        "contract_value": 29250000.0,
         "contracting_authority": "Magyar Kajak-Kenu Szövetség",
         "date": "21/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10049_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnológiai eszközök beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16950000",
+        "contract_value": 16950000.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "17/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11872_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülék beszerzés az MLSZ részére 2.",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29550000",
+        "contract_value": 29550000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12492_2018/",
         "main_cpv": "33124120-2",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang-diagnosztikai készülék beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29500000",
+        "contract_value": 29500000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16580_2018/",
         "main_cpv": "33124110-9",
         "number_companies_win": 0,
         "procurement_title": "Kiértékelő és leletező rendszer beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27580000",
+        "contract_value": 27580000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17139_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés Konszolidációs Támogatás keretében a Pécsi Tudományegyetem részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29600000",
+        "contract_value": 29600000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20141_2018/",
         "main_cpv": "48180000-3",
         "number_companies_win": 0,
         "procurement_title": "Semmelweis Egyetem MR Kutatóközpontjában üzemelő, Philips gyártmányú Ingenia 3T MR készülék szoftver és hardver upgrade-je.",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54000000",
+        "contract_value": 54000000.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23275_2018/",
         "main_cpv": "33112000-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése 2018",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10955000",
+        "contract_value": 10955000.0,
         "contracting_authority": "Vaszary Kolos Kórház, Esztergom",
         "date": "27/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23286_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülék beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "529600000",
+        "contract_value": 529600000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_1051_2019/",
         "main_cpv": "33110000-4",
         "number_companies_win": 0,
         "procurement_title": "Egészséges Budapest Program keretében képalkotó diagnosztikai és sugárterápiai berendezések beszerzésea Dél-budai Centrum társkórházai részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28750000",
+        "contract_value": 28750000.0,
         "contracting_authority": "Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet",
         "date": "22/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4037_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "275330000",
+        "contract_value": 275330000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9807_2019/",
         "main_cpv": "33111000-1",
         "number_companies_win": 0,
         "procurement_title": "Képalkotó diagnosztikai eszközök beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "524900000",
+        "contract_value": 524900000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9807_2019/",
         "main_cpv": "33111000-1",
         "number_companies_win": 0,
         "procurement_title": "Képalkotó diagnosztikai eszközök beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24750000",
+        "contract_value": 24750000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10784_2019/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Vascularis radiológiai ultrahang berendezés",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20970000",
+        "contract_value": 20970000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20450_2019/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Prémium kategóriás neurológia célú ultrahang beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24190000",
+        "contract_value": 24190000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "20/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22053_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang beszerzés SZSZBMK-ban",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16930000",
+        "contract_value": 16930000.0,
         "contracting_authority": "Alkotmányvédelmi Hivatal",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22525_2019/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang diagnosztikai készülék és tartozékai",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25750000",
+        "contract_value": 25750000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "19/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24342_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "SzSzBMK - 2 db UH eszköz beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31496000",
+        "contract_value": 31496000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25098_2019/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Kardiológiai célú prémium ultrahang beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12800000",
-        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 12800000.0,
+        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft.",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1674_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszerek beszerzése (EBP)",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13600000",
-        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 13600000.0,
+        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft.",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1674_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszerek beszerzése (EBP)",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43300000",
+        "contract_value": 43300000.0,
         "contracting_authority": "Heim Pál Országos Gyermekgyógyászati Intézet",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2527_2020/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Prémium ultrahang diagnosztikai készülék",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "56692880",
+        "contract_value": 56692880.0,
         "contracting_authority": "Budapesti Szent Ferenc Korház",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5733_2020/",
         "main_cpv": "33192120-9",
         "number_companies_win": 0,
         "procurement_title": "Kórházi eszközök beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32280000",
+        "contract_value": 32280000.0,
         "contracting_authority": "Mátrai Gyógyintézet",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7080_2020/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Mágy - eszközbeszerzés - 2020",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25190000",
+        "contract_value": 25190000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "08/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11767_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang beszerzés",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "145000000",
+        "contract_value": 145000000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13081_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Egészséges Budapest Program keretében 1 db MR és 1db DSA berendezés beszerzése a GOKI számára, valamint 1 db lineáris gyorsító berendezés beszerzése az Uzsoki utcai Kórház számára",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18770000",
+        "contract_value": 18770000.0,
         "contracting_authority": "Mezőtúri Kórház és Rendelőintézet",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14227_2020/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Középszintü UH beszerzés MKR részére",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170400000",
+        "contract_value": 170400000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19925_2020/",
         "main_cpv": "50421000-2",
         "number_companies_win": 0,
         "procurement_title": "Philips gyártmányú uh-k javítása és karbantartása",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21845000",
+        "contract_value": 21845000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "10/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20294_2020/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Kardiológiai célú prémium ultrahang beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14900000",
-        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 14900000.0,
+        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft.",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22714_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszerek",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "28170000",
-        "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
-        "date": "20/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9243_2021/",
-        "main_cpv": "33124120-2",
-        "number_companies_win": 0,
-        "procurement_title": "Ultrahangok beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "67875000",
-        "contracting_authority": "Gottsegen György Országos Kardiovaszkuláris Intézet",
-        "date": "16/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15277_2021/",
-        "main_cpv": "33110000-4",
-        "number_companies_win": 0,
-        "procurement_title": "MR upgrade, képalkotó kiértékelő rendszer beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14953000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18908_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Kutatási eszközök 1. - PTE ÁOK (RRF)",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43800000",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19138_2021/",
-        "main_cpv": "33112200-0",
-        "number_companies_win": 0,
-        "procurement_title": "Felső kategóriás ultrahang vizsgáló berendezések",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "28290000",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "22/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22807_2021/",
-        "main_cpv": "33123200-0",
-        "number_companies_win": 0,
-        "procurement_title": "Echocardiográfiás készülék beszerzése",
-        "registered_name": "BLUEMED Korlátolt Felelősségű Társaság"
+        "registered_name": "BLUEMED Kft."
     }
 ]

@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "91589119",
+        "contract_value": 91589119.0,
         "contracting_authority": "Kovács István",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7220_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mezőfalva 0185/46 hrsz. alatti ingatlanon terménytisztító- és szárító kivitelezése vállalkozási szerződés keretében",
-        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "156886073",
+        "contract_value": 156886073.0,
         "contracting_authority": "Torma Károly Ferencné",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8707_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Gabonatároló építése és technológia beszerzése",
-        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "214108204",
-        "contracting_authority": "Fibrilla Növénytermesztési Betéti Társaság",
+        "contract_value": 214108204.0,
+        "contracting_authority": "Fibrilla Növénytermesztési Bt.",
         "date": "05/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15005_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szárítótelep építése a Fibrilla Bt. részére",
-        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "106068787",
+        "contract_value": 106068787.0,
         "contracting_authority": "Bojtor József",
         "date": "14/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16310_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Terményszárító és -tisztító korszerűsítése",
-        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "163440881",
+        "contract_value": 163440881.0,
         "contracting_authority": "Gerhó Balázsné",
         "date": "21/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21079_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Kisméretű terménytároló építése, korszerűsítése",
-        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "129899923",
+        "contract_value": 129899923.0,
         "contracting_authority": "Staub Mihály",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20979_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Terményszárító és technológiája beszerzése",
-        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "PANNONAGRI Műszaki Tervező és Kereskedelmi Kft."
     }
 ]

@@ -1,68 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "297003711",
+        "contract_value": 297003711.0,
         "contracting_authority": "Szombathelyi Egyházmegye",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12764_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szent Benedek Katolikus Általános Iskola bővítése - Celldömölk",
-        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "548797761",
+        "contract_value": 548797761.0,
         "contracting_authority": "Szombathely Megyei Jogú Város Önkormányzata",
         "date": "01/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18039_2019/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi alapellátó központ kialakítás 2019",
-        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1927920351",
+        "contract_value": 1927920351.0,
         "contracting_authority": "Győri Egyházmegye",
         "date": "18/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24072_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "A soproni Szent Orsolya Római Katolikus Gimnázium, Általános Iskola, Óvoda és Kollégium, valamint a Horváth Ház felújításához kapcsolódó kivitelezési munkák ellátása",
-        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Muros Bau Korlátolt Felelősségű Társaság",
-        "contract_value": "3549918223",
-        "contracting_authority": "Győri Egyházmegye",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1063_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Prohászka Gimnázium, Általános Iskola és Óvoda felújítása (II)",
-        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "379300000",
-        "contracting_authority": "Szombathelyi Egyházmegye",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4232_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szent Imre Katolikus Általános Iskola bővítése",
-        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1590049120",
-        "contracting_authority": "Sopron Megyei Jogú Város Önkormányzata",
-        "date": "08/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16754_2021/",
-        "main_cpv": "45215100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Új rendelőintézet kivitelezése",
-        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Dreiszker és Társai Építőipari és Kereskedelmi Kft."
     }
 ]

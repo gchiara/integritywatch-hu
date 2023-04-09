@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "20835000",
+        "contract_value": 20835000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13264_2018/",
         "main_cpv": "18424300-0",
         "number_companies_win": 0,
         "procurement_title": "Egyszer használatos, nem steril orvosi vizsgáló kesztyűk 24 hónapra történő beszerzése",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55027000",
+        "contract_value": 55027000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13264_2018/",
         "main_cpv": "18424300-0",
         "number_companies_win": 0,
         "procurement_title": "Egyszer használatos, nem steril orvosi vizsgáló kesztyűk 24 hónapra történő beszerzése",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18750",
+        "contract_value": 18750.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17590_2018/",
         "main_cpv": "18424000-7",
         "number_companies_win": 0,
         "procurement_title": "ADÁSVÉTELI KERETSZERZŐDÉS EGYSZER HASZNÁLATOS VIZSGÁLÓKESZTYŰ ÉS STERIL SEBÉSZETI KESZTYŰ BESZERZÉSE",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32500000",
+        "contract_value": 32500000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21669_2018/",
         "main_cpv": "33141420-0",
         "number_companies_win": 0,
         "procurement_title": "Orvosi kesztyűk beszerzése magyarországi fekvőbeteg ellátó intézmények részére",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     },
     {
         "company_names": "",
-        "contract_value": "132000000",
+        "contract_value": 132000000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21669_2018/",
         "main_cpv": "33141420-0",
         "number_companies_win": 0,
         "procurement_title": "Orvosi kesztyűk beszerzése magyarországi fekvőbeteg ellátó intézmények részére",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     },
     {
         "company_names": "",
-        "contract_value": "260000000",
+        "contract_value": 260000000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21669_2018/",
         "main_cpv": "33141420-0",
         "number_companies_win": 0,
         "procurement_title": "Orvosi kesztyűk beszerzése magyarországi fekvőbeteg ellátó intézmények részére",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     },
     {
-        "company_names": "Mercator Medical Korlátolt Felelősségű Társaság; SEMPERMED Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "2526300000",
+        "company_names": "Mercator Medical Kft.; SEMPERMED Magyarország Kereskedelmi Kft.",
+        "contract_value": 2526300000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "01/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21669_2018/",
         "main_cpv": "33141420-0",
         "number_companies_win": 2,
         "procurement_title": "Orvosi kesztyűk beszerzése magyarországi fekvőbeteg ellátó intézmények részére",
-        "registered_name": "Mercator Medical Korlátolt Felelősségű Társaság"
+        "registered_name": "Mercator Medical Kft."
     }
 ]

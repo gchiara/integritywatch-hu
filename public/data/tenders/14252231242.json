@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "278920000",
+        "contract_value": 278920000.0,
         "contracting_authority": "Budapest Főváros XIV. Kerület Zugló Önkormányzata",
         "date": "18/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10111_2020/",
         "main_cpv": "98351000-8",
         "number_companies_win": 0,
         "procurement_title": "Parkoló automaták beszerzése, üzembe helyezése, karbantartása",
-        "registered_name": "C-WARE Korlátolt Felelősségű Társaság"
+        "registered_name": "C-WARE Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85224348",
+        "contract_value": 85224348.0,
         "contracting_authority": "Budapest Főváros XIII. Kerületi Önkormányzat",
         "date": "22/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10424_2020/",
         "main_cpv": "50316000-3",
         "number_companies_win": 0,
         "procurement_title": "Parkolójegykiadó automaták karbantartása, javítása",
-        "registered_name": "C-WARE Korlátolt Felelősségű Társaság"
+        "registered_name": "C-WARE Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10999952",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10999952.0,
+        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zrt.",
         "date": "01/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11629_2020/",
         "main_cpv": "98351000-8",
         "number_companies_win": 0,
         "procurement_title": "Parkoló automatákkal kapcsolatos szolgáltatások",
-        "registered_name": "C-WARE Korlátolt Felelősségű Társaság"
+        "registered_name": "C-WARE Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33000000",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33000000.0,
+        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zrt.",
         "date": "01/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11629_2020/",
         "main_cpv": "98351000-8",
         "number_companies_win": 0,
         "procurement_title": "Parkoló automatákkal kapcsolatos szolgáltatások",
-        "registered_name": "C-WARE Korlátolt Felelősségű Társaság"
+        "registered_name": "C-WARE Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20543988",
-        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 20543988.0,
+        "contracting_authority": "EVIN Erzsébetvárosi Ingatlangazdálkodási Nonprofit Zrt.",
         "date": "06/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11625_2020/",
         "main_cpv": "98351000-8",
         "number_companies_win": 0,
         "procurement_title": "Parkoló automatákkal kapsolatos szolgáltatások",
-        "registered_name": "C-WARE Korlátolt Felelősségű Társaság"
+        "registered_name": "C-WARE Kft."
     }
 ]

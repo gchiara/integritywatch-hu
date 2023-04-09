@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "AQUA DUPLEX Mérnökiroda Korlátolt Felelósségű Társaság; Aquincum Építész Stúdió Korlátolt Felelősségű Társaság",
-        "contract_value": "560571827",
-        "contracting_authority": "PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "AQUA DUPLEX Mérnökiroda Korlátolt Felelósségű Társaság; Aquincum Építész Stúdió Kft.",
+        "contract_value": 560571827.0,
+        "contracting_authority": "PIP Közép-Duna Menti Térségfejlesztési Nonprofit Kft.",
         "date": "07/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17974_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 2,
         "procurement_title": "Tervellenőrzési feladatok ellátása",
-        "registered_name": "Aquincum Építész Stúdió Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AQUA DUPLEX Mérnökiroda Korlátolt Felelósségű Társaság; Aquincum Építész Stúdió Korlátolt Felelősségű Társaság",
-        "contract_value": "665333",
-        "contracting_authority": "PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "14/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5867_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Tervellenőrzési feladatok ellátása",
-        "registered_name": "Aquincum Építész Stúdió Korlátolt Felelősségű Társaság"
+        "registered_name": "Aquincum Építész Stúdió Kft."
     }
 ]

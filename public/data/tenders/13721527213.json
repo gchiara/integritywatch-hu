@@ -1,68 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "44450237",
+        "contract_value": 44450237.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24633_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyermekotthon korszerűsítése a Fővárosban című projekthez szükséges kivitelezési munkák beszerzése",
-        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "OCTOPUS Invest Szolgáltató Korlátolt Felelősségű Társaság; RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; VALID SOLUTION Tanácsadó Korlátolt Felelősségű Társaság; ZIB Komplex Korlátolt Felelősségű Társaság",
-        "contract_value": "5195058101",
+        "company_names": "OCTOPUS Invest Szolgáltató Kft.; RABEL-DEKOR Építőipari és Szolgáltató Kft.; VALID SOLUTION Tanácsadó Kft.; ZIB Komplex Kft.",
+        "contract_value": 5195058101.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17285_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 4,
         "procurement_title": "Tatabányai Gimnázium kivitelezés.",
-        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "88728735",
+        "contract_value": 88728735.0,
         "contracting_authority": "Fővárosi Gyermekvédelmi Központ és Területi Gyermekvédelmi Szakszolgálat",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22383_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A 1121 Budapest, Kalóz u. 6. sz. épület felújítása",
-        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "944700241",
-        "contracting_authority": "Simonpuszta Nemzeti Lovas és Hagyományőrző Egyesület",
-        "date": "11/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14826_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Simonpusztai Lovaspark felújítása és fejlesztése",
-        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32766206",
-        "contracting_authority": "Országos Gyermekvédelmi Szakszolgálat",
-        "date": "22/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25431_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Budapest VIII.ker. Alföldi u. 9-13. felújítása",
-        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17794734",
-        "contracting_authority": "Országos Gyermekvédelmi Szakszolgálat",
-        "date": "23/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23587_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Budapest XII.ker. Kalóz u. 6. felújítása (2. ütem)",
-        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RABEL-DEKOR Építőipari és Szolgáltató Kft."
     }
 ]

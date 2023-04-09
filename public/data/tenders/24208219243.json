@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "414559500",
+        "contract_value": 414559500.0,
         "contracting_authority": "Gazda-Tej Értékesítési Szövetkezet",
         "date": "10/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7052_2018/",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "130000000",
-        "contracting_authority": "KÖRÖS-MAROS BIOFARM SZARVASMARHA-TENYÉSZTŐ Korlátolt Felelősségű Társaság",
+        "contract_value": 130000000.0,
+        "contracting_authority": "KÖRÖS-MAROS BIOFARM SZARVASMARHA-TENYÉSZTŐ Kft.",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7812_2018/",
         "main_cpv": "42200000-8",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "279578670",
-        "contracting_authority": "TS-TEJ Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 279578670.0,
+        "contracting_authority": "TS-TEJ Kereskedelmi Kft.",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9132_2018/",
         "main_cpv": "42211000-8",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "3150000",
-        "contracting_authority": "PL Beauty Cosmetics Korlátolt Felelősségű Társaság",
+        "contract_value": 3150000.0,
+        "contracting_authority": "PL Beauty Cosmetics Kft.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7198_2019/",
         "main_cpv": "42000000-6",
@@ -45,8 +45,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "2790614",
-        "contracting_authority": "KÖRÖS-MAROS BIOFARM SZARVASMARHA-TENYÉSZTŐ Korlátolt Felelősségű Társaság",
+        "contract_value": 2790614.0,
+        "contracting_authority": "KÖRÖS-MAROS BIOFARM SZARVASMARHA-TENYÉSZTŐ Kft.",
         "date": "23/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15799_2019/",
         "main_cpv": "42213000-2",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "2600000",
-        "contracting_authority": "PL Beauty Cosmetics Korlátolt Felelősségű Társaság",
+        "contract_value": 2600000.0,
+        "contracting_authority": "PL Beauty Cosmetics Kft.",
         "date": "28/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11850_2019/",
         "main_cpv": "42000000-6",

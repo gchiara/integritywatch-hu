@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "20007195",
+        "contract_value": 20007195.0,
         "contracting_authority": "Csengele Községi Önkormányzat",
         "date": "26/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19653_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Energetikai épületkorszerűsítések Csengelén",
-        "registered_name": "KaPet Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "KaPet Bau Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46778016",
+        "contract_value": 46778016.0,
         "contracting_authority": "Csengele Községi Önkormányzat",
         "date": "26/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19653_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Energetikai épületkorszerűsítések Csengelén",
-        "registered_name": "KaPet Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "KaPet Bau Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58327384",
+        "contract_value": 58327384.0,
         "contracting_authority": "Tömörkény Községi Önkormányzat",
         "date": "22/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21369_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Tömörkényi óvoda átalakítása és bővítése.",
-        "registered_name": "KaPet Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "KaPet Bau Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45761420",
+        "contract_value": 45761420.0,
         "contracting_authority": "Tömörkény Községi Önkormányzat",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22651_2018/",
         "main_cpv": "45215200-9",
         "number_companies_win": 0,
         "procurement_title": "Tömörkényi Gondozási Központ fejlesztése, bővítése",
-        "registered_name": "KaPet Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "KaPet Bau Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40160807",
+        "contract_value": 40160807.0,
         "contracting_authority": "Tömörkény Községi Önkormányzat",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0601_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A tömörkényi polgármesteri hivatal energetikai felújítása",
-        "registered_name": "KaPet Bau Korlátolt Felelősségű Társaság"
+        "registered_name": "KaPet Bau Kft."
     }
 ]

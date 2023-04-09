@@ -1,46 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "254726440",
+        "contract_value": 254726440.0,
         "contracting_authority": "Enying Város Önkormányzata",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_20704_2019/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Enying Város Önkormányzat és a Székesfehérvári Tankerületi Központ által fenntartott köznevelési intézmények részére közétkeztetési szolgáltatás biztosítása",
-        "registered_name": "S-FOOD Gastronomy Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "S-FOOD Gastronomy Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "151067176",
+        "contract_value": 151067176.0,
         "contracting_authority": "Enying Mikrokörzeti Szociális és Gyermekjóléti Intézményi Társulás",
         "date": "14/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22170_2019/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Társulási intézményekben közétkeztetés biztosítása",
-        "registered_name": "S-FOOD Gastronomy Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "88364346",
-        "contracting_authority": "Siófok Város Gondozási Központja",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6716_2021/",
-        "main_cpv": "55523000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Idősek Otthona négyszeri étkeztetés biztosítása",
-        "registered_name": "S-FOOD Gastronomy Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "976268400",
-        "contracting_authority": "Sándorfalva Városi Önkormányzat",
-        "date": "25/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_20637_2021/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Közétkeztetés biztosítása Sándorfalván",
-        "registered_name": "S-FOOD Gastronomy Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "S-FOOD Gastronomy Kereskedelmi és Szolgáltató Kft."
     }
 ]

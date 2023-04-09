@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "295006681",
+        "contract_value": 295006681.0,
         "contracting_authority": "Dunántúli Református Egyházkerület",
         "date": "08/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18445_2017/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pápai Református Kollégium Tánc-Lánc Alapfokú Művészeti Iskolájának kialakítása vállalkozási szerződés keretében",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
+        "registered_name": "STILÉPBER Ingatlanberuházó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "266112201",
+        "contract_value": 266112201.0,
         "contracting_authority": "Dunántúli Református Egyházkerület",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12906_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Református Kollégium Gimnáziuma és Művészeti Szakközépiskola konyhai szárnyának átalakítása, rekonstrukciója, homlokzati felújítása, nyílászáró-cseréje, gépészeti korszerűsítése vállalkozási szerződéskeretében.",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
+        "registered_name": "STILÉPBER Ingatlanberuházó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57686492",
+        "contract_value": 57686492.0,
         "contracting_authority": "Szentgáli Református Egyházközség",
         "date": "06/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17148_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Református templom építése Herenden",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
+        "registered_name": "STILÉPBER Ingatlanberuházó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68523149",
+        "contract_value": 68523149.0,
         "contracting_authority": "Balatonfüredi Református Egyházközség",
         "date": "22/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22565_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Balatonfüred, Óvoda u., Mogyoró u. épületek energetikai korszerűsítése",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
+        "registered_name": "STILÉPBER Ingatlanberuházó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "179817321",
+        "contract_value": 179817321.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "13/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24104_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Balatonfüred, Hunyadi utcai óvoda felújítása",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
+        "registered_name": "STILÉPBER Ingatlanberuházó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "883026524",
+        "contract_value": 883026524.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "12/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10345_2020/",
         "main_cpv": "45212314-0",
         "number_companies_win": 0,
         "procurement_title": "Esterházy kastély - Nyaralástörténeti látogatóközpont",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55426624",
-        "contracting_authority": "Balatonfüredi Református Egyházközség",
-        "date": "05/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13187_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Balatonfüredi Református Általános Iskola és Óvoda tetőfelújítása",
-        "registered_name": "STILÉPBER Ingatlanberuházó Korlátolt Felelősségű Társaság"
+        "registered_name": "STILÉPBER Ingatlanberuházó Kft."
     }
 ]

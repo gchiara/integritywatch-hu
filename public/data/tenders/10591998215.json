@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "39207010",
+        "contract_value": 39207010.0,
         "contracting_authority": "Vitkai Református Egyházközség",
         "date": "27/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_643_2018/",
         "main_cpv": "45212361-4",
         "number_companies_win": 0,
         "procurement_title": "Református Templom energetikai korszerűsítése",
-        "registered_name": "HANDEL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HANDEL Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44070004",
+        "contract_value": 44070004.0,
         "contracting_authority": "Tornyospálca Községért Közalapítvány",
         "date": "30/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16254_2019/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Piac építése",
-        "registered_name": "HANDEL Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HANDEL Építőipari és Kereskedelmi Kft."
     }
 ]

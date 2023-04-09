@@ -46586,7 +46586,7 @@ exports.default = _default;
       _c("div", { staticClass: "loader" }),
       _vm._v(" "),
       _c("div", { staticClass: "loader-text below" }, [
-        _vm._v("\n      Please wait a moment for the data to load ...\n    ")
+        _vm._v("\n      Kérjük, várjon, amíg az adatok betöltődnek!\n    ")
       ])
     ])
   ])
@@ -46666,9 +46666,11 @@ exports.default = _default;
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", { class: ["chart-header", "row", _vm.customclass] }, [
-    _c("div", { class: ["chart-title", "col-9"] }, [_vm._v(_vm._s(_vm.title))]),
+    _c("div", { class: ["chart-title", "col-10"] }, [
+      _vm._v(_vm._s(_vm.title))
+    ]),
     _vm._v(" "),
-    _c("div", { staticClass: "chart-header-buttons col-3" }, [
+    _c("div", { staticClass: "chart-header-buttons col-2" }, [
       _vm.info && _vm.info !== ""
         ? _c(
             "button",
@@ -46816,7 +46818,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63452" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55762" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

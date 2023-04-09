@@ -1,101 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "35000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 35000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7835_2018/",
         "main_cpv": "45500000-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási keretszerződés aszfaltmaró bérlésére kezelőszemélyzettel 2018",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "713348000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 713348000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "12/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11499_2018/",
         "main_cpv": "44113910-7",
         "number_companies_win": 0,
         "procurement_title": "Hidegaszfalt beszerzés 2017",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "766656842",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 766656842.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "12/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11499_2018/",
         "main_cpv": "44113910-7",
         "number_companies_win": 0,
         "procurement_title": "Hidegaszfalt beszerzés 2017",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 20000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "14/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8561_2019/",
         "main_cpv": "45500000-2",
         "number_companies_win": 0,
         "procurement_title": "Aszfaltmaró bérlése kezelőszemélyzettel",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
-    },
-    {
-        "company_names": "",
-        "contract_value": "40000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6768_2021/",
-        "main_cpv": "45500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Finisher, henger és aszfaltmaró bérlése kezelővel",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
-    },
-    {
-        "company_names": "",
-        "contract_value": "41000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6768_2021/",
-        "main_cpv": "45500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Finisher, henger és aszfaltmaró bérlése kezelővel",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
-    },
-    {
-        "company_names": "",
-        "contract_value": "50000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25671_2021/",
-        "main_cpv": "45500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Finisher, henger és aszfaltmaró bérlése kezelővel",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
-    },
-    {
-        "company_names": "",
-        "contract_value": "75000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25671_2021/",
-        "main_cpv": "45500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Finisher, henger és aszfaltmaró bérlése kezelővel",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
-    },
-    {
-        "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25671_2021/",
-        "main_cpv": "45500000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Finisher, henger és aszfaltmaró bérlése kezelővel",
-        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "FINN ÚT TANÁCSADÓ ÉS SZOLGÁLTATÓ Kft."
     }
 ]

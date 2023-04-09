@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "37499712",
+        "contract_value": 37499712.0,
         "contracting_authority": "Kartal Nagyközség Önkormányzata",
         "date": "07/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1661_2018/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Művelődési Ház korszerűsítésére Kartalon a vidékfejlesztési program keretében",
-        "registered_name": "Magyar-Ép Holding Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar-Ép Holding Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6518789",
-        "contracting_authority": "GEBO Mezőgazdasági, Termelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 6518789.0,
+        "contracting_authority": "GEBO Mezőgazdasági, Termelő és Szolgáltató Kft.",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13882_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Iroda és terménytároló építése Tápiógyörgyén",
-        "registered_name": "Magyar-Ép Holding Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar-Ép Holding Kft."
     },
     {
         "company_names": "",
-        "contract_value": "237286056",
-        "contracting_authority": "GEBO Mezőgazdasági, Termelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 237286056.0,
+        "contracting_authority": "GEBO Mezőgazdasági, Termelő és Szolgáltató Kft.",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13882_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Iroda és terménytároló építése Tápiógyörgyén",
-        "registered_name": "Magyar-Ép Holding Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar-Ép Holding Kft."
     },
     {
-        "company_names": "Magyar-Ép Holding Korlátolt Felelősségű Társaság; NOVOTERM-96. Építőipari, Épületgépészeti, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "215801099",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "company_names": "Magyar-Ép Holding Kft.; NOVOTERM-96. Építőipari, Épületgépészeti, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 215801099.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21685_2018/",
         "main_cpv": "45331100-7",
         "number_companies_win": 2,
         "procurement_title": "Zách u. telephely fűtésrekonstrukció kivitelezése",
-        "registered_name": "Magyar-Ép Holding Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar-Ép Holding Kft."
     },
     {
         "company_names": "",
-        "contract_value": "81431232",
-        "contracting_authority": "UNITAS Kereskedelmi Korlátolt Felelősségü Társaság.",
+        "contract_value": 81431232.0,
+        "contracting_authority": "UNITAS Kereskedelmi Kft..",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22840_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kastélykert Panzió és Étterem fejlesztése",
-        "registered_name": "Magyar-Ép Holding Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar-Ép Holding Kft."
     }
 ]

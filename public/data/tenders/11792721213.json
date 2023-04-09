@@ -1,57 +1,35 @@
 [
     {
-        "company_names": "FŐMTERV Mérnöki Tervező Zrt.; REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "54800000",
-        "contracting_authority": "Szombathelyi Távhőszolgáltató Korlátolt Felelősségű Társaság",
+        "company_names": "FŐMTERV Mérnöki Tervező Zrt.; REÁL-ENERGO Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 54800000.0,
+        "contracting_authority": "Szombathelyi Távhőszolgáltató Kft.",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11379_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 2,
         "procurement_title": "Engedélyes és kiviteli tendertervek elkészítése",
-        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9950000",
-        "contracting_authority": "SZOVA Szombathelyi Vagyonhasznosító és Városgazdálkodási Nonprofit Zártkörűen működő Részvénytársaság",
+        "contract_value": 9950000.0,
+        "contracting_authority": "SZOVA Szombathelyi Vagyonhasznosító és Városgazdálkodási Nonprofit Zrt.",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5876_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Engedélyes és kiviteli tervek elkészítése",
-        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17830000",
-        "contracting_authority": "SZOVA Szombathelyi Vagyonhasznosító és Városgazdálkodási Nonprofit Zártkörűen működő Részvénytársaság",
+        "contract_value": 17830000.0,
+        "contracting_authority": "SZOVA Szombathelyi Vagyonhasznosító és Városgazdálkodási Nonprofit Zrt.",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5876_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Engedélyes és kiviteli tervek elkészítése",
-        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "56000000",
-        "contracting_authority": "KECSKEMÉTI TERMOSTAR Hőszolgáltató Korlátolt Felelősségű Társaság",
-        "date": "19/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_2564_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Távhővezetékek és fűtőmű átalakítás tervezése",
-        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Civil Planning Trade Mérnöki Szolgáltató Korlátolt Felelősségű Társaság; DIREKT Közműtervező és -építő Korlátolt Felelősségű Társaság; FŐMTERV Mérnöki Tervező Zrt.; REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "300000000",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "26/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_22786_2021/",
-        "main_cpv": "71245000-7",
-        "number_companies_win": 4,
-        "procurement_title": "Távhőtechnológiai munkák tervezése",
-        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "REÁL-ENERGO Mérnökiroda és Szolgáltató Kft."
     }
 ]

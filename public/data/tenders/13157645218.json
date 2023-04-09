@@ -1,35 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "129133904",
+        "contract_value": 129133904.0,
         "contracting_authority": "Halogy Községi Önkormányzat",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2785_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés kivielezése-Halogy",
-        "registered_name": "MEDIO TECH Környezetvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "125877286",
-        "contracting_authority": "Lispeszentadorján Község Önkormányzata",
-        "date": "21/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7012_2021/",
-        "main_cpv": "45231300-8",
-        "number_companies_win": 0,
-        "procurement_title": "Lispeszentadorján-Egyedi szennyvízkezelés kivitelezése",
-        "registered_name": "MEDIO TECH Környezetvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "206696623",
-        "contracting_authority": "Tüskevár Község Önkormányzata",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7410_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szennyvíztisztító telep építése Tüskeváron",
-        "registered_name": "MEDIO TECH Környezetvédelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDIO TECH Környezetvédelmi és Szolgáltató Kft."
     }
 ]

@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "114656932",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 114656932.0,
+        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22592_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Az OKF 5 épületének felújítása",
-        "registered_name": "SÓSTÓTERV Építési és Oktatási Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "97789056",
-        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, BMSK Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24901_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "OKF-Záhony Katvéd. Őrs épületenergetikai fejlesztése",
-        "registered_name": "SÓSTÓTERV Építési és Oktatási Korlátolt Felelősségű Társaság"
+        "registered_name": "SÓSTÓTERV Építési és Oktatási Kft."
     }
 ]

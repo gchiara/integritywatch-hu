@@ -1,211 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "14900000",
+        "contract_value": 14900000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_867_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "A Nyírő Gyula Kórház - Országos Pszichiátriai és Addiktológiai Intézet A épület részleges felújításához és a D épület átalakításához szükséges tervezési szolgáltatás beszerzése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "500000000",
-        "contracting_authority": "Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 500000000.0,
+        "contracting_authority": "Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zrt.",
         "date": "01/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_415/megtekint/portal_18168_2017/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Sopron-Fertő térség kiemelt turisztikai fejlesztési térség 1862/2016 (VII.27.) Kormány határozat alapján a vízitelep fejlesztése II üteme tervezési munkái és kapcsolódó feladatok elvégzése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "499500000",
-        "contracting_authority": "Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 499500000.0,
+        "contracting_authority": "Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zrt.",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4350_2018/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Sopron- Fertő térség kiemelt turisztikai fejlesztési térség 1862/2016 (VII.27.) Kormány határozat alapján a vízitelep fejlesztése II üteme tervezési munkái és kapcsolódó feladatok elvégzése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
-        "company_names": "Boda István; Középülettervező Zártkörűen működő Részvénytársaság; Skrabák Zoltán; Skrabák-Nagy Marianna",
-        "contract_value": "397000000",
+        "company_names": "Boda István; Középülettervező Zrt.; Skrabák Zoltán; Skrabák-Nagy Marianna",
+        "contract_value": 397000000.0,
         "contracting_authority": "Agrártudományi Kutatóközpont",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9236_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Tervezési szerződés a Martonvásár MTA Agrártudományi Kutatási tömb - építési előkészítési, engedélyezési és kivitelezési terveinek elkészítése, valamint generáltervezői művezetés tekintetében",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "90200000",
+        "contract_value": 90200000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10336_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Az építési engedély köteles Nyírő Gyula Kórház-Országos Pszichiátriai és Addiktológiai Intézet magas biztonsági fokozatú pszichiátria új épületének kialakításához szükséges tervezési szolgáltatás be",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "176800000",
+        "contract_value": 176800000.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17538_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "A Budapest, II. Frankel Leó út 80.-82. alatti területen építendő összevont Egészségügyi Szolgálat Rendelőintézet engedélyezési és kivitelezési tervdokumentációjának teljes körű elkészítése és a kivitelezés során tervezői művezetés biztosítása",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "995000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 995000000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8377_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Multifunkcionális Csarnok tervezési szolgáltatás",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
-        "company_names": "Középülettervező Zártkörűen működő Részvénytársaság; TSPC Mérnökiroda Korlátolt Felelősségű Társaság",
-        "contract_value": "445000000",
+        "company_names": "Középülettervező Zrt.; TSPC Mérnökiroda Kft.",
+        "contract_value": 445000000.0,
         "contracting_authority": "Veszprém Megyei Jogú Város Önkormányzata",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8207_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 2,
         "procurement_title": "Veszprémi Petőfi Színház tervezési feladatok",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "761600000",
+        "contract_value": 761600000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0167_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Egészséges Budapest Program keretében az Észak-pesti Centrum ÉPC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "500000000",
+        "contract_value": 500000000.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4877_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Magasépítési tervezési feladatok",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "36599360",
+        "contract_value": 36599360.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14531_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Vámház krt. 8-közösségi kulturális tér kialakítása",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "220000000",
+        "contract_value": 220000000.0,
         "contracting_authority": "Balatonfüred Város Önkormányzata",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20569_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "kulturális és rendezvényhelyszín fejlesztése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "30260966",
+        "contract_value": 30260966.0,
         "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23338_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "V30 Sportközpont üzemeltetői iroda, raktár tervezés",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "482000000",
-        "contracting_authority": "Magyar Tudományos Akadémia Létesítménygazdálkodási Központ",
-        "date": "29/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6846_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Az MTA Székház és Könyvtár felújításának tervezése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "624000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "30/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15861_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mexikói úti P+R parkolóházak tervezése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; Középülettervező Zártkörűen működő Részvénytársaság",
-        "contract_value": "824000000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16687_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Kelenföldi intermodális csomópont őrmezői autóbusz-terminál megvalósításának és a P+R parkolók bővítésének előkészítése (tervezési szolgáltatás)",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "39840000",
-        "contracting_authority": "Belváros -Lipótváros Budapest Főváros V. Ker. Önkormányzata",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17456_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Kossuth L. u. 3. műemléki épület diagnosztikája",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "352000000",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "20/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19695_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "SE-EOK2 generáltervezése",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "HAMBURG C. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Középülettervező Zártkörűen működő Részvénytársaság",
-        "contract_value": "43307086",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "25/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_413/megtekint/portal_22945_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 2,
-        "procurement_title": "Pázmány Péter Katolikus Egyetem Új Campus oktatási célú ingatlanjainak bővítése és fejlesztési célú beruházása",
-        "registered_name": "Középülettervező Zártkörűen működő Részvénytársaság"
+        "registered_name": "Középülettervező Zrt."
     }
 ]

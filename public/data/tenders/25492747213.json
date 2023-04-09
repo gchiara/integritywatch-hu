@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "94472285",
+        "contract_value": 94472285.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24571_2018/",
         "main_cpv": "45112712-9",
         "number_companies_win": 0,
         "procurement_title": "Kertépítés és elemes kerítéssel zárt játszóudvar építése a 22552/42 hrsz alatti ingatlanon",
-        "registered_name": "Green Lords Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Lords Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15743229",
+        "contract_value": 15743229.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10027_2019/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Játszóudvar kialakítása",
-        "registered_name": "Green Lords Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Lords Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16296400",
+        "contract_value": 16296400.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10027_2019/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Játszóudvar kialakítása",
-        "registered_name": "Green Lords Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Lords Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46480679",
+        "contract_value": 46480679.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10027_2019/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Játszóudvar kialakítása",
-        "registered_name": "Green Lords Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Lords Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78685467",
+        "contract_value": 78685467.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10030_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kisfenyves Óvoda felújítása",
-        "registered_name": "Green Lords Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Lords Kft."
     }
 ]

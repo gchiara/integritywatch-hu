@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "100854708",
-        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság",
+        "contract_value": 100854708.0,
+        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Kft.",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2712_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "Építő Bázis 2012 Korlátolt Felelősségű Társaság"
+        "registered_name": "Építő Bázis 2012 Kft."
     },
     {
         "company_names": "",
-        "contract_value": "86613279",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 86613279.0,
+        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Kft.",
         "date": "23/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1050_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tuzsér – Lónyai kastély állagmegóvási munkái",
-        "registered_name": "Építő Bázis 2012 Korlátolt Felelősségű Társaság"
+        "registered_name": "Építő Bázis 2012 Kft."
     }
 ]

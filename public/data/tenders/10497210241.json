@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "19975000",
-        "contracting_authority": "Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 19975000.0,
+        "contracting_authority": "Dunántúli Regionális Vízmű Zrt.",
         "date": "13/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3970_2018/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "Beruházás menedzsment rendszer fejlesztése és bevezetése",
-        "registered_name": "GEOMETRIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOMETRIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "400000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 400000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7572_2018/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "MIR/Mirtusz rendszer üzemeltetési, karbantartási és fejlesztési feladatai",
-        "registered_name": "GEOMETRIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOMETRIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57600000",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 57600000.0,
+        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zrt.",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9296_2018/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "HŐTÉRX III. ütem Műszaki és berendezés nyilvántartás fejlesztésére és bevezetésére, a kapcsolódó rendszereken szükséges fejlesztések elvégzésére",
-        "registered_name": "GEOMETRIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOMETRIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40499996",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 40499996.0,
+        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zrt.",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9298_2018/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "HŐTÉRX és alrendszerei, továbbá a hozzá kapcsolódó integrált vállalati információs rendszer, SAP integráció támogatása, Kbt.37. § (2) szerinti hirdetmény feladása",
-        "registered_name": "GEOMETRIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOMETRIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48600000",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 48600000.0,
+        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zrt.",
         "date": "12/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6527_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Geometria Kft. rendszerek üzemeltetése",
-        "registered_name": "GEOMETRIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "400000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13833_2021/",
-        "main_cpv": "72260000-5",
-        "number_companies_win": 0,
-        "procurement_title": "MIR/Mirtusz üzemeltetés, karbantartás, fejlesztés",
-        "registered_name": "GEOMETRIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GEOMETRIA Kft."
     }
 ]

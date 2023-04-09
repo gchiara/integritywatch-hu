@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "45000000",
+        "contract_value": 45000000.0,
         "contracting_authority": "Győri Nemzeti Színház",
         "date": "09/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0123_2019/",
         "main_cpv": "79620000-6",
         "number_companies_win": 0,
         "procurement_title": "Nézőtéri és ruhatári személyzet beszerzése",
-        "registered_name": "BACHUTI Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BACHUTI Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68000000",
+        "contract_value": 68000000.0,
         "contracting_authority": "Győri Nemzeti Színház",
         "date": "22/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8819_2020/",
         "main_cpv": "79620000-6",
         "number_companies_win": 0,
         "procurement_title": "Nézőtéri és ruhatári személyzet beszerzése",
-        "registered_name": "BACHUTI Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BACHUTI Kereskedelmi és Szolgáltató Kft."
     }
 ]

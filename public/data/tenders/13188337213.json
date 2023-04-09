@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "28660742",
+        "contract_value": 28660742.0,
         "contracting_authority": "Pomáz Város Önkormányzata",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10686_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pomáz, Petőfi Sándor utca K-i oldalán lévő járda teljes és a vízelvezető árok részletes felújítása",
-        "registered_name": "Pilis-2003 Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pilis-2003 Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19824304",
+        "contract_value": 19824304.0,
         "contracting_authority": "Pilisszentlászló Község Önkormányzata",
         "date": "28/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17490_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadékvíz elvezetés I. ütem",
-        "registered_name": "Pilis-2003 Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pilis-2003 Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58086804",
+        "contract_value": 58086804.0,
         "contracting_authority": "Pilisszentlászló Község Önkormányzata",
         "date": "28/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17490_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadékvíz elvezetés I. ütem",
-        "registered_name": "Pilis-2003 Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pilis-2003 Építőipari Kft."
     }
 ]

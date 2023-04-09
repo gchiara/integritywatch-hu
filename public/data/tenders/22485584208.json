@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "180000000",
-        "contracting_authority": "AQUA Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 180000000.0,
+        "contracting_authority": "AQUA Szolgáltató Kft.",
         "date": "10/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0385_2019/",
         "main_cpv": "45000000-7, 45100000-8, 45111290-7, 45112000-5, 45112100-6, 45231110-9, 45231300-8, 45232100-3, 45232151-5, 45232400-6, 45232410-9",
         "number_companies_win": 0,
         "procurement_title": "Víziközmű építési tevékenység",
-        "registered_name": "KU-MÉ-RO Ipari Szolgáltató Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "280000000",
-        "contracting_authority": "AQUA Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_26555_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Víziközmű építési tevékenység",
-        "registered_name": "KU-MÉ-RO Ipari Szolgáltató Betéti Társaság"
+        "registered_name": "KU-MÉ-RO Ipari Szolgáltató Bt."
     }
 ]

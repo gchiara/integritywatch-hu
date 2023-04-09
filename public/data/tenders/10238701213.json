@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "261239460",
+        "contract_value": 261239460.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "23/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_312_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épületépítés, tereprendezés, közösségi tér kialakítása II.",
-        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "460329878",
+        "contract_value": 460329878.0,
         "contracting_authority": "Budapest Főváros XVI. Kerületi Önkormányzat",
         "date": "17/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12208_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Budapest XVI. kerület Szabadföldi úton Cinkotai Egészségház, szolgáltató épület építése",
-        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70188356",
+        "contract_value": 70188356.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12032_2018/",
         "main_cpv": "45233161-5",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő, Szabadság tér 7. sz. (Hrsz.: 291/4) alatt, a Városháza bontása után felszabaduló térrészen megvalósítandó szabadtéri színpad és környezetrendezés (Főtér II. ütem)",
-        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "326179780",
+        "contract_value": 326179780.0,
         "contracting_authority": "Budapest Főváros XVI. Kerületi Önkormányzat",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7504_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Napsugár Bölcsőde bővítése",
-        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1628674747",
+        "contract_value": 1628674747.0,
         "contracting_authority": "XVI. Kerület Kertvárosi Egészségügyi Szolgálata",
         "date": "28/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3610_2020/",
         "main_cpv": "45215000-7",
         "number_companies_win": 0,
         "procurement_title": "XVI. ker. Kertvárosi Szakrendelő felújítása",
-        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "210634058",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9400_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "SE Szent Rókus kórház Levéltár kialakítása",
-        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BAU-TRADE Építőipari Tervező Kivitelező és Kereskedelmi Kft."
     }
 ]

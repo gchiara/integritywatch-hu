@@ -1,134 +1,68 @@
 [
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "150700000",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 150700000.0,
         "contracting_authority": "Szent Mór Bencés Perjelség",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12780_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Kivitelezési szerződés alapján a Szent Mór Perjelség Rendházának, illetve a Czuczor Gergely Bencés Gimnázium és Kollégium épületének oktatási és infrastrukturális célú belső átalakítása",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Possibuild Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; SZABAU INVEST Építőipari és Ingatlanforgalmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1109270217",
+        "company_names": "Possibuild Építőipari és Szolgáltató Kft.; SZABAU INVEST Építőipari és Ingatlanforgalmi Kft.",
+        "contract_value": 1109270217.0,
         "contracting_authority": "Balaton-Felvidéki Nemzeti Park Igazgatóság",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21006_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Kivitelezés és kapcsolódó munkák elvégzése a Balaton-felvidéki Nemzeti Park Igazgatóság részére a Kis-Balaton Látogatóközpont kialakítása és a Diás-szigeti Fekete István Emlékhely fejlesztése elnevezésű projekt keretében",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Possibuild Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "952955681",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 952955681.0,
         "contracting_authority": "Győri Egyházmegye",
         "date": "10/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22519_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Győri Hittudományi Főiskola épületének belső korszerűsítése és a Zarándok szállások létesítés a Káptalandombon",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Possibuild Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "382335816",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 382335816.0,
         "contracting_authority": "Szent Mór Bencés Perjelség",
         "date": "31/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1508_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Rendház porta, templom funkcióbővítő helyreállítása",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Possibuild Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "Laterex Építő Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1647997178",
+        "company_names": "Laterex Építő Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 1647997178.0,
         "contracting_authority": "Isteni Megváltóról Nevezett Nővérek Kongregációja Magyar Tartomány",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9462_2019/",
         "main_cpv": "45212222-8",
         "number_companies_win": 2,
         "procurement_title": "Tornaterem kivitelezése",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Possibuild Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "Horváth Építőmester Építőipari Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "4497622277",
+        "company_names": "Horváth Építőmester Építőipari Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 4497622277.0,
         "contracting_authority": "Ciszterci Rend Zirc-Pilis-Pásztó-Szentgotthárd Egyesített Apátsága",
         "date": "13/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21684_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Budai Ciszterci Gimnázium kivitelezési munkái",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "LAKI Épületszobrász Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "4109941152",
-        "contracting_authority": "Magyar Corvin-Lánc Testület",
-        "date": "29/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1410_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "A Róheim-villa rekonstrukciója",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "DUNÁNTÚLI MAGASÉPÍTŐ Korlátolt Felelősségű Társaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1507186823",
-        "contracting_authority": "Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "04/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3670_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 2,
-        "procurement_title": "Szántódpusztai Majorság fejlesztése I.ütem",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "B&G Építő és Üzemeltető Korlátolt Felelősségű Társaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "119800589",
-        "contracting_authority": "Magyar Bencés Kongregáció Szent Ányos Bencés Perjelség",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4856_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Aszófői zarándokszállás építése",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "B&G Építő és Üzemeltető Korlátolt Felelősségű Társaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "285000000",
-        "contracting_authority": "Magyar Bencés Kongregáció Szent Ányos Bencés Perjelség",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5661_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Apátsági Galéria és külső terek felújítása",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1349686842",
-        "contracting_authority": "Tatabányai Tankerületi Központ",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5519_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 2,
-        "procurement_title": "Vaszary J. Általános Iskola infrastrukturális fejlesztése",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "FERROÉP Fővállalkozó és Szerelőipari Zártkörűen Működő Részvénytársaság; Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2093071473",
-        "contracting_authority": "Szeged-Csanádi Egyházmegye",
-        "date": "13/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24385_2021/",
-        "main_cpv": "45212314-0",
-        "number_companies_win": 2,
-        "procurement_title": "Vántus Zeneművészeti Szakközép - Kivitelezés",
-        "registered_name": "Possibuild Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Possibuild Építőipari és Szolgáltató Kft."
     }
 ]

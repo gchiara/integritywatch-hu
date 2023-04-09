@@ -1,68 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "402890194",
-        "contracting_authority": "EUROTÁP Termeltető, Gyártó és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 402890194.0,
+        "contracting_authority": "EUROTÁP Termeltető, Gyártó és Szolgáltató Kft.",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8681_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Automatizált üvegház építése",
-        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "205000000",
-        "contracting_authority": "FŐKERT Mérnökiroda Beruházási és Tervezési Korlátolt Felelősségű Társaság",
+        "contract_value": 205000000.0,
+        "contracting_authority": "FŐKERT Mérnökiroda Beruházási és Tervezési Kft.",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8498_2018/",
         "main_cpv": "45223800-4",
         "number_companies_win": 0,
         "procurement_title": "VÁLLALKOZÁSI SZERZŐDÉS FÓLIAHÁZAK FELÉPÍTÉSÉRE, BEÁLLÍTÁSÁRA, ÜZEMBE HELYEZÉSÉRE",
-        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7627500",
+        "contract_value": 7627500.0,
         "contracting_authority": "Nemzeti Agrárkutatási és Innovációs Központ",
         "date": "15/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18130_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "1 db Fóliaház építése",
-        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76368174",
+        "contract_value": 76368174.0,
         "contracting_authority": "Dr Honty Krisztina",
         "date": "12/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18513_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4396000",
-        "contracting_authority": "Társadalmi Esélyteremtési Főigazgatóság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22821_2021/",
-        "main_cpv": "03000000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Zöldségfeldolgozó eszközbeszerzés II.",
-        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36712000",
-        "contracting_authority": "Társadalmi Esélyteremtési Főigazgatóság",
-        "date": "18/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22821_2021/",
-        "main_cpv": "03000000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Zöldségfeldolgozó eszközbeszerzés II.",
-        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Hírös Fóliaház Kereskedelmi Szolgáltató Kft."
     }
 ]

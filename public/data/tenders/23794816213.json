@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "52136293",
+        "contract_value": 52136293.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9109_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Vác mentőállomás részleges felújítása",
-        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "217092144",
+        "contract_value": 217092144.0,
         "contracting_authority": "Vác Város Önkormányzat",
         "date": "17/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17672_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vízitúra megállóhely létesítése Vácon",
-        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43697389",
+        "contract_value": 43697389.0,
         "contracting_authority": "Nagymaros Város Önkormányzata",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21504_2020/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségház felújítása, korszerűsítése",
-        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51722768",
+        "contract_value": 51722768.0,
         "contracting_authority": "Nagymaros Város Önkormányzata",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21504_2020/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségház felújítása, korszerűsítése",
-        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "48748074",
-        "contracting_authority": "Váci Tankerületi Központ",
-        "date": "10/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16624_2021/",
-        "main_cpv": "45260000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bartók-Pikéthy Zeneiskola tetőszerkezetének javítása",
-        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BORSZA-BUILD Kereskedelmi és Szolgáltató Kft."
     }
 ]

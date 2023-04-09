@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "99875410",
+        "contract_value": 99875410.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9134_2018/",
         "main_cpv": "90911200-8",
         "number_companies_win": 0,
         "procurement_title": "Semmelweis Egyetem, Pulmonológiai Klinika épületének teljeskörű takarítása.",
-        "registered_name": "MINERVA FMH Létesítmény Higiéniai Korlátolt Felelősségű Társaság"
+        "registered_name": "MINERVA FMH Létesítmény Higiéniai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "145101112",
+        "contract_value": 145101112.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "08/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11815_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "I. sz. Belgyógyászati Klinika, valamint az Urológiai Klinika épületének teljeskörű takarítása",
-        "registered_name": "MINERVA FMH Létesítmény Higiéniai Korlátolt Felelősségű Társaság"
+        "registered_name": "MINERVA FMH Létesítmény Higiéniai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4270000",
+        "contract_value": 4270000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "14/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11987_2020/",
         "main_cpv": "90911200-8",
         "number_companies_win": 0,
         "procurement_title": "SE irodák és kollégiumok takarítása",
-        "registered_name": "MINERVA FMH Létesítmény Higiéniai Korlátolt Felelősségű Társaság"
+        "registered_name": "MINERVA FMH Létesítmény Higiéniai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91790939",
+        "contract_value": 91790939.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13978_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "Klinikák takarítása 48 hónapra",
-        "registered_name": "MINERVA FMH Létesítmény Higiéniai Korlátolt Felelősségű Társaság"
+        "registered_name": "MINERVA FMH Létesítmény Higiéniai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "231139339",
+        "contract_value": 231139339.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13978_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "Klinikák takarítása 48 hónapra",
-        "registered_name": "MINERVA FMH Létesítmény Higiéniai Korlátolt Felelősségű Társaság"
+        "registered_name": "MINERVA FMH Létesítmény Higiéniai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "816241584",
+        "contract_value": 816241584.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23347_2020/",
         "main_cpv": "90910000-9",
         "number_companies_win": 0,
         "procurement_title": "A Központi Betegellátó Épület teljes körű takarítása",
-        "registered_name": "MINERVA FMH Létesítmény Higiéniai Korlátolt Felelősségű Társaság"
+        "registered_name": "MINERVA FMH Létesítmény Higiéniai Kft."
     }
 ]

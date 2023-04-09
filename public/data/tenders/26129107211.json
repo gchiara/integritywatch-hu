@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "150000000",
+        "contract_value": 150000000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "14/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6205_2020/",
         "main_cpv": "50511000-0",
         "number_companies_win": 0,
         "procurement_title": "Különféle SIGMA szivattyúk karbantartása",
-        "registered_name": "ASG Szerviz Korlátolt Felelősségű Társaság"
+        "registered_name": "ASG Szerviz Kft."
     }
 ]

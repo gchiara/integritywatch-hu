@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "147088795",
+        "contract_value": 147088795.0,
         "contracting_authority": "Örkény Város Önkormányzata",
         "date": "18/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17325_2019/",
         "main_cpv": "45214000-0",
         "number_companies_win": 0,
         "procurement_title": "Óvoda bővítés, felújítás Örkényben",
-        "registered_name": "TRIGÁRON Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIGÁRON Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90399071",
+        "contract_value": 90399071.0,
         "contracting_authority": "Hernád Nagyközség Önkormányzata",
         "date": "16/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4620_2020/",
         "main_cpv": "45214000-0",
         "number_companies_win": 0,
         "procurement_title": "Hernádi Csicsergő Bölcsőde bővítése, felújítása",
-        "registered_name": "TRIGÁRON Korlátolt Felelősségű Társaság"
+        "registered_name": "TRIGÁRON Kft."
     }
 ]

@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "164740040",
+        "contract_value": 164740040.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "11/01/2019",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_23410_2018/",
         "main_cpv": "85200000-1",
         "number_companies_win": 0,
         "procurement_title": "Veszettség elleni orális vakcinabeszerzés, vakcinázás",
-        "registered_name": "Hubertus Vadkereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "Hubertus Vadkereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "754986640",
+        "contract_value": 754986640.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "21/02/2019",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_3088_2019/",
         "main_cpv": "85200000-1",
         "number_companies_win": 0,
         "procurement_title": "Veszettség elleni vakcina beszerzése és vakcinázás",
-        "registered_name": "Hubertus Vadkereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "Hubertus Vadkereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "241496740",
+        "contract_value": 241496740.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24288_2020/",
         "main_cpv": "33651690-1",
         "number_companies_win": 0,
         "procurement_title": "Veszettség elleni vakcina beszerzése és vakcinázás",
-        "registered_name": "Hubertus Vadkereskedelmi Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "506616280",
-        "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
-        "date": "21/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20389_2021/",
-        "main_cpv": "33651690-1",
-        "number_companies_win": 0,
-        "procurement_title": "Veszettség elleni vakcina beszerzése, vakcinázás",
-        "registered_name": "Hubertus Vadkereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "Hubertus Vadkereskedelmi Kft."
     }
 ]

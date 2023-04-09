@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "80342798",
+        "contract_value": 80342798.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "13/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21926_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Családbarát szülészet építése 2.",
-        "registered_name": "Baustra Építő Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Baustra Építő Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75391000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 75391000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19179_2020/",
         "main_cpv": "45442121-1",
         "number_companies_win": 0,
         "procurement_title": "Felsővezeték tartó oszlopok és szerkezetek festése",
-        "registered_name": "Baustra Építő Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Baustra Építő Építőipari Kft."
     }
 ]

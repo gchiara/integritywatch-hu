@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "28000666",
+        "contract_value": 28000666.0,
         "contracting_authority": "Lengyeltóti Város Önkormányzata",
         "date": "21/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17175_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "7 db önkormányzati lakás felújítása",
-        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27559000",
+        "contract_value": 27559000.0,
         "contracting_authority": "Gyugy Községi Önkormányzat",
         "date": "13/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18694_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4004594",
+        "contract_value": 4004594.0,
         "contracting_authority": "Mezőcsokonya Község Önkormányzata",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8737_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A polgármesteri hivatal energetikai korszerűsítése, továbbá tetőfelújíta",
-        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25366121",
+        "contract_value": 25366121.0,
         "contracting_authority": "Mezőcsokonya Község Önkormányzata",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8737_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A polgármesteri hivatal energetikai korszerűsítése, továbbá tetőfelújíta",
-        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41597271",
+        "contract_value": 41597271.0,
         "contracting_authority": "Mezőcsokonya Község Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10268_2019/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Óvoda épületének tornaszobával való bővítése és energetikai korszerűsítése",
-        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MERCI 96 Kereskedelmi és Szolgáltató Kft."
     }
 ]

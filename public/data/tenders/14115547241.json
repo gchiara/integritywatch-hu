@@ -1,35 +1,13 @@
 [
     {
-        "company_names": "ENVECON Környezetvédelmi és Projekttervező Korlátolt Felelősségű Társaság; INETON Építő és Gyártó Korlátolt Felelősségű Társaság",
-        "contract_value": "600000000",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "company_names": "ENVECON Környezetvédelmi és Projekttervező Kft.; INETON Építő és Gyártó Kft.",
+        "contract_value": 600000000.0,
+        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zrt.",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6626_2018/",
         "main_cpv": "71356100-9",
         "number_companies_win": 2,
         "procurement_title": "Megbízási Keretszerződés Projektellenőri, Építési Műszaki Ellenőri, Szakági Műszaki Ellenőri és Szakértői feladatok ellátására",
-        "registered_name": "ENVECON Környezetvédelmi és Projekttervező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ENVECON Környezetvédelmi és Projekttervező Korlátolt Felelősségű Társaság; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "146000000",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
-        "date": "27/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1087_2021/",
-        "main_cpv": "71631000-0",
-        "number_companies_win": 2,
-        "procurement_title": "Berhida III. műszaki ellenőr",
-        "registered_name": "ENVECON Környezetvédelmi és Projekttervező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ENVECON Környezetvédelmi és Projekttervező Korlátolt Felelősségű Társaság; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "619800000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "03/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16181_2021/",
-        "main_cpv": "71241000-9",
-        "number_companies_win": 2,
-        "procurement_title": "RSD revitalizáció",
-        "registered_name": "ENVECON Környezetvédelmi és Projekttervező Korlátolt Felelősségű Társaság"
+        "registered_name": "ENVECON Környezetvédelmi és Projekttervező Kft."
     }
 ]

@@ -1,1674 +1,1432 @@
 [
     {
         "company_names": "",
-        "contract_value": "10453350",
+        "contract_value": 10453350.0,
         "contracting_authority": "Szent Borbála Idősek Otthona",
         "date": "09/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19656_2017/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerbeszerzés 2018.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16947866",
+        "contract_value": 16947866.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_179_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2018. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20620600",
+        "contract_value": 20620600.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_179_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2018. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22951175",
+        "contract_value": 22951175.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_179_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2018. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3454300",
+        "contract_value": 3454300.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2800_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Hideg élelmiszer beszerzés az egri Markhot Ferenc Kórház részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8492600",
+        "contract_value": 8492600.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2800_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Hideg élelmiszer beszerzés az egri Markhot Ferenc Kórház részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9997000",
+        "contract_value": 9997000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2800_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Hideg élelmiszer beszerzés az egri Markhot Ferenc Kórház részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1515000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 1515000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4157_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9974000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 9974000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4157_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10029000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 10029000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4157_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17374500",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 17374500.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4157_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25507000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 25507000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "21/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4157_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5860950",
+        "contract_value": 5860950.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4967_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7748650",
+        "contract_value": 7748650.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4967_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7766500",
+        "contract_value": 7766500.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4967_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1310500",
+        "contract_value": 1310500.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése a Pest Megyei Flór Ferenc Kórház részére.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1392000",
+        "contract_value": 1392000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése a Pest Megyei Flór Ferenc Kórház részére.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2479500",
+        "contract_value": 2479500.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése a Pest Megyei Flór Ferenc Kórház részére.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3999500",
+        "contract_value": 3999500.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése a Pest Megyei Flór Ferenc Kórház részére.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5621100",
+        "contract_value": 5621100.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése a Pest Megyei Flór Ferenc Kórház részére.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6048550",
+        "contract_value": 6048550.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9649_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése a Pest Megyei Flór Ferenc Kórház részére.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2018100",
+        "contract_value": 2018100.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8079070",
+        "contract_value": 8079070.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10502400",
+        "contract_value": 10502400.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13706600",
+        "contract_value": 13706600.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14888770",
+        "contract_value": 14888770.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21946075",
+        "contract_value": 21946075.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23273500",
+        "contract_value": 23273500.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9082_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szerencs Város Önkormányzata részére nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6756900",
+        "contract_value": 6756900.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13628_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzés adásvételi szerződés keretében - 2018",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26755750",
+        "contract_value": 26755750.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13628_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzés adásvételi szerződés keretében - 2018",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7643400",
+        "contract_value": 7643400.0,
         "contracting_authority": "Alsózsolca Város Önkormányzata",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13802_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9933900",
+        "contract_value": 9933900.0,
         "contracting_authority": "Alsózsolca Város Önkormányzata",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13802_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5050000",
+        "contract_value": 5050000.0,
         "contracting_authority": "Felső-Szabolcsi Kórház",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14624_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése adásvételi szerződés keretében",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5741500",
+        "contract_value": 5741500.0,
         "contracting_authority": "Felső-Szabolcsi Kórház",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14624_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése adásvételi szerződés keretében",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5746000",
+        "contract_value": 5746000.0,
         "contracting_authority": "Felső-Szabolcsi Kórház",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14624_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése adásvételi szerződés keretében",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15813210",
-        "contracting_authority": "Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 15813210.0,
+        "contracting_authority": "Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Kft.",
         "date": "14/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15952_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tiszavasvári, élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16111875",
-        "contracting_authority": "Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 16111875.0,
+        "contracting_authority": "Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Kft.",
         "date": "14/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15952_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tiszavasvári, élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4496000",
+        "contract_value": 4496000.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19496_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6913800",
+        "contract_value": 6913800.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19496_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12581000",
+        "contract_value": 12581000.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19496_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15827900",
+        "contract_value": 15827900.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19496_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17041700",
+        "contract_value": 17041700.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19496_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25633820",
+        "contract_value": 25633820.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22756_2018/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmezési alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2308150",
+        "contract_value": 2308150.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0912_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2019. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9066181",
+        "contract_value": 9066181.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0912_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2019. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15303600",
+        "contract_value": 15303600.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0912_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2019. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17863040",
+        "contract_value": 17863040.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0912_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2019. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20589374",
+        "contract_value": 20589374.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0912_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2019. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5376000",
+        "contract_value": 5376000.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0103_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszertermékek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6983450",
+        "contract_value": 6983450.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0103_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszertermékek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3998850",
+        "contract_value": 3998850.0,
         "contracting_authority": "Fővárosi Önkormányzat Alacskai Úti Idősek Otthona",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0190_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14640200",
+        "contract_value": 14640200.0,
         "contracting_authority": "Fővárosi Önkormányzat Alacskai Úti Idősek Otthona",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0190_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9351000",
+        "contract_value": 9351000.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3717_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Hideg élelmiszer beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9861700",
+        "contract_value": 9861700.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3717_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Hideg élelmiszer beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11227600",
+        "contract_value": 11227600.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "04/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3717_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Hideg élelmiszer beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8584900",
-        "contracting_authority": "Sárospataki Közszolgáltatási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 8584900.0,
+        "contracting_authority": "Sárospataki Közszolgáltatási Nonprofit Kft.",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4217_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Sárospataki Közszolgáltatási Nonprofit Kft. élelmiszer-beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5175700",
+        "contract_value": 5175700.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6191_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2019",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8059500",
+        "contract_value": 8059500.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6191_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2019",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33343500",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 33343500.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4554_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10644200",
+        "contract_value": 10644200.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "14/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15090_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12923900",
+        "contract_value": 12923900.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "14/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15090_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14813600",
+        "contract_value": 14813600.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "14/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15090_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20662000",
+        "contract_value": 20662000.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "14/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15090_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1735500",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 1735500.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "23/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14539_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2019",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8771263",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 8771263.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "23/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14539_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2019",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5389900",
-        "contracting_authority": "Kornisné Liptay Elza Szociális és Gyermekjóléti Központ, Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 5389900.0,
+        "contracting_authority": "Kornisné Liptay Elza Szociális és Gyermekjóléti Központ, Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Kft.",
         "date": "20/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17824_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tiszavasvári, élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16873900",
-        "contracting_authority": "Kornisné Liptay Elza Szociális és Gyermekjóléti Központ, Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 16873900.0,
+        "contracting_authority": "Kornisné Liptay Elza Szociális és Gyermekjóléti Központ, Tiszavasvári Bölcsőde, Tiszavasvári Város Közétkeztetési Nonprofit Kft.",
         "date": "20/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17824_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Tiszavasvári, élelmiszer nyersanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2894700",
+        "contract_value": 2894700.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7421400",
+        "contract_value": 7421400.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7438700",
+        "contract_value": 7438700.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8026200",
+        "contract_value": 8026200.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14701800",
+        "contract_value": 14701800.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21018200",
+        "contract_value": 21018200.0,
         "contracting_authority": "Tokaji Városüzemeltető Szervezet",
         "date": "08/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19088_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1958800",
+        "contract_value": 1958800.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4062600",
+        "contract_value": 4062600.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4162000",
+        "contract_value": 4162000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7241000",
+        "contract_value": 7241000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9662000",
+        "contract_value": 9662000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14749800",
+        "contract_value": 14749800.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16785200",
+        "contract_value": 16785200.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24981_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9488600",
+        "contract_value": 9488600.0,
         "contracting_authority": "Szent Borbála Idősek Otthona",
         "date": "03/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24954_2019/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése és szállítása.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10181067",
+        "contract_value": 10181067.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0684_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2020. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15839707",
+        "contract_value": 15839707.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0684_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2020. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17711460",
+        "contract_value": 17711460.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0684_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2020. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22948510",
+        "contract_value": 22948510.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0684_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2020. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3093923",
+        "contract_value": 3093923.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1463_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése 2019/2020.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3408000",
+        "contract_value": 3408000.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1463_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése 2019/2020.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4916538",
+        "contract_value": 4916538.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1463_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése 2019/2020.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5266100",
+        "contract_value": 5266100.0,
         "contracting_authority": "Váci Fegyház és Börtön",
         "date": "19/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1856_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8096935",
+        "contract_value": 8096935.0,
         "contracting_authority": "Váci Fegyház és Börtön",
         "date": "19/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1856_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2630000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 2630000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "02/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2659_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020 (11 rész)",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15339600",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 15339600.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "02/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2659_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020 (11 rész)",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15434500",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 15434500.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "02/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2659_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020 (11 rész)",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23855000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 23855000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "02/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2659_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020 (11 rész)",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48155000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 48155000.0,
+        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Kft.",
         "date": "02/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2659_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020 (11 rész)",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3404200",
+        "contract_value": 3404200.0,
         "contracting_authority": "Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4845_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6247900",
+        "contract_value": 6247900.0,
         "contracting_authority": "Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4845_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7624850",
+        "contract_value": 7624850.0,
         "contracting_authority": "Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4845_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9903300",
+        "contract_value": 9903300.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6514_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyag beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10729950",
+        "contract_value": 10729950.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6514_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyag beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1628100",
+        "contract_value": 1628100.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "02/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8818_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1669300",
+        "contract_value": 1669300.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "02/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8818_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1927600",
+        "contract_value": 1927600.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "02/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8818_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5875400",
+        "contract_value": 5875400.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "02/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8818_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6997400",
+        "contract_value": 6997400.0,
         "contracting_authority": "Encs Város Önkormányzata",
         "date": "02/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8818_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek beszerzése 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61900000",
+        "contract_value": 61900000.0,
         "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9007_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63900000",
+        "contract_value": 63900000.0,
         "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9007_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer-alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7170600",
+        "contract_value": 7170600.0,
         "contracting_authority": "Felső-Szabolcsi Kórház",
         "date": "13/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12014_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "FSzK - Élelmiszeripari termék és alapanyag 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3917500",
+        "contract_value": 3917500.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13116_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12414900",
+        "contract_value": 12414900.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13116_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18480500",
+        "contract_value": 18480500.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "27/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13116_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8218800",
+        "contract_value": 8218800.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14405_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzése a Pesti Út részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25388600",
+        "contract_value": 25388600.0,
         "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
         "date": "13/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14405_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzése a Pesti Út részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9873400",
-        "contracting_authority": "Sárospataki Közszolgáltatási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 9873400.0,
+        "contracting_authority": "Sárospataki Közszolgáltatási Nonprofit Kft.",
         "date": "29/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16087_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszerek, élelmezési alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11999500",
+        "contract_value": 11999500.0,
         "contracting_authority": "Fővárosi Önkormányzat Kamaraerdei Úti Idősek Otthona",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17250_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzés 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10115600",
+        "contract_value": 10115600.0,
         "contracting_authority": "Fővárosi Önkormányzat Alacskai Úti Idősek Otthona",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19421_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszeripari termékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4398500",
+        "contract_value": 4398500.0,
         "contracting_authority": "Sátoraljaújhelyi Fegyház és Börtön",
         "date": "03/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19526_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer beszerzés",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19604000",
+        "contract_value": 19604000.0,
         "contracting_authority": "Sátoraljaújhelyi Fegyház és Börtön",
         "date": "03/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19526_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer beszerzés",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24636400",
+        "contract_value": 24636400.0,
         "contracting_authority": "Sátoraljaújhelyi Fegyház és Börtön",
         "date": "03/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19526_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer beszerzés",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5000000",
+        "contract_value": 5000000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Büntetés-Végrehajtási Intézet",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19519_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer beszerzése a BAZ M. Bv. intézet részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51718750",
+        "contract_value": 51718750.0,
         "contracting_authority": "Tököli Országos Büntetés-Végrehajtási Intézet",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22311_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmezési alapanyagok",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60078484",
+        "contract_value": 60078484.0,
         "contracting_authority": "Tököli Országos Büntetés-Végrehajtási Intézet",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22311_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmezési alapanyagok",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "168669841",
+        "contract_value": 168669841.0,
         "contracting_authority": "Tököli Országos Büntetés-Végrehajtási Intézet",
         "date": "08/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22311_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Különféle élelmezési alapanyagok",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4425545",
+        "contract_value": 4425545.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8904889",
+        "contract_value": 8904889.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10202447",
+        "contract_value": 10202447.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11885550",
+        "contract_value": 11885550.0,
         "contracting_authority": "Sajószentpéteri Közétkeztetési Nonprofit Kft.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23246_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek és alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16883906",
+        "contract_value": 16883906.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23533_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2021. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18324800",
+        "contract_value": 18324800.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23533_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2021. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21466640",
+        "contract_value": 21466640.0,
         "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
         "date": "28/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23533_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszertermékek beszerzése 2021. évre",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "65339969",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0016_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmezési alapanyagok beszerzése.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "72544000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0016_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmezési alapanyagok beszerzése.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "135724136",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0016_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmezési alapanyagok beszerzése.",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1803000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3683_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15850000",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3683_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17075200",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3683_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22131900",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3683_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "39395100",
-        "contracting_authority": "BARCIKA CENTRUM Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "10/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3683_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11116200",
-        "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4144_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyag beszerzése 2020",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6881250",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "18/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4395_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1747200",
-        "contracting_authority": "Koch Róbert Kórház és Rendelőintézet",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10641_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30519600",
-        "contracting_authority": "Mezőkövesdi Óvoda-Bölcsőde és Élelmezési Központ",
-        "date": "08/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12438_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "43564000",
-        "contracting_authority": "Mezőkövesdi Óvoda-Bölcsőde és Élelmezési Központ",
-        "date": "08/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12438_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "46919600",
-        "contracting_authority": "Mezőkövesdi Óvoda-Bölcsőde és Élelmezési Központ",
-        "date": "08/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12438_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18083950",
-        "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
-        "date": "06/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14742_2021/",
-        "main_cpv": "15890000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerbeszerzés a Péterfy Kórház részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5684562",
-        "contracting_authority": "TISZAÚJVÁROSI INTÉZMÉNYMŰKÖDTETŐ KÖZPONT",
-        "date": "25/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15920_2021/",
-        "main_cpv": "15131700-2",
-        "number_companies_win": 0,
-        "procurement_title": "Húskészítmények beszerzése 2021. december 31-ig",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23008200",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "01/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16508_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek a BFB részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38100000",
-        "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
-        "date": "06/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16371_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyagok beszerzése 12 hónapra",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1314500",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21014_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17405000",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21014_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer beszerzése 2021",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6000000",
-        "contracting_authority": "Tiszalöki Országos Büntetés-Végrehajtási Intézet",
-        "date": "23/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25213_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése a Tiszalöki OBVI részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7000000",
-        "contracting_authority": "Tiszalöki Országos Büntetés-Végrehajtási Intézet",
-        "date": "23/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25213_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése a Tiszalöki OBVI részére",
-        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Belovecz és Társa Hús- és Hentesáru Kereskedelmi Kft."
     }
 ]

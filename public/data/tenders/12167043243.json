@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "AEMI Atomenergia Mérnökiroda Korlátolt Felelősségű Társaság; Energiatudományi Kutatóközpont",
-        "contract_value": "835828520",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "company_names": "AEMI Atomenergia Mérnökiroda Kft.; Energiatudományi Kutatóközpont",
+        "contract_value": 835828520.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "07/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13497_2018/",
         "main_cpv": "45262640-9",
         "number_companies_win": 2,
         "procurement_title": "Környezet- és Kibocsátás Ellenőrző Rendszer felújítása II. ütem",
-        "registered_name": "AEMI Atomenergia Mérnökiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "AEMI Atomenergia Mérnökiroda Kft."
     }
 ]

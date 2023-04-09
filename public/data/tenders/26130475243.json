@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "ELAMEN Kereskedelmi és Vendéglátó Zártkörűen Működő Részvénytársaság; Hungast Nyírség Korlátolt Felelősségű Társaság",
-        "contract_value": "20889774416",
+        "company_names": "ELAMEN Kereskedelmi és Vendéglátó Zrt.; Hungast Nyírség Kft.",
+        "contract_value": 20889774416.0,
         "contracting_authority": "Búzaszem Nyugati Óvoda, Eszterlánc Északi Óvoda, Gyermekek Háza Déli Óvoda, Közintézményeket Működtető Központ, Nyíregyháza Megyei Jogú Város Önkormányzata, Tündérkert Óvoda",
         "date": "18/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_16631_2020/",
         "main_cpv": "55300000-3",
         "number_companies_win": 2,
         "procurement_title": "NyMJV - NYÍREGYHÁZA KÖZÉTKEZTETÉS 2020",
-        "registered_name": "Hungast Nyírség Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Nyírség Kft."
     }
 ]

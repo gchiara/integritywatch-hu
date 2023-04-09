@@ -1,7 +1,7 @@
 <template>
   <div :class="['chart-header', 'row', customclass]">
-    <div :class="['chart-title', 'col-9']">{{ title }}</div>
-    <div class="chart-header-buttons col-3">
+    <div :class="['chart-title', 'col-10']">{{ title }}</div>
+    <div class="chart-header-buttons col-2">
       <button v-if="info && info !== ''" type="button" data-trigger="click hover" class="btn btn-secondary btn-info" data-container="body" data-toggle="popover" data-html="true" data-placement="bottom" :data-content="info">
         i
       </button>
@@ -36,20 +36,20 @@ $color_TI_darker: darken( $color_TI, 20% );
   }
   .chart-title {
     //font-size: 20px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     //text-transform: uppercase;
     text-align: left;
     line-height: 128%;
     color: $color_TI_darker;
     @media only screen and (max-width: 1400px) {
-      font-size: 18px;
+      font-size: 14px;
     }
     @media only screen and (max-width: 1250px) {
-      font-size: 16px;
+      font-size: 14px;
     }
     @media only screen and (max-width: 767px) {
-      font-size: 20px;
+      font-size: 16px;
     }
   }
   .chart-header-buttons {

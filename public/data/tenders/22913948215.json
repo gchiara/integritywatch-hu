@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "65916014",
+        "contract_value": 65916014.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata, Tiszarád Község Önkormányzata",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19485_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A külterületi helyi közutak fejlesztése",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41311084",
+        "contract_value": 41311084.0,
         "contracting_authority": "Szabolcs Község Önkormányzata",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21958_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tiszafolyó u. 3. szám alatti önkormányzati ingatlan átalakítása",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "84501715",
+        "contract_value": 84501715.0,
         "contracting_authority": "Szabolcs Község Önkormányzata",
         "date": "06/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21956_2018/",
         "main_cpv": "45000000-7, 45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Petőfi út kerékpáros baráttá történő alakítása",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26668260",
+        "contract_value": 26668260.0,
         "contracting_authority": "Tiszatelek Község Önkormányzata",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7405_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Külterületi út felújítása",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22755611",
+        "contract_value": 22755611.0,
         "contracting_authority": "Szabolcs Község Önkormányzata",
         "date": "09/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16706_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati ingatlanok energetikai korszerűsítés",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30184001",
+        "contract_value": 30184001.0,
         "contracting_authority": "Szabolcs Község Önkormányzata",
         "date": "09/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16706_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati ingatlanok energetikai korszerűsítés",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30716684",
-        "contracting_authority": "Felső-Tisza-Vidék Turizmusáért Alapítvány, Szabolcs Község Önkormányzata, SZSZBMFÜ Szabolcs-Szatmár-Bereg Megyei Területfejlesztési és Környezetgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság, Tiszadada Község Önkormányzata, Tiszadob Nagyközség Önkormányzata, Tiszavasvári Város Önkormányzata",
+        "contract_value": 30716684.0,
+        "contracting_authority": "Felső-Tisza-Vidék Turizmusáért Alapítvány, Szabolcs Község Önkormányzata, SZSZBMFÜ Szabolcs-Szatmár-Bereg Megyei Területfejlesztési és Környezetgazdálkodási Ügynökség Nonprofit Kft., Tiszadada Község Önkormányzata, Tiszadob Nagyközség Önkormányzata, Tiszavasvári Város Önkormányzata",
         "date": "22/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22412_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyíri Mezőség turisztikai kínálatának fejlesztése",
-        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "RÉTKÖZ-ÉP Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "85153953",
+        "contract_value": 85153953.0,
         "contracting_authority": "Kistelek Városi Önkormányzat",
         "date": "21/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14608_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "96490046",
+        "contract_value": 96490046.0,
         "contracting_authority": "Ópusztaszer Községi Önkormányzat",
         "date": "05/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6052_2019/",

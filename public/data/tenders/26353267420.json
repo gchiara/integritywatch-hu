@@ -1,112 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "14555304",
+        "contract_value": 14555304.0,
         "contracting_authority": "Balatonföldvár Város Önkormányzata",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17488_2018/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítás korszerűsítés - Balatonföldvár 2018",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14297268",
+        "contract_value": 14297268.0,
         "contracting_authority": "Kiskunlacháza Város Önkormányzata",
         "date": "12/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2409_2019/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Bérleti szerződés Kiskunlacháza Nagyközség közigazgatási területén található korszerűtlen közvilágítási lámpatestek ajánlattevő saját költségén történő korszerűsítésére, a korszerűsített eszközök bérbe vételére",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15597360",
+        "contract_value": 15597360.0,
         "contracting_authority": "Balatonlelle Város Önkormányzata",
         "date": "12/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2404_2019/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Bérleti és vállalkozási szerződés Balatonlelle város közigazgatási területén található közvilágítási lámpatestek ajánlattevő saját költségén történő korszerűsítésére, az eszközök bérbe adására, üzemeltetésére",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59659344",
+        "contract_value": 59659344.0,
         "contracting_authority": "Tököl Város Önkormányzata",
         "date": "19/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4152_2019/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Tököl közvilágítási rendszer bérlet 2018",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16954584",
+        "contract_value": 16954584.0,
         "contracting_authority": "Balatonfenyves Község Önkormányzata",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8193_2020/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítási rendszer korszerűsítése és annak bérlete",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3932712",
+        "contract_value": 3932712.0,
         "contracting_authority": "Zalalövő Város Önkormányzata",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20173_2020/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Korszerűsített Közvil rendszer bérlet és üzemeltetés",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5766900",
+        "contract_value": 5766900.0,
         "contracting_authority": "Nagycenk Nagyközség Önkormányzata",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24123_2020/",
         "main_cpv": "34928500-3",
         "number_companies_win": 0,
         "procurement_title": "Korszerűsített közvilágitási rendszer bérlet és üzemeltetés",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16505700",
-        "contracting_authority": "Szigetvár Város Önkormányzat",
-        "date": "20/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0982_2021/",
-        "main_cpv": "34928500-3",
-        "number_companies_win": 0,
-        "procurement_title": "Korszerűsített Közvil rendszer bérlet és üzemeltetés",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5210964",
-        "contracting_authority": "Ják Község Önkormányzata",
-        "date": "02/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1869_2021/",
-        "main_cpv": "34928500-3",
-        "number_companies_win": 0,
-        "procurement_title": "LED Közvilágítási rendszer bérlet, üzemeltetés",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16996464",
-        "contracting_authority": "Hajdúhadház Város Önkormányzata",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19404_2021/",
-        "main_cpv": "34928500-3",
-        "number_companies_win": 0,
-        "procurement_title": "Közvilágítás LED korszerűsítés karbantartása",
-        "registered_name": "ENERIN ESCO Energetika Korlátolt Felelősségű Társaság"
+        "registered_name": "ENERIN ESCO Energetika Kft."
     }
 ]

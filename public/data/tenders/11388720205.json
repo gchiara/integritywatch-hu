@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "24851150",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 24851150.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_1929_2018/",
         "main_cpv": "42514310-8",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "26388925",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 26388925.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_1929_2018/",
         "main_cpv": "42514310-8",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "111000000",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 111000000.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "08/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_3450_2018/",
         "main_cpv": "34322000-0",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "216648423",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 216648423.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "08/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_3450_2018/",
         "main_cpv": "34322000-0",
@@ -45,8 +45,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "27908024",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 27908024.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "27/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_3283_2019/",
         "main_cpv": "34322000-0",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "111000000",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 111000000.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "02/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_5409_2019/",
         "main_cpv": "34322000-0",
@@ -67,8 +67,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "216648423",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 216648423.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "02/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_5409_2019/",
         "main_cpv": "34322000-0",
@@ -78,8 +78,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "542904",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 542904.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "05/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_16298_2019/",
         "main_cpv": "34322000-0",
@@ -89,8 +89,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "34818672",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 34818672.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "05/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_16298_2019/",
         "main_cpv": "34322000-0",
@@ -100,8 +100,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "28862480",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28862480.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "14/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12152_2020/",
         "main_cpv": "34322000-0",
@@ -111,8 +111,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "13907492",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 13907492.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12140_2020/",
         "main_cpv": "34322000-0",
@@ -122,8 +122,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "28914406",
-        "contracting_authority": "Univerzál Beszerző Korlátolt Felelősségű Társaság",
+        "contract_value": 28914406.0,
+        "contracting_authority": "Univerzál Beszerző Kft.",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12140_2020/",
         "main_cpv": "34322000-0",
@@ -133,8 +133,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "210000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "contract_value": 210000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_19603_2020/",
         "main_cpv": "34300000-0",
@@ -143,25 +143,14 @@
         "registered_name": "HUNGAROFÉK Közúti Járműalkatrész Forgalmazó Kft."
     },
     {
-        "company_names": "HUNGAROFÉK Közúti Járműalkatrész Forgalmazó Kft.; PRIM-VOL TRADE Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "210000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "company_names": "HUNGAROFÉK Közúti Járműalkatrész Forgalmazó Kft.; PRIM-VOL TRADE Ipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 210000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_19603_2020/",
         "main_cpv": "34300000-0",
         "number_companies_win": 2,
         "procurement_title": "Fékrendszer alkatrészek beszerzése",
-        "registered_name": "HUNGAROFÉK Közúti Járműalkatrész Forgalmazó Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "36223024",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "22/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6634_2021/",
-        "main_cpv": "34322000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Gumikerekes tömegközlekedési járműhöz fékdob beszerzése",
         "registered_name": "HUNGAROFÉK Közúti Járműalkatrész Forgalmazó Kft."
     }
 ]

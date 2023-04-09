@@ -1,277 +1,233 @@
 [
     {
         "company_names": "",
-        "contract_value": "38981000",
-        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 38981000.0,
+        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.",
         "date": "10/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_188_2018/",
         "main_cpv": "48460000-0",
         "number_companies_win": 0,
         "procurement_title": "Műanyagok és kompozit anyagok fejlesztését támogató szimulációs rendszer szállítása - Bay Zoltán Közhasznú Nonprofit Kft.",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "21180000",
+        "contract_value": 21180000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1175_2018/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "74400000",
+        "contract_value": 74400000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1175_2018/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "77500000",
+        "contract_value": 77500000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1175_2018/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközbeszerzés a Pécsi Tudományegyetem részére",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "55500000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 55500000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3452_2018/",
         "main_cpv": "72267000-4",
         "number_companies_win": 0,
         "procurement_title": "Autodesk licenc és support beszerzése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "197000000",
-        "contracting_authority": "Kontaktker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 197000000.0,
+        "contracting_authority": "Kontaktker Kereskedelmi és Szolgáltató Kft.",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17589_2018/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "Kapacitásbővítés a Kontaktker Kft.-nél",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "18711000",
+        "contract_value": 18711000.0,
         "contracting_authority": "Országos Vízügyi Főigazgatóság",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17305_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Autodesk licencek beszerzése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "9880000",
+        "contract_value": 9880000.0,
         "contracting_authority": "Edutus Egyetem",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17901_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboreszközök szállítási feladatainak ellátása",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "22952240",
-        "contracting_authority": "MIKROPAKK Müanyag- és Fémfeldolgozó Korlátolt Felelősségű Társaság",
+        "contract_value": 22952240.0,
+        "contracting_authority": "MIKROPAKK Müanyag- és Fémfeldolgozó Kft.",
         "date": "12/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22386_2018/",
         "main_cpv": "43300000-6",
         "number_companies_win": 0,
         "procurement_title": "Műanyag alkatrészek gyártásához és műanyag feldolgozáshoz szükséges gépek és eszközök beszerzése a Mikropakk Kft. részére",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "10310000",
+        "contract_value": 10310000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21886_2018/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatók és szkenner beszerzése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "190000000",
+        "contract_value": 190000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21146_2018/",
         "main_cpv": "30236200-4",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "28490000",
-        "contracting_authority": "VESZ-MONT '2000 Szereléstechnikai és Gépipari Korlátolt Felelősségű Társaság",
+        "contract_value": 28490000.0,
+        "contracting_authority": "VESZ-MONT '2000 Szereléstechnikai és Gépipari Kft.",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6351_2019/",
         "main_cpv": "42990000-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "4980000",
+        "contract_value": 4980000.0,
         "contracting_authority": "Magyar Bányászati és Földtani Szolgálat",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17035_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "49800000",
+        "contract_value": 49800000.0,
         "contracting_authority": "Magyar Bányászati és Földtani Szolgálat",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17035_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "8340000",
+        "contract_value": 8340000.0,
         "contracting_authority": "Budapest Főváros Főpolgármesteri Hivatal",
         "date": "24/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20460_2019/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "AutoCAD tervezőszoftver-csomag előfizetése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "17121000",
+        "contract_value": 17121000.0,
         "contracting_authority": "Országos Vízügyi Főigazgatóság",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23642_2019/",
         "main_cpv": "48321000-4",
         "number_companies_win": 0,
         "procurement_title": "Autodesk liszenszek beszerzése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "28039000",
+        "contract_value": 28039000.0,
         "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
         "date": "14/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2073_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "BME - 3D nyomtatók beszerzése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2950000",
+        "contract_value": 2950000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2718_2020/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D technológiájú eszközök, szoftverek, IT eszközök",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "66191000",
-        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 66191000.0,
+        "contracting_authority": "Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.",
         "date": "28/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3531_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "FEM csomag multicore kiterjesztése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "33203000",
-        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 33203000.0,
+        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Kft.",
         "date": "06/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6113_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "AutoCAD szoftverlicencek beszerzése",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "136040800",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 136040800.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_6487_2020/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "Autodesk szoftverkövetés",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2600000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "31/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15734_2021/",
-        "main_cpv": "42962000-7",
-        "number_companies_win": 0,
-        "procurement_title": "3D eszközbeszerzés",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1460000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21815_2021/",
-        "main_cpv": "19500000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Vegyszer és alapanyag beszerzése - GINOP",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7100000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21815_2021/",
-        "main_cpv": "19500000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Vegyszer és alapanyag beszerzése - GINOP",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11440000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21815_2021/",
-        "main_cpv": "19500000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Vegyszer és alapanyag beszerzése - GINOP",
-        "registered_name": "VARINEX Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VARINEX Informatikai Zrt."
     }
 ]

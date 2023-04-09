@@ -1,57 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "37564810",
+        "contract_value": 37564810.0,
         "contracting_authority": "Tiszaörs Községi Önkormányzat",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21670_2018/",
         "main_cpv": "45112730-1",
         "number_companies_win": 0,
         "procurement_title": "Vis maior káresemények helyreállítása Tiszaörsön",
-        "registered_name": "KTSZ-REB Korlátolt Felelősségű Társaság"
+        "registered_name": "KTSZ-REB Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21150700",
+        "contract_value": 21150700.0,
         "contracting_authority": "Kengyel Községi Önkormányzat",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18471_2019/",
         "main_cpv": "45212350-4",
         "number_companies_win": 0,
         "procurement_title": "Kengyel-Bagi major Turisztikai értékeinek megőrzés",
-        "registered_name": "KTSZ-REB Korlátolt Felelősségű Társaság"
+        "registered_name": "KTSZ-REB Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44817688",
+        "contract_value": 44817688.0,
         "contracting_authority": "Kengyel Községi Önkormányzat",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18471_2019/",
         "main_cpv": "45212350-4",
         "number_companies_win": 0,
         "procurement_title": "Kengyel-Bagi major Turisztikai értékeinek megőrzés",
-        "registered_name": "KTSZ-REB Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "35968423",
-        "contracting_authority": "Mezőtúr Város Önkormányzata",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1312_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Csoda-vár Óvoda befejező kivitelezési munkák",
-        "registered_name": "KTSZ-REB Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "135810682",
-        "contracting_authority": "Mezőtúr Város Önkormányzata",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15226_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "MEZŐTÚR, FÓTI ÚTI IDŐSEK OTTHONA - KIVITELEZÉS",
-        "registered_name": "KTSZ-REB Korlátolt Felelősségű Társaság"
+        "registered_name": "KTSZ-REB Kft."
     }
 ]

@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "64000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 64000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2394_2018/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "Mosodai szolgáltatások megrendelése",
-        "registered_name": "Dunántúli Mosodák Textiltisztító és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Dunántúli Mosodák Textiltisztító és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "323416400",
+        "contract_value": 323416400.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "19/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18544_2017/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi és egyéb mosatási szolgáltatás ellátása a Pécsi Tudományegyetem részére 48 hónapra",
-        "registered_name": "Dunántúli Mosodák Textiltisztító és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42520285",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6330_2021/",
-        "main_cpv": "98310000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Mosatási szolgáltatás megrendelése",
-        "registered_name": "Dunántúli Mosodák Textiltisztító és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Dunántúli Mosodák Textiltisztító és Szolgáltató Kft."
     }
 ]

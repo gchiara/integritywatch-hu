@@ -1,585 +1,563 @@
 [
     {
         "company_names": "",
-        "contract_value": "555000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 555000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_669_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "740000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 740000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_669_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "851000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 851000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_669_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1221000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1221000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_669_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2405000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2405000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_669_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3700000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3700000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_669_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 296000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5241_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "740000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 740000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5241_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3071000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3071000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5241_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3108000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3108000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5241_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3700000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3700000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5241_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "185000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 185000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "222000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 222000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "259000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 259000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 296000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "444000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 444000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "518000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 518000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "666000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 666000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "684500",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 684500.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "888000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 888000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1276500",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1276500.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1480000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1480000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1887000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1887000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12468_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92500",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 92500.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "148000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 148000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "185000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 185000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 296000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "444000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 444000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "592000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 592000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "740000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 740000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1036000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1036000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1110000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1110000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1184000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1184000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1332000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1332000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1480000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1480000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1776000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1776000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3496500",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3496500.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6216000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6216000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8658000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8658000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10508000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10508000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18717_2018/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 200000000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "10/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_22486_2018/",
         "main_cpv": "60000000-8",
         "number_companies_win": 0,
         "procurement_title": "Különféle kőanyagok közúti szállítása",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "259000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 259000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_591_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 296000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_591_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "444000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 444000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_591_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "888000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 888000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_591_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2220000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2220000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_591_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1110000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1110000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6478_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4440000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4440000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6478_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "444000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 444000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_12846_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1554000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1554000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_12846_2019/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Vasúti pályaépítő és karbantartó nagygéppel végzett szolgáltatások a GYSEV Zrt. részére",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99800000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 99800000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
         "date": "09/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0029_2020/",
         "main_cpv": "50225000-8",
         "number_companies_win": 0,
         "procurement_title": "Univerzális vágányon járó kotrógépes szolgáltatás",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "300000000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_4742_2021/",
-        "main_cpv": "50225000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Földmunkagépekkel végzett szolgáltatás",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "300000000",
-        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_5359_2021/",
-        "main_cpv": "60100000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle kőanyagok közúti szállítása",
-        "registered_name": "Metal Consulting Korlátolt Felelősségű Társaság"
+        "registered_name": "Metal Consulting Kft."
     }
 ]

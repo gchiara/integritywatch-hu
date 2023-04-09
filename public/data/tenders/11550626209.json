@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "\"PERFECT-PHONE\" korlátolt felelősségü társaság; DÉLVILL Dél-alföldi Villamos Hálózatszerelő és Kereskedelmi Korlátolt Felelősségű Társaság; EL-CO TECH Elektromos-Kommunikációs Technológiák Korlátolt Felelősségű Társaság; ELEKTROGLOB Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Energy Network Solutions Villamos Hálózati Létesítményeket Tervező és Kivitelező Korlátolt Felelősségű Társaság; ERZOL 2000 KERESKEDELMI ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG; ÉSZAK-BUDAI Tervező, Szerelő és Szolgáltató Zártkörűen Működő Részvénytársaság; Forest-Vill Villamosipari és Energetikai Létesítményeket Tervező és Kivitelező Korlátolt Felelősségű Társaság; POLAR-STUDIÓ Elektromos Fővállalkozó Korlátolt Felelősségü Társaság; Rácelektro 2014 Korlátolt Felelősségű Társaság; SENCORD Elektromos Tervező és Kivitelező Korlátolt Felelősségű Társaság; SMHV Energetika Korlátolt Felelősségű Társaság; SOBLASK Ipari, Szolgáltató és Kereskedelmi Betéti Társaság; SPIE Hungaria Korlátolt Felelősségű Társaság; Szabó Zoltán; SZAZOVILL Korlátolt Felelősségű Társaság; TAJTAVILL Korlátolt Felelősségű Társaság; TRESZNER Villamosipari, Szolgáltató Korlátolt Felelősségű Társaság; VILL-KORR HUNGÁRIA Villamosipari Korlátolt Felelősségű Társaság",
-        "contract_value": "10500000000",
+        "company_names": "\"PERFECT-PHONE\" Kft.; DÉLVILL Dél-alföldi Villamos Hálózatszerelő és Kereskedelmi Kft.; EL-CO TECH Elektromos-Kommunikációs Technológiák Kft.; ELEKTROGLOB Kereskedelmi és Szolgáltató Kft.; Energy Network Solutions Villamos Hálózati Létesítményeket Tervező és Kivitelező Kft.; ERZOL 2000 KERESKEDELMI ÉS SZOLGÁLTATÓ Kft.; ÉSZAK-BUDAI Tervező, Szerelő és Szolgáltató Zrt.; Forest-Vill Villamosipari és Energetikai Létesítményeket Tervező és Kivitelező Kft.; POLAR-STUDIÓ Elektromos Fővállalkozó Kft.; Rácelektro 2014 Kft.; SENCORD Elektromos Tervező és Kivitelező Kft.; SMHV Energetika Kft.; SOBLASK Ipari, Szolgáltató és Kereskedelmi Bt.; SPIE Hungaria Kft.; Szabó Zoltán; SZAZOVILL Kft.; TAJTAVILL Kft.; TRESZNER Villamosipari, Szolgáltató Kft.; VILL-KORR HUNGÁRIA Villamosipari Kft.",
+        "contract_value": 10500000000.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_17700_2019/",
         "main_cpv": "45231400-9",
         "number_companies_win": 19,
         "procurement_title": "Normál fontosságú tervezési, kivitelezési munkák",
-        "registered_name": "TAJTAVILL Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27964957",
-        "contracting_authority": "Debreceni Vagyonkezelő Zártkörűen Működő Részvénytársaság",
-        "date": "07/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24692_2020/",
-        "main_cpv": "45232000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Ideiglenes elektromos hálózat építése",
-        "registered_name": "TAJTAVILL Korlátolt Felelősségű Társaság"
+        "registered_name": "TAJTAVILL Kft."
     }
 ]

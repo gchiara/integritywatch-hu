@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "11194400",
+        "contract_value": 11194400.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "13/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3635_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "2650500",
+        "contract_value": 2650500.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4877_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3124500",
+        "contract_value": 3124500.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4877_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3490500",
+        "contract_value": 3490500.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4877_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18988600",
+        "contract_value": 18988600.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3600_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6870000",
+        "contract_value": 6870000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10873_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7125000",
+        "contract_value": 7125000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10873_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "21830000",
+        "contract_value": 21830000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10873_2018/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "42750000",
+        "contract_value": 42750000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10873_2018/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "5542540",
+        "contract_value": 5542540.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12903_2018/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "9494400",
+        "contract_value": 9494400.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12903_2018/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "23870000",
+        "contract_value": 23870000.0,
         "contracting_authority": "Országos Klinikai Idegtudományi Intézet",
         "date": "14/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14130_2018/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "45600000",
+        "contract_value": 45600000.0,
         "contracting_authority": "Országos Klinikai Idegtudományi Intézet",
         "date": "14/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14130_2018/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "26976000",
+        "contract_value": 26976000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "24/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14360_2018/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "14450000",
+        "contract_value": 14450000.0,
         "contracting_authority": "Máv Kórház és Rendelőintézet, Szolnok",
         "date": "30/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15097_2018/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "58380000",
+        "contract_value": 58380000.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "18/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16066_2018/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "18945000",
+        "contract_value": 18945000.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21961_2018/",
@@ -188,7 +188,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "93502000",
+        "contract_value": 93502000.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21961_2018/",
@@ -199,7 +199,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13700000",
+        "contract_value": 13700000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "03/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8993_2019/",
@@ -210,7 +210,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "83126400",
+        "contract_value": 83126400.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15114_2019/",
@@ -221,7 +221,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3943100",
+        "contract_value": 3943100.0,
         "contracting_authority": "Észak-Közép-Budai Centrum, Új Szent János Kórház és Szakrendelő",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19918_2019/",
@@ -232,7 +232,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "26581000",
+        "contract_value": 26581000.0,
         "contracting_authority": "TOLDY FERENC KÓRHÁZ ÉS RENDELŐINTÉZET",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20444_2019/",
@@ -243,7 +243,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "3943100",
+        "contract_value": 3943100.0,
         "contracting_authority": "Észak-Közép-Budai Centrum, Új Szent János Kórház és Szakrendelő",
         "date": "09/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_23304_2019/",
@@ -254,7 +254,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "46240000",
+        "contract_value": 46240000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "19/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2632_2020/",
@@ -265,7 +265,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "17061900",
+        "contract_value": 17061900.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "27/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7030_2020/",
@@ -276,7 +276,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "34214400",
+        "contract_value": 34214400.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "27/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7030_2020/",
@@ -287,7 +287,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6504000",
+        "contract_value": 6504000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8192_2020/",
@@ -298,7 +298,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7286000",
+        "contract_value": 7286000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8192_2020/",
@@ -309,7 +309,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "12664000",
+        "contract_value": 12664000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11828_2020/",
@@ -320,7 +320,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "220077000",
+        "contract_value": 220077000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18949_2020/",
@@ -331,7 +331,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4924700",
+        "contract_value": 4924700.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19761_2020/",
@@ -342,79 +342,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "5622480",
+        "contract_value": 5622480.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "20/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20659_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Műtői folyadékmelegítők beszerzése",
-        "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "70893000",
-        "contracting_authority": "Szent Lázár Megyei Kórház",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2915_2021/",
-        "main_cpv": "33183000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi implantátumok beszerzése",
-        "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "3558000",
-        "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
-        "date": "04/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3169_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Traumatológiai és szájsebészeti implantátumok",
-        "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "1830100",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3360_2021/",
-        "main_cpv": "33169000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Sebészeti fúrómotorok és shaver",
-        "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "10196200",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3360_2021/",
-        "main_cpv": "33169000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Sebészeti fúrómotorok és shaver",
-        "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "14353600",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3360_2021/",
-        "main_cpv": "33169000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Sebészeti fúrómotorok és shaver",
-        "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "27095900",
-        "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
-        "date": "03/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21132_2021/",
-        "main_cpv": "33168000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Artroszkópos torony beszerzése",
         "registered_name": "SCANMEDIC Kereskedelmi és Szolgáltató Kft."
     }
 ]

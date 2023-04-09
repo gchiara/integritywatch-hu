@@ -1,46 +1,46 @@
 [
     {
-        "company_names": "\"Losonci és Társa\" Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság; Alfa Gázgépész Korlátolt Felelősségű Társaság; Dabi Imre; Kovács Andor; SIRÁLY-TERV KERESKEDELMI ÉS SZOLGÁLTATÓ BETÉTI TÁRSASÁG; Soós Árpád",
-        "contract_value": "96000000",
-        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Losonci és Társa\" Építő- és Szolgáltatóipari Kft.; Alfa Gázgépész Kft.; Dabi Imre; Kovács Andor; SIRÁLY-TERV KERESKEDELMI ÉS SZOLGÁLTATÓ Bt.; Soós Árpád",
+        "contract_value": 96000000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zrt., E.ON Közép-dunántúli Gázhálózati Zrt.",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_20328_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 6,
         "procurement_title": "Gázelosztó vezetékek tervezési munkái",
-        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Kft."
     },
     {
-        "company_names": "\"Losonci és Társa\" Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság; Dabi Imre; GÁZTERV Tervező és Szolgáltató Korlátolt Felelősségü Társaság; KARIMA SYSTEMS Építőipari Korlátolt Felelősségű Társaság; Kovács Andor; Lángtechnika Általános Szolgáltató Korlátolt Felelősségű Társaság; MAKRO-GAS Szolgáltató és Kereskedelmi Korlátolt Felelőségű Társaság; Németh Szabolcs; PLM Technology Mérnöki és Humán Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "144000000",
-        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Losonci és Társa\" Építő- és Szolgáltatóipari Kft.; Dabi Imre; GÁZTERV Tervező és Szolgáltató Kft.; KARIMA SYSTEMS Építőipari Kft.; Kovács Andor; Lángtechnika Általános Szolgáltató Kft.; MAKRO-GAS Szolgáltató és Kereskedelmi Korlátolt Felelőségű Társaság; Németh Szabolcs; PLM Technology Mérnöki és Humán Fejlesztő és Szolgáltató Kft.",
+        "contract_value": 144000000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zrt., E.ON Közép-dunántúli Gázhálózati Zrt.",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_20328_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 9,
         "procurement_title": "Gázelosztó vezetékek tervezési munkái",
-        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Kft."
     },
     {
-        "company_names": "\"Losonci és Társa\" Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság; Alfa Gázgépész Korlátolt Felelősségű Társaság; GÁZTERV Tervező és Szolgáltató Korlátolt Felelősségü Társaság; Papp Endre László; Rechtné Ádám Csilla Gabriella; SIRÁLY-TERV KERESKEDELMI ÉS SZOLGÁLTATÓ BETÉTI TÁRSASÁG; Szurmáné Orsó Eszter; ZEPPELIN Kereskedelmi és Szolgáltató Betéti Társaság \"végelszámolás alatt\"",
-        "contract_value": "144000000",
-        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Losonci és Társa\" Építő- és Szolgáltatóipari Kft.; Alfa Gázgépész Kft.; GÁZTERV Tervező és Szolgáltató Kft.; Papp Endre László; Rechtné Ádám Csilla Gabriella; SIRÁLY-TERV KERESKEDELMI ÉS SZOLGÁLTATÓ Bt.; Szurmáné Orsó Eszter; ZEPPELIN Kereskedelmi és Szolgáltató Bt. \"végelszámolás alatt\"",
+        "contract_value": 144000000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zrt., E.ON Közép-dunántúli Gázhálózati Zrt.",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_20328_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 8,
         "procurement_title": "Gázelosztó vezetékek tervezési munkái",
-        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Kft."
     },
     {
-        "company_names": "\"IPSZOLG-MH 96\" Ipari, Szolgáltató, Közműépítő és Kereskedelmi Korlátolt Felelősségű Táraság; \"Losonci és Társa\" Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság; \"Team-FÖLD Mérnöki Iroda\" Geodéziai, Térinformatikai, Műszaki tervező és Szolgáltató Korlátolt Felelősségű Társaság; Dabi Imre; GÁZTERV Tervező és Szolgáltató Korlátolt Felelősségü Társaság; KARIMA SYSTEMS Építőipari Korlátolt Felelősségű Társaság; KARTO-PLAN Mérnöki Iroda Korlátolt Felelősségű Társaság; Soós Árpád; UNIGÁZ Mélyépítő és Szerelőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "155000000",
-        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"IPSZOLG-MH 96\" Ipari, Szolgáltató, Közműépítő és Kereskedelmi Korlátolt Felelősségű Táraság; \"Losonci és Társa\" Építő- és Szolgáltatóipari Kft.; \"Team-FÖLD Mérnöki Iroda\" Geodéziai, Térinformatikai, Műszaki tervező és Szolgáltató Kft.; Dabi Imre; GÁZTERV Tervező és Szolgáltató Kft.; KARIMA SYSTEMS Építőipari Kft.; KARTO-PLAN Mérnöki Iroda Kft.; Soós Árpád; UNIGÁZ Mélyépítő és Szerelőipari Kft.",
+        "contract_value": 155000000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Gázhálózati Zrt., E.ON Közép-dunántúli Gázhálózati Zrt.",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_20328_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 9,
         "procurement_title": "Gázelosztó vezetékek tervezési munkái",
-        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Losonci és Társa Építő- és Szolgáltatóipari Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "251400000",
+        "contract_value": 251400000.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "14/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4382_2019/",
         "main_cpv": "72200000-7",
         "number_companies_win": 0,
         "procurement_title": "Vámszakmai szoftverek támogatása és fejlesztése",
-        "registered_name": "EnterSoft Számítástechnikai Korlátolt Felelősségű Társaság"
+        "registered_name": "EnterSoft Számítástechnikai Kft."
     }
 ]

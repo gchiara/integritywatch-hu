@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "36068124",
+        "contract_value": 36068124.0,
         "contracting_authority": "Nagyhegyes Község Önkormányzata",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1456_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése Nagyhegyesen tárgyú eljárásban",
-        "registered_name": "Lanora Solution Fejlesztési és Innovációs Korlátolt Felelősségű Társaság"
+        "registered_name": "Lanora Solution Fejlesztési és Innovációs Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63722690",
+        "contract_value": 63722690.0,
         "contracting_authority": "Berkesz Község Önkormányzata",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2328_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Piacfejlesztés Berkesz községben helyi termelők piachoz jutása érdekében",
-        "registered_name": "Lanora Solution Fejlesztési és Innovációs Korlátolt Felelősségű Társaság"
+        "registered_name": "Lanora Solution Fejlesztési és Innovációs Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44494065",
+        "contract_value": 44494065.0,
         "contracting_authority": "Berkesz Község Önkormányzata",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2330_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egészségház építése Berkesz községben",
-        "registered_name": "Lanora Solution Fejlesztési és Innovációs Korlátolt Felelősségű Társaság"
+        "registered_name": "Lanora Solution Fejlesztési és Innovációs Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19038618",
+        "contract_value": 19038618.0,
         "contracting_authority": "Bagamér Nagyközség Önkormányzata",
         "date": "10/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7626_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Bagaméri Polgármesteri Hivatal melléképületének külső felújítására és energetikai korszerűsítésére",
-        "registered_name": "Lanora Solution Fejlesztési és Innovációs Korlátolt Felelősségű Társaság"
+        "registered_name": "Lanora Solution Fejlesztési és Innovációs Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27181897",
+        "contract_value": 27181897.0,
         "contracting_authority": "Berkesz Község Önkormányzata",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10755_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Óvoda komplex energetikai felújítása Berkeszen",
-        "registered_name": "Lanora Solution Fejlesztési és Innovációs Korlátolt Felelősségű Társaság"
+        "registered_name": "Lanora Solution Fejlesztési és Innovációs Kft."
     }
 ]

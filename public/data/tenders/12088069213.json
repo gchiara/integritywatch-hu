@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "36343613",
+        "contract_value": 36343613.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12458_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Nővérszálló és a közelében lévő három, műhely és raktár funkciót betöltő, faház ellátása céljából decentralizált fűtéshálózat tervezése és kiépítése",
-        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10967695",
+        "contract_value": 10967695.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4185_2019/",
         "main_cpv": "45310000-3, 45330000-9, 45430000-0",
         "number_companies_win": 0,
         "procurement_title": "KÜLÖNFÉLE ÉPÍTÉSI MUNKÁK",
-        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27896058",
+        "contract_value": 27896058.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "28/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20298_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "D épület részleges felújítási munkái",
-        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20698462",
+        "contract_value": 20698462.0,
         "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22766_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Kardiológia részleges felújítása",
-        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61914581",
+        "contract_value": 61914581.0,
         "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
         "date": "27/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1407_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "BZSK Sürgősségi Osztály bővítése - építés",
-        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "37682676",
-        "contracting_authority": "Fővárosi Önkormányzat Pesti Úti Idősek Otthona",
-        "date": "29/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18957_2021/",
-        "main_cpv": "45330000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Pesti Úti Idősek Otthonában vizesblokk felújítása",
-        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOMPLEXITÁS BKU. Építőipari Tervező, Kivitelező és Szolgáltató Kft."
     }
 ]

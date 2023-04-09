@@ -1,255 +1,167 @@
 [
     {
         "company_names": "",
-        "contract_value": "61908037",
+        "contract_value": 61908037.0,
         "contracting_authority": "Erdősmárok Község Önkormányzata",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_869_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelési megoldások létrehozása Erdősmárok településen elnevezésű projekt keretében egyedi szennyvíztisztító kisberendezések telepítése",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76421779",
+        "contract_value": 76421779.0,
         "contracting_authority": "Maráza Községi Önkormányzata",
         "date": "18/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_871_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelési megoldások létrehozása Marázán elnevezésű projekt keretében egyedi szennyvíztisztító kisberendezések telepítése",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "95890115",
+        "contract_value": 95890115.0,
         "contracting_authority": "Somogyapáti Község Önkormányzata",
         "date": "13/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2038_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Somogyapáti településen tárgyú projekt megvalósításához kapcsolódó építési beruházás",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97786495",
+        "contract_value": 97786495.0,
         "contracting_authority": "Szebény Község Önkormányzata",
         "date": "16/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1639_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Szebény Községben című projekt keretében egyedi szennyvíztisztító kisberendezések telepítése",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53346764",
+        "contract_value": 53346764.0,
         "contracting_authority": "Szava Községi Önkormányzat",
         "date": "05/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5150_2018/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés kialakítása Szava községben című projekt keretében egyedi szennyvíztisztító kisberendezések telepítése",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27334173",
+        "contract_value": 27334173.0,
         "contracting_authority": "Székelyszabar Község Önkormányzata",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18847_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kultúrház korszerűsítése Székelyszabaron",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110889093",
+        "contract_value": 110889093.0,
         "contracting_authority": "Baksa Község Önkormányzata",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19688_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvíztisztító kisberendezések telepítése Baksán",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28450575",
+        "contract_value": 28450575.0,
         "contracting_authority": "Tengeri Község Önkormányzata",
         "date": "15/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19919_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Tengeriben",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54868197",
+        "contract_value": 54868197.0,
         "contracting_authority": "Téseny Község Önkormányzata",
         "date": "15/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19925_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés Tésenyben",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "107896068",
+        "contract_value": 107896068.0,
         "contracting_authority": "Kéleshalom Községi Önkormányzat",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5595_2020/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvízkezelés",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72803633",
+        "contract_value": 72803633.0,
         "contracting_authority": "Csonkamindszent Község Önkormányzata",
         "date": "24/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_15372_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi Szennyvízkezelés kialakítása Csonkamindszen",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92645504",
+        "contract_value": 92645504.0,
         "contracting_authority": "Nagybudmér Községi Önkormányzat",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17359_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi Szennyvízkezelés kialakítása Nagybudméron",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "93263444",
+        "contract_value": 93263444.0,
         "contracting_authority": "Garé Község Önkormányzata",
         "date": "15/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23430_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyedi szennyvíztisztító kisberendezések Garén",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91304833",
+        "contract_value": 91304833.0,
         "contracting_authority": "Drávaszerdahely Községi Önkormányzat",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24125_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Drávaszerdahely Község Egyedi Szennyvízkezelés",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     },
     {
-        "company_names": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság; GREEN WATER TECHNOLOGY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "136480242",
+        "company_names": "GLOBÁL-ZÖLDENERGIA Kft.; GREEN WATER TECHNOLOGY Szolgáltató Kft.",
+        "contract_value": 136480242.0,
         "contracting_authority": "Szőkéd Község Önkormányzata",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24147_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Egyedi szennyvízkezelés Szőkéden",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "128822736",
-        "contracting_authority": "Diósviszló Község Önkormányzata",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0192_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Egyedi szennyvízkezelés Diósviszlón",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság; GREEN WATER TECHNOLOGY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "90185993",
-        "contracting_authority": "Áta Község Önkormányzata",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0746_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Egyedi szennyvízkezelés Átán",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság; GREEN WATER TECHNOLOGY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "121570951",
-        "contracting_authority": "Kisnyárád Község Önkormányzat",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6630_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Egyedi szennyvíztisztítás kisberendezésekkel Kisnyárádon",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság; GREEN WATER TECHNOLOGY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "123685516",
-        "contracting_authority": "Ócsárd Község Önkormányzata",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6648_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Egyedi szennyvízkezelés Ócsárdon",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "139855831",
-        "contracting_authority": "Belecska Községi Önkormányzat",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6847_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Egyedi Szennyvízkezelés kialakítása kisberendezése",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "121737898",
-        "contracting_authority": "Bisse Községi Önkormányzat",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6935_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bisse Község egyedi szennyvízkezelése",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "67540282",
-        "contracting_authority": "Kisdér Községi Önkormányzata",
-        "date": "21/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6994_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Egyedi szennyvízkezelés Kisdéren",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "53949362",
-        "contracting_authority": "Siklósbodony Községi Önkormányzat",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7521_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Egyedi szennyvízkezelés Siklósbodonyban",
-        "registered_name": "GLOBÁL-ZÖLDENERGIA Korlátolt Felelősségű Társaság"
+        "registered_name": "GLOBÁL-ZÖLDENERGIA Kft."
     }
 ]

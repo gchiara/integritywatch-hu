@@ -1,167 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "509313529",
+        "contract_value": 509313529.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9668_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyháza, Sóstói Múzeumfalu fejlesztéséhez kapcsolódó kivitelezési feladatok elvégzése",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "706520860",
+        "contract_value": 706520860.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21711_2018/",
         "main_cpv": "45220000-5",
         "number_companies_win": 0,
         "procurement_title": "Gazdaságfejlesztést és munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés Nyíregyháza délkeleti és délnyugati területein című projekthez tartozó kivitelezési és egyéb munkák",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25406000",
+        "contract_value": 25406000.0,
         "contracting_authority": "Kölcse Nagyközség Önkormányzata",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18354_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Közintézmények ellátása megújuló energiaforrással",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30757000",
+        "contract_value": 30757000.0,
         "contracting_authority": "Kölcse Nagyközség Önkormányzata",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18354_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Közintézmények ellátása megújuló energiaforrással",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "908951375",
-        "contracting_authority": "ÉSZAKERDŐ Erdőgazdasági Zártkörűen Működő Részvénytársaság",
+        "contract_value": 908951375.0,
+        "contracting_authority": "ÉSZAKERDŐ Erdőgazdasági Zrt.",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0960_2019/",
         "main_cpv": "50224000-1",
         "number_companies_win": 0,
         "procurement_title": "LÁEV gördülőállomány fejlesztése",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "578226653",
+        "contract_value": 578226653.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "21/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8783_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "VIP épület, céltorony felújítása a SZOK-ban",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "222178600",
+        "contract_value": 222178600.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "26/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11475_2019/",
         "main_cpv": "45220000-5",
         "number_companies_win": 0,
         "procurement_title": "Közlekedésfejlesztés Nyíregyháza hat pontján",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     },
     {
-        "company_names": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság; ÖKOPROJECT EGER Környezetvédelmi Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "53821180",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft.; ÖKOPROJECT EGER Környezetvédelmi Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 53821180.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "15/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19461_2019/",
         "main_cpv": "90722200-6",
         "number_companies_win": 2,
         "procurement_title": "Tartálymegszüntetés (Baja, Kecskemét)",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44661121",
-        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22858_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kivitelezés - gondozóhálózat",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "FOUR-ROAD Építő és Szolgáltató Korlátolt Felelősségű Társaság; KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság",
-        "contract_value": "78890196",
-        "contracting_authority": "Tiszántúli Református Egyházkerület",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_7537_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Református intézmények energetikai fejlesztése",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság; KIWI ÉPÍTŐ és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "27853138",
-        "contracting_authority": "Tiszántúli Református Egyházkerület",
-        "date": "30/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12619_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Református intézmények energetikai fejlesztése II.",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "93350086",
-        "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Rendőr-Főkapitányság",
-        "date": "15/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17862_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Vásárosnamény, Nyírbátor, Záhony RK épületenergetikai fejlesztése",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "184780000",
-        "contracting_authority": "KÖZÉP-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG, Országos Vízügyi Főigazgatóság",
-        "date": "08/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18994_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ágazati infrastruktúra fejlesztés",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "300752000",
-        "contracting_authority": "KÖZÉP-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG, Országos Vízügyi Főigazgatóság",
-        "date": "08/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18994_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ágazati infrastruktúra fejlesztés",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "783500000",
-        "contracting_authority": "Fehérgyarmat Város Önkormányzata",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20140_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Ipari terület kialakítása Fehérgyarmaton",
-        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "KELET-ÚT Építőipari, Beruházó és Szállítmányozó Kft."
     }
 ]

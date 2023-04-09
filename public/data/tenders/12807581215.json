@@ -1,101 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "42639790",
+        "contract_value": 42639790.0,
         "contracting_authority": "Nyírbátor Város Önkormányzata",
         "date": "14/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8435_2019/",
         "main_cpv": "45233123-7",
         "number_companies_win": 0,
         "procurement_title": "Fáy utca tömbbelső lakóút és parkoló építése",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "256255920",
+        "contract_value": 256255920.0,
         "contracting_authority": "Vásárosnamény Város Önkormányzata",
         "date": "19/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10519_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Vásárosnaményi iparterületen útépítés és csapadékvíz elvezetés",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73402185",
+        "contract_value": 73402185.0,
         "contracting_authority": "Papos Község Önkormányzata",
         "date": "05/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12028_2019/",
         "main_cpv": "45200000-9, 45220000-5",
         "number_companies_win": 0,
         "procurement_title": "Papos külterület 040/4 hrsz. és a Vaja külterület 024 hrsz. mezőgazdasági gyűjtőutak stabilizációja",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130503100",
-        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 130503100.0,
+        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21667_2019/",
         "main_cpv": "45232452-5",
         "number_companies_win": 0,
         "procurement_title": "Recsk, déli meddőhányók javítása",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53199543",
+        "contract_value": 53199543.0,
         "contracting_authority": "Vásárosnamény Város Önkormányzata",
         "date": "17/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0920_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Eötvös utca felújítása és gyalogút kialakítása",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74799590",
+        "contract_value": 74799590.0,
         "contracting_authority": "Nyírgyulaj Község Önkormányzata",
         "date": "30/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5667_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Külterületi infrastrukturális fejlesztés",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21074420",
+        "contract_value": 21074420.0,
         "contracting_authority": "Vásárosnamény Város Önkormányzata",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23994_2020/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Radnóti, Kölcsey u. felújítása Vásárosnaményban",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32162050",
+        "contract_value": 32162050.0,
         "contracting_authority": "Vásárosnamény Város Önkormányzata",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23994_2020/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Radnóti, Kölcsey u. felújítása Vásárosnaményban",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "280000000",
-        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "24/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18510_2021/",
-        "main_cpv": "45254100-3",
-        "number_companies_win": 0,
-        "procurement_title": "Recsk, külszíni létesítmények fenntartása",
-        "registered_name": "Ekospektrum Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Ekospektrum Mérnöki Szolgáltató Kft."
     }
 ]

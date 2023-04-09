@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "19686908",
+        "contract_value": 19686908.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_17852_2017/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Budaörsi Városháza épületén külső homlokzati kőburkolat javítási munkák",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "80358950",
+        "contract_value": 80358950.0,
         "contracting_authority": "Bm Országos Közbeszerzési Főigazgatóság",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13501_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "BM OKF Központi Laboratórium fejlesztése",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "136710538",
+        "contract_value": 136710538.0,
         "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14161_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Logisztikai raktárcsarnok építése",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82784624",
+        "contract_value": 82784624.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1803_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Budakalász-Szentistvántelep - közösségi épület",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "174660112",
+        "contract_value": 174660112.0,
         "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10998_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszer-Biotechnológiai laboratóriumok kialakítása",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "158797956",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 158797956.0,
+        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zrt.",
         "date": "30/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15597_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "FŐTÁV Barázda köz, Füredi út épületfelújítás",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12827000",
+        "contract_value": 12827000.0,
         "contracting_authority": "Gül Baba Türbéje Örökségvédő Alapítvány",
         "date": "16/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19558_2019/",
         "main_cpv": "50000000-5",
         "number_companies_win": 0,
         "procurement_title": "Gül Baba Türbéjének komplex üzemeltetési feladatai",
-        "registered_name": "B&G Generál Üzemeltetési és Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "B&G Generál Üzemeltetési és Építőipari Kft."
     }
 ]

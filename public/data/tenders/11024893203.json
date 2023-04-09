@@ -1,167 +1,123 @@
 [
     {
-        "company_names": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság; Geotechnika",
-        "contract_value": "312034095",
+        "company_names": "ÉKISZ Építőipari Kft.; Geotechnika",
+        "contract_value": 312034095.0,
         "contracting_authority": "Soltvadkert Város Önkormányzata",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8716_2018/",
         "main_cpv": "45232130-2",
         "number_companies_win": 2,
         "procurement_title": "Csapadékvíz elvezető hálózat rekonstrukciója és záportározó kialakítása",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "87702536",
+        "contract_value": 87702536.0,
         "contracting_authority": "Szentes Város Önkormányzata",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17506_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Szentes 45. sz. főút melletti kerékpárút építése",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42401409",
+        "contract_value": 42401409.0,
         "contracting_authority": "Abony Város Önkormányzata",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24151_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Abony Város belvízelvezető-rendszer II/B",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296839400",
+        "contract_value": 296839400.0,
         "contracting_authority": "Kiskőrös Város Önkormányzata",
         "date": "18/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11069_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Záportározó kialakítása és csapadékvíz elvezető rendszerek rekonstrukciója",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40862459",
-        "contracting_authority": "BÁCSVÍZ Víz- és Csatornaszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 40862459.0,
+        "contracting_authority": "BÁCSVÍZ Víz- és Csatornaszolgáltató Zrt.",
         "date": "22/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15842_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szennyvízcsatorna és -átemelő kiépítése",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45849315",
+        "contract_value": 45849315.0,
         "contracting_authority": "Uszód Községi Önkormányzat",
         "date": "30/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24551_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz elvezető rendszer fejlesztése",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42501300",
+        "contract_value": 42501300.0,
         "contracting_authority": "Mártély Községi Önkormányzat",
         "date": "07/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0042_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Mártély mezőgazdasági út felújítása",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7945730",
+        "contract_value": 7945730.0,
         "contracting_authority": "Soltvadkert Város Önkormányzata",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_14379_2020/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz kiegészítő munkák",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116221184",
+        "contract_value": 116221184.0,
         "contracting_authority": "Duna-Ipoly Nemzeti Park Igazgatóság",
         "date": "14/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14148_2020/",
         "main_cpv": "45252124-3",
         "number_companies_win": 0,
         "procurement_title": "Vizes élőhely rekonstrukciója a Gerje-Perje-síkon",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52985263",
+        "contract_value": 52985263.0,
         "contracting_authority": "Kiskőrös Város Önkormányzata",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23715_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Külterületi helyi közutak fejlesztése Kiskőrösön",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "147638744",
+        "contract_value": 147638744.0,
         "contracting_authority": "Kiskőrös Város Önkormányzata",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23715_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Külterületi helyi közutak fejlesztése Kiskőrösön",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "139763486",
-        "contracting_authority": "Duna-Ipoly Nemzeti Park Igazgatóság",
-        "date": "31/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4913_2021/",
-        "main_cpv": "45252124-3",
-        "number_companies_win": 0,
-        "procurement_title": "Vizes élőhelyek fejlesztése a Dinnyési-fertőn",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "249000462",
-        "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
-        "date": "07/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12887_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 0,
-        "procurement_title": "Halasi út és térsége-csatornázási kivitelezés",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21548172",
-        "contracting_authority": "Jászfényszaru Város Önkormányzata",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22608_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ipari övezetet kiszolgáló elkerülő szennyvízvezetés építése",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "99981761",
-        "contracting_authority": "Jászfényszaru Város Önkormányzata",
-        "date": "16/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22608_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ipari övezetet kiszolgáló elkerülő szennyvízvezetés építése",
-        "registered_name": "ÉKISZ Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "ÉKISZ Építőipari Kft."
     }
 ]

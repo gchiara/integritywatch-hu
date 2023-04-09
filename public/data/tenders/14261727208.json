@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "134232733",
+        "contract_value": 134232733.0,
         "contracting_authority": "Győrújfalu Községi Önkormányzat",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2263_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Meglévő óvoda bővítése bölcsödével",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VTSZ Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18735950",
+        "contract_value": 18735950.0,
         "contracting_authority": "Pápai Sarokkő Baptista Gyülekezet",
         "date": "07/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13386_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Családok átmeneti otthona II",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VTSZ Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36863719",
+        "contract_value": 36863719.0,
         "contracting_authority": "Pápai Sarokkő Baptista Gyülekezet",
         "date": "07/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13386_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Családok átmeneti otthona II",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VTSZ Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18852710",
+        "contract_value": 18852710.0,
         "contracting_authority": "Pápai Sarokkő Baptista Gyülekezet",
         "date": "21/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13389_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Családok átmeneti otthona I.",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VTSZ Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29264121",
+        "contract_value": 29264121.0,
         "contracting_authority": "Pápai Sarokkő Baptista Gyülekezet",
         "date": "21/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13389_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Családok átmeneti otthona I.",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21783193",
-        "contracting_authority": "Győrújfalu Községi Önkormányzat",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6151_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Győrújfalu orvosi rendelő felújítása",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "48251981",
-        "contracting_authority": "Győrújfalu Községi Önkormányzat",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6151_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Győrújfalu orvosi rendelő felújítása",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "80446635",
-        "contracting_authority": "Győrújfalu Községi Önkormányzat",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6151_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Győrújfalu orvosi rendelő felújítása",
-        "registered_name": "VTSZ Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "VTSZ Építőipari és Szolgáltató Kft."
     }
 ]

@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "341000000",
-        "contracting_authority": "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 341000000.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
         "date": "22/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_750_2018/",
         "main_cpv": "42716000-8",
         "number_companies_win": 0,
         "procurement_title": "Ipari mosógépek beszerzése",
-        "registered_name": "POLIZO Kereskedelmi-Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2803000",
-        "contracting_authority": "Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5006_2021/",
-        "main_cpv": "33191000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Higiéniás eszközök beszerzése",
-        "registered_name": "POLIZO Kereskedelmi-Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "POLIZO Kereskedelmi-Szolgáltató Kft."
     }
 ]

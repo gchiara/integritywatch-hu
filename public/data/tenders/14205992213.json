@@ -1,68 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "72589670",
+        "contract_value": 72589670.0,
         "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
         "date": "26/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5017_2019/",
         "main_cpv": "30199760-5",
         "number_companies_win": 0,
         "procurement_title": "RFID-technológiához eszközök beszerzése, címkézés",
-        "registered_name": "SmartFreq Korlátolt Felelősségű Társaság"
+        "registered_name": "SmartFreq Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7446200",
+        "contract_value": 7446200.0,
         "contracting_authority": "Bródy Sándor Megyei és Városi Könyvtár",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10603_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközbeszerzés",
-        "registered_name": "SmartFreq Korlátolt Felelősségű Társaság"
+        "registered_name": "SmartFreq Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17806996",
+        "contract_value": 17806996.0,
         "contracting_authority": "Békés Megyei Könyvtár",
         "date": "30/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20634_2019/",
         "main_cpv": "38520000-6",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "SmartFreq Korlátolt Felelősségű Társaság"
+        "registered_name": "SmartFreq Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3182500",
+        "contract_value": 3182500.0,
         "contracting_authority": "II. Rákóczi Ferenc Megyei és Városi Könyvtár",
         "date": "18/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21727_2019/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "RFID eszközök beszerzése",
-        "registered_name": "SmartFreq Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1469400",
-        "contracting_authority": "Fővárosi Szabó Ervin Könyvtár",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3326_2021/",
-        "main_cpv": "30213300-8",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése 2020",
-        "registered_name": "SmartFreq Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7404490",
-        "contracting_authority": "Fővárosi Szabó Ervin Könyvtár",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11303_2021/",
-        "main_cpv": "30213300-8",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése 2021",
-        "registered_name": "SmartFreq Korlátolt Felelősségű Társaság"
+        "registered_name": "SmartFreq Kft."
     }
 ]

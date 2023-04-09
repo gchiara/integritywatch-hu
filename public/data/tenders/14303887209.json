@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "20000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 20000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "10/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3838_2020/",
         "main_cpv": "71250000-5",
         "number_companies_win": 0,
         "procurement_title": "Vízelvezető rendszerek állapotfelmérése",
-        "registered_name": "Centrál Kommunál Korlátolt Felelősségű Társaság"
+        "registered_name": "Centrál Kommunál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 30000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "10/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3838_2020/",
         "main_cpv": "71250000-5",
         "number_companies_win": 0,
         "procurement_title": "Vízelvezető rendszerek állapotfelmérése",
-        "registered_name": "Centrál Kommunál Korlátolt Felelősségű Társaság"
+        "registered_name": "Centrál Kommunál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 75000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13388_2020/",
         "main_cpv": "71250000-5",
         "number_companies_win": 0,
         "procurement_title": "Gyorsforgalmi út átereszek karbantartása",
-        "registered_name": "Centrál Kommunál Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "135000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_21732_2021/",
-        "main_cpv": "50225000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Alépítmény diagnosztika",
-        "registered_name": "Centrál Kommunál Korlátolt Felelősségű Társaság"
+        "registered_name": "Centrál Kommunál Kft."
     }
 ]

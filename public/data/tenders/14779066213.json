@@ -1,57 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "61926184",
+        "contract_value": 61926184.0,
         "contracting_authority": "Budapest Főváros XVI. Kerületi Önkormányzat",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_476_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XVI. kerületében 1. ütem",
-        "registered_name": "Aszfaltpálya Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfaltpálya Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "112011372",
+        "contract_value": 112011372.0,
         "contracting_authority": "Jászárokszállás Város Önkormányzata",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3702_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "építési beruházás",
-        "registered_name": "Aszfaltpálya Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfaltpálya Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41119068",
+        "contract_value": 41119068.0,
         "contracting_authority": "Budapest Főváros XVI. Kerületi Önkormányzat",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8149_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Budapest XVI. kerületi útépítések XLIII.",
-        "registered_name": "Aszfaltpálya Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "157460867",
-        "contracting_authority": "Budapest Főváros XVI. Kerületi Önkormányzat",
-        "date": "26/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5061_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Budapest XVI. kerületi útépítések LVIII.",
-        "registered_name": "Aszfaltpálya Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "39348883",
-        "contracting_authority": "Vasas Sport Club",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5908_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Folyondár Sportközpont út kivitelezési feladatok",
-        "registered_name": "Aszfaltpálya Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Aszfaltpálya Építő Kft."
     }
 ]

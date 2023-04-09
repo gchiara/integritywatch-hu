@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "152890264",
+        "contract_value": 152890264.0,
         "contracting_authority": "Tiszatelek Község Önkormányzata",
         "date": "15/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2490_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Óvoda építése",
-        "registered_name": "Pápa-ÉP. Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pápa-ÉP. Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39029679",
+        "contract_value": 39029679.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7332_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Református óvoda felújítása Nagyhalász Városában",
-        "registered_name": "Pápa-ÉP. Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pápa-ÉP. Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3537356",
+        "contract_value": 3537356.0,
         "contracting_authority": "Tiszatelek Község Önkormányzata",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7408_2019/",
         "main_cpv": "45233250-6",
         "number_companies_win": 0,
         "procurement_title": "Térburkolat készítése",
-        "registered_name": "Pápa-ÉP. Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pápa-ÉP. Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "127153118",
+        "contract_value": 127153118.0,
         "contracting_authority": "Kótaj Község Önkormányzata",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17639_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése Kótaj településen",
-        "registered_name": "Pápa-ÉP. Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "84360411",
-        "contracting_authority": "Nagyhalász Város Önkormányzata",
-        "date": "04/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21569_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Natúr gyümölcslé gyártó üzem kialakítása",
-        "registered_name": "Pápa-ÉP. Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pápa-ÉP. Építőipari Kft."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "31574803",
+        "contract_value": 31574803.0,
         "contracting_authority": "Nyíregyházi Egyházmegye",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6469_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "17146860",
+        "contract_value": 17146860.0,
         "contracting_authority": "Nyíregyházi Egyházmegye",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24043_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "460750000",
+        "contract_value": 460750000.0,
         "contracting_authority": "Máriapócsi Lelkigyakorlatos- és Zarándokház",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23557_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6729849",
+        "contract_value": 6729849.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2424_2019/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "13298384",
+        "contract_value": 13298384.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2424_2019/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "104139849",
+        "contract_value": 104139849.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2424_2019/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "91059096",
+        "contract_value": 91059096.0,
         "contracting_authority": "Máriapócsi Kegytemplom",
         "date": "28/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19651_2019/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "6035818",
+        "contract_value": 6035818.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "29/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6931_2020/",
@@ -89,24 +89,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "6762031",
+        "contract_value": 6762031.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "29/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6931_2020/",
         "main_cpv": "45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Járóbeteg SZTK átalakítás",
-        "registered_name": "PALLADIAN Építőipari, Szolgáltató és Kereskedelmi Korkátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "112375775",
-        "contracting_authority": "Hajdúdorogi Metropolitai Egyház, Országos Ruszin Önkormányzat",
-        "date": "14/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5171_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Görögkatolikus Fatemplom építése",
         "registered_name": "PALLADIAN Építőipari, Szolgáltató és Kereskedelmi Korkátolt Felelősségű Társaság"
     }
 ]

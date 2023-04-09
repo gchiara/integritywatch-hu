@@ -1,35 +1,35 @@
 [
     {
-        "company_names": "DH-SZERVIZ Korlátolt Felelősségű Társaság; EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "628413000",
+        "company_names": "DH-SZERVIZ Kft.; EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Kft.",
+        "contract_value": 628413000.0,
         "contracting_authority": "Fővárosi Büntetés-Végrehajtási Intézet",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19586_2017/",
         "main_cpv": "71314000-2",
         "number_companies_win": 2,
         "procurement_title": "A Fővárosi Büntetés-végrehajtási Intézet tájékoztatója az eljárás eredményéről (fűtéskorszerűsítés)",
-        "registered_name": "EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36549482",
-        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság",
+        "contract_value": 36549482.0,
+        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Kft.",
         "date": "22/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8048_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Szeged, Boldogasszony sugárút 44. szám alatti Diákotthon kazánház és hőközpont felújítása és korszerűsítése",
-        "registered_name": "EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "87159760",
-        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság",
+        "contract_value": 87159760.0,
+        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Kft.",
         "date": "22/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8042_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Duna Bizottság budapesti Székház fűtési rendszer rekonstrukciója és kapcsolódó területek felújítási munkái",
-        "registered_name": "EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EMEF Első Magyar Energetikai Fejlesztő és Szolgáltató Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "50000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "contract_value": 50000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "11/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_1957_2020/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Építési műszaki ellenőri szolgáltatás 3 évre-2019",
-        "registered_name": "Fekécs-Team Műszaki Tanácsadó, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Fekécs-Team Műszaki Tanácsadó, Szolgáltató és Kereskedelmi Kft."
     }
 ]

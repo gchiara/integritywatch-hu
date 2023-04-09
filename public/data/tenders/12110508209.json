@@ -1,112 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "61045493",
+        "contract_value": 61045493.0,
         "contracting_authority": "Ibrány Város Önkormányzata",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10801_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Északi és Déli iparterület fejlesztése Ibrányban",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
+        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft."
     },
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; EURO CAMPUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HARCON ÉPÍTÉS Építőipari Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság; Pesti Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3887369290",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft.; EURO CAMPUS Kereskedelmi és Szolgáltató Kft.; HARCON ÉPÍTÉS Építőipari Kft.; Laterex Építő Zrt.; Pesti Építő Zrt.",
+        "contract_value": 3887369290.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, Debreceni Egyetem, Heim Pál Országos Gyermekgyógyászati Intézet, Pécsi Tudományegyetem, Petz Aladár Egyetemi Oktató Kórház, Szegedi Tudományegyetem",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14500_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 6,
         "procurement_title": "Keretmegállapodás az ÁEEK hatáskörébe utalt építési beruházások megvalósítására Magyarországon 7 régióban.",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
+        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft."
     },
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság",
-        "contract_value": "580043375",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft.",
+        "contract_value": 580043375.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "04/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3637_2020/",
         "main_cpv": "45342000-6",
         "number_companies_win": 2,
         "procurement_title": "A Repülőtéren kerítés és ellenőrző út építése",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
+        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft."
     },
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság",
-        "contract_value": "802147105",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft.",
+        "contract_value": 802147105.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19580_2020/",
         "main_cpv": "45247112-8",
         "number_companies_win": 2,
         "procurement_title": "Ivóvíz és szennyvíz víziközmű építés",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
+        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "178946811",
+        "contract_value": 178946811.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_22539_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Görgey Utcai Óvoda energetikai korszerűsítése",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság",
-        "contract_value": "1299518129",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "19/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8298_2021/",
-        "main_cpv": "45233140-2",
-        "number_companies_win": 3,
-        "procurement_title": "Nyugati kiskörút III. ütem építése",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság",
-        "contract_value": "1150000914",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10318_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 3,
-        "procurement_title": "33. sz. főút Nyíl utca-Hadházi úti csp. átépítése",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság",
-        "contract_value": "1178109559",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "26/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21837_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Kézilabda munkacsarnok kivitelezése Nagyhalászon",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság",
-        "contract_value": "7299011812",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23061_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 3,
-        "procurement_title": "471. sz. főút (1+000-2+850 km) fejlesztése",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság; ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság",
-        "contract_value": "1498873079",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "30/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24853_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 3,
-        "procurement_title": "Ipari parkok, nyugati városrész út-és közműépítés",
-        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Korlátolt Felelősségü Társaság"
+        "registered_name": "Debreceni Mélyépitő Holding Fővállalkozó és Tanácsadó Kft."
     }
 ]

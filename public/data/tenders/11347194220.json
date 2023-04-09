@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "72847555",
+        "contract_value": 72847555.0,
         "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6616_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zalaegerszegi lőtér rekonstrukciós munkáinak kivitelezése",
-        "registered_name": "ZALA-ÉP Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALA-ÉP Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34826956",
+        "contract_value": 34826956.0,
         "contracting_authority": "Nemesapáti Község Önkormányzata",
         "date": "17/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12499_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda épületének felújítása Nemesapátiban",
-        "registered_name": "ZALA-ÉP Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALA-ÉP Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"ZALA-ÉP\" Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BMT Mérnöki Zártkörűen Működő Részvénytársaság",
-        "contract_value": "244598600",
+        "company_names": "\"ZALA-ÉP\" Építőipari Kereskedelmi és Szolgáltató Kft.; BMT Mérnöki Zrt.",
+        "contract_value": 244598600.0,
         "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14858_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Göcseji úti köztemető ravatalozó átépítése",
-        "registered_name": "ZALA-ÉP Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALA-ÉP Építőipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

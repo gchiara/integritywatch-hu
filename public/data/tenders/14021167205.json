@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "94157576",
+        "contract_value": 94157576.0,
         "contracting_authority": "Füzér Község Önkormányzata",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5568_2020/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Óvoda és Bölcsődefejlesztés Füzéren III.",
-        "registered_name": "Jákob-Ép Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3630242",
-        "contracting_authority": "Füzér Község Önkormányzata",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24240_2020/",
-        "main_cpv": "45262522-6",
-        "number_companies_win": 0,
-        "procurement_title": "Óvoda kerítés felújítása Füzéren",
-        "registered_name": "Jákob-Ép Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Jákob-Ép Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

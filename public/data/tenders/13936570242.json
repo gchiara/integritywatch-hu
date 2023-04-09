@@ -1,420 +1,244 @@
 [
     {
         "company_names": "",
-        "contract_value": "7994775",
+        "contract_value": 7994775.0,
         "contracting_authority": "II. Rákóczi Ferenc Megyei és Városi Könyvtár",
         "date": "05/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11692_2018/",
         "main_cpv": "30000000-9",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközbeszerzés",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10000",
+        "contract_value": 10000.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21419_2018/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatási kellékanyagok beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19500",
+        "contract_value": 19500.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "26/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21419_2018/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatási kellékanyagok beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10394208",
+        "contract_value": 10394208.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22690_2018/",
         "main_cpv": "38652100-1",
         "number_companies_win": 0,
         "procurement_title": "Projektorok 36 havi bérlésének beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8000000",
-        "contracting_authority": "Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 8000000.0,
+        "contracting_authority": "Forum Hungaricum Nonprofit Kft.",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24666_2018/",
         "main_cpv": "38520000-6",
         "number_companies_win": 0,
         "procurement_title": "Könyv- és egyéb szkennerek szállítása",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30500000",
-        "contracting_authority": "Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 30500000.0,
+        "contracting_authority": "Forum Hungaricum Nonprofit Kft.",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24666_2018/",
         "main_cpv": "38520000-6",
         "number_companies_win": 0,
         "procurement_title": "Könyv- és egyéb szkennerek szállítása",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Atlantis Rendszerház Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság; ManOPen Irodatechnikai Korlátolt Felelősségű Társaság; PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SLIMLOGIC Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1500000000",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; Atlantis Rendszerház Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; I-COM IRODAELLÁTÁS Kereskedelmi Kft.; KVINT-R Irodatechnikai és 3D Nyomtatási Kft.; ManOPen Irodatechnikai Kft.; PRINT SISTERS Szolgáltató és Kereskedelmi Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Kft.; SLIMLOGIC Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 10,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "APIS LOGISTIC Szolgáltató Korlátolt Felelősségű Társaság; AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Atlantis Rendszerház Korlátolt Felelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CTS Kft.; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Debreceni Irodarendszer Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DÉLI PART Ingatlanhasznosító Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NADCOM Informatikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Saldo Kft.; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; UNICOMP Informatikai Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6000000000",
+        "company_names": "APIS LOGISTIC Szolgáltató Kft.; AP-OFFICE Kereskedelmi és Tanácsadó Kft.; Atlantis Rendszerház Kft.; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVOVISUAL Kft.; CTS Kft.; Danka Irodatechnikai Kft.; Debreceni Irodarendszer Kereskedelmi és Szolgáltató Kft.; DÉLI PART Ingatlanhasznosító Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; I-COM IRODAELLÁTÁS Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Invitech Megoldások Zrt.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; M & S Informatikai Zrt.; NADCOM Informatikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.; Quality Intelligence Kft.; RevoSmart Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Saldo Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; TONEXT Kereskedelmi és Szolgáltató Kft.; UNICOMP Informatikai Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 6000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 33,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; C + F PROFESSIONAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; Technotrade Solution & Capital Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "8000000000",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; C + F PROFESSIONAL Kereskedelmi és Szolgáltató Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Invitech Megoldások Zrt.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; M & S Informatikai Zrt.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; Szervízpark Szolgáltató és Tanácsadó Kft.; Technotrade Solution & Capital Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 8000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 28,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CANON HUNGARIA Kereskedelmi Korlátolt Felelősségű Társaság; CENTER COMPUTER Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Informatika Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DELTA SYSTEM Informatikai és Kereskedelmi Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Korlátolt Felelősségű Társaság; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Korlátolt Felelősségű Társaság; Infocopy Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; LÉZER Irodatechnika Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MFP Applications Szoftverfejlesztő Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Piackutató és Kereskedelmi Korlátolt Felelősségű társaság.; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RENDESWEB Fejlesztési és Tanácsadó Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Korlátolt Felelősségű Társaság; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; WALLITRADE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "9500000000",
+        "company_names": "ALBA-KONTAKT PLUSZ Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; CANON HUNGARIA Kereskedelmi Kft.; CENTER COMPUTER Számítástechnikai Kereskedelmi Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CTS Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; CSP Rendszerház Ingatlanhasznosító Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Informatika Kereskedelmi és Szolgáltató Zrt.; Delta Services Kereskedelmi és Szolgáltató Kft.; DELTA SYSTEM Informatikai és Kereskedelmi Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; GLOBAL-UNION Kft.; H - COPEX Irodatechnika Kft.; IC-Rendszerház Kereskedelmi és Szolgáltató Korlátolt Felelősségű; IMG Solution Kft.; Infocopy Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; LÉZER Irodatechnika Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MFP Applications Szoftverfejlesztő Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; New Line Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Pegasus Piackutató és Kereskedelmi Kft..; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; Quality Intelligence Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RENDESWEB Fejlesztési és Tanácsadó Kft.; RevoSmart Kft.; REWORKS SZERVIZ Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; SLIMLOGIC Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; WALLITRADE Kereskedelmi és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 9500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 54,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4590000",
+        "contract_value": 4590000.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4994_2019/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Tonerek beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3391200",
+        "contract_value": 3391200.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11805_2019/",
         "main_cpv": "38652100-1",
         "number_companies_win": 0,
         "procurement_title": "Óbudai Egyetem részére 20 db projektor beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1520220",
+        "contract_value": 1520220.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19840_2019/",
         "main_cpv": "30210000-4",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése eü-i intézménynek",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3414000",
+        "contract_value": 3414000.0,
         "contracting_authority": "Ózdi Szakképzési Centrum",
         "date": "28/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1399_2020/",
         "main_cpv": "30232110-8",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatók beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9286000",
+        "contract_value": 9286000.0,
         "contracting_authority": "Ózdi Szakképzési Centrum",
         "date": "28/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1399_2020/",
         "main_cpv": "30232110-8",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatók beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; MEDIUM Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3925756741",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; MACROTEL Telefontechnikai Kft.; MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 3925756741.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
         "main_cpv": "30230000-0",
         "number_companies_win": 22,
         "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
-        "contract_value": "1122847754",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
+        "contract_value": 1122847754.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "01/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17242_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 3,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "172388582",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EURO-PROFIL RENDSZERHÁZ Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 172388582.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17822_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 2,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "39886313",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EURO-PROFIL RENDSZERHÁZ Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 39886313.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19217_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 2,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság",
-        "contract_value": "3747322",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; EURO-PROFIL RENDSZERHÁZ Kft.",
+        "contract_value": 3747322.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "11/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19491_2020/",
         "main_cpv": "30125000-1",
         "number_companies_win": 2,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2578300",
+        "contract_value": 2578300.0,
         "contracting_authority": "Néprajzi Múzeum",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24658_2020/",
         "main_cpv": "32420000-3",
         "number_companies_win": 0,
         "procurement_title": "Irodatechnika",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     },
     {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "423257229",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EURO-PROFIL RENDSZERHÁZ Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 423257229.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24170_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 2,
         "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1096000",
-        "contracting_authority": "Magyar Államkincstár",
-        "date": "28/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1511_2021/",
-        "main_cpv": "30232110-8",
-        "number_companies_win": 0,
-        "procurement_title": "2 db nyomtató beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1644000",
-        "contracting_authority": "Magyar Államkincstár",
-        "date": "28/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1511_2021/",
-        "main_cpv": "30232110-8",
-        "number_companies_win": 0,
-        "procurement_title": "2 db nyomtató beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság",
-        "contract_value": "3288755",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2724_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; MEDIUM Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "80923265",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "17/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3406_2021/",
-        "main_cpv": "30230000-0",
-        "number_companies_win": 5,
-        "procurement_title": "Megjelenítő eszközök beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "32913719",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5366_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
-        "contract_value": "1175292161",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5299_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 3,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "96403052",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5315_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "117714527",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5689_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 2,
-        "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság",
-        "contract_value": "3068282",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11826_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
-        "contract_value": "587636160",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11737_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 3,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "14821620",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13497_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 2,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "34961653",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13564_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "173085992",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13819_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 2,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; CSŐKESOR Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Legalitlab Korlátolt Felelősségű Társaság; MACROTEL Telefontechnikai Korlátolt Felelősségű Társaság; Magyar Telekom Távközlési Nyilvánosan Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7407907670",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "07/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16569_2021/",
-        "main_cpv": "32250000-0",
-        "number_companies_win": 15,
-        "procurement_title": "Mobiltelefonok beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "778800",
-        "contracting_authority": "Jász-Nagykun-Szolnok Megyei Kormányhivatal",
-        "date": "21/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17790_2021/",
-        "main_cpv": "30000000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Multifunkciós eszközök, toner és licensz beszerzés",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; IMG Solution Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "260000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20940_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 52,
-        "procurement_title": "Hálózati aktív és passzív eszközök beszerzése",
-        "registered_name": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság"
+        "registered_name": "EURO-PROFIL RENDSZERHÁZ Kft."
     }
 ]

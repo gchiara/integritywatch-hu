@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "33487993",
+        "contract_value": 33487993.0,
         "contracting_authority": "Végegyháza Község Önkormányzata",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1607_2020/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4435537",
+        "contract_value": 4435537.0,
         "contracting_authority": "Mezőhegyes Városi Önkormányzat",
         "date": "24/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17489_2020/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "80675217",
+        "contract_value": 80675217.0,
         "contracting_authority": "Mezőhegyes Városi Önkormányzat",
         "date": "24/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17489_2020/",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "195925891",
-        "contracting_authority": "Komlós Településszolgáltatási Korlátolt Felelősségű Társaság",
+        "contract_value": 195925891.0,
+        "contracting_authority": "Komlós Településszolgáltatási Kft.",
         "date": "08/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18401_2020/",
         "main_cpv": "45000000-7",
@@ -45,24 +45,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "63824055",
+        "contract_value": 63824055.0,
         "contracting_authority": "Végegyháza Község Önkormányzata",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21247_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskola energetikai felújítása és akadálymentesítés",
-        "registered_name": "KOMLÓSBAU Generálkivitelező és Fővállalkozó Korlátolt Felelőssségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "79520957",
-        "contracting_authority": "Komlós Településszolgáltatási Korlátolt Felelősségű Társaság",
-        "date": "14/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17811_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Ipari terület kialakítása Tótkomlóson",
         "registered_name": "KOMLÓSBAU Generálkivitelező és Fővállalkozó Korlátolt Felelőssségű Társaság"
     }
 ]

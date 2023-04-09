@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "91522086",
+        "contract_value": 91522086.0,
         "contracting_authority": "Pusztaszabolcs Város Önkormányzat",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22699_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pusztaszabolcs energetikai korszerűsítés",
-        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17539430",
+        "contract_value": 17539430.0,
         "contracting_authority": "Bakonycsernye Nagyközség Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24569_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Tanulást segítő infrastrukturális fejlesztés",
-        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33027304",
+        "contract_value": 33027304.0,
         "contracting_authority": "Bakonycsernye Nagyközség Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24583_2018/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Béketelepi Kultúrház energetikai fejlesztése",
-        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20260343",
+        "contract_value": 20260343.0,
         "contracting_authority": "Fejér Megyei Gyermekvédelmi Központ",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20753_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lakóotthonok felújítása",
-        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "V+V Építőipari és Műszaki Szolgáltató Kft."
     }
 ]

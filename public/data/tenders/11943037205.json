@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "57698241",
+        "contract_value": 57698241.0,
         "contracting_authority": "Nyékládháza Város Önkormányzata",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14092_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kossuth Lajos Általános Iskola felújítása",
-        "registered_name": "P-KOLOR Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "P-KOLOR Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24676906",
+        "contract_value": 24676906.0,
         "contracting_authority": "Sárospataki Tankerületi Központ",
         "date": "25/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17011_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Iskolák infrastrukturális fejlesztése",
-        "registered_name": "P-KOLOR Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "P-KOLOR Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96494277",
+        "contract_value": 96494277.0,
         "contracting_authority": "Szent Márton Katolikus Gimnázium és Általános Iskola",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19436_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Szent Márton Katolikus Általános Iskola és Gimnázium energetikai felújítása",
-        "registered_name": "P-KOLOR Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "P-KOLOR Építő és Szolgáltató Kft."
     }
 ]

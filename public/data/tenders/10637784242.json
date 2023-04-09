@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "3987000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3987000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5623_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatások ellátása Budapest Közút Zrt. részére",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5590000",
+        "contract_value": 5590000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Térségi Ivóvíz-Kezelési Önkormányzati Társulás",
         "date": "11/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9065_2018/",
         "main_cpv": "71300000-1",
         "number_companies_win": 0,
         "procurement_title": "Megbízási szerződés FIDIC mérnöki és műszaki ellenőri feladatok ellátására ivóvízhálózat-mosatási és ivóvízhálózat-rekonstrukciós tevékenységhez kapcsolódóan három részben.",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     },
     {
-        "company_names": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság; FŐBER Nemzetközi Ingatlanfejlesztő és Mérnöki Zártkörűen Működő Részvénytársaság",
-        "contract_value": "21200000",
-        "contracting_authority": "NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft.; FŐBER Nemzetközi Ingatlanfejlesztő és Mérnöki Zrt.",
+        "contract_value": 21200000.0,
+        "contracting_authority": "NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17624_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 2,
         "procurement_title": "Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKDU 2) elnevezésű projektben műszaki ellenőri tevékenység ellátása",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     },
     {
-        "company_names": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság; FŐBER Nemzetközi Ingatlanfejlesztő és Mérnöki Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.",
-        "contract_value": "1160000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft.; FŐBER Nemzetközi Ingatlanfejlesztő és Mérnöki Zrt.; UTIBER Közúti Beruházó Kft.",
+        "contract_value": 1160000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20621_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 3,
         "procurement_title": "Megbízási szerződés az M4 Abony (Kelet) - Törökszentmiklós (Nyugat) közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével kivitelezési munkái során lebonyolító mérnöki feladatok ellátására",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     },
     {
-        "company_names": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság; KÖZUTAS Mérnöki Iroda Korlátolt Felelősségű Társaság",
-        "contract_value": "255480000",
+        "company_names": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft.; KÖZUTAS Mérnöki Iroda Kft.",
+        "contract_value": 255480000.0,
         "contracting_authority": "Technológiai és Ipari Minisztérium",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22100_2018/",
         "main_cpv": "71630000-3",
         "number_companies_win": 2,
         "procurement_title": "Az országos közúthálózaton végzett közútkezelői tevékenység 2018-2019. évi ellenőrzése",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "846000000",
+        "contract_value": 846000000.0,
         "contracting_authority": "Magyar Államkincstár",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0400_2020/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki szakértői beszerzés",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19980000",
+        "contract_value": 19980000.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17351_2020/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Székesfehérvár déli összekötőút műszaki ellenőri feladatok",
-        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "EUROUT Mérnöki Tanácsadó Szervező és Kereskedelmi Kft."
     }
 ]

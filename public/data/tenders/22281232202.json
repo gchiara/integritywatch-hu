@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "1364772000",
+        "contract_value": 1364772000.0,
         "contracting_authority": "Siklós Város Önkormányzata",
         "date": "15/02/2019",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_21457_2018/",
         "main_cpv": "85300000-2",
         "number_companies_win": 0,
         "procurement_title": "Idősek Otthona, Szolgáltatás beszerzés",
-        "registered_name": "CENTOMILLA Szociális Gondozó és Ellátó Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "CENTOMILLA Szociális Gondozó és Ellátó Nonprofit Kft."
     }
 ]

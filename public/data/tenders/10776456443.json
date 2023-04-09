@@ -1,321 +1,211 @@
 [
     {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; STRABAG Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1259950622",
+        "company_names": "PENTA Általános Építőipari Kft.; STRABAG Építőipari Zrt.",
+        "contract_value": 1259950622.0,
         "contracting_authority": "Budapest Főváros Önkormányzata",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3044_2018/",
         "main_cpv": "45232400-6",
         "number_companies_win": 2,
         "procurement_title": "BKISZ projekt - Csatornázás VI. Tender",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "7509763020",
-        "contracting_authority": "NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 7509763020.0,
+        "contracting_authority": "NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5570_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodás az ajánlatkérő hatáskörébe utalt, a KEHOP 2. prioritás keretében megvalósítandó beruházások megvalósítására a nyugat- és dél-dunántúli térségben",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "24772622015",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24772622015.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_3552_2019/",
         "main_cpv": "45234125-8",
         "number_companies_win": 0,
         "procurement_title": "Budapesti M3 metróvonal rekonstrukciójához tartozó déli (Kőbánya-Kispest-Népliget állomásokközötti) vonalszakasz állomásai felújítási munkáinak kivitelezése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
-        "company_names": "Colas Alterra Építőipari Zártkörűen Működő Részvénytársaság; STRABAG Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "12294770917",
+        "company_names": "Colas Alterra Építőipari Zrt.; STRABAG Építőipari Zrt.",
+        "contract_value": 12294770917.0,
         "contracting_authority": "Országos Vízügyi Főigazgatóság",
         "date": "29/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5159_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Balaton levezető rendszerének korszerűsítése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "40571952",
+        "contract_value": 40571952.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15083_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "A Kistelek utca útépítése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; STRABAG Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3787164300",
+        "company_names": "PENTA Általános Építőipari Kft.; STRABAG Építőipari Zrt.",
+        "contract_value": 3787164300.0,
         "contracting_authority": "Budapest Főváros Önkormányzata",
         "date": "23/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15636_2019/",
         "main_cpv": "45232400-6",
         "number_companies_win": 2,
         "procurement_title": "BKISZ VII. tender kiviteli tervezés és kivitelezés",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "48141268",
+        "contract_value": 48141268.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "30/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16388_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Csárda utca út-, és csapadékvíz elvezetés III.",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "36508116",
+        "contract_value": 36508116.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "03/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16616_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Debrecen, Jámbor L. u. út és csapadékvízelvezetés építés",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "6974474031",
+        "contract_value": 6974474031.0,
         "contracting_authority": "Budapest Főváros Önkormányzata",
         "date": "28/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20246_2019/",
         "main_cpv": "45222100-0",
         "number_companies_win": 0,
         "procurement_title": "LSZK tervezése és kivitelezése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "620500000",
+        "contract_value": 620500000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "05/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23368_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "MGM helyén lévő terület megközelíthetőség javítás",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "32100000",
+        "contract_value": 32100000.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5098_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csomópont, kerékpárút fejlesztés Nyíregyházán II.",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "152600000",
+        "contract_value": 152600000.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5098_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csomópont, kerékpárút fejlesztés Nyíregyházán II.",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "309700000",
+        "contract_value": 309700000.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "09/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10091_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyháza, Benczúr tér - Bessenyei tér úthálózatának és járdáinak rekonstrukciója",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "64780637",
+        "contract_value": 64780637.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "08/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11701_2020/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Debrecen, Kálvin tér-Vár utca összekötése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "44600000",
+        "contract_value": 44600000.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "06/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_18107_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építők útja - Csányi u., Erdélyi sor kerékpárforgalmi létesítmény megvalósítása",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "6846586141",
-        "contracting_authority": "Alsóregmec Község Önkormányzata, Györgytarló Község Önkormányzata, Kenézlő Község Önkormányzata, Mikóháza Községi Önkormányzat, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság, Sátoraljaújhely Város Önkormányzata, Viss Község Önkormányzata, Zalkod Község Önkormányzata",
+        "contract_value": 6846586141.0,
+        "contracting_authority": "Alsóregmec Község Önkormányzata, Györgytarló Község Önkormányzata, Kenézlő Község Önkormányzata, Mikóháza Községi Önkormányzat, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft., Sátoraljaújhely Város Önkormányzata, Viss Község Önkormányzata, Zalkod Község Önkormányzata",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19602_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Sátoraljaújhely szennyvízelvezetési és-tisztításiberuházások megvalósítása",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "111165109",
+        "contract_value": 111165109.0,
         "contracting_authority": "Békésszentandrás Nagyközség Önkormányzata, Szarvas Város Önkormányzata",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_21372_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpáros közlekedés fejlesztése II.",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1970057739",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1970057739.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_23247_2020/",
         "main_cpv": "45234125-8",
         "number_companies_win": 0,
         "procurement_title": "M3 metró Dózsa Gy. út megálló akadálymentesítése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "12132501573",
+        "contract_value": 12132501573.0,
         "contracting_authority": "Szent Borbála Kórház",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24001_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "U épület kivitelezése és tervezése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "263927520",
-        "contracting_authority": "Cegléd Város Önkormányzata",
-        "date": "20/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0854_2021/",
-        "main_cpv": "45233162-2",
-        "number_companies_win": 0,
-        "procurement_title": "Kerékpárhálózat fejlesztés Cegléden",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1094883899",
-        "contracting_authority": "Délkelet-Alföld Regionális Hulladékgazdálkodási Rendszer Létrehozását Célzó Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "14/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6458_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Komplex hulladékgazdálkodási rendszer fejlesztése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "397919834",
-        "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9566_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szeged, Belterületi gazdasági utak korszerűsítése",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5320000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "02/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9522_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "260. sz. Sajószentpéter-Berente elkerülő főút",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2190000000",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "21/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11240_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Db. Déli Gazdasági Övezet belső úthálózat II. ütem",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "590823464",
-        "contracting_authority": "Nemzeti Sportközpontok",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_13300_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Városi Sportpálya Fejlesztése Újfehértón",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1493039497",
-        "contracting_authority": "Erdősmárok Község Önkormányzata, Fazekasboda Község Önkormányzata, Geresdlak Község Önkormányzata, Görcsönydoboka Község Önkormányzata, Himesháza Község Önkormányzata, Kisnyárád Község Önkormányzat, Kölked Község Önkormányzata, Lánycsók Községi Önkormányzat, Liptód Község Önkormányzata, Maráza Községi Önkormányzata, Mohács Város Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság, Székelyszabar Község Önkormányzata, Szűr Község Önkormányzata, Udvar Község Önkormányzata",
-        "date": "13/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12344_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Görcsönydoboka ivóvíz ADVV1.",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1175000000",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15900_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Bethlen utca és az Egyetem sugárút 2x2 sávosítása",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2803703784",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "03/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15882_2021/",
-        "main_cpv": "45214610-9",
-        "number_companies_win": 0,
-        "procurement_title": "PILOT Kutatólaboratórium létrehozása",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; STRABAG Építőipari Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7999882640",
-        "contracting_authority": "Akasztó Község Önkormányzata, Csengőd Község Önkormányzata, Gyömrő Város Önkormányzata, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság, Szeremle Községi Önkormányzat, Tabdi Községi Önkormányzat",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18259_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Csengőd-Szennyvíz tervezés és kivitelezés",
-        "registered_name": "STRABAG Építőipari Zártkörűen Működő Részvénytársaság"
+        "registered_name": "STRABAG Építőipari Zrt."
     }
 ]

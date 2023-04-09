@@ -1,101 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "134502664",
+        "contract_value": 134502664.0,
         "contracting_authority": "Fülöpszállás Községi Önkormányzat",
         "date": "25/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1337_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés három csoportos óvoda építésére Fülöpszálláson",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "210406576",
+        "contract_value": 210406576.0,
         "contracting_authority": "Szank Községi Önkormányzat",
         "date": "27/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2754_2018/",
         "main_cpv": "45247000-0",
         "number_companies_win": 0,
         "procurement_title": "Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés, Kiskun Emlékhely Zank vezér szállásán",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "32470000",
+        "contract_value": 32470000.0,
         "contracting_authority": "Szabadszállás Város Önkormányzata",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9270_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés új családsegítő és gyermekjóléti szolgálat tevékenységének ellátását biztosító épület építésére Szabadszálláson",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "83097252",
+        "contract_value": 83097252.0,
         "contracting_authority": "Fülöpszállás Községi Önkormányzat",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18321_2018/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Külterületi utak burkolat felújítása Fülöpszállás és Szabadszállás településeken Fülöpszállás konzorciumvezetésével",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33721612",
+        "contract_value": 33721612.0,
         "contracting_authority": "Fülöpszállás Községi Önkormányzat",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23912_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri Hivatal felújítása Fülöpszálláson",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37562839",
+        "contract_value": 37562839.0,
         "contracting_authority": "Kiskunmajsa Város Önkormányzata, Szank Községi Önkormányzat",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10729_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Földutak stabilizálása",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47207618",
+        "contract_value": 47207618.0,
         "contracting_authority": "Kiskunmajsa Város Önkormányzata, Szank Községi Önkormányzat",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10729_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Földutak stabilizálása",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42210270",
+        "contract_value": 42210270.0,
         "contracting_authority": "Kunszállás Község Önkormányzata",
         "date": "16/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_16361_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kossuth utca rehabilitációja Kunszálláson",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "54746778",
-        "contracting_authority": "Ballószög Nagyközség Önkormányzata",
-        "date": "12/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19908_2021/",
-        "main_cpv": "45232410-9",
-        "number_companies_win": 0,
-        "procurement_title": "Belvízvédekezés és csapadékvíz elvezetés",
-        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "IZSÉPKER PLUSZ Építőipari, Mezőgazdasági Kereskedelmi Kft."
     }
 ]

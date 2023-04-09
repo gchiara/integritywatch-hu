@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "79498972",
+        "contract_value": 79498972.0,
         "contracting_authority": "Berekfürdő Községi Önkormányzat",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13720_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Főtér rekonstrukció",
-        "registered_name": "4. ÉK Építési és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "4. ÉK Építési és Kereskedelmi Szolgáltató Kft."
     }
 ]

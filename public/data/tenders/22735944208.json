@@ -1,90 +1,35 @@
 [
     {
-        "company_names": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; Leveller Építőipari Korlátolt Felelősségű Társaság; WEST HUNGÁRIA BAU Építőipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "420000000",
+        "company_names": "LEKRI GROUP Építőipari és Szolgáltató Kft.; Leveller Építőipari Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 420000000.0,
         "contracting_authority": "Magyar Nemzeti Múzeum",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20570_2018/",
         "main_cpv": "71351914-3",
         "number_companies_win": 3,
         "procurement_title": "A Magyar Nemzeti Múzeum által végzett régészeti feladatellátáshoz kapcsolódó régészeti föld- és bontómunka, illetőleg geodéziai és térinformatikai feladatok ellátása",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "600000000",
+        "contract_value": 600000000.0,
         "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
         "date": "06/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7518_2020/",
         "main_cpv": "71351914-3",
         "number_companies_win": 0,
         "procurement_title": "Régészeti kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30562400",
+        "contract_value": 30562400.0,
         "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
         "date": "26/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18440_2020/",
         "main_cpv": "71351914-3",
         "number_companies_win": 0,
         "procurement_title": "Régészeti kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "54167400",
-        "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0127_2021/",
-        "main_cpv": "71351914-3",
-        "number_companies_win": 0,
-        "procurement_title": "Régészeti kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42582000",
-        "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
-        "date": "08/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3264_2021/",
-        "main_cpv": "71351914-3",
-        "number_companies_win": 0,
-        "procurement_title": "Régészeti kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24307100",
-        "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5838_2021/",
-        "main_cpv": "71351914-3",
-        "number_companies_win": 0,
-        "procurement_title": "Régészeti kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "150949040",
-        "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
-        "date": "27/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19402_2021/",
-        "main_cpv": "71351914-3",
-        "number_companies_win": 0,
-        "procurement_title": "Régészeti kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1600000000",
-        "contracting_authority": "Rómer Flóris Művészeti és Történeti Múzeum",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24094_2021/",
-        "main_cpv": "71351914-3",
-        "number_companies_win": 0,
-        "procurement_title": "Rómer Flóris Művészeti és Történeti Múzeummal régészeti feladatellátáshoz szükséges kiegészítő szolgáltatások",
-        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "LEKRI GROUP Építőipari és Szolgáltató Kft."
     }
 ]

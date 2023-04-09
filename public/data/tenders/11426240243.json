@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "142917385",
+        "contract_value": 142917385.0,
         "contracting_authority": "Állatorvostudományi Egyetem",
         "date": "25/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_990_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "58954560",
+        "contract_value": 58954560.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13267_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "11553000",
+        "contract_value": 11553000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14011_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "46212000",
+        "contract_value": 46212000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14011_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "4601500",
+        "contract_value": 4601500.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24397_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "139735194",
+        "contract_value": 139735194.0,
         "contracting_authority": "Állatorvostudományi Egyetem",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8557_2019/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "158325000",
+        "contract_value": 158325000.0,
         "contracting_authority": "Állatorvostudományi Egyetem",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8557_2019/",

@@ -1,101 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "11456050",
+        "contract_value": 11456050.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "25/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10739_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Az állami fenntartású köznevelési intézmények tanulást segítő tereinek infrastrukturális fejlesztése című pályázathoz kapcsolódó kivitelezési munkák",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16180599",
+        "contract_value": 16180599.0,
         "contracting_authority": "PÉCSI TANKERÜLETI KÖZPONT",
         "date": "25/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10739_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Az állami fenntartású köznevelési intézmények tanulást segítő tereinek infrastrukturális fejlesztése című pályázathoz kapcsolódó kivitelezési munkák",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36999603",
+        "contract_value": 36999603.0,
         "contracting_authority": "Dinnyeberki Község Önkormányzata",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12446_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Dinnyeberki Polgármesteri Hivatal épületének átalakítása, korszerűsítése",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40989836",
+        "contract_value": 40989836.0,
         "contracting_authority": "Görcsöny Községi Önkormányzat",
         "date": "31/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13665_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Tornacsarnok felújítása",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50061197",
+        "contract_value": 50061197.0,
         "contracting_authority": "Cserkút Község Önkormányzat",
         "date": "10/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20377_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Gasztronómia élménytér kialakítása",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3890836",
+        "contract_value": 3890836.0,
         "contracting_authority": "Magyarmecske Község Önkormányzata",
         "date": "23/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6890_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Magyarmecske közintézményeinek fejlesztése",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27710091",
+        "contract_value": 27710091.0,
         "contracting_authority": "Magyarmecske Község Önkormányzata",
         "date": "23/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6890_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Magyarmecske közintézményeinek fejlesztése",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46338494",
+        "contract_value": 46338494.0,
         "contracting_authority": "Orfű Községi Önkormányzat",
         "date": "04/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9335_2020/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Termelői piac, illetve üzlet kialakítása",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16560350",
-        "contracting_authority": "Mánfa Község Önkormányzata",
-        "date": "08/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17293_2021/",
-        "main_cpv": "45247112-8",
-        "number_companies_win": 0,
-        "procurement_title": "Csatornameder és vízelvezető árok helyreállítása",
-        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BEST CONTRAST 75 Kereskedelmi és Szolgáltató Kft."
     }
 ]

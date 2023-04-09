@@ -1,222 +1,156 @@
 [
     {
-        "company_names": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "96074364",
+        "company_names": "MÁTRAKÖZMŰ Mélyépitő Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 96074364.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6353_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 2,
         "procurement_title": "Gyöngyös - Mátrafüred kerékpárút fejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41173549",
+        "contract_value": 41173549.0,
         "contracting_authority": "Sirok Községi Önkormányzat",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9495_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "A siroki Kölyökvár Óvoda energetikai korszerűsítése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43906861",
+        "contract_value": 43906861.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11249_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Markhot Ferenc Kórház részére útfelújítási munkálatok és parkolók építése, valamint az ezek létesítéséhez szükséges térvilágítás kiépítése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
-        "company_names": "M-R KÉSZHÁZ Építőipari Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "44947881",
+        "company_names": "M-R KÉSZHÁZ Építőipari Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 44947881.0,
         "contracting_authority": "Domoszló Községi Önkormányzat",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14463_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Új helyi piac kialakítása a Domoszló, Deák tér 328/10 és 329 Hrsz ingatlanokon, a már meglévő piacfunkció kiszolgálófunkciókkal való bővítésével.",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31812189",
+        "contract_value": 31812189.0,
         "contracting_authority": "Sirok Községi Önkormányzat",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4054_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sirok Kofa-tér piactér",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23389598",
+        "contract_value": 23389598.0,
         "contracting_authority": "Egerszalók Községi Önkormányzat",
         "date": "15/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5971_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Egerszalók Turisztikai Fejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40080048",
+        "contract_value": 40080048.0,
         "contracting_authority": "Egerszalók Községi Önkormányzat",
         "date": "15/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5971_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Egerszalók Turisztikai Fejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40713444",
+        "contract_value": 40713444.0,
         "contracting_authority": "Egerszalók Községi Önkormányzat",
         "date": "15/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5971_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Egerszalók Turisztikai Fejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73549189",
+        "contract_value": 73549189.0,
         "contracting_authority": "Egerszalók Községi Önkormányzat",
         "date": "15/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5971_2019/",
         "main_cpv": "45211360-0",
         "number_companies_win": 0,
         "procurement_title": "Egerszalók Turisztikai Fejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
-        "company_names": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "285489025",
+        "company_names": "MÁTRAKÖZMŰ Mélyépitő Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 285489025.0,
         "contracting_authority": "Mátraderecske Községi Önkormányzat",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7670_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Mátraderecske vízrendezés I. ütem",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47107225",
+        "contract_value": 47107225.0,
         "contracting_authority": "Magyarországi Evangélikus Egyház",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8406_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ótemplomi Szeretetszolgálat épületeinek felújítása",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "79786993",
+        "contract_value": 79786993.0,
         "contracting_authority": "Magyarországi Evangélikus Egyház",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8406_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ótemplomi Szeretetszolgálat épületeinek felújítása",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "296076363",
+        "contract_value": 296076363.0,
         "contracting_authority": "Eger Megyei Jogú Város Önkormányzata",
         "date": "24/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13467_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Extrémsport pálya, üzlet, vendéglátóegység kialakítása",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     },
     {
-        "company_names": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "85044826",
+        "company_names": "MÁTRAKÖZMŰ Mélyépitő Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 85044826.0,
         "contracting_authority": "Aldebrő Községi Önkormányzat",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1920_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Aldebrő település egyes belterületi utcáinak vízrendezése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "223725152",
-        "contracting_authority": "Kál Nagyközségi Önkormányzat",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2825_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iparterület Kálban",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "132371928",
-        "contracting_authority": "Verpelét Város Önkormányzata",
-        "date": "19/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4681_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Buszforduló, parkoló és piac kivitelezés Verpelét",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "153023734",
-        "contracting_authority": "Verpelét Város Önkormányzata",
-        "date": "19/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4681_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Buszforduló, parkoló és piac kivitelezés Verpelét",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "76074178",
-        "contracting_authority": "Pásztó Városi Önkormányzat",
-        "date": "10/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10746_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Háziorvosi rendelő épületének felújítása",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "110731185",
-        "contracting_authority": "Pásztó Városi Önkormányzat",
-        "date": "11/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11027_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Pásztó Város környezetfejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "HE-DO Építő Zártkörűen Működő Részvénytársaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "274888888",
-        "contracting_authority": "Jászberény Városi Önkormányzat",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18007_2021/",
-        "main_cpv": "45233142-6",
-        "number_companies_win": 2,
-        "procurement_title": "Vaspálya utcai iparterület infrastruktúra fejlesztése",
-        "registered_name": "PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PEKU AGRO Építő és Szolgáltató Kft."
     }
 ]

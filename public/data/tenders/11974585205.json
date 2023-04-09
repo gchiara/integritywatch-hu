@@ -1,134 +1,68 @@
 [
     {
-        "company_names": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság; TLG-RELAX Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "209854072",
+        "company_names": "Borsod-Bau 2000 Közműépítő Kft.; TLG-RELAX Szolgáltató Kft.",
+        "contract_value": 209854072.0,
         "contracting_authority": "Edelény Város Önkormányzata",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14169_2018/",
         "main_cpv": "45213141-3",
         "number_companies_win": 2,
         "procurement_title": "Vásárcsarnok építése Edelényben a helyi termelők piacra jutásának segítése érdekében című projekt megvalósításához Edelény, belterület 9/18 hrsz.-ú ingatlanon Vásárcsarnok építési munkáinak elvégzése.",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Borsod-Bau 2000 Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89138884",
-        "contracting_authority": "Edelény Város Önkormányzata, Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 89138884.0,
+        "contracting_authority": "Edelény Város Önkormányzata, Magyar Közút Nonprofit Zrt.",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18458_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút építése Edelényben",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Borsod-Bau 2000 Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "209060850",
-        "contracting_authority": "Edelény Város Önkormányzata, Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 209060850.0,
+        "contracting_authority": "Edelény Város Önkormányzata, Magyar Közút Nonprofit Zrt.",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18458_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút építése Edelényben",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Borsod-Bau 2000 Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69820756",
+        "contract_value": 69820756.0,
         "contracting_authority": "Edelény Város Önkormányzata",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16918_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Császtai szőlőhegy utak és ivóvízhálózat",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Borsod-Bau 2000 Közműépítő Kft."
     },
     {
-        "company_names": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság; MENTO Környezetkultúra Korlátolt Felelősségű Társaság",
-        "contract_value": "450147361",
+        "company_names": "Borsod-Bau 2000 Közműépítő Kft.; MENTO Környezetkultúra Kft.",
+        "contract_value": 450147361.0,
         "contracting_authority": "Putnok Város Önkormányzata",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18401_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Kerékpárút építése",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Borsod-Bau 2000 Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85897658",
+        "contract_value": 85897658.0,
         "contracting_authority": "Baktakék Községi Önkormányzat",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20429_2020/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Belterületi csapadékvíz elvezetés kivitelezés",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "117191679",
-        "contracting_authority": "Kazincbarcika Város Önkormányzata",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3653_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Völgy-parki út építése I. ütem",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "137029039",
-        "contracting_authority": "Kazincbarcika Város Önkormányzata, Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10406_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Körforgalom építése",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "156053705",
-        "contracting_authority": "Kazincbarcika Város Önkormányzata, Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10406_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Körforgalom építése",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "296059010",
-        "contracting_authority": "Edelény Város Önkormányzata",
-        "date": "02/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14680_2021/",
-        "main_cpv": "45212312-6",
-        "number_companies_win": 0,
-        "procurement_title": "Bányászati bemutató központ létesítése",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44876436",
-        "contracting_authority": "Edelény Város Önkormányzata",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25542_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Burkolatfelújítás - Edelény Város Önkormányzata",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "73078095",
-        "contracting_authority": "Edelény Város Önkormányzata",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25542_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Burkolatfelújítás - Edelény Város Önkormányzata",
-        "registered_name": "Borsod-Bau 2000 Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "Borsod-Bau 2000 Közműépítő Kft."
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "749978070",
+        "contract_value": 749978070.0,
         "contracting_authority": "Harkány Város Önkormányzata",
         "date": "24/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13057_2018/",
         "main_cpv": "45215110-1",
         "number_companies_win": 0,
         "procurement_title": "Az 1818/2016 (XII.22) Kormányhatározatban meghatározott fürdőfejlesztési támogatáshoz kapcsolódó kivitelezési feladatok elvégzése a szükséges kiviteli tervek elkészítésével együtt",
-        "registered_name": "BGW. Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BGW. Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "369930402",
+        "contract_value": 369930402.0,
         "contracting_authority": "Komló Város Önkormányzat",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24707_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szent Borbála Otthon épületének energetikai korszerűsítése",
-        "registered_name": "BGW. Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BGW. Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130874888",
+        "contract_value": 130874888.0,
         "contracting_authority": "Szigetvár Város Önkormányzat",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7744_2019/",
         "main_cpv": "45000000-7, 45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Szigetvári Orvosi Rendelő épületének bontása és építése",
-        "registered_name": "BGW. Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BGW. Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36436311",
-        "contracting_authority": "Harkányi Gyógyfürdő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 36436311.0,
+        "contracting_authority": "Harkányi Gyógyfürdő Zrt.",
         "date": "14/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8239_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épületfelújítási munkák megrendelése",
-        "registered_name": "BGW. Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BGW. Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23804305",
+        "contract_value": 23804305.0,
         "contracting_authority": "Komlói Egészségcentrum, Bányászati Utókezelő és Éjjeli Szanatórium Egészségügyi Központ",
         "date": "07/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21270_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sikondai telephely lift telepítése",
-        "registered_name": "BGW. Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BGW. Építőipari és Szolgáltató Kft."
     }
 ]

@@ -1,123 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "34030004",
+        "contract_value": 34030004.0,
         "contracting_authority": "Ömböly Község Önkormányzata",
         "date": "10/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24114_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Belterületi vízrendezés Ömböly településen",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "175239898",
+        "contract_value": 175239898.0,
         "contracting_authority": "Nemzeti Sportközpontok, Telki Község Önkormányzat",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8637_2019/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "Tanterem kivitelezése Telkiben",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "163203288",
+        "contract_value": 163203288.0,
         "contracting_authority": "Óbudai Ganz Vízisport Egyesület",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14679_2019/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Óbudai Ganz Vízisport E. új edzőterem építése",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "93423800",
+        "contract_value": 93423800.0,
         "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
         "date": "14/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21950_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Péterfy Kórház Koraszülött és PIC osztály - építés",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "125716616",
+        "contract_value": 125716616.0,
         "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
         "date": "14/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21950_2019/",
         "main_cpv": "45262700-8",
         "number_companies_win": 0,
         "procurement_title": "Péterfy Kórház Koraszülött és PIC osztály - építés",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "184008200",
+        "contract_value": 184008200.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13372_2020/",
         "main_cpv": "45212290-5",
         "number_companies_win": 0,
         "procurement_title": "Dunaújvárosi tornacsarnok homlokzati felújítása",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "281299180",
+        "contract_value": 281299180.0,
         "contracting_authority": "Nemzeti Sportközpontok",
         "date": "06/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17505_2020/",
         "main_cpv": "45213200-5",
         "number_companies_win": 0,
         "procurement_title": "Szeged Maty-Ér Raktárcsarnok kivitelezési munkái",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77812200",
+        "contract_value": 77812200.0,
         "contracting_authority": "Óbudai Ganz Vízisport Egyesület",
         "date": "10/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22911_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Új edzőterem építése - II. ütem",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "182854770",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5742_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Esztergomi BSE meglévő épületrész átépítése",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "75189264",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "05/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12156_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Esztergomi BSE meglévő épületész külső felújítás",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "231069900",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
-        "date": "06/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16717_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szarvason Karateközpont létrehozása",
-        "registered_name": "OJRÓ 2007. Korlátolt Felelősségű Társaság"
+        "registered_name": "OJRÓ 2007. Kft."
     }
 ]

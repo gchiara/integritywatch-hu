@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "1017160",
+        "contract_value": 1017160.0,
         "contracting_authority": "Budakeszi Város Önkormányzata",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2747_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "5005352",
+        "contract_value": 5005352.0,
         "contracting_authority": "Budakeszi Város Önkormányzata",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2747_2018/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "29268192",
+        "contract_value": 29268192.0,
         "contracting_authority": "Budakeszi Város Önkormányzata",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2747_2018/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "41926709",
+        "contract_value": 41926709.0,
         "contracting_authority": "Budakeszi Város Önkormányzata",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2747_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "174949773",
+        "contract_value": 174949773.0,
         "contracting_authority": "Zsámbék Város Önkormányzata",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3473_2018/",
@@ -55,8 +55,8 @@
         "registered_name": "ÚTKORONA Építő és Szolgáltató Kft."
     },
     {
-        "company_names": "TUNEL Mélyépítő Korlátolt Felelősségű Társaság; ÚTKORONA Építő és Szolgáltató Kft.",
-        "contract_value": "127899350",
+        "company_names": "TUNEL Mélyépítő Kft.; ÚTKORONA Építő és Szolgáltató Kft.",
+        "contract_value": 127899350.0,
         "contracting_authority": "Nagykovácsi Nagyközség Önkormányzata",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4657_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "49376609",
+        "contract_value": 49376609.0,
         "contracting_authority": "Jánossomorja Város Önkormányzata",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12598_2018/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "54679211,11",
+        "contract_value": 54679211.11,
         "contracting_authority": "Budakeszi Város Önkormányzata",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13943_2018/",
@@ -89,8 +89,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "116609187",
-        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 116609187.0,
+        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zrt.",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17880_2018/",
         "main_cpv": "45000000-7",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "189976001",
+        "contract_value": 189976001.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0658_2019/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "60999644",
+        "contract_value": 60999644.0,
         "contracting_authority": "Zsámbék Város Önkormányzata",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6673_2019/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "84171939",
+        "contract_value": 84171939.0,
         "contracting_authority": "Mende Község Önkormányzata",
         "date": "25/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7340_2019/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "72870049",
+        "contract_value": 72870049.0,
         "contracting_authority": "Galgamácsa Község Önkormányzata",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8799_2019/",
@@ -144,7 +144,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "114777866",
+        "contract_value": 114777866.0,
         "contracting_authority": "Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat",
         "date": "08/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12393_2019/",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "135132815",
+        "contract_value": 135132815.0,
         "contracting_authority": "Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat",
         "date": "08/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12393_2019/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "99696861",
+        "contract_value": 99696861.0,
         "contracting_authority": "Sülysáp Város Önkormányzata",
         "date": "11/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12911_2019/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "7898459",
+        "contract_value": 7898459.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12830_2019/",
@@ -188,7 +188,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "54495616",
+        "contract_value": 54495616.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12830_2019/",
@@ -199,7 +199,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "148917565",
+        "contract_value": 148917565.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12830_2019/",
@@ -210,7 +210,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "252756848",
+        "contract_value": 252756848.0,
         "contracting_authority": "Gyál Város Önkormányzata",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12695_2019/",
@@ -221,7 +221,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "38103784",
+        "contract_value": 38103784.0,
         "contracting_authority": "Nyáregyháza Nagyközség Önkormányzata",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19722_2019/",
@@ -232,8 +232,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "241601131",
-        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 241601131.0,
+        "contracting_authority": "Józsefvárosi Gazdálkodási Központ Zrt.",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20264_2019/",
         "main_cpv": "45000000-7",
@@ -243,7 +243,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "103107776",
+        "contract_value": 103107776.0,
         "contracting_authority": "Gyál Város Önkormányzata",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6934_2020/",
@@ -254,7 +254,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "92111438",
+        "contract_value": 92111438.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11268_2020/",
@@ -265,7 +265,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "225091567",
+        "contract_value": 225091567.0,
         "contracting_authority": "Biatorbágy Város Önkormányzata",
         "date": "17/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13032_2020/",
@@ -276,46 +276,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "24999964",
+        "contract_value": 24999964.0,
         "contracting_authority": "Mende Község Önkormányzata",
         "date": "04/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20229_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Pusztaszentistváni bekötőút és ÚjÉlet u. felújítás",
-        "registered_name": "ÚTKORONA Építő és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "61848990",
-        "contracting_authority": "Biatorbágy Város Önkormányzata",
-        "date": "28/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11989_2021/",
-        "main_cpv": "45233142-6",
-        "number_companies_win": 0,
-        "procurement_title": "Biatorbágy - Orgona utca felújítása",
-        "registered_name": "ÚTKORONA Építő és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "20898638",
-        "contracting_authority": "Gyál Város Önkormányzata",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21250_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Gyál, Bacsó Béla utca útfelújítás",
-        "registered_name": "ÚTKORONA Építő és Szolgáltató Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "68566158",
-        "contracting_authority": "Gyál Város Önkormányzata",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21250_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Gyál, Bacsó Béla utca útfelújítás",
         "registered_name": "ÚTKORONA Építő és Szolgáltató Kft."
     }
 ]

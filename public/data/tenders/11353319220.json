@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "23457450",
+        "contract_value": 23457450.0,
         "contracting_authority": "Szentgotthárd Város Önkormányzata",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10120_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hunyadi út felújítása",
-        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "224890400",
+        "contract_value": 224890400.0,
         "contracting_authority": "Szentgotthárd Város Önkormányzata",
         "date": "13/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18759_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Fenntartható kerékpárforgalmi fejlesztés",
-        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "88253817",
+        "contract_value": 88253817.0,
         "contracting_authority": "Szentgotthárd Város Önkormányzata",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4631_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szentgotthárdi Ipari Park alapinfrastruktúrájának fejlesztése I. ütem",
-        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199822652",
+        "contract_value": 199822652.0,
         "contracting_authority": "Szentgotthárd Város Önkormányzata",
         "date": "17/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19389_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ipari Park alapinfrastruktúrájának fejlesztése II.",
-        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12589476",
-        "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
-        "date": "22/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18360_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Területrendezés kivitelezési munkái",
-        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Utplan'95 Épitőipari és Szolgáltató Kft."
     }
 ]

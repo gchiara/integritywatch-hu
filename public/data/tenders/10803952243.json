@@ -1,1487 +1,981 @@
 [
     {
         "company_names": "",
-        "contract_value": "21600000",
+        "contract_value": 21600000.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "08/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1678_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "szemlencse tender",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "109680",
+        "contract_value": 109680.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2825_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretén belül szemészeti anyagok beszerzése a Zala Megyei Szent Rafael Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1596000",
+        "contract_value": 1596000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2825_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés keretén belül szemészeti anyagok beszerzése a Zala Megyei Szent Rafael Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2010560",
+        "contract_value": 2010560.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4182_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7416000",
+        "contract_value": 7416000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4182_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16725000",
+        "contract_value": 16725000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4182_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9655000",
+        "contract_value": 9655000.0,
         "contracting_authority": "Dombóvári Szent Lukács Kórház",
         "date": "04/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5015_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Ultrahangos készülékek szállítása és üzembe helyezése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23906359",
+        "contract_value": 23906359.0,
         "contracting_authority": "Gróf Tisza István Kórház",
         "date": "22/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8247_2018/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülékek beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48000000",
+        "contract_value": 48000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8108_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés szemlencsék beszerzésére a Szegedi Tudományegyetem részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11022750",
+        "contract_value": 11022750.0,
         "contracting_authority": "Siófoki Kórház-Rendelőintézet",
         "date": "01/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9281_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése injektorral, konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3270000",
+        "contract_value": 3270000.0,
         "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9349_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék és kapcsolódó fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13546400",
+        "contract_value": 13546400.0,
         "contracting_authority": "Bajcsy-Zsilinszky Kórház és Rendelőintézet",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9349_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék és kapcsolódó fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26000",
+        "contract_value": 26000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10134_2018/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Adás-vételi szerződés a Bács-Kiskun Megyei Kórház részére Szemészeti lencsék beszerzése 12 hónapra konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "785750",
+        "contract_value": 785750.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10134_2018/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Adás-vételi szerződés a Bács-Kiskun Megyei Kórház részére Szemészeti lencsék beszerzése 12 hónapra konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5250000",
+        "contract_value": 5250000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10134_2018/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Adás-vételi szerződés a Bács-Kiskun Megyei Kórház részére Szemészeti lencsék beszerzése 12 hónapra konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5298000",
+        "contract_value": 5298000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "20/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10134_2018/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Adás-vételi szerződés a Bács-Kiskun Megyei Kórház részére Szemészeti lencsék beszerzése 12 hónapra konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25380000",
+        "contract_value": 25380000.0,
         "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10547_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék és vitrektomiás fogyóanyagok beszerzése konszignációs raktárkészlet biztosításával.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55238400",
+        "contract_value": 55238400.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10435_2018/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "A Semmelweis Egyetem Szemészeti Klinika részére szemlencsék, műlencsék, lencsék és egyszerhasználatos injektorok/cartridgek szállítása 24 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28418136",
+        "contract_value": 28418136.0,
         "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12619_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék és kapcsolódó fogyóanyagok beszerzése konszignációs raktárkészlet biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28926000",
+        "contract_value": 28926000.0,
         "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12619_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék és kapcsolódó fogyóanyagok beszerzése konszignációs raktárkészlet biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4928000",
+        "contract_value": 4928000.0,
         "contracting_authority": "Szent Rókus Kórház és Intézményei",
         "date": "24/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12400_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék injektorral, valamint szemsebészeti anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "270000",
+        "contract_value": 270000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "273360",
+        "contract_value": 273360.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "370000",
+        "contract_value": 370000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "417900",
+        "contract_value": 417900.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "427500",
+        "contract_value": 427500.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "440000",
+        "contract_value": 440000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "735000",
+        "contract_value": 735000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1080000",
+        "contract_value": 1080000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1152000",
+        "contract_value": 1152000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3480000",
+        "contract_value": 3480000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3590000",
+        "contract_value": 3590000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7680000",
+        "contract_value": 7680000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13117_2018/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés Különféle szemlencsék és viszkoelasztikus anyagok beszerzése konszignációs raktár biztosításával",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "640000",
+        "contract_value": 640000.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "19/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16459_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti eszközök beszerzése konszignációs raktárkészlet biztosításával a Fejér Megyei Szent György Egyetemi Oktató Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1120000",
+        "contract_value": 1120000.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "19/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16459_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti eszközök beszerzése konszignációs raktárkészlet biztosításával a Fejér Megyei Szent György Egyetemi Oktató Kórház részére",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
-        "company_names": "MED & TRADE Co. Kereskedelmi és Szolgáltató Betéti Társaság; PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság",
-        "contract_value": "549550200",
+        "company_names": "MED & TRADE Co. Kereskedelmi és Szolgáltató Bt.; PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft.",
+        "contract_value": 549550200.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "05/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17861_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 2,
         "procurement_title": "Endoszkópos, laparoszkópos eszközök szállítása, telepítése és üzembe helyezése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2181200",
+        "contract_value": 2181200.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18916_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6416000",
+        "contract_value": 6416000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18916_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35904000",
+        "contract_value": 35904000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18916_2018/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23149466",
+        "contract_value": 23149466.0,
         "contracting_authority": "Tiszaújváros Városi Rendelőintézet",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18997_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés szemészeti műtétekhez",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20870000",
+        "contract_value": 20870000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "27/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21144_2018/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti diagnosztikai és terápiás eszközök",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19471160",
+        "contract_value": 19471160.0,
         "contracting_authority": "Kistérségi Járóbetegellátó Központ",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20510_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Kistérségi Járóbetegellátó Központ járóbeteg szolgáltatásainak fejlesztése keretében orvosi gép-műszer beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13145000",
+        "contract_value": 13145000.0,
         "contracting_authority": "Bugát Pál Kórház",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1345_2019/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műtétekhez szükséges lencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34531200",
+        "contract_value": 34531200.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2673_2019/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28219350",
-        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 28219350.0,
+        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4019_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "EBP – orvostechnikai eszközök",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18540000",
+        "contract_value": 18540000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6308_2019/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7714000",
+        "contract_value": 7714000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10589_2019/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése-2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39480000",
+        "contract_value": 39480000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10589_2019/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése-2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13224000",
+        "contract_value": 13224000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16851_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16560000",
+        "contract_value": 16560000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16851_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41850000",
+        "contract_value": 41850000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16851_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37979875",
+        "contract_value": 37979875.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "19/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17756_2019/",
         "main_cpv": "33169000-2",
         "number_companies_win": 0,
         "procurement_title": "Mikrosebészeti eszközök beszerzése Skill képzéshez",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3250000",
+        "contract_value": 3250000.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "02/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17740_2019/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Szemlencse beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5510000",
+        "contract_value": 5510000.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "02/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17740_2019/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Szemlencse beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43200000",
+        "contract_value": 43200000.0,
         "contracting_authority": "Kanizsai Dorottya Kórház",
         "date": "02/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17740_2019/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Szemlencse beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "916500",
+        "contract_value": 916500.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20508_2019/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2204000",
+        "contract_value": 2204000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20508_2019/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4959000",
+        "contract_value": 4959000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20508_2019/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5320000",
+        "contract_value": 5320000.0,
         "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20508_2019/",
         "main_cpv": "33184600-9",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23642957",
+        "contract_value": 23642957.0,
         "contracting_authority": "Tiszaújváros Városi Rendelőintézet",
         "date": "08/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21674_2019/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Árubeszerzés szemészeti műtétekhez 2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3760000",
+        "contract_value": 3760000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21550_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése/2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4440000",
+        "contract_value": 4440000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21550_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése/2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20808640",
+        "contract_value": 20808640.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21550_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése/2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25200000",
+        "contract_value": 25200000.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21550_2019/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti műlencsék beszerzése/2019",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14642800",
+        "contract_value": 14642800.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22553_2019/",
         "main_cpv": "33112200-0",
         "number_companies_win": 0,
         "procurement_title": "Ultrahang készülékek beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5800000",
+        "contract_value": 5800000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2961_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30240000",
+        "contract_value": 30240000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2961_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57084000",
+        "contract_value": 57084000.0,
         "contracting_authority": "Petz Aladár Egyetemi Oktató Kórház",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2961_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti lencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20360000",
+        "contract_value": 20360000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "18/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4598_2020/",
         "main_cpv": "33122000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti sárga (577nm) lézer beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2644800",
+        "contract_value": 2644800.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5139_2020/",
         "main_cpv": "33731100-4",
         "number_companies_win": 0,
         "procurement_title": "Műlencsék és beültetésükhöz szükséges eszközök beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74856000",
+        "contract_value": 74856000.0,
         "contracting_authority": "Szent Lázár Megyei Kórház",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5139_2020/",
         "main_cpv": "33731100-4",
         "number_companies_win": 0,
         "procurement_title": "Műlencsék és beültetésükhöz szükséges eszközök beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1188000",
+        "contract_value": 1188000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5849_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "MVP ÁOK eszközbeszerzés 10.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2160000",
+        "contract_value": 2160000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13555_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Műlencse beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8624500",
+        "contract_value": 8624500.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13555_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Műlencse beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22332000",
+        "contract_value": 22332000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "30/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13555_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Műlencse beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1552712",
+        "contract_value": 1552712.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13357_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1988512",
+        "contract_value": 1988512.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13357_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2695800",
+        "contract_value": 2695800.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13357_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7714000",
+        "contract_value": 7714000.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13357_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14933506",
+        "contract_value": 14933506.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13357_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "67312400",
+        "contract_value": 67312400.0,
         "contracting_authority": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13357_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7934400",
+        "contract_value": 7934400.0,
         "contracting_authority": "Markhot Ferenc Oktatókórház és Rendelőintézet",
         "date": "24/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_16985_2020/",
         "main_cpv": "33731110-7",
         "number_companies_win": 0,
         "procurement_title": "Intraokuláris (tórikus) szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "409800",
+        "contract_value": 409800.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "12/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18130_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti eszközök beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "819600",
+        "contract_value": 819600.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "12/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18130_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti eszközök beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2117900",
+        "contract_value": 2117900.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20112_2020/",
         "main_cpv": "33730000-6",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése - SMKMOK",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5580000",
+        "contract_value": 5580000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20112_2020/",
         "main_cpv": "33730000-6",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése - SMKMOK",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7520000",
+        "contract_value": 7520000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20112_2020/",
         "main_cpv": "33730000-6",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése - SMKMOK",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17000000",
+        "contract_value": 17000000.0,
         "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20112_2020/",
         "main_cpv": "33730000-6",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti anyagok beszerzése - SMKMOK",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5484000",
+        "contract_value": 5484000.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "01/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21565_2020/",
         "main_cpv": "33140000-3",
         "number_companies_win": 0,
         "procurement_title": "Szemészeti fogyóanyagok és szemlencsék",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "51996000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24943_2020/",
-        "main_cpv": "33124130-5",
-        "number_companies_win": 0,
-        "procurement_title": "Orvosi eszközök beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1064800",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "03/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1605_2021/",
-        "main_cpv": "33184600-9",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3405000",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "03/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1605_2021/",
-        "main_cpv": "33184600-9",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5704000",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "03/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1605_2021/",
-        "main_cpv": "33184600-9",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7152000",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "03/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1605_2021/",
-        "main_cpv": "33184600-9",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti lencsék beszerzése 12 hónapra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23990000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "09/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1889_2021/",
-        "main_cpv": "33162200-5",
-        "number_companies_win": 0,
-        "procurement_title": "Fül,- orr,- gége sebészeti mikroszkóp beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18425000",
-        "contracting_authority": "Bugát Pál Kórház",
-        "date": "12/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4240_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műtétekhez szükséges lencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7472950",
-        "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5255_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8841000",
-        "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5255_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11160000",
-        "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5255_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12449358",
-        "contracting_authority": "Pest Megyei Flór Ferenc Kórház",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5255_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15490400",
-        "contracting_authority": "ALBERT SCHWEITZER KÓRHÁZ-RENDELŐINTÉZET",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7265_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "24067300",
-        "contracting_authority": "ALBERT SCHWEITZER KÓRHÁZ-RENDELŐINTÉZET",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7265_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2336000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7145_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38940000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7145_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "51200000",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7145_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2002500",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7313_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2980000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7313_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5424000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7313_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21784000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7313_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műtéti csomagok beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3200000",
-        "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
-        "date": "18/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8819_2021/",
-        "main_cpv": "38519600-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencse beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5600000",
-        "contracting_authority": "Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet",
-        "date": "18/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8819_2021/",
-        "main_cpv": "38519600-2",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencse beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32100",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9041_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése I.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "37400",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9041_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése I.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45200",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9062_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése II.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "57867",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9041_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése I.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "245400",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9062_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése II.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "395000",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9062_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése II.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "562400",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9062_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése II.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "817960",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9041_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése I.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5553300",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9041_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése I.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8055000",
-        "contracting_authority": "Zala Megyei Szent Rafael Kórház",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9062_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése II.",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2790000",
-        "contracting_authority": "Uzsoki Utcai Kórház",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10788_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19910000",
-        "contracting_authority": "Uzsoki Utcai Kórház",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10788_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11620000",
-        "contracting_authority": "Vaszary Kolos Kórház, Esztergom",
-        "date": "03/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16657_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti eszközök beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13520000",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "16/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17283_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Egyszer használatos műtéti szettek vétele",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3200000",
-        "contracting_authority": "Szent Pantaleon Kórház-Rendelőintézet Dunaújváros",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18052_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti anyagok beszerzése 1 éves időtartamra",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "34780",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "20/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17669_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencse beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36900",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "20/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17669_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencse beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "56800",
-        "contracting_authority": "Kanizsai Dorottya Kórház",
-        "date": "20/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17669_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencse beszerzés",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "76325000",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "26/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20676_2021/",
-        "main_cpv": "38510000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti mikroszkóp beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26648750",
-        "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20988_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemlencsék,szemészeti fogyóanyagok 2021",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "116768000",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20921_2021/",
-        "main_cpv": "33140000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék és fogyóanyagok",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "28939400",
-        "contracting_authority": "Bács-Kiskun Megyei Kórház A Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza",
-        "date": "06/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24080_2021/",
-        "main_cpv": "33115000-9",
-        "number_companies_win": 0,
-        "procurement_title": "OCT készülék beszerzése",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2800000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "09/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24082_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése II",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23985000",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "09/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24082_2021/",
-        "main_cpv": "33731110-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szemészeti műlencsék beszerzése II",
-        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PREMED Pharma Kereskedelmi és Kutató-Fejlesztő Kft."
     }
 ]

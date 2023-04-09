@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "358240570",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 358240570.0,
+        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zrt.",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17669_2020/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "Rákos-patak revitalizációja",
-        "registered_name": "Wastl Élelmiszeripari és Kereskedelmi Korlátolt Felelősségü Társaság"
+        "registered_name": "Wastl Élelmiszeripari és Kereskedelmi Kft."
     }
 ]

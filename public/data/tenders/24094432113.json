@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "JUNIMED Egészségügyi Szolgáltató Korlátolt Felelősségű Társaság; PSO Group Zártkörűen Működő Részvénytársaság",
-        "contract_value": "317295250",
+        "company_names": "JUNIMED Egészségügyi Szolgáltató Kft.; PSO Group Zrt.",
+        "contract_value": 317295250.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "23/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6701_2020/",
         "main_cpv": "85140000-2",
         "number_companies_win": 2,
         "procurement_title": "Telemedicina szolgáltatás/monitoring beszerzése",
-        "registered_name": "JUNIMED Egészségügyi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JUNIMED Egészségügyi Szolgáltató Kft."
     }
 ]

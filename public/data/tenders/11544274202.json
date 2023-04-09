@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "136701360",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 136701360.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "02/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5421_2019/",
         "main_cpv": "77300000-3",
         "number_companies_win": 0,
         "procurement_title": "Kertészeti szolgáltatás beszerzése II.",
-        "registered_name": "Bólyi Faiskola Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bólyi Faiskola Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "125966991",
+        "contract_value": 125966991.0,
         "contracting_authority": "Bóly Város Önkormányzat",
         "date": "13/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4558_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld Város kialakítása  Bólyban, kastélypark, játszótér",
-        "registered_name": "Bólyi Faiskola Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bólyi Faiskola Termelő és Szolgáltató Kft."
     }
 ]

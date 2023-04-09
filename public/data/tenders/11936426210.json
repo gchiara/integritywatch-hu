@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "98648717",
+        "contract_value": 98648717.0,
         "contracting_authority": "Verpelét Város Önkormányzata",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17633_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Verpelét - energetika",
-        "registered_name": "ANTÓK-BAU Építőipari és Kereskedlemi Korlátolt Felelősségű Társaság"
+        "registered_name": "ANTÓK-BAU Építőipari és Kereskedlemi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24588837",
+        "contract_value": 24588837.0,
         "contracting_authority": "Verpelét Város Önkormányzata",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22818_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri hivatal külső és belső felújítása",
-        "registered_name": "ANTÓK-BAU Építőipari és Kereskedlemi Korlátolt Felelősségű Társaság"
+        "registered_name": "ANTÓK-BAU Építőipari és Kereskedlemi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24856140",
+        "contract_value": 24856140.0,
         "contracting_authority": "Verpelét Város Önkormányzata",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22818_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri hivatal külső és belső felújítása",
-        "registered_name": "ANTÓK-BAU Építőipari és Kereskedlemi Korlátolt Felelősségű Társaság"
+        "registered_name": "ANTÓK-BAU Építőipari és Kereskedlemi Kft."
     }
 ]

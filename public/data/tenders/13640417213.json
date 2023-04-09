@@ -1,101 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "42315000",
+        "contract_value": 42315000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "18/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6886_2019/",
         "main_cpv": "32342420-2",
         "number_companies_win": 0,
         "procurement_title": "MTVA részére hangpultok, kiegészítők beszerzésére",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35997500",
+        "contract_value": 35997500.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17495_2019/",
         "main_cpv": "32322000-6",
         "number_companies_win": 0,
         "procurement_title": "NOA hangdigitalizáló rendszer bővítése, támogatása",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "114361085",
+        "contract_value": 114361085.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1532_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "MTVA meglévő Intercom rendszer upgrade",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41103300",
+        "contract_value": 41103300.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23582_2020/",
         "main_cpv": "32342410-9",
         "number_companies_win": 0,
         "procurement_title": "MTVA kapcsolóterem rádiós hangrendszer fejlesztése",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "41026200",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "08/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2174_2021/",
-        "main_cpv": "32322000-6",
-        "number_companies_win": 0,
-        "procurement_title": "NOA hangdigitalizáló rendszer bővítése, támogatása",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "69561200",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13425_2021/",
-        "main_cpv": "32240000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Rendszertechnikai beruházás és amortizációs csere",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42858077,4",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19872_2021/",
-        "main_cpv": "32342410-9",
-        "number_companies_win": 0,
-        "procurement_title": "MTVA korszerű rádiós hangkeverő rendszer",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "33540807,54",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "13/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19635_2021/",
-        "main_cpv": "32320000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Broadcast televíziós műterem, televiziós stúdió",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ANIMATIVE Mérnöki Korlátolt Felelősségű Társaság; Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "161904599",
-        "contracting_authority": "Magyar Zene Háza Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "27/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25480_2021/",
-        "main_cpv": "32351000-8",
-        "number_companies_win": 2,
-        "procurement_title": "Hangstúdiótechnikai eszközök beszerzése, üzembehelyezés",
-        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Broadmax Mérnöki Szolgáltató és Kereskedelmi Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "77875005",
+        "contract_value": 77875005.0,
         "contracting_authority": "Dég Község Önkormányzata",
         "date": "30/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22193_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bölcsődei férőhelyek kialakítása Dégen",
-        "registered_name": "SPECTA-DESIGN Korlátolt Felelősségű Társaság"
+        "registered_name": "SPECTA-DESIGN Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "528749100",
+        "contract_value": 528749100.0,
         "contracting_authority": "Lónay László",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1071_2018/",
         "main_cpv": "45251000-1",
         "number_companies_win": 0,
         "procurement_title": "Mezőgazdasági termékek értéknövelése és erőforrás-hatékonyságának elősegítése",
-        "registered_name": "SOLAR ENERGY PROJEKTE Korlátolt Felelősségű Társaság"
+        "registered_name": "SOLAR ENERGY PROJEKTE Kft."
     }
 ]

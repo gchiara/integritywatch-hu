@@ -1,167 +1,123 @@
 [
     {
         "company_names": "",
-        "contract_value": "80117850",
+        "contract_value": 80117850.0,
         "contracting_authority": "Ligetsori Óvoda, Székesfehérvári Intézményi Központ",
         "date": "31/01/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_874_2018/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Székesfehérvári Intézményi Központ, továbbá a Ligetsori Óvoda által köznevelési intézmények részére közétkeztetési szolgáltatás biztosítása",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
-        "company_names": "Cívis Hungast Korlátolt Felelősségű Társaság; Hungast Vital Korlátolt Felelősségű Társaság",
-        "contract_value": "7751039000",
+        "company_names": "Cívis Hungast Kft.; Hungast Vital Kft.",
+        "contract_value": 7751039000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata, Debreceni Intézményműködtető Központ",
         "date": "16/07/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_11702_2018/",
         "main_cpv": "55520000-1",
         "number_companies_win": 2,
         "procurement_title": "Intézményi és szünidei gyermekétkeztetés biztosítása Debrecen Megyei Jogú Város közigazgatási területén működő nevelési és közoktatási intézményekben",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111295800",
+        "contract_value": 111295800.0,
         "contracting_authority": "Budapest Főváros XIII. Kerületi Önkormányzat Gondozóház",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15189_2018/",
         "main_cpv": "55321000-6",
         "number_companies_win": 0,
         "procurement_title": "Étkeztetés",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "362235064",
+        "contract_value": 362235064.0,
         "contracting_authority": "Ligetsori Óvoda, Székesfehérvári Intézményi Központ",
         "date": "28/11/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_16368_2018/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetés 2018-2020",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "332728838",
+        "contract_value": 332728838.0,
         "contracting_authority": "Páty Község Önkormányzata",
         "date": "23/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_24356_2019/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Óvodai és iskolai közétkeztetés - Páty Község II.",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "57778620",
+        "contract_value": 57778620.0,
         "contracting_authority": "Budapest Főváros VI. Kerület Terézváros Önkormányzata",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0389_2020/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Dunabogdányi főzőkonyha üzemeltetése",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "497769",
+        "contract_value": 497769.0,
         "contracting_authority": "Füzesabony Városi Önkormányzat",
         "date": "22/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_6413_2020/",
         "main_cpv": "55300000-3",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetési feladatok elátása",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "579150000",
+        "contract_value": 579150000.0,
         "contracting_authority": "Budapest Főváros XIII. Kerületi Önkormányzat Prevenciós Központ és Családi Bölcsődei Hálózat",
         "date": "27/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_8253_2020/",
         "main_cpv": "55523000-2",
         "number_companies_win": 0,
         "procurement_title": "Bölcsődei étkeztetés",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1015192875",
+        "contract_value": 1015192875.0,
         "contracting_authority": "Ligetsori Óvoda, Székesfehérvári Intézményi Központ",
         "date": "15/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12384_2020/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetés Székesfehérvár 2020",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
         "company_names": "",
-        "contract_value": "236378600",
+        "contract_value": 236378600.0,
         "contracting_authority": "Étkeztetési Szolgáltató Gazdasági Szervezet",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_14223_2020/",
         "main_cpv": "55520000-1",
         "number_companies_win": 0,
         "procurement_title": "Közétkeztetés ellátása az ÉSZGSZ intézményeiben",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     },
     {
-        "company_names": "FOODELICO Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Hungast Vital Korlátolt Felelősségű Társaság",
-        "contract_value": "9555400510",
+        "company_names": "FOODELICO Kereskedelmi és Szolgáltató Kft.; Hungast Vital Kft.",
+        "contract_value": 9555400510.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_19538_2020/",
         "main_cpv": "55510000-8",
         "number_companies_win": 2,
         "procurement_title": "Kecskemét - közétkeztetési feladatok ellátása",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "987287250",
-        "contracting_authority": "Magyarországi Németek Általános Müvelödési Központja",
-        "date": "26/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_0867_2021/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "MNÁMK intézményi közétkeztetés ellátása",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "399995762",
-        "contracting_authority": "Pomáz Város Önkormányzata",
-        "date": "09/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_2018_2021/",
-        "main_cpv": "55523000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Közétkeztetési feladatok ellátása",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "380874240",
-        "contracting_authority": "Bács-Kiskun Megyei \"Platán\" Integrált Szociális Intézmény",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_12829_2021/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Közétkeztetési szolgáltatás biztosítása",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6012393668",
-        "contracting_authority": "Abaúj-Zempléni Integrált Szociális Intézmény, Borsod-Abaúj-Zemplén Megyei Dr. Csiba László Integrált Szociális Intézmény, Dél-Borsodi Integrált Szociális Intézmény, Észak-Borsodi Integrált Szociális Intézmény, Országos Gyermekvédelmi Szakszolgálat, Szociális és Gyermekvédelmi Főigazgatóság",
-        "date": "12/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_19492_2021/",
-        "main_cpv": "55520000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Közétkeztetési feladatok ellátása (BAZ megye)",
-        "registered_name": "Hungast Vital Korlátolt Felelősségű Társaság"
+        "registered_name": "Hungast Vital Kft."
     }
 ]

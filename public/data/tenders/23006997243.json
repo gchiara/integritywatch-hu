@@ -1,211 +1,112 @@
 [
     {
         "company_names": "",
-        "contract_value": "899875",
+        "contract_value": 899875.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12829_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7173455",
+        "contract_value": 7173455.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12829_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyagok beszerzése",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63291180",
+        "contract_value": 63291180.0,
         "contracting_authority": "Békés Megyei Hajnal István Szociális Szolgáltató Centrum, Békés Megyei Körös-Menti Szociális Centrum, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "09/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22530_2019/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzése - Békés megye",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13498500",
+        "contract_value": 13498500.0,
         "contracting_authority": "Bajai Szent Rókus Kórház",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0084_2020/",
         "main_cpv": "15000000-8",
         "number_companies_win": 0,
         "procurement_title": "Baja élelmiszer",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1646710",
+        "contract_value": 1646710.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6493_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmezési nyersanyagok beszerzése",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6155500",
+        "contract_value": 6155500.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6493_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmezési nyersanyagok beszerzése",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13883360",
+        "contract_value": 13883360.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6493_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmezési nyersanyagok beszerzése",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12383100",
+        "contract_value": 12383100.0,
         "contracting_authority": "Kéthelyi Integrált Szociális Otthon, Somogy Megyei Dr. Takács Imre Szociális Otthon, Somogy Megyei Gondviselés Szociális Otthon, Somogy Megyei Szeretet Szociális Otthon, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22597_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzése – Somogy megye",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16450350",
+        "contract_value": 16450350.0,
         "contracting_authority": "Kéthelyi Integrált Szociális Otthon, Somogy Megyei Dr. Takács Imre Szociális Otthon, Somogy Megyei Gondviselés Szociális Otthon, Somogy Megyei Szeretet Szociális Otthon, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22597_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzése – Somogy megye",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20696780",
+        "contract_value": 20696780.0,
         "contracting_authority": "Kéthelyi Integrált Szociális Otthon, Somogy Megyei Dr. Takács Imre Szociális Otthon, Somogy Megyei Gondviselés Szociális Otthon, Somogy Megyei Szeretet Szociális Otthon, Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22597_2020/",
         "main_cpv": "15800000-6",
         "number_companies_win": 0,
         "procurement_title": "Élelmiszer alapanyag beszerzése – Somogy megye",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20197560",
-        "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
-        "date": "29/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0899_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle élelmiszerek beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13685000",
-        "contracting_authority": "Közintézmények Szolgáltató Irodája",
-        "date": "10/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2080_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerek beszerzése 2021",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "152575376",
-        "contracting_authority": "Gyál Városfejlesztési és Városüzemeltetési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5285_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmezési nyersanyag beszerzése",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7560000",
-        "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság, Veszprém Megyei Fogyatékos Személyek, Pszichiátriai és Szenvedélybetegek Integrált Intézménye",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7364_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyag beszerzés – Veszprém megye",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "58064000",
-        "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság, Veszprém Megyei Fogyatékos Személyek, Pszichiátriai és Szenvedélybetegek Integrált Intézménye",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7364_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer-alapanyag beszerzés – Veszprém megye",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10176870",
-        "contracting_authority": "Somogy Megyei Kaposi Mór Oktató Kórház",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9366_2021/",
-        "main_cpv": "15800000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle élelmiszerek beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5112000",
-        "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
-        "date": "06/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14742_2021/",
-        "main_cpv": "15890000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerbeszerzés a Péterfy Kórház részére",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30318650",
-        "contracting_authority": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
-        "date": "06/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14742_2021/",
-        "main_cpv": "15890000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszerbeszerzés a Péterfy Kórház részére",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18091900",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "28/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21014_2021/",
-        "main_cpv": "15000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Élelmiszer beszerzése 2021",
-        "registered_name": "Andosa Market Korlátolt Felelősségű Társaság"
+        "registered_name": "Andosa Market Kft."
     }
 ]

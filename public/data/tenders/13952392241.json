@@ -1,101 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "171000000",
+        "contract_value": 171000000.0,
         "contracting_authority": "Dunakeszi Tankerületi Központ",
         "date": "21/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_20720_2018/",
         "main_cpv": "71356400-2",
         "number_companies_win": 0,
         "procurement_title": "Fóti Szakgimnázium és Gimnázium tervezése",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft."
     },
     {
-        "company_names": "FEJÉR Tervező és Mérnökiroda Korlátolt Felelősségű Társaság; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "690000000",
+        "company_names": "FEJÉR Tervező és Mérnökiroda Kft.; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft.",
+        "contract_value": 690000000.0,
         "contracting_authority": "Állatorvostudományi Egyetem",
         "date": "28/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3533_2019/",
         "main_cpv": "71220000-6",
         "number_companies_win": 2,
         "procurement_title": "Tervezés az Állatorvostudományi Egyetemen",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft."
     },
     {
-        "company_names": "EuroRaptor Tanácsadó Iroda Korlátolt Felelősségű Társaság; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "875160000",
+        "company_names": "EuroRaptor Tanácsadó Iroda Kft.; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft.",
+        "contract_value": 875160000.0,
         "contracting_authority": "Dunakeszi Város Önkormányzata",
         "date": "18/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4062_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 2,
         "procurement_title": "Szakgimnázium, gimnázium tervezése, tanulmányírás",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft."
     },
     {
-        "company_names": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság; VEMÉV-SZER Építő- és Szerelőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "1873971156",
-        "contracting_authority": "\"VKSZ\" Veszprémi Közüzemi Szolgáltató Zártkörűen Működő Részvénytársaság, Veszprém Megyei Jogú Város Önkormányzata",
+        "company_names": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft.; VEMÉV-SZER Építő- és Szerelőipari Kft.",
+        "contract_value": 1873971156.0,
+        "contracting_authority": "\"VKSZ\" Veszprémi Közüzemi Szolgáltató Zrt., Veszprém Megyei Jogú Város Önkormányzata",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14585_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Veszprémi Iparos Park fejlesztése (II. ütem)",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft."
     },
     {
-        "company_names": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság; VEMÉV-SZER Építő- és Szerelőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "3060900699",
-        "contracting_authority": "\"VKSZ\" Veszprémi Közüzemi Szolgáltató Zártkörűen Működő Részvénytársaság, Veszprém Megyei Jogú Város Önkormányzata",
+        "company_names": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft.; VEMÉV-SZER Építő- és Szerelőipari Kft.",
+        "contract_value": 3060900699.0,
+        "contracting_authority": "\"VKSZ\" Veszprémi Közüzemi Szolgáltató Zrt., Veszprém Megyei Jogú Város Önkormányzata",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14584_2020/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Veszprémi Iparos Park fejlesztése",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "531500000",
+        "contract_value": 531500000.0,
         "contracting_authority": "Dunakeszi Város Önkormányzata",
         "date": "29/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23716_2020/",
         "main_cpv": "71245000-7",
         "number_companies_win": 0,
         "procurement_title": "Művészeti iskola, központ kiviteli tervdokumentáció tervezés",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság; VEMÉV-SZER Építő- és Szerelőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "4897564184",
-        "contracting_authority": "\"Kittenberger Kálmán\" Növény és Vadaspark Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "29/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4746_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Háziállat és nagymacska kifutó bővítése",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Design Plan Zártkörűen Működő Részvénytársaság; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "589000000",
-        "contracting_authority": "Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23028_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 2,
-        "procurement_title": "Bálna átalakítási munkáinak tervezése",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Design Plan Zártkörűen Működő Részvénytársaság; FEJÉR Tervező és Mérnökiroda Korlátolt Felelősségű Társaság; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság; MAGYAR ENERGIA CENTRUM Projektfejlesztő és Koordinációs Szolgáltató Korlátolt Felelősségű Társaság; OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Korlátolt Felelősségű Társaság",
-        "contract_value": "1000000000",
-        "contracting_authority": "Eötvös Loránd Tudományegyetem",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25783_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 5,
-        "procurement_title": "Energetikai tervezési feladatok",
-        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft."
     }
 ]

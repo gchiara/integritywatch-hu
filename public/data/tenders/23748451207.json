@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "169500000",
-        "contracting_authority": "MOLTECH AH Anyagmozgatás- és Hajtástechnikai Korlátolt Felelősségű Társaság",
+        "contract_value": 169500000.0,
+        "contracting_authority": "MOLTECH AH Anyagmozgatás- és Hajtástechnikai Kft.",
         "date": "14/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10017_2018/",
         "main_cpv": "45213000-3",
         "number_companies_win": 0,
         "procurement_title": "összeszerelő csarnoképület és szociális blokk kivitelezése",
-        "registered_name": "BL Montage Korlátolt Felelősségű Társaság"
+        "registered_name": "BL Montage Kft."
     }
 ]

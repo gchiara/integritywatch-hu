@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "59146836",
+        "contract_value": 59146836.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "17/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10881_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő, Tormay K. Egészségügyi Központ átalakítás",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42044632",
+        "contract_value": 42044632.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13426_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dózsa György út – Ádám u. kerékpárút kivitelezése",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76622093",
+        "contract_value": 76622093.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "02/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16085_2019/",
         "main_cpv": "45000000-7, 45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő, Haraszti út kerékpársáv kivitelezése",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45552532",
+        "contract_value": 45552532.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "20/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4476_2020/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő, Alsópark, Futókör építése",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "185397388",
+        "contract_value": 185397388.0,
         "contracting_authority": "Gödöllő Város Önkormányzata, Gödöllői Sport Klub",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7512_2020/",
         "main_cpv": "45212000-6",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő, Táncsics M. u., sportöltöző építése",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "999786886",
+        "contract_value": 999786886.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7482_2020/",
         "main_cpv": "45215222-9",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő, Városháza bővítése II.",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97664663",
+        "contract_value": 97664663.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "29/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13261_2020/",
         "main_cpv": "45232450-1",
         "number_companies_win": 0,
         "procurement_title": "Gödöllő Hegy u. csapadékvíz csatorna, út felújítás",
-        "registered_name": "GENERALBAU CENTER Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "GENERALBAU CENTER Építőipari Kft."
     }
 ]

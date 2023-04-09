@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "207549300",
+        "contract_value": 207549300.0,
         "contracting_authority": "TESTNEVELÉSI EGYETEM",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14230_2018/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Az 1527/2016. (IX. 29.) Korm. határozat szerinti infrastruktúra-fejlesztés megvalósítására mobíliák beszerzése a Testnevelési Egyetem részére adásvételi szerződés keretében.",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7900000",
+        "contract_value": 7900000.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17605_2018/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Esztergom, meglévő kollégiumépület felújítása és átalakítása szállodává - bútorbeszerzés",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21370600",
+        "contract_value": 21370600.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17605_2018/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Esztergom, meglévő kollégiumépület felújítása és átalakítása szállodává - bútorbeszerzés",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42720520",
+        "contract_value": 42720520.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "19/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10836_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Mobíliák és beépített bútorok beszerzése",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15805405",
+        "contract_value": 15805405.0,
         "contracting_authority": "Dr. Kovács Pál Könyvtár és Közösségi Tér",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0118_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Könyvtári bútorok beszerzése",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft."
     },
     {
-        "company_names": "Arterior Komplex Korlátolt Felelősségű Társaság; BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság; Bravosincord Korlátolt Felelősségű Társaság; Bv. Holding Korlátolt Felelősségű Társaság; Garzon Bútor Kereskedelmi Korlátolt Felelősségű Társaság; Gyulai \"Fafém\" Bútor Zártkörűen Működő Részvénytársaság; IRODA 2000 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KEMABO Kereskedelmi Marketing és Bonyolító Korlátolt Felelősségü Társaság; LINEA One Korlátolt Felelősségű Társaság; MEZŐKÖVESDI BÚTORIPARI KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG; Nowy Styl Hungary zártkörűen működő Részvénytársaság",
-        "contract_value": "20000000000",
+        "company_names": "Arterior Komplex Kft.; BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft.; Bravosincord Kft.; Bv. Holding Kft.; Garzon Bútor Kereskedelmi Kft.; Gyulai \"Fafém\" Bútor Zrt.; IRODA 2000 Kereskedelmi és Szolgáltató Kft.; KEMABO Kereskedelmi Marketing és Bonyolító Kft.; LINEA One Kft.; MEZŐKÖVESDI BÚTORIPARI Kft.; Nowy Styl Hungary Zrt.",
+        "contract_value": 20000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22671_2020/",
         "main_cpv": "39130000-2",
         "number_companies_win": 11,
         "procurement_title": "Irodabútorok - 2020.",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16255500",
-        "contracting_authority": "Dr. Kovács Pál Könyvtár és Közösségi Tér",
-        "date": "28/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0002_2021/",
-        "main_cpv": "39100000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Könyvtári bútorok 2020. évi beszerzése",
-        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "BALATON BÚTOR Belsőépítészeti, Bútorgyártó és Kereskedelmi Kft."
     }
 ]

@@ -1,35 +1,13 @@
 [
     {
-        "company_names": "He-Ba Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; PENDULUM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2060483542",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "He-Ba Biztonsági Szolgáltató Kft.; PENDULUM Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 2060483542.0,
+        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zrt.",
         "date": "26/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21137_2019/",
         "main_cpv": "90900000-6",
         "number_companies_win": 2,
         "procurement_title": "Létesítményüzemeltetés és vagyonvédelem - FŐTÁV",
-        "registered_name": "PENDULUM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "95815701",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "08/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5581_2021/",
-        "main_cpv": "90910000-9",
-        "number_companies_win": 0,
-        "procurement_title": "BGE KVIK épületeinek takarítása",
-        "registered_name": "PENDULUM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10000000",
-        "contracting_authority": "GYŐR-SZOL Győri Közszolgáltató és Vagyongazdálkodó Zártkörűen Működő Részvénytársaság",
-        "date": "23/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23119_2021/",
-        "main_cpv": "90900000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Takarítási szolgáltatások beszerzése",
-        "registered_name": "PENDULUM Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PENDULUM Kereskedelmi és Szolgáltató Kft."
     }
 ]

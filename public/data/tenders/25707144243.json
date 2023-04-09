@@ -1,233 +1,145 @@
 [
     {
-        "company_names": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
-        "contract_value": "3699180000",
+        "company_names": "eKRÉTA Informatikai Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság",
+        "contract_value": 3699180000.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8292_2018/",
         "main_cpv": "72000000-5",
         "number_companies_win": 2,
         "procurement_title": "Elektronikus ügyintézési és intézményirányítási rendszerek Köznevelés Állami Fenntartóihoz,ill. fenntartásukban lévő köznevelési intézményekhez történő bevezetése és kapcsolódó szolgáltatások nyújtása",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "439920000",
+        "contract_value": 439920000.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14256_2018/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "Neptun KRÉTA iskolai alaprendszerhez kapcsolódó technológiai és jogszabályi követése, támogatása, valamint kapcsolódó szolgáltatások nyújtása 2018",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
+        "contract_value": 200000000.0,
         "contracting_authority": "NEMZETI SZAKKÉPZÉSI ÉS FELNŐTTKÉPZÉSI HIVATAL",
         "date": "23/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0967_2019/",
         "main_cpv": "72212517-6",
         "number_companies_win": 0,
         "procurement_title": "Informatikai fejlesztés",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "440000000",
+        "contract_value": 440000000.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "07/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14752_2019/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "KK Kréta support 2019",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "84881000",
-        "contracting_authority": "Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 84881000.0,
+        "contracting_authority": "Herman Ottó Intézet Nonprofit Kft.",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18630_2019/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "Neptun KRÉTA kapcsolódó szolgáltatások",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "271980000",
+        "contract_value": 271980000.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "08/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25260_2019/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "KK Neptun Kréta – gazdálkodási modulcsoport",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "85000000",
+        "contract_value": 85000000.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "10/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0104_2020/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "KK KRÉTA LEP funkcionalitás bevezetése",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "680000000",
-        "contracting_authority": "IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 680000000.0,
+        "contracting_authority": "IKK Innovatív Képzéstámogató Központ Zrt.",
         "date": "14/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7989_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Pedagógus Monitoring Rendszer",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "475000000",
-        "contracting_authority": "IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 475000000.0,
+        "contracting_authority": "IFKA Iparfejlesztési Közhasznú Nonprofit Kft.",
         "date": "21/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12766_2020/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "KRÉTA rendszermodul kialakítása, szolgáltatások",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "764999000",
+        "contract_value": 764999000.0,
         "contracting_authority": "NEMZETI SZAKKÉPZÉSI ÉS FELNŐTTKÉPZÉSI HIVATAL",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13572_2020/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "NEPTUN-KRÉTA GR-HR moduljainak bevezetése",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "386067000",
+        "contract_value": 386067000.0,
         "contracting_authority": "NEMZETI SZAKKÉPZÉSI ÉS FELNŐTTKÉPZÉSI HIVATAL",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13566_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "NEPTUN-KRÉTA követés, támogatás, szolgáltatások",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "1565550000",
+        "contract_value": 1565550000.0,
         "contracting_authority": "Klebelsberg Központ",
         "date": "16/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18505_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "KRÉTA rendszer terméktámogatása",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "104000000",
-        "contracting_authority": "Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 104000000.0,
+        "contracting_authority": "Herman Ottó Intézet Nonprofit Kft.",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21828_2020/",
         "main_cpv": "72260000-5",
         "number_companies_win": 0,
         "procurement_title": "Neptun KRÉTA kapcsolódó szolgáltatások 2020-22",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1606452000",
-        "contracting_authority": "Klebelsberg Központ",
-        "date": "16/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4152_2021/",
-        "main_cpv": "72212190-7",
-        "number_companies_win": 0,
-        "procurement_title": "Távoktatási licenszek, szolgáltatások biztosítása",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2679000000",
-        "contracting_authority": "IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "15/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13244_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Vizsgáztatást támogató rendszerek",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "970336000",
-        "contracting_authority": "NEMZETI SZAKKÉPZÉSI ÉS FELNŐTTKÉPZÉSI HIVATAL",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14259_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "NEPTUN-KRÉTA support, Ösztöndíj modul bevezetése",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1300000000",
-        "contracting_authority": "NEMZETI SZAKKÉPZÉSI ÉS FELNŐTTKÉPZÉSI HIVATAL",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14258_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "NEPTUN-KRÉTA pályakövetési, előrejelző rendszer",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2360000000",
-        "contracting_authority": "Klebelsberg Központ",
-        "date": "14/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17350_2021/",
-        "main_cpv": "72260000-5",
-        "number_companies_win": 0,
-        "procurement_title": "KK KRÉTA IFM bevezetés",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "394180000",
-        "contracting_authority": "IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "29/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18086_2021/",
-        "main_cpv": "72260000-5",
-        "number_companies_win": 0,
-        "procurement_title": "KRÉTA rendszer szakirányú oktatás adminisztrációs modul",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "270000000",
-        "contracting_authority": "IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "11/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19140_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "NEPTUN-KRÉTA Műhelyiskola modul bevezetése",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "300000000",
-        "contracting_authority": "Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "07/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23648_2021/",
-        "main_cpv": "72260000-5",
-        "number_companies_win": 0,
-        "procurement_title": "KRÉTA FELTÁR rendszermodul bevezetése",
-        "registered_name": "eKRÉTA Informatikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "eKRÉTA Informatikai Zrt."
     }
 ]

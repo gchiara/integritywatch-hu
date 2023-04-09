@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "32233474",
+        "contract_value": 32233474.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "11/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4242_2019/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "55273303",
+        "contract_value": 55273303.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20828_2019/",
@@ -23,35 +23,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "89483712",
+        "contract_value": 89483712.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "24/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14951_2020/",
         "main_cpv": "48952000-6",
         "number_companies_win": 0,
         "procurement_title": "Hangosítási, szavazatszámláló eszközök",
-        "registered_name": "AVIO MEDIA Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "16470000",
-        "contracting_authority": "Országgyűlés Hivatala",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15914_2021/",
-        "main_cpv": "48326100-0",
-        "number_companies_win": 0,
-        "procurement_title": "Kamera- és prezentációs rendszer kiépítése",
-        "registered_name": "AVIO MEDIA Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "93700000",
-        "contracting_authority": "Országgyűlés Hivatala",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15914_2021/",
-        "main_cpv": "48326100-0",
-        "number_companies_win": 0,
-        "procurement_title": "Kamera- és prezentációs rendszer kiépítése",
         "registered_name": "AVIO MEDIA Kft."
     }
 ]

@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "28218681",
+        "contract_value": 28218681.0,
         "contracting_authority": "Mélykút Város Önkormányzat",
         "date": "16/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13116_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mélykút városközpont rekonstrukciója",
-        "registered_name": "UNIVERHOLZ Faházelemeket és Faipari Termékeket Gyártó, Szolgáltató, Szerelő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIVERHOLZ Faházelemeket és Faipari Termékeket Gyártó, Szolgáltató, Szerelő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130796496",
+        "contract_value": 130796496.0,
         "contracting_authority": "Mélykút Város Önkormányzat",
         "date": "16/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13116_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mélykút városközpont rekonstrukciója",
-        "registered_name": "UNIVERHOLZ Faházelemeket és Faipari Termékeket Gyártó, Szolgáltató, Szerelő és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "35646589",
-        "contracting_authority": "Bácsalmás Város Önkormányzata",
-        "date": "05/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8150_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Turisztikai építési beruházás",
-        "registered_name": "UNIVERHOLZ Faházelemeket és Faipari Termékeket Gyártó, Szolgáltató, Szerelő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "UNIVERHOLZ Faházelemeket és Faipari Termékeket Gyártó, Szolgáltató, Szerelő és Kereskedelmi Kft."
     }
 ]

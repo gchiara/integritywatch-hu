@@ -1,134 +1,123 @@
 [
     {
         "company_names": "",
-        "contract_value": "277376080",
-        "contracting_authority": "BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zártkörűen működő Részvénytársaság",
+        "contract_value": 277376080.0,
+        "contracting_authority": "BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zrt.",
         "date": "12/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15962_2018/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Közműkiváltás - Méra",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "250883500",
+        "contract_value": 250883500.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Térségi Ivóvíz-Kezelési Önkormányzati Társulás",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15331_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 0,
         "procurement_title": "Hálózatrekonstrukció",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "205858960",
-        "contracting_authority": "BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zártkörűen működő Részvénytársaság",
+        "contract_value": 205858960.0,
+        "contracting_authority": "BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zrt.",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15961_2018/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Közműkiváltás - Forró",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "112415341",
+        "contract_value": 112415341.0,
         "contracting_authority": "Bekecs Község Önkormányzata",
         "date": "17/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23652_2018/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Bel-és csapadékvíz elvezető rendszer kialakítása",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26691728",
+        "contract_value": 26691728.0,
         "contracting_authority": "Tokaj Város Önkormányzata",
         "date": "23/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18098_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tokaj - Mezőgazdasági utak építése 2019",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "165790249",
+        "contract_value": 165790249.0,
         "contracting_authority": "Mezőzombor Község Önkormányzata",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19535_2019/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Mezőzombor-37. sz. út közötti kerékpárút építése",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98663488",
+        "contract_value": 98663488.0,
         "contracting_authority": "Tokaj Város Önkormányzata",
         "date": "22/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20636_2019/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Tokaj - Bel- és csapadékvíz védelmi rendszer",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97989499",
+        "contract_value": 97989499.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21502_2019/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvízelvezetés 3. ütem",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98499873",
+        "contract_value": 98499873.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21499_2019/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvízelvezetés 4. ütem",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "99531152",
+        "contract_value": 99531152.0,
         "contracting_authority": "Szerencs Város Önkormányzata",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21498_2019/",
         "main_cpv": "45232130-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvízelvezetés 5. ütem",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44068962",
+        "contract_value": 44068962.0,
         "contracting_authority": "Tokaj Város Önkormányzata",
         "date": "22/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9066_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tokaj - Mezőgazdasági utak építése 2020",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "59632121",
-        "contracting_authority": "Csobaj Község Önkormányzata",
-        "date": "08/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2176_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Út fejlesztése Csobaj településen külter. 083.hrsz",
-        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS-KER TRANZIT Építőipari és Szolgáltató Kft."
     }
 ]

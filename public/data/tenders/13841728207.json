@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "9733700",
+        "contract_value": 9733700.0,
         "contracting_authority": "Gyál Város Önkormányzata, Gyáli Baráti Kör Sport Egyesület",
         "date": "02/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16025_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Gyál, Sportcsarnok mobília beszerzés 2019",
-        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 50000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2241_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Elhasználódott, selejtezésre váró bútorok pótlása",
-        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 70000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2241_2020/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Elhasználódott, selejtezésre váró bútorok pótlása",
-        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8744000",
-        "contracting_authority": "A Művelődés Háza és Könyvtára Művelődési Központ és Népfőiskola",
-        "date": "13/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14574_2021/",
-        "main_cpv": "39110000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Moziszék beszerzése és helyszíni szerelése",
-        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "D Projekt Bútor Belsőépítészeti Tervező és Kivitelező Kft."
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "51181898",
+        "contract_value": 51181898.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7431_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "A Terület- és Településfejlesztési Operatív Program keretében megvalósuló, útépítési és kapcsolódó munkák kivitelezése (1. csomag)",
-        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "189860798",
+        "contract_value": 189860798.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10458_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Győr, Szent István út 12-20. épületek közötti csapadékvíz elvezetés kiépítése és közlekedési rendszer felújítása II. ütem",
-        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "210599977",
+        "contract_value": 210599977.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19031_2018/",
         "main_cpv": "45232453-2",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz elvezetés torkolati műtárggyal",
-        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35061898",
-        "contracting_authority": "PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 35061898.0,
+        "contracting_authority": "PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zrt.",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4122_2020/",
         "main_cpv": "45230000-8",
         "number_companies_win": 0,
         "procurement_title": "Győr-IV. vízközmű-rendszer hálózati rekonstrukció",
-        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "118468480",
-        "contracting_authority": "PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 118468480.0,
+        "contracting_authority": "PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zrt.",
         "date": "29/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9494_2020/",
         "main_cpv": "45232100-3",
         "number_companies_win": 0,
         "procurement_title": "Győri vízközmű rendszer havaria munkái",
-        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULTÚRMÉRNÖK Épitőipari és Kereskedelmi Kft."
     }
 ]

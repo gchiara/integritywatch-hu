@@ -1,68 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "40689366",
+        "contract_value": 40689366.0,
         "contracting_authority": "Ferences Szegénygondozó Nővérek Szerzetesrend",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19539_2017/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Ferences Szegénygondozó Nővérek Rendházának felújítása",
-        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48790767",
+        "contract_value": 48790767.0,
         "contracting_authority": "Fons Sacer Belső Egyház Jogi Személy",
         "date": "15/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19355_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A szécsényi ferences rendtemplom sekrestyéjének felújítása",
-        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19692566",
-        "contracting_authority": "Ludányhalászi Községi Önkormányzat",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7749_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Turisztikai fejlesztés a Rádayak falujában",
-        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23767184",
-        "contracting_authority": "Ludányhalászi Községi Önkormányzat",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7749_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Turisztikai fejlesztés a Rádayak falujában",
-        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44831272",
-        "contracting_authority": "Ludányhalászi Községi Önkormányzat",
-        "date": "30/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_7749_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Turisztikai fejlesztés a Rádayak falujában",
-        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6618810",
-        "contracting_authority": "Ludányhalászi Községi Önkormányzat",
-        "date": "02/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10145_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Turisztikai fejlesztés - Nyitott szín kialakítása",
-        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Diagonál Épker Kereskedelmi és Szolgáltató Kft."
     }
 ]

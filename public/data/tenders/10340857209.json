@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "6153846",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6153846.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19174_2017/",
         "main_cpv": "34996000-5",
         "number_companies_win": 0,
         "procurement_title": "Jelzőberendezések javításához szükséges alkatrészek beszerzése, javítása, járműérzékelők javítása vagy cseréje 2017-2018",
-        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság"
+        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Kft."
     },
     {
-        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság; Közuti Forgalomtechnikai Berendezéseket Gyártó-és Üzemeltető Korlátolt Felelősségü Társaság",
-        "contract_value": "22307692",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Kft.; Közuti Forgalomtechnikai Berendezéseket Gyártó-és Üzemeltető Kft.",
+        "contract_value": 22307692.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19174_2017/",
         "main_cpv": "34996000-5",
         "number_companies_win": 2,
         "procurement_title": "Jelzőberendezések javításához szükséges alkatrészek beszerzése, javítása, járműérzékelők javítása vagy cseréje 2017-2018",
-        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság"
+        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Kft."
     },
     {
-        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság; SWARCO Traffic Hungaria Korlátolt Felelősségű Társaság",
-        "contract_value": "26923077",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Kft.; SWARCO Traffic Hungaria Kft.",
+        "contract_value": 26923077.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19174_2017/",
         "main_cpv": "34996000-5",
         "number_companies_win": 2,
         "procurement_title": "Jelzőberendezések javításához szükséges alkatrészek beszerzése, javítása, járműérzékelők javítása vagy cseréje 2017-2018",
-        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság"
+        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Kft."
     },
     {
-        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság; D-PROFIL Építő, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "255641831",
+        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Kft.; D-PROFIL Építő, Kereskedő és Szolgáltató Kft.",
+        "contract_value": 255641831.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "31/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1570_2018/",
         "main_cpv": "45233140-2",
         "number_companies_win": 2,
         "procurement_title": "Gázvezeték utca korszerűsítése",
-        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság"
+        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Kft."
     },
     {
-        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság; D-PROFIL Építő, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; HAJDÚ INERT Korlátolt Felelősségű Társaság",
-        "contract_value": "15494515",
+        "company_names": "\"Zöldfény\" Lámpatelepitő és Szerviz Kft.; D-PROFIL Építő, Kereskedő és Szolgáltató Kft.; HAJDÚ INERT Kft.",
+        "contract_value": 15494515.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "06/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6135_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 3,
         "procurement_title": "Útfenntartás",
-        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "10000000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "08/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24828_2020/",
-        "main_cpv": "34996100-6",
-        "number_companies_win": 0,
-        "procurement_title": "Jelzőlámpa vezérlőgépspecifikus",
-        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Korlátolt Felelősségü Társaság"
+        "registered_name": "Zöldfény Lámpatelepitő és Szerviz Kft."
     }
 ]

@@ -1,112 +1,101 @@
 [
     {
-        "company_names": "3E Construction Management Korlátolt Felelősségű Társaság; Országos Vízügyi Beruházási Mérnöki Konzulens és Tervező Korlátolt Felelősségű Társaság; Perfektum Mérnöki Korlátolt Felelősségű Társaság",
-        "contract_value": "180720000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "3E Construction Management Kft.; Országos Vízügyi Beruházási Mérnöki Konzulens és Tervező Kft.; Perfektum Mérnöki Kft.",
+        "contract_value": 180720000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3276_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 3,
         "procurement_title": "Megbízási szerződés a 48. sz. főút Debrecen-Nyírábrány, országhatár közötti szakasz építési munkáihoz kapcsolódó mérnöki és műszaki ellenőri feladatok ellátására",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1461600",
-        "contracting_authority": "Bakonyerdő Erdészeti és Faipari Zártkörűen Működő Részvénytársaság, EGERERDŐ Erdészeti Zártkörűen Működő Részvénytársaság, ÉSZAKERDŐ Erdőgazdasági Zártkörűen Működő Részvénytársaság, IPOLY ERDŐ Zártkörűen Működő Részvénytársaság, Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata, Pilisi Parkerdő Zártkörűen Működő Részvénytársaság, TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaság, Vasas Horgász Egyesület, VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1461600.0,
+        "contracting_authority": "Bakonyerdő Erdészeti és Faipari Zrt., EGERERDŐ Erdészeti Zrt., ÉSZAKERDŐ Erdőgazdasági Zrt., IPOLY ERDŐ Zrt., Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata, Pilisi Parkerdő Zrt., TAEG Tanulmányi Erdőgazdaság Zrt., Vasas Horgász Egyesület, VERGA Veszprémi Erdőgazdaság Zrt.",
         "date": "18/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16527_2018/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2833250",
-        "contracting_authority": "Bakonyerdő Erdészeti és Faipari Zártkörűen Működő Részvénytársaság, EGERERDŐ Erdészeti Zártkörűen Működő Részvénytársaság, ÉSZAKERDŐ Erdőgazdasági Zártkörűen Működő Részvénytársaság, IPOLY ERDŐ Zártkörűen Működő Részvénytársaság, Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata, Pilisi Parkerdő Zártkörűen Működő Részvénytársaság, TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaság, Vasas Horgász Egyesület, VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2833250.0,
+        "contracting_authority": "Bakonyerdő Erdészeti és Faipari Zrt., EGERERDŐ Erdészeti Zrt., ÉSZAKERDŐ Erdőgazdasági Zrt., IPOLY ERDŐ Zrt., Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata, Pilisi Parkerdő Zrt., TAEG Tanulmányi Erdőgazdaság Zrt., Vasas Horgász Egyesület, VERGA Veszprémi Erdőgazdaság Zrt.",
         "date": "18/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16527_2018/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2983250",
-        "contracting_authority": "Bakonyerdő Erdészeti és Faipari Zártkörűen Működő Részvénytársaság, EGERERDŐ Erdészeti Zártkörűen Működő Részvénytársaság, ÉSZAKERDŐ Erdőgazdasági Zártkörűen Működő Részvénytársaság, IPOLY ERDŐ Zártkörűen Működő Részvénytársaság, Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata, Pilisi Parkerdő Zártkörűen Működő Részvénytársaság, TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaság, Vasas Horgász Egyesület, VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2983250.0,
+        "contracting_authority": "Bakonyerdő Erdészeti és Faipari Zrt., EGERERDŐ Erdészeti Zrt., ÉSZAKERDŐ Erdőgazdasági Zrt., IPOLY ERDŐ Zrt., Magyar Természetjáró Szövetség, Mogyoród Nagyközség Önkormányzata, Pilisi Parkerdő Zrt., TAEG Tanulmányi Erdőgazdaság Zrt., Vasas Horgász Egyesület, VERGA Veszprémi Erdőgazdaság Zrt.",
         "date": "18/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16527_2018/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
-        "company_names": "3E Construction Management Korlátolt Felelősségű Társaság; Global Terv Korlátolt Felelősségű Társaság",
-        "contract_value": "60890736",
-        "contracting_authority": "NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "3E Construction Management Kft.; Global Terv Kft.",
+        "contract_value": 60890736.0,
+        "contracting_authority": "NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16366_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 2,
         "procurement_title": "\"Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 4. (NYDDU 4)\" elnevezésű projekt keretében műszaki ellenőri tevékenység ellátása",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1655000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1655000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11972_2019/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri feladatok ellátása",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2098800",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2098800.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11972_2019/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri feladatok ellátása",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3456780",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3456780.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11972_2019/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri feladatok ellátása",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     },
     {
-        "company_names": "3E Construction Management Korlátolt Felelősségű Társaság; Viador Átrium Stúdió Építésziroda Korlátolt Felelősségű Társaság",
-        "contract_value": "31500000",
+        "company_names": "3E Construction Management Kft.; Viador Átrium Stúdió Építésziroda Kft.",
+        "contract_value": 31500000.0,
         "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
         "date": "18/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21954_2019/",
         "main_cpv": "71241000-9",
         "number_companies_win": 2,
         "procurement_title": "RMT üzleti és konferenciaszálló építése",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7365000",
-        "contracting_authority": "Országos Rendőr-Főkapitányság",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0458_2021/",
-        "main_cpv": "71631000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Műszaki ellenőrzés közúti határátkelőhelyeken",
-        "registered_name": "3E Construction Management Korlátolt Felelősségű Társaság"
+        "registered_name": "3E Construction Management Kft."
     }
 ]

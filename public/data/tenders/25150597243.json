@@ -1,145 +1,79 @@
 [
     {
-        "company_names": "KÖT R SECURITY&SERVICE Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "210000000",
-        "contracting_authority": "MNB-Biztonsági Szolgáltatások Zártkörűen Működő Részvénytársaság",
+        "company_names": "KÖT R SECURITY&SERVICE Kft.; UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 210000000.0,
+        "contracting_authority": "MNB-Biztonsági Szolgáltatások Zrt.",
         "date": "07/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14749_2019/",
         "main_cpv": "79713000-5",
         "number_companies_win": 4,
         "procurement_title": "Személy- és vagyonvédelmi szolgáltatás biztosítása",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ERANDO Rendszertechnika Korlátolt Felelősségű Társaság; ELIT SECURITY GROUP Nemzetközi Személy- és Vagyonvédelmi Szolgáltató Korlátolt Felelősségű Társaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; NG 12 Korlátolt Felelősségű Társaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "12000000000",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ERANDO Rendszertechnika Kft.; ELIT SECURITY GROUP Nemzetközi Személy- és Vagyonvédelmi Szolgáltató Kft.; ESG HOLDING Zrt.; NG 12 Kft.; Novum Guard Szolgáltató Kft.; UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 12000000000.0,
+        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zrt.",
         "date": "21/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_15531_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 9,
         "procurement_title": "MNV Zrt. ingatlanjainak komplex vagyonvédelme",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     },
     {
-        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Bank Biztonság Bizalom Zártkörűen Működő Részvénytársaság; CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; Holdesco Ingatlanhasznosító és Üzemeltető Korlátolt Felelősségű Társaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; PREV-INFO Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "24500000000",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zrt.; Bank Biztonság Bizalom Zrt.; CIVIL Biztonsági Szolgálat Zrt.; CIVIL ITIM Informatika és Ingatlanmenedzsment Zrt.; ESG HOLDING Zrt.; Holdesco Ingatlanhasznosító és Üzemeltető Kft.; Novum Guard Szolgáltató Kft.; PREV-INFO Kft.; UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 24500000000.0,
+        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Magyar Államvasutak Zrt., MÁV Szolgáltató Központ Zrt., MÁV-START Vasúti Személyszállító Zrt.",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_18615_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 11,
         "procurement_title": "Vagyonvédelmi szolgáltatások",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     },
     {
-        "company_names": "UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1298447514",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 1298447514.0,
+        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Magyar Államvasutak Zrt., MÁV Szolgáltató Központ Zrt., MÁV-START Vasúti Személyszállító Zrt.",
         "date": "06/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_23816_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 3,
         "procurement_title": "MÁV különféle személy- és vagyonvédelmi szolgáltatások beszerzése",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     },
     {
-        "company_names": "UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1624834175",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zrt., MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 1624834175.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt., MÁV-START Vasúti Személyszállító Zrt., MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Szolgáltató Központ Zrt.",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_1328_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 3,
         "procurement_title": "Különféle személy- és vagyonvédelmi szolgáltatás beszerzése",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     },
     {
-        "company_names": "UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "329345135",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.",
+        "contract_value": 329345135.0,
+        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Kft., MÁV Magyar Államvasutak Zrt., MÁV Szolgáltató Központ Zrt., MÁV-START Vasúti Személyszállító Zrt.",
         "date": "11/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_2460_2020/",
         "main_cpv": "79713000-5",
         "number_companies_win": 3,
         "procurement_title": "Személy és vagyonvédelem",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     },
     {
-        "company_names": "CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ERANDO Rendszertechnika Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság; VALTON-SEC Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "48000000000",
+        "company_names": "CIVIL Biztonsági Szolgálat Zrt.; CIVIL ERANDO Rendszertechnika Kft.; UNIVERZ Biztonsági Szolgáltató Kft.; UNIVERZ Biztonságtechnikai Kft.; UNIVERZ Holding Zrt.; VALTON-SEC Kereskedelmi és Szolgáltató Zrt.",
+        "contract_value": 48000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_18420_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 6,
         "procurement_title": "Őrzési és recepciós szolgáltatások ellátása",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "KÖT R SECURITY&SERVICE Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "880000000",
-        "contracting_authority": "MNB-Biztonsági Szolgáltatások Zártkörűen Működő Részvénytársaság",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_24882_2020/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 4,
-        "procurement_title": "Személy- és vagyonvédelmi, recepciós szolgáltatás",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "255312000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
-        "date": "25/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_0080_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 3,
-        "procurement_title": "Vagyonvédelmi szolgáltatások",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Bank Biztonság Bizalom Zártkörűen Működő Részvénytársaság; CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; Holdesco Ingatlanhasznosító és Üzemeltető Korlátolt Felelősségű Társaság; Novum Guard Szolgáltató Korlátolt Felelősségű Társaság; PREV-INFO Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "74080660",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_3168_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 14,
-        "procurement_title": "Különféle személy- és vagyonvédelmi szolgáltatások beszerzése",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2236820043",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_3168_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 3,
-        "procurement_title": "Különféle személy- és vagyonvédelmi szolgáltatások beszerzése",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Tanácsadó Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság",
-        "contract_value": "610329000",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_422/megtekint/portal_3507_2021/",
-        "main_cpv": "nan",
-        "number_companies_win": 4,
-        "procurement_title": "Élőerős vagyonvédelmi szolgáltatások",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "AIRPORT SERVICE BUDAPEST Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; CIVIL Biztonsági Szolgálat Zártkörűen Működő Részvénytársaság; ESG HOLDING Zártkörűen Működő Részvénytársaság; SECURIMASTER Tanácsadó, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Szolgáltató Korlátolt Felelősségű Társaság; UNIVERZ Biztonsági Tanácsadó Korlátolt Felelősségű Társaság; UNIVERZ Biztonságtechnikai Korlátolt Felelősségű Társaság; UNIVERZ Holding Zártkörűen Működő Részvénytársaság; VALTON-SEC Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "200000000000",
-        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_9919_2021/",
-        "main_cpv": "79710000-4",
-        "number_companies_win": 9,
-        "procurement_title": "EÜ intézmények őrzése szolgáltatás",
-        "registered_name": "UNIVERZ Holding Zártkörűen Működő Részvénytársaság"
+        "registered_name": "UNIVERZ Holding Zrt."
     }
 ]

@@ -1,90 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "38359599",
+        "contract_value": 38359599.0,
         "contracting_authority": "Vas Megyei Kormányhivatal",
         "date": "14/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3914_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kőszeg Járási hivatal kialakítása",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63319003",
+        "contract_value": 63319003.0,
         "contracting_authority": "Kőszeg Város Önkormányzata",
         "date": "16/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7977_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tűzoltóság építésének II. üteme",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16376249",
+        "contract_value": 16376249.0,
         "contracting_authority": "Kőszeg Város Önkormányzata",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9064_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Központi és Felsővárosi óvoda fejlesztése",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42310394",
+        "contract_value": 42310394.0,
         "contracting_authority": "Kőszeg Város Önkormányzata",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9064_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Központi és Felsővárosi óvoda fejlesztése",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
     },
     {
-        "company_names": "BIT-ÉP Építőipari és Kereskedelmi Betéti Társaság; SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "322398326",
+        "company_names": "BIT-ÉP Építőipari és Kereskedelmi Bt.; SZÁRNYASÉP Építő és Szolgáltató Kft.",
+        "contract_value": 322398326.0,
         "contracting_authority": "Kőszeg Város Önkormányzata",
         "date": "08/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12235_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Városmajor környezettudatos rehabilitációja",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170363600",
+        "contract_value": 170363600.0,
         "contracting_authority": "Kőszeg Város Önkormányzata",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12749_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Városháza energetikai korszerűsítése",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "129608185",
-        "contracting_authority": "Lukácsháza Község Önkormányzata",
-        "date": "19/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9161_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségház kivitelezése",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "BIT-ÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; BOROSTYÁN REC Korlátolt Felelősségű Társaság; SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "296178542",
-        "contracting_authority": "Körmend Város Önkormányzata",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13688_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Cipőgyári területek kivitelezési munkálatai",
-        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
     }
 ]

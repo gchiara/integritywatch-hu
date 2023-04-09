@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "60000000",
+        "contract_value": 60000000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "27/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6955_2018/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszer konszignációs raktárba alkatrészek beszerzése II.",
-        "registered_name": "EMD Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "EMD Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "240080000",
+        "contract_value": 240080000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "14/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0420_2019/",
         "main_cpv": "33182100-0",
         "number_companies_win": 0,
         "procurement_title": "Defibrillátorok és fogyóanyagok beszerzése",
-        "registered_name": "EMD Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "EMD Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "811750000",
+        "contract_value": 811750000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "14/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0420_2019/",
         "main_cpv": "33182100-0",
         "number_companies_win": 0,
         "procurement_title": "Defibrillátorok és fogyóanyagok beszerzése",
-        "registered_name": "EMD Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "EMD Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "220000000",
+        "contract_value": 220000000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "21/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4705_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Respirator, gyógyszeradagoló pumpa, váladékszívó",
-        "registered_name": "EMD Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "EMD Hungary Kft."
     }
 ]

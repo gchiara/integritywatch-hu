@@ -1,46 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "185008848",
+        "contract_value": 185008848.0,
         "contracting_authority": "Székesfehérvári Tankerületi Központ",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1527_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Arany János iskola homlokzat és tetőfelújítása",
-        "registered_name": "PRETZ-MOZAIK Építőipari Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "18332894",
-        "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
-        "date": "24/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15826_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Intézményi felújítások 2021",
-        "registered_name": "PRETZ-MOZAIK Építőipari Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30463626",
-        "contracting_authority": "Székesfehérvári Tankerületi Központ",
-        "date": "16/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25100_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolaépületek felújítása",
-        "registered_name": "PRETZ-MOZAIK Építőipari Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "35375110",
-        "contracting_authority": "Székesfehérvári Tankerületi Központ",
-        "date": "16/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25100_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolaépületek felújítása",
-        "registered_name": "PRETZ-MOZAIK Építőipari Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PRETZ-MOZAIK Építőipari Kivitelező és Szolgáltató Kft."
     }
 ]

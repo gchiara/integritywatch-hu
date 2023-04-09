@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "125000000",
+        "contract_value": 125000000.0,
         "contracting_authority": "Cegléd Város Önkormányzata",
         "date": "19/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16730_2018/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Keretszerződés út- és járdaburkolatok állagmegóvási munkáira",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37900361",
+        "contract_value": 37900361.0,
         "contracting_authority": "Cegléd Város Önkormányzata",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24702_2018/",
         "main_cpv": "45233000-9",
         "number_companies_win": 0,
         "procurement_title": "Külterületi utak fejlesztése Cegléden II.",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40054405",
+        "contract_value": 40054405.0,
         "contracting_authority": "Cegléd Város Önkormányzata",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24702_2018/",
         "main_cpv": "45233000-9",
         "number_companies_win": 0,
         "procurement_title": "Külterületi utak fejlesztése Cegléden II.",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40227337",
+        "contract_value": 40227337.0,
         "contracting_authority": "Cegléd Város Önkormányzata",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18995_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 0,
         "procurement_title": "Vízvezeték és szennyvízcsatorna rekonstrukció I.",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62698537",
+        "contract_value": 62698537.0,
         "contracting_authority": "Cegléd Város Önkormányzata",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18995_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 0,
         "procurement_title": "Vízvezeték és szennyvízcsatorna rekonstrukció I.",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85000000",
+        "contract_value": 85000000.0,
         "contracting_authority": "Cegléd Város Önkormányzata",
         "date": "02/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5841_2020/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Út és járdaburkolatok állagmegóvási munkái",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "Cegléd Város Önkormányzata",
-        "date": "01/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9739_2021/",
-        "main_cpv": "45233220-7",
-        "number_companies_win": 0,
-        "procurement_title": "Út és járdaburkolatok állagmegóvási munkái",
-        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLASZTER Mélyépítő, Tervező és Szolgáltató Kft."
     }
 ]

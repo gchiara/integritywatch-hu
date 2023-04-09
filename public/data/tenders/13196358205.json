@@ -1,90 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "321675379",
-        "contracting_authority": "Velezd Agro Mezőgazdasági és Élelmiszeripari Korlátolt Felelősségű Társaság",
+        "contract_value": 321675379.0,
+        "contracting_authority": "Velezd Agro Mezőgazdasági és Élelmiszeripari Kft.",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11427_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyümölcsfeldolgozó üzem építése",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13936010",
+        "contract_value": 13936010.0,
         "contracting_authority": "Kazincbarcikai Tankerületi Központ",
         "date": "03/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13538_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Projekt építési beruházás",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55670440",
+        "contract_value": 55670440.0,
         "contracting_authority": "Borsodnádasd Város Önkormányzata",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18217_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárutak építése és felújítása Borsodnádasdon",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78803413",
+        "contract_value": 78803413.0,
         "contracting_authority": "Kelet-Magyarországi Munkaerőszolgáltató Szociális Szövetkezet",
         "date": "16/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0746_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csomagoló üzem létrehozása Sajóbábonyban",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91581505",
+        "contract_value": 91581505.0,
         "contracting_authority": "Kazincbarcika Város Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9444_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egressy Béni utca ivóvízvezeték rekonstrukció",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55088580",
+        "contract_value": 55088580.0,
         "contracting_authority": "Parasznya Község Önkormányzata",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0131_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Ivóvízvezeték rekonstrukció 2.",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55863340",
+        "contract_value": 55863340.0,
         "contracting_authority": "Sajószentpéter Városi Önkormányzat",
         "date": "10/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12561_2020/",
         "main_cpv": "45232400-6",
         "number_companies_win": 0,
         "procurement_title": "Ibolya telepi szennyvízvezeték rekonstrukciója",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "119999825",
+        "contract_value": 119999825.0,
         "contracting_authority": "Kazincbarcika Város Önkormányzata",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12701_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "DN400 öntöttvas ivóvíz vezeték rekonstrukció",
-        "registered_name": "DUKTIL Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "DUKTIL Közműépítő Kft."
     }
 ]

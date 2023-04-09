@@ -1,596 +1,266 @@
 [
     {
         "company_names": "",
-        "contract_value": "9936000",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 9936000.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "02/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3380_2018/",
         "main_cpv": "48421000-5",
         "number_companies_win": 0,
         "procurement_title": "OSS és BSS Licence bővítés beszerzése a Területi államigazgatás egységes működését támogató rendszerfejlesztések elnevezésű projekt keretében",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "25099000",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25099000.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "23/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6063_2018/",
         "main_cpv": "48421000-5",
         "number_companies_win": 0,
         "procurement_title": "OSS és BSS Licence bővítés beszerzése Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0) elnevezésű projekt keretében",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHANET Informatikai Zártkörűen Működő Részvénytársaság \"felszámolás alatt\"; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; E-ZumIT Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; SMP Solutions Korlátolt Felelősségű Társaság; Soloron 40 Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TR Consult Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; VRS Magyarország Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2500000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHANET Informatikai Zrt. \"felszámolás alatt\"; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Delta Systems Kft.; Digitran Hungária Digitális Transzformáció Zrt.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; E-ZumIT Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invigor Informatika Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; PANOR Informatika Zrt.; PROFESSZIONÁL Informatikai Zrt.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SERCO Informatika Kft.; SMP Solutions Kft.; Soloron 40 Kft.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TR Consult Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; VRS Magyarország Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 2500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8088_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 45,
         "procurement_title": "VMware virtualizációs szoftverlicenszek beszerzése és kapcsolódó szolgálatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "129577192",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 129577192.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8010_2018/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "Meglévő NET OSS rendszer szoftverekhez gyártói licenckövetés és gyártói terméktámogatás, szállítói terméktámogatás, üzemeltetési és fejlesztési szakértői támogatás biztosítása",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "43887552",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 43887552.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "31/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8930_2018/",
         "main_cpv": "32520000-4",
         "number_companies_win": 0,
         "procurement_title": "DWDM eszközök kapacitás bővítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; CompuTREND Zártkörűen Működő Részvénytársaság; Corollis Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; WEBSTAR CSOPORT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "28000000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ASH Szoftverház Kft.; CompuTREND Zrt.; Corollis Kft.; Delta Systems Kft.; EURO ONE Számítástechnikai Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; Grepton Informatikai Zrt.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.; ULX Nyílt Forráskódú Tanácsadó és Disztribúciós Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.; WEBSTAR CSOPORT Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 28000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "18/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9868_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 31,
         "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "\"HOSTLINE\" Kommunikációs Rendszer Szolgáltató Korlátolt Felelősségű Társaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GEOMANT-ALGOTECH Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LANeX Tanácsadó Korlátolt Felelősségű Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Merlion Tech Korlátolt Felelősségű Társaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; Spacenet Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "27500000000",
+        "company_names": "\"HOSTLINE\" Kommunikációs Rendszer Szolgáltató Kft.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; BRAVONET Kft.; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GEOMANT-ALGOTECH Zrt.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; LANeX Tanácsadó Kft.; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; Merlion Tech Kft.; MWMS Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; PANOR Informatika Zrt.; PIK-SYS Informatikai és Tanácsadó Kft.; PORION-DIGITAL Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; S&T Services Hungary Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; Secops Kereskedelmi és Szolgáltató Kft.; SERCO Informatika Kft.; Spacenet Kft.; Sysman Informatikai Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szinva Net Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 27500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "02/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13311_2018/",
         "main_cpv": "32400000-7",
         "number_companies_win": 64,
         "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése - 2018",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "14797200",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 14797200.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13441_2018/",
         "main_cpv": "32410000-0",
         "number_companies_win": 0,
         "procurement_title": "Fizikai biztonság számára hálózati eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 100000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "10/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_20223_2018/",
         "main_cpv": "51611100-9",
         "number_companies_win": 0,
         "procurement_title": "IP adathálózati, biztonsági eszközök és implementációs munkák keretmegállapodás keretében",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság",
-        "contract_value": "100000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "company_names": "NETvisor Informatikai és Kommunikációs Zrt.; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.",
+        "contract_value": 100000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "10/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_20223_2018/",
         "main_cpv": "51611100-9",
         "number_companies_win": 2,
         "procurement_title": "IP adathálózati, biztonsági eszközök és implementációs munkák keretmegállapodás keretében",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "70176044",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 70176044.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14877_2019/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "NET OSS szoftverekhez licenckövetés és támogatás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "Business Process Consulting Informatikai és Üzleti Tanácsadó Zártkörűen Működő Részvénytársaság; E-ZumIT Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; IT-CM Kereskedelmi és Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Spirity Enterprise Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; UNIOFFICE Rendszerház Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VIR Vezetői Információs Rendszerek Szolgáltató Zártkörűen Működő Részvénytársaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Business Process Consulting Informatikai és Üzleti Tanácsadó Zrt.; E-ZumIT Kft.; FORNAX SI Nagyvállalati Megoldások Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; IT-CM Kereskedelmi és Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NOREG Információvédelmi Kft.; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Spirity Enterprise Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; UNIOFFICE Rendszerház Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; VIR Vezetői Információs Rendszerek Szolgáltató Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 2000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11638_2020/",
         "main_cpv": "72261000-2",
         "number_companies_win": 15,
         "procurement_title": "Meglévő IBM licencek terméktámogatása (ISUP20)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Compliance Data Systems Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Omnit Solutions Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; REMEDIOS Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "17400000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ATOS Magyarország Kft.; BRAVONET Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; Compliance Data Systems Kft.; Delta Systems Kft.; FORNAX SI Nagyvállalati Megoldások Kft.; Grepton Informatikai Zrt.; i-Cell Mobilsoft Zrt.; Invigor Informatika Kft.; NETvisor Informatikai és Kommunikációs Zrt.; Omnit Solutions Szolgáltató és Kereskedelmi Kft.; REMEDIOS Zrt.; Soloron 40 Zrt.; Sysman Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft.",
+        "contract_value": 17400000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "04/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19987_2020/",
         "main_cpv": "72268000-1",
         "number_companies_win": 20,
         "procurement_title": "Meglévő Oracle licencek bővítése (OLIC20)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALBACOMP SH Szoftverház Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Boost IT Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Humansoft Szerviz Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSTYLE Hungary Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "12061555438",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALBACOMP SH Szoftverház Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Boost IT Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; CTS-INFORMATIKA Számítástechnikai Korlátolt Felelőségű Társaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; FORNAX SI Nagyvállalati Megoldások Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Humansoft Szerviz Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; iSTYLE Hungary Kereskedelmi és Szolgáltató Kft.; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; PROFESSZIONÁL Informatikai Zrt.; QZRT Infotech Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Sysman Informatikai Zrt.; Szintézis Informatikai Zrt.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 12061555438.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19188_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 40,
         "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "46296596",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 46296596.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "12/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20844_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "NET OSS szoftverekhez licenckövetés és támogatás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "997208813",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; FORNAX ICT Infokommunikációs Megoldások Kft.; IMG Solution Kft.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Kft.; LicensePort Informatikai Zrt.; M & S Informatikai Zrt.; NETvisor Informatikai és Kommunikációs Zrt.; Sysman Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.",
+        "contract_value": 997208813.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "19/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20721_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 12,
         "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "1705950004",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "BRAVONET Kft.; Duna Elektronika Számítástechnikai Kft.; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PROFITEXPERT Számitástechnikai Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zrt.; Telvice Szolgáltató és Kereskedelmi Kft.; TIGRA Computer - és Irodatechnikai Kft.",
+        "contract_value": 1705950004.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "27/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21229_2020/",
         "main_cpv": "48820000-2",
         "number_companies_win": 13,
         "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sonrisa Informatikai Kft.; Training360 Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "222519868",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "ANSWARE Informatikai Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zrt.; Sonrisa Informatikai Kft.; Training360 Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.",
+        "contract_value": 222519868.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22246_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 5,
         "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; New Age Software Informatikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; SDA Stúdió Müszaki Fejlesztő, Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "29795984",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; i-Cell Mobilsoft Zrt.; M & S Informatikai Zrt.; NETvisor Informatikai és Kommunikációs Zrt.; New Age Software Informatikai Szolgáltató és Kereskedelmi Kft.; PROFESSZIONÁL Informatikai Zrt.; SDA Stúdió Müszaki Fejlesztő, Gyártó és Kereskedelmi Kft.; SMP Solutions Zrt.; TIGRA Computer - és Irodatechnikai Kft.",
+        "contract_value": 29795984.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22269_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 9,
         "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése,cseréje, és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "Intalion Rendszerintegrátor Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; VIR Vezetői Információs Rendszerek Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "438643800",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Intalion Rendszerintegrátor Kft.; NETvisor Informatikai és Kommunikációs Zrt.; Szinva Net Informatikai Zrt.; T-Systems Magyarország Zrt.; VIR Vezetői Információs Rendszerek Szolgáltató Zrt.",
+        "contract_value": 438643800.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22958_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 5,
         "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése,cseréje, és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sonrisa Informatikai Kft.; Training360 Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "64571570",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "ANSWARE Informatikai Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zrt.; Sonrisa Informatikai Kft.; Training360 Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.",
+        "contract_value": 64571570.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23058_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 5,
         "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "89026886",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "NETvisor Informatikai és Kommunikációs Zrt.; QZRT Infotech Kft.; Sysman Informatikai Zrt.",
+        "contract_value": 89026886.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23144_2020/",
         "main_cpv": "32400000-7",
         "number_companies_win": 3,
         "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "766114488",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; NETvisor Informatikai és Kommunikációs Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.",
+        "contract_value": 766114488.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23395_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 7,
         "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése.",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     },
     {
-        "company_names": "EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "500749407",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EURO ONE Számítástechnikai Zrt.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; NETvisor Informatikai és Kommunikációs Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Kft.; Szintézis Informatikai Zrt.",
+        "contract_value": 500749407.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24170_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 6,
         "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; New Age Software Informatikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; SDA Stúdió Müszaki Fejlesztő, Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "181499579",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "21/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0701_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 9,
-        "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése,cseréje, és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "Intalion Rendszerintegrátor Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; VIR Vezetői Információs Rendszerek Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1101264405",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1353_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 5,
-        "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése,cseréje, és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "IT-CM Kereskedelmi és Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Spirity Enterprise Zártkörűen Működő Részvénytársaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; VIR Vezetői Információs Rendszerek Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "46020800",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "04/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1183_2021/",
-        "main_cpv": "72261000-2",
-        "number_companies_win": 8,
-        "procurement_title": "Meglévő IBM licencek terméktámogatása (ISUP20)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "754655740",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "04/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1582_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 12,
-        "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sonrisa Informatikai Kft.; Training360 Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "594683853",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2269_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 5,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "170219285",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2179_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 5,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sonrisa Informatikai Kft.; Training360 Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "272110510",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2715_2021/",
-        "main_cpv": "72260000-5",
-        "number_companies_win": 5,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "2061232420",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2737_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 13,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "99496427",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2921_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "230981160",
-        "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4278_2021/",
-        "main_cpv": "48190000-6",
-        "number_companies_win": 0,
-        "procurement_title": "IKT képzési programcsomag",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "898892923",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4257_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 7,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "144303467",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5689_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 6,
-        "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Barré Technologies Zártkörűen Működő Részvénytársaság; BI-TECH Infomatika Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; E-ZumIT Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; IT-CM Kereskedelmi és Szolgáltató Kft.; KER-SOFT Számítástechnikai Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Spirity Enterprise Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; UNIOFFICE Rendszerház Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VIR Vezetői Információs Rendszerek Szolgáltató Zártkörűen Működő Részvénytársaság; ViVeTech Nyilvánosan Működő Részvénytársaság; Winformatics Technology Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7929000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "20/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8963_2021/",
-        "main_cpv": "72268000-1",
-        "number_companies_win": 22,
-        "procurement_title": "Meglévő IBM licencek bővítése (ILIC20)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; KVENTA Elektronikai Fejlesztő, Szolgáltató és Kereskedelmi Korlátolt Felelősségü Társaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "2775480617",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11710_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 12,
-        "procurement_title": "Nyílt szabványokon keresztüli teljes együttműködést biztosító szoftverlicencek és kapcsolódó szolgáltatások",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "Intalion Rendszerintegrátor Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; VIR Vezetői Információs Rendszerek Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "contract_value": "37854080",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "13/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12093_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 5,
-        "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése, cseréje és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; New Age Software Informatikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; SDA Stúdió Müszaki Fejlesztő, Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "14415000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "15/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11927_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 9,
-        "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése, cseréje és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "262665000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13169_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 7,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése.",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "123668",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13201_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 5,
-        "procurement_title": "Kliens oldali IT eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "11869200",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13497_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 6,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "1478389305",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13829_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 12,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MHM Computer Hungária Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Syspro Informatika Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "80000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 41,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "120000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 43,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "28476089",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14409_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BIS-INFORMr Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DMS Services Korlátolt Felelősségű Társaság; E-GROUP ICT SOFTWARE Informatikai Zártkörűen Működő Részvénytársaság; EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MOLARIS Informatikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PRINTNET Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; Sagemcom Magyarország Elektronikai Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sonrisa Informatikai Kft.; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "340000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18585_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 31,
-        "procurement_title": "Alkalmazásfejlesztési szolgáltatás EU-s forrásból (SWFE)",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "249185161",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "17/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21227_2021/",
-        "main_cpv": "50312300-8",
-        "number_companies_win": 0,
-        "procurement_title": "Nokia DWDM support",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; GEOMANT-ALGOTECH Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; IMG Solution Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Soloron 40 Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "130000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20940_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 36,
-        "procurement_title": "Hálózati aktív és passzív eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; Alpha-ess Hungary Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; FORNAX SI Nagyvállalati Megoldások Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; IMG Solution Zártkörűen Működő Részvénytársaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Korlátolt Felelősségű Társaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MWMS Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PORION-DIGITAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Secops Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SERCO Informatika Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; Telvice Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "260000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20940_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 52,
-        "procurement_title": "Hálózati aktív és passzív eszközök beszerzése",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; QZRT Infotech Korlátolt Felelősségű Társaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "30208369",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23445_2021/",
-        "main_cpv": "32400000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Hálózati aktív eszközök beszerzése és kapcsolódó szolgáltatások teljesítése-2018",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "144127445",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24495_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 2,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
-    },
-    {
-        "company_names": "BRAVONET Korlátolt Felelősségű Társaság; Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PROFITEXPERT Számitástechnikai Korlátolt Felelősségű Társaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; Szintézis Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság",
-        "contract_value": "791795190",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24922_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 12,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság"
+        "registered_name": "NETvisor Informatikai és Kommunikációs Zrt."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "451000000",
+        "contract_value": 451000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "04/07/2019",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_12027_2019/",
         "main_cpv": "85121210-8",
         "number_companies_win": 0,
         "procurement_title": "Várandósgondozás szakrendelés ellátása",
-        "registered_name": "MEDICOTER EGÉSZSÉGÜGYI SZOLGÁLTATÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "MEDICOTER EGÉSZSÉGÜGYI SZOLGÁLTATÓ Kft."
     }
 ]

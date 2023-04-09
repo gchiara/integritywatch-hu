@@ -1,123 +1,57 @@
 [
     {
-        "company_names": "AQUIS Innovo Korlátolt Felelősségű Társaság \"felszámolás alatt\"; ASH Szoftverház Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "90000000",
+        "company_names": "AQUIS Innovo Kft. \"felszámolás alatt\"; ASH Szoftverház Kft.; SBP Systems Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 90000000.0,
         "contracting_authority": "Belügyminisztérium",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7931_2018/",
         "main_cpv": "72000000-5",
         "number_companies_win": 4,
         "procurement_title": "Keretmegállapodás egyedi fejlesztésű rendszerek fejlesztésére és meglévő rendszerek továbbfejlesztésére a BM VTTF részére",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
+        "registered_name": "SBP Systems Kft."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
+        "contract_value": 200000000.0,
         "contracting_authority": "Belügyminisztérium",
         "date": "12/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_10156_2019/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "Már bevezetett szakrendszerek fejlesztése",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
+        "registered_name": "SBP Systems Kft."
     },
     {
-        "company_names": "Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; SBP Systems Korlátolt Felelősségű Társaság",
-        "contract_value": "283391680",
-        "contracting_authority": "Eurohandball 2022 Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Digitran Hungária Digitális Transzformáció Zrt.; SBP Systems Kft.",
+        "contract_value": 283391680.0,
+        "contracting_authority": "Eurohandball 2022 Nonprofit Kft.",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7464_2020/",
         "main_cpv": "72212100-0",
         "number_companies_win": 2,
         "procurement_title": "Informatikai rendszerfejlesztés",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
+        "registered_name": "SBP Systems Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90000000",
+        "contract_value": 90000000.0,
         "contracting_authority": "Belügyminisztérium",
         "date": "18/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16693_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "RVTV portál továbbfejlesztésére és kapcsolódó rendszerek kifejlesztésére szolgáltatások beszerzése",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
+        "registered_name": "SBP Systems Kft."
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DX Digital Transformation Solutions Zártkörűen Működő Részvénytársaság; eGOV Tanácsadó Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; Novell PSH Professzionális Szolgáltatások Magyarország Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6080000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "4iG Nyrt.; ATOS Magyarország Kft.; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Kft.; DX Digital Transformation Solutions Zrt.; eGOV Tanácsadó Kft.; Invitech ICT Services Kft.; Novell PSH Professzionális Szolgáltatások Magyarország Kft.; SBP Systems Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; Sysman Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 6080000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20057_2020/",
         "main_cpv": "72268000-1",
         "number_companies_win": 13,
         "procurement_title": "Meglévő Micro Focus licencek bővítése (MLIC20)",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8344160",
-        "contracting_authority": "Eurohandball 2022 Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "07/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16859_2021/",
-        "main_cpv": "72212100-0",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai rendszerfejlesztés 2.",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BlackBelt Technology Korlátolt Felelősségű Társaság; Care All Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; e-Corvina Informatikai Szolgáltató Korlátolt Felelősségű Társaság; E-GROUP ICT SOFTWARE Informatikai Zártkörűen Működő Részvénytársaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; IMG Solution Zártkörűen Működő Részvénytársaság; Intelliport Systems Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Korlátolt Felelősségű Társaság; NEW LINE TECHNOLOGIES Korlátolt Felelősségű Társaság; PRINTNET Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; SDA Informatika Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sonrisa Informatikai Kft.; Techwave Hungary Számítástechnikai Szolgáltató Zártkörűen Működő Részvénytársaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság",
-        "contract_value": "30000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18345_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 29,
-        "procurement_title": "Alkalmazásfejlesztési és üzemeltetés támogatási szolgáltatások nyújtása",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BIS-INFORMr Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MOLARIS Informatikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság; Sagemcom Magyarország Elektronikai Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; Sonrisa Informatikai Kft.; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "60000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18345_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 24,
-        "procurement_title": "Alkalmazásfejlesztési és üzemeltetés támogatási szolgáltatások nyújtása",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BlackBelt Technology Korlátolt Felelősségű Társaság; Care All Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; e-Corvina Informatikai Szolgáltató Korlátolt Felelősségű Társaság; E-GROUP ICT SOFTWARE Informatikai Zártkörűen Működő Részvénytársaság; EN-CO Software Zártkörűen Működő Részvénytársaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GriffSoft Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Intelliport Systems Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Korlátolt Felelősségű Társaság; Lillyneir Rendszermérnök Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NEW LINE TECHNOLOGIES Korlátolt Felelősségű Társaság; PRINTNET Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; Sagemcom Magyarország Elektronikai Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; SDA Informatika Zártkörűen Működő Részvénytársaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sonrisa Informatikai Kft.; Techwave Hungary Számítástechnikai Szolgáltató Zártkörűen Működő Részvénytársaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "180000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18585_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 37,
-        "procurement_title": "Alkalmazásfejlesztési szolgáltatás EU-s forrásból (SWFE)",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BIS-INFORMr Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DMS Services Korlátolt Felelősségű Társaság; E-GROUP ICT SOFTWARE Informatikai Zártkörűen Működő Részvénytársaság; EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MOLARIS Informatikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PRINTNET Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; Sagemcom Magyarország Elektronikai Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sonrisa Informatikai Kft.; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "340000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18585_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 31,
-        "procurement_title": "Alkalmazásfejlesztési szolgáltatás EU-s forrásból (SWFE)",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MOLARIS Informatikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "130500400",
-        "contracting_authority": "Pillér Informatikai Korlátolt Felelősségű Társaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25090_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 6,
-        "procurement_title": "Fejlesztői tevékenységét támogató szolgáltatás",
-        "registered_name": "SBP Systems Korlátolt Felelősségű Társaság"
+        "registered_name": "SBP Systems Kft."
     }
 ]

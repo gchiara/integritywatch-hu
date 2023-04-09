@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "13480360",
+        "contract_value": 13480360.0,
         "contracting_authority": "Siófoki Tankerületi Központ",
         "date": "12/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22823_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Siófoki Tankerületi Központ nyolc tagintézménye villamosenergia igényének fotovoltaikus rendszerrel történő részbeni kiváltására irányuló korszerűsítési építési munkák",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38113452",
+        "contract_value": 38113452.0,
         "contracting_authority": "Zákány Község Önkormányzata",
         "date": "27/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17864_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Tornaterem felújítása",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "214078996",
+        "contract_value": 214078996.0,
         "contracting_authority": "Gödöllői Premontrei Apátság",
         "date": "14/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19546_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai fejlesztés",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "125223171",
+        "contract_value": 125223171.0,
         "contracting_authority": "Mezőörsi Református Egyházközség",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22468_2019/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "Jobaházi szeretetotthon felújítása",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "195627579",
+        "contract_value": 195627579.0,
         "contracting_authority": "Mezőörsi Református Egyházközség",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22470_2019/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "Pápakovácsi szeretetotthon felújítása",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41526050",
-        "contracting_authority": "Nagykanizsai Városfejlesztő Korlátolt Felelősségű Társaság",
+        "contract_value": 41526050.0,
+        "contracting_authority": "Nagykanizsai Városfejlesztő Kft.",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8329_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Nagyrác u. és a Szent Imre u. rendelők felújítása",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "41543029",
-        "contracting_authority": "Nagykanizsai Városfejlesztő Korlátolt Felelősségű Társaság",
+        "contract_value": 41543029.0,
+        "contracting_authority": "Nagykanizsai Városfejlesztő Kft.",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8329_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Nagyrác u. és a Szent Imre u. rendelők felújítása",
-        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Premier Ablakvilág Kereskedelmi és Szolgáltató Kft."
     }
 ]

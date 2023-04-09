@@ -1,112 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "65000000",
-        "contracting_authority": "DVG Dunaújvárosi Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 65000000.0,
+        "contracting_authority": "DVG Dunaújvárosi Vagyonkezelő Zrt.",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8375_2018/",
         "main_cpv": "45520000-8",
         "number_companies_win": 0,
         "procurement_title": "Dunaújváros területén aszfalt bedolgozása és útalap építése",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "DUNA-VIA Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "106256664",
+        "contract_value": 106256664.0,
         "contracting_authority": "Kisapostag Község Önkormányzata",
         "date": "07/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24217_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "DUNA-VIA Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60000000",
-        "contracting_authority": "DVG Dunaújvárosi Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 60000000.0,
+        "contracting_authority": "DVG Dunaújvárosi Vagyonkezelő Zrt.",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10131_2019/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Aszfaltozás",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "DUNA-VIA Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63696350",
+        "contract_value": 63696350.0,
         "contracting_authority": "Alap Község Önkormányzata",
         "date": "01/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11759_2019/",
         "main_cpv": "45233123-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás - Mg útépítés",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "DUNA-VIA Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60000000",
-        "contracting_authority": "DVG Dunaújvárosi Vagyonkezelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 60000000.0,
+        "contracting_authority": "DVG Dunaújvárosi Vagyonkezelő Zrt.",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14335_2020/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Dunaújváros területén aszfalt bedolgozása, útalap építése és egyéb út és járda építéshez kapcsolódó munkák",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "DUNA-VIA Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10688131",
+        "contract_value": 10688131.0,
         "contracting_authority": "Dunaújváros Megyei Jogú Város Önkormányzata",
         "date": "22/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24015_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "DÚV, Március 15. tér, általános iskola előtt járda felújítás",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "80936446",
-        "contracting_authority": "Kulcs Községi Önkormányzat",
-        "date": "25/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11985_2021/",
-        "main_cpv": "45233120-6",
-        "number_companies_win": 0,
-        "procurement_title": "Közlekedésfejlesztés Kulcs településen, útfelújítás",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15812756",
-        "contracting_authority": "Kulcs Községi Önkormányzat",
-        "date": "09/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22067_2021/",
-        "main_cpv": "45213316-1",
-        "number_companies_win": 0,
-        "procurement_title": "Közlekedésfejlesztés II.ütem",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "57648886",
-        "contracting_authority": "Kulcs Községi Önkormányzat",
-        "date": "09/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22067_2021/",
-        "main_cpv": "45213316-1",
-        "number_companies_win": 0,
-        "procurement_title": "Közlekedésfejlesztés II.ütem",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "29730651",
-        "contracting_authority": "Kulcs Községi Önkormányzat",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22065_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kulcs településen buszforduló és járda kivitelezés",
-        "registered_name": "DUNA-VIA Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "DUNA-VIA Építőipari Kft."
     }
 ]

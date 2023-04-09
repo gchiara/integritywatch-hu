@@ -1,321 +1,277 @@
 [
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság",
-        "contract_value": "386855266",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft.; ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Kft.",
+        "contract_value": 386855266.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_726_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 3,
         "procurement_title": "Kisvárda északkeleti tehermentesítő út tervezése és építése - K415.02 és Körforgalmú csomópont építése a 4145. - 4111. - 4109. j. összekötő utak csomópontjában a Kisvárda Hármas úton",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "78374940",
+        "contract_value": 78374940.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3629_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Egyes önkormányzati tulajdonú ingatlanok külső és belső felújítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"KE-VÍZ 21\" Építőipari zártkörűen működő Részvénytársaság; MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "290864948",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "\"KE-VÍZ 21\" Építőipari Zrt.; MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 290864948.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "28/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4333_2018/",
         "main_cpv": "45233125-1",
         "number_companies_win": 2,
         "procurement_title": "3832 j. összekötő út és a Kisvárda északi bekötőút csomópontjának építése",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "171454000",
+        "contract_value": 171454000.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5216_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útfelújítás Kisvárdán",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8785185",
+        "contract_value": 8785185.0,
         "contracting_authority": "Nyírbogdányi Református Egyházközség",
         "date": "03/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11147_2018/",
         "main_cpv": "45212360-7",
         "number_companies_win": 0,
         "procurement_title": "Nyírbogdányi Református Templom felújítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33538851",
+        "contract_value": 33538851.0,
         "contracting_authority": "Nyírbogdányi Református Egyházközség",
         "date": "03/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11147_2018/",
         "main_cpv": "45212360-7",
         "number_companies_win": 0,
         "procurement_title": "Nyírbogdányi Református Templom felújítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság; MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "38154250",
+        "company_names": "KÁLLÓ-BAU Építőipari Kft.; MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 38154250.0,
         "contracting_authority": "Kemecsei Református Egyházközség",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14422_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Kemecsei Református Templom felújítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság; MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "40934112",
+        "company_names": "KÁLLÓ-BAU Építőipari Kft.; MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 40934112.0,
         "contracting_authority": "Nyírtéti Református Egyházközség",
         "date": "06/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19720_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Nyírtéti Református Templom felújítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12302410",
+        "contract_value": 12302410.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11092_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útfelújítás Kisvárdán",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52180107",
+        "contract_value": 52180107.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11092_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útfelújítás Kisvárdán",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76414741",
+        "contract_value": 76414741.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11092_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útfelújítás Kisvárdán",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "928060",
+        "contract_value": 928060.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1151204",
+        "contract_value": 1151204.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1200928",
+        "contract_value": 1200928.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2518993",
+        "contract_value": 2518993.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2521928",
+        "contract_value": 2521928.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6169711",
+        "contract_value": 6169711.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9305052",
+        "contract_value": 9305052.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22820170",
+        "contract_value": 22820170.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25255740",
+        "contract_value": 25255740.0,
         "contracting_authority": "Nagyhalász Város Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18784_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöld város kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44378171",
+        "contract_value": 44378171.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21471_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Várday úti buszmegállók öbölbehelyezése",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "151009174",
+        "contract_value": 151009174.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21473_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kossuth utca útburkolat felújítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "626191466",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 626191466.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8332_2020/",
         "main_cpv": "45212212-5",
         "number_companies_win": 0,
         "procurement_title": "Tanuszoda kivitelezése Cigándon",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96384670",
+        "contract_value": 96384670.0,
         "contracting_authority": "Kisvárda Város Önkormányzata",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12413_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Multifunkcionális csarnok parkoló",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "165152656",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Nyíregyháza Megyei Jogú Város Polgármesteri Hivatala",
+        "contract_value": 165152656.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Nyíregyháza Megyei Jogú Város Polgármesteri Hivatala",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19402_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sportpark és futókör kivitelezése-Nyíregyháza II.",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "160657000",
-        "contracting_authority": "Nyírbogát Város Önkormányzata",
-        "date": "28/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9799_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Agrárlogisztikai központ létesítése Nyírbogáton",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "16219058",
-        "contracting_authority": "\"KÖLCSEY\" Televízió Műsorszolgáltató Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23848_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mátészalka marketing és média centrum kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27272221",
-        "contracting_authority": "\"KÖLCSEY\" Televízió Műsorszolgáltató Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23848_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Mátészalka marketing és média centrum kialakítása",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "119475634",
-        "contracting_authority": "SZSZBMFÜ Szabolcs-Szatmár-Bereg Megyei Területfejlesztési és Környezetgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "21/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24539_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Nyírség turisztikai fejlesztése",
-        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

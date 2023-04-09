@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "784705",
+        "contract_value": 784705.0,
         "contracting_authority": "Hit Gyülekezete",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21234_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "IKT eszközök és bútorok beszerzése",
-        "registered_name": "Green Office Solution Üzemeltető és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Office Solution Üzemeltető és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1542400",
+        "contract_value": 1542400.0,
         "contracting_authority": "Hit Gyülekezete",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21234_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "IKT eszközök és bútorok beszerzése",
-        "registered_name": "Green Office Solution Üzemeltető és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Office Solution Üzemeltető és Szolgáltató Kft."
     },
     {
-        "company_names": "\"TIP-TOP 92\" Ipari és Kereskedelmi Korlátolt Felelősségű Társaság; AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Green Office Solution Üzemeltető és Szolgáltató Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; Iroda Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MEGA-PAPÍR 2004 Kereskedelmi Korlátolt Felelősségű Társaság; MORGEN-RED Irodatechnikai és Számítástechnikai Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PAPIR-PONT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PRINTKER OFFICE LAND Irodatechnika, Papír, Irószer Kereskedelmi és Szolgáltató Zártkörűen működő Részvénytársaság; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VECTRA-LINE Plus Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; WONDEX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000000",
+        "company_names": "\"TIP-TOP 92\" Ipari és Kereskedelmi Kft.; AP-OFFICE Kereskedelmi és Tanácsadó Kft.; Green Office Solution Üzemeltető és Szolgáltató Kft.; I-COM IRODAELLÁTÁS Kereskedelmi Kft.; Iroda Magyarország Kereskedelmi és Szolgáltató Kft.; MEGA-PAPÍR 2004 Kereskedelmi Kft.; MORGEN-RED Irodatechnikai és Számítástechnikai Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; PAPIR-PONT Kereskedelmi és Szolgáltató Kft.; PRINTKER OFFICE LAND Irodatechnika, Papír, Irószer Kereskedelmi és Szolgáltató Zrt.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; VECTRA-LINE Plus Kereskedelmi és Szolgáltató Kft.; WONDEX Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 20000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "15/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12909_2019/",
         "main_cpv": "30199000-0",
         "number_companies_win": 14,
         "procurement_title": "Irodai papírok, papíráruk, író- és irodaszerek szállítása",
-        "registered_name": "Green Office Solution Üzemeltető és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Green Office Solution Üzemeltető és Szolgáltató Kft."
     }
 ]

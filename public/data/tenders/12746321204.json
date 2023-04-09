@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "190100000",
+        "contract_value": 190100000.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24395_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Békéscsaba, Rózsa u. 21-23. energetikai korszer.",
-        "registered_name": "JESZENSZKI GÁZSZERELŐ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JESZENSZKI GÁZSZERELŐ Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85644150",
+        "contract_value": 85644150.0,
         "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
         "date": "22/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5074_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Békéscsaba Megyei Jogú Város Polgármesteri Hivatala és Békéscsaba, Szabadság tér 9. szám alatti önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "JESZENSZKI GÁZSZERELŐ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JESZENSZKI GÁZSZERELŐ Kereskedelmi és Szolgáltató Kft."
     }
 ]

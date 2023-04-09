@@ -1,90 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "12000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 12000000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "07/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1713_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Pécs közigazgatási területén található út-és járdasüllyedések feltárása,helyreállítása,egyéb munkák,vízépítési műtárgyak és ahhoz tartozó aknafedlapok és víznyelők javítási munkái,valamint buszmegállók burkolatának felújítása",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 13000000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "07/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1713_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Pécs közigazgatási területén található út-és járdasüllyedések feltárása,helyreállítása,egyéb munkák,vízépítési műtárgyak és ahhoz tartozó aknafedlapok és víznyelők javítási munkái,valamint buszmegállók burkolatának felújítása",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 28000000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "07/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1713_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Pécs közigazgatási területén található út-és járdasüllyedések feltárása,helyreállítása,egyéb munkák,vízépítési műtárgyak és ahhoz tartozó aknafedlapok és víznyelők javítási munkái,valamint buszmegállók burkolatának felújítása",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "155567915",
+        "contract_value": 155567915.0,
         "contracting_authority": "Pellérd Község Önkormányzata",
         "date": "12/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2197_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Pellérdi Keleti Iparterület fejlesztése (kivitelezése)",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 200000000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9966_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Burkolat és vízépítési műtárgyak javítási munkái",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft."
     },
     {
-        "company_names": "InvestHouse Tanácsadó és Tervező Korlátolt Felelősségű Társaság; KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "39900035",
-        "contracting_authority": "TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zártkörűen Működő Részvénytársaság",
+        "company_names": "InvestHouse Tanácsadó és Tervező Kft.; KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft.",
+        "contract_value": 39900035.0,
+        "contracting_authority": "TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zrt.",
         "date": "18/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10751_2020/",
         "main_cpv": "45111291-4",
         "number_companies_win": 2,
         "procurement_title": "Földmunka 2020",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "84398744",
-        "contracting_authority": "TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zártkörűen Működő Részvénytársaság",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5740_2021/",
-        "main_cpv": "45231100-6",
-        "number_companies_win": 0,
-        "procurement_title": "Pécs, József u. víz-szennyvízvezeték rekonstrukció",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "260000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "25/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9564_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Útburkolat és vízépítési műtárgyak javítási munkái",
-        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KÖZMŰÉPKER Mélyépítő és Kereskedelmi Kft."
     }
 ]

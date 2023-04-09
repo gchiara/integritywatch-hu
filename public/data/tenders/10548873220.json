@@ -1,112 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "54200000",
+        "contract_value": 54200000.0,
         "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0840_2019/",
         "main_cpv": "32000000-3",
         "number_companies_win": 0,
         "procurement_title": "Smart City eszközbeszerzés",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALASZÁM Informatika Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1424617000",
-        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1424617000.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21505_2018/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "IR és KTK továbbfejlesztése, szoftvertámogatása, karbantartása",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALASZÁM Informatika Kft."
     },
     {
-        "company_names": "EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SDA Informatika Zártkörűen Működő Részvénytársaság; STRATIS Vezetői és Informatikai Tanácsadó Korlátolt Felelősségű Társaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "916100934",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EN-CO Software Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; IT PRO QUALITY Zrt.; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SDA Informatika Zrt.; STRATIS Vezetői és Informatikai Tanácsadó Kft.; Virgo Systems Informatikai Kft.; ZALASZÁM Informatika Kft.",
+        "contract_value": 916100934.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22246_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 8,
         "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALASZÁM Informatika Kft."
     },
     {
-        "company_names": "EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SDA Informatika Zártkörűen Működő Részvénytársaság; STRATIS Vezetői és Informatikai Tanácsadó Korlátolt Felelősségű Társaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "244428700",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EN-CO Software Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; IT PRO QUALITY Zrt.; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SDA Informatika Zrt.; STRATIS Vezetői és Informatikai Tanácsadó Kft.; Virgo Systems Informatikai Kft.; ZALASZÁM Informatika Kft.",
+        "contract_value": 244428700.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23058_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 8,
         "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SDA Informatika Zártkörűen Működő Részvénytársaság; STRATIS Vezetői és Informatikai Tanácsadó Korlátolt Felelősségű Társaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "479476600",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2269_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 8,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SDA Informatika Zártkörűen Működő Részvénytársaság; STRATIS Vezetői és Informatikai Tanácsadó Korlátolt Felelősségű Társaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "708043940",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2715_2021/",
-        "main_cpv": "72260000-5",
-        "number_companies_win": 8,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EN-CO Software Zártkörűen Működő Részvénytársaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "36700000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13117_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 2,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BIS-INFORMr Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MOLARIS Informatikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság; Sagemcom Magyarország Elektronikai Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; Sonrisa Informatikai Kft.; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "60000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18345_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 24,
-        "procurement_title": "Alkalmazásfejlesztési és üzemeltetés támogatási szolgáltatások nyújtása",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; ASH Szoftverház Korlátolt Felelősségű Társaság; ATOS Magyarország Korlátolt Felelősségű Társaság; BIS-INFORMr Szolgáltató Korlátolt Felelősségű Társaság; CLARMONT I.S. Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DMS Services Korlátolt Felelősségű Társaság; E-GROUP ICT SOFTWARE Informatikai Zártkörűen Működő Részvénytársaság; EN-CO Software Zártkörűen Működő Részvénytársaság; FORNAX ICT Infokommunikációs Megoldások Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; i-Cell Mobilsoft Zártkörűen Működő Részvénytársaság; IMG Solution Zártkörűen Működő Részvénytársaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; MOLARIS Informatikai Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; PRINTNET Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; S&T Services Hungary Korlátolt Felelősségű Társaság; Sagemcom Magyarország Elektronikai Korlátolt Felelősségű Társaság; SBP Systems Korlátolt Felelősségű Társaság; Soloron 40 Zártkörűen Működő Részvénytársaság; Sonrisa Informatikai Kft.; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Training360 Korlátolt Felelősségű Társaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Korlátolt Felelősségű Társaság; VFT Vezetési Tanácsadó és Informatikai Zártkörűen Működő Részvénytársaság; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "340000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18585_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 31,
-        "procurement_title": "Alkalmazásfejlesztési szolgáltatás EU-s forrásból (SWFE)",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EN-CO Software Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; ZALASZÁM Informatika Korlátolt Felelősségű Társaság",
-        "contract_value": "343462000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "20/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24495_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 3,
-        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
-        "registered_name": "ZALASZÁM Informatika Korlátolt Felelősségű Társaság"
+        "registered_name": "ZALASZÁM Informatika Kft."
     }
 ]

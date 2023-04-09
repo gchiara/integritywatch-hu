@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "262193510",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 262193510.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18203_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Átalakítási munka végzése",
-        "registered_name": "KIPSZER Fővállalkozási és Tervező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "KIPSZER Fővállalkozási és Tervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "168955908",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Sződliget Nagyközség Önkormányzata",
+        "contract_value": 168955908.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Sződliget Nagyközség Önkormányzata",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21872_2019/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "Tanterem tervezése, kivitelezése Sződligeten",
-        "registered_name": "KIPSZER Fővállalkozási és Tervező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "KIPSZER Fővállalkozási és Tervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "434999456",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság, Dabas Város Önkormányzata",
+        "contract_value": 434999456.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt., Dabas Város Önkormányzata",
         "date": "12/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4477_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tanterem tervezése-kivitelezése Dabason",
-        "registered_name": "KIPSZER Fővállalkozási és Tervező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "KIPSZER Fővállalkozási és Tervező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "770895848",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 770895848.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "02/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_17899_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Visegrádi Áprily L. Átalános Iskola bővítésének befejezése",
-        "registered_name": "KIPSZER Fővállalkozási és Tervező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "KIPSZER Fővállalkozási és Tervező Zrt."
     }
 ]

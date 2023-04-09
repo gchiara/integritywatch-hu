@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "95743720",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 95743720.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "23/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1160_2018/",
         "main_cpv": "45262660-5",
         "number_companies_win": 0,
         "procurement_title": "1014 Budapest, Nándor u. 5-7. sz. alatti irodaépület azbesztmentesítése",
-        "registered_name": "IGNIS Értékmentő Korlátolt Felelősségű Társaság"
+        "registered_name": "IGNIS Értékmentő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98345540",
-        "contracting_authority": "Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 98345540.0,
+        "contracting_authority": "Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Kft.",
         "date": "12/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9933_2018/",
         "main_cpv": "45262660-5",
         "number_companies_win": 0,
         "procurement_title": "A Kézmű Közhasznú Nonprofit Kft. központi telephelyén (1147 Budapest, Csömöri út 50-60. szám) álló ingatlan veszélyes anyag mentesítése",
-        "registered_name": "IGNIS Értékmentő Korlátolt Felelősségű Társaság"
+        "registered_name": "IGNIS Értékmentő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85002120",
+        "contract_value": 85002120.0,
         "contracting_authority": "Budapest Főváros Kormányhivatala",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15450_2018/",
         "main_cpv": "45262660-5",
         "number_companies_win": 0,
         "procurement_title": "1036 Budapest, Lajos utca 160-162. szám alatti irodaépületben azbesztmentesítés",
-        "registered_name": "IGNIS Értékmentő Korlátolt Felelősségű Társaság"
+        "registered_name": "IGNIS Értékmentő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "294845370",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "contract_value": 294845370.0,
+        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zrt.",
         "date": "20/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22188_2019/",
         "main_cpv": "45111100-9, 45262660-5",
         "number_companies_win": 0,
         "procurement_title": "Hajógyári sziget azbesztmentesítés",
-        "registered_name": "IGNIS Értékmentő Korlátolt Felelősségű Társaság"
+        "registered_name": "IGNIS Értékmentő Kft."
     }
 ]

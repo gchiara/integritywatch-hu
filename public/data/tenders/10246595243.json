@@ -1,7 +1,7 @@
 [
     {
-        "company_names": "\"PHAROS '95\" SPORTPÁLYAÉPÍTŐ Korlátolt Felelősségű Társaság; ARCHI-KON Épitészeti Tervező-Szervező Kft.; EVERLING Városépítő Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; LAM Ingatlanfejlesztő és Építő Zártkörűen működő Részvénytársaság",
-        "contract_value": "2800000000",
+        "company_names": "\"PHAROS '95\" SPORTPÁLYAÉPÍTŐ Kft.; ARCHI-KON Épitészeti Tervező-Szervező Kft.; EVERLING Városépítő Építőipari Kereskedelmi és Szolgáltató Kft.; LAM Ingatlanfejlesztő és Építő Zrt.",
+        "contract_value": 2800000000.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7534_2018/",
@@ -11,25 +11,14 @@
         "registered_name": "ARCHI-KON Épitészeti Tervező-Szervező Kft."
     },
     {
-        "company_names": "ARCHI-KON Épitészeti Tervező-Szervező Kft.; LAM Ingatlanfejlesztő és Építő Zártkörűen működő Részvénytársaság",
-        "contract_value": "375996989",
+        "company_names": "ARCHI-KON Épitészeti Tervező-Szervező Kft.; LAM Ingatlanfejlesztő és Építő Zrt.",
+        "contract_value": 375996989.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6836_2019/",
         "main_cpv": "45212200-8",
         "number_companies_win": 2,
         "procurement_title": "Műfüves nemzetközi labdarúgópályák és öltözőépületek tervezése/kivitelezése",
-        "registered_name": "ARCHI-KON Épitészeti Tervező-Szervező Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "66780000",
-        "contracting_authority": "Budapest Főváros VI. Kerület Terézváros Önkormányzata",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20912_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Hunyadi téri Vcsk. belső felújításának tervezése",
         "registered_name": "ARCHI-KON Épitészeti Tervező-Szervező Kft."
     }
 ]

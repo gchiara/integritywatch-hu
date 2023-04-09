@@ -1,68 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "4995738",
+        "contract_value": 4995738.0,
         "contracting_authority": "Almásfüzitő Község Önkormányzata",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9116_2018/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés keretében parkgondozási munkák elvégzése Almásfüzitő község Közigazgatási területén",
-        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15777054",
+        "contract_value": 15777054.0,
         "contracting_authority": "Almásfüzitő Község Önkormányzata",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7837_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 0,
         "procurement_title": "Parkgondozási munkák elvégzése Almásfüzitőn",
-        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 100000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_19238_2019/",
         "main_cpv": "50800000-3",
         "number_companies_win": 0,
         "procurement_title": "Kisgépek vizsgálata, eseti javítása",
-        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26064720",
-        "contracting_authority": "Almásfüzitő Község Önkormányzata",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_3878_2021/",
-        "main_cpv": "77313000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Parkgondozási munkák Almásfüzitőn",
-        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19548540",
-        "contracting_authority": "Almásfüzitő Község Önkormányzata",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10424_2021/",
-        "main_cpv": "77313000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Parkgondozási munkák Almásfüzitőn 2021",
-        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "83000000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "12/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_19399_2021/",
-        "main_cpv": "50530000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kisgépek javítása Debrecen és Miskolc területén",
-        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ZÖLDZÓNA PLUSZ Kereskedelmi és Szolgáltató Kft."
     }
 ]

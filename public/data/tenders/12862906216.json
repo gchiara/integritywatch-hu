@@ -1,68 +1,46 @@
 [
     {
-        "company_names": "Budai Villamos Tervező Korlátolt Felelősségű Társaság; EL-CO TECH Elektromos-Kommunikációs Technológiák Korlátolt Felelősségű Társaság; Energy Network Solutions Villamos Hálózati Létesítményeket Tervező és Kivitelező Korlátolt Felelősségű Társaság; HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság; IMPULZIV Építőipari és Szolgáltató kft; JUKO Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; JUKOŐR Ingatlanhasznosító Korlátolt Felelősségű Társaság; Kábel Team Villamosipari Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; NÓGRÁDVILL Építő, Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NOVA-MI Tervező és Tanácsadó Korlátolt Felelősségű Társaság; OPTOKOM Hálózattervező, Kivitelező és Üzemeltető Korlátolt Felelősségű Társaság; SELECTRIC Villamostervező Mérnöki és Szolgáltató Betéti Társaság; SEVILL Mérnök Iroda Villamos Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; SPIE Hungaria Korlátolt Felelősségű Társaság; SzEL-TERV Műszaki Tervező és Szolgáltató Korlátolt Felelősségű Társaság; T-TECH 2000 Biztonságtechnikai és Vagyonvédelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "3200000000",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "company_names": "Budai Villamos Tervező Kft.; EL-CO TECH Elektromos-Kommunikációs Technológiák Kft.; Energy Network Solutions Villamos Hálózati Létesítményeket Tervező és Kivitelező Kft.; HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Kft.; IMPULZIV Építőipari és Szolgáltató kft; JUKO Építőipari és Szolgáltató Kft.; JUKOŐR Ingatlanhasznosító Kft.; Kábel Team Villamosipari Szolgáltató és Kereskedelmi Kft.; NÓGRÁDVILL Építő, Ipari, Kereskedelmi és Szolgáltató Kft.; NOVA-MI Tervező és Tanácsadó Kft.; OPTOKOM Hálózattervező, Kivitelező és Üzemeltető Kft.; SELECTRIC Villamostervező Mérnöki és Szolgáltató Bt.; SEVILL Mérnök Iroda Villamos Tervező, Kivitelező és Szolgáltató Kft.; SPIE Hungaria Kft.; SzEL-TERV Műszaki Tervező és Szolgáltató Kft.; T-TECH 2000 Biztonságtechnikai és Vagyonvédelmi Kft.",
+        "contract_value": 3200000000.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6369_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 16,
         "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
-        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60000000",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 60000000.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_23411_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
-        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36000000",
-        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság, E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság, OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság",
+        "contract_value": 36000000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., OPUS TITÁSZ Áramhálózati Zrt.",
         "date": "30/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10039_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "KÖF/KIF villamoshálózati vezeték tervezési munkái",
-        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90000000",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 90000000.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "17/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_16623_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén - III. számú verseny újranyitás",
-        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15000000",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3781_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
-        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "72000000",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3781_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
-        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÁLÓZAT-TERV Villamosipari Tervező és Szolgáltató Kft."
     }
 ]

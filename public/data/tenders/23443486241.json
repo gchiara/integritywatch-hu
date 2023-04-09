@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "161000000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 161000000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_5701_2018/",
         "main_cpv": "65200000-5",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "242645128",
+        "contract_value": 242645128.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "01/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11654_2019/",
@@ -23,24 +23,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "511000000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 511000000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_19267_2019/",
         "main_cpv": "65200000-5",
         "number_companies_win": 0,
         "procurement_title": "Földgáz sűrítése és tankolása",
-        "registered_name": "MVM Mobiliti Kft."
-    },
-    {
-        "company_names": "",
-        "contract_value": "250000000",
-        "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
-        "date": "09/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10037_2021/",
-        "main_cpv": "09000000-3",
-        "number_companies_win": 0,
-        "procurement_title": "CNG Üzemanyag chipkártyás beszerzése",
         "registered_name": "MVM Mobiliti Kft."
     }
 ]

@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "1139996000",
-        "contracting_authority": "Kossuth 2006. Mezőgazdasági Termelő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1139996000.0,
+        "contracting_authority": "Kossuth 2006. Mezőgazdasági Termelő Zrt.",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16515_2018/",
         "main_cpv": "45213242-1",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarhatarto telepek korszerűsítése",
-        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2535095228",
-        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság",
+        "contract_value": 2535095228.0,
+        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zrt.",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18271_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Termelő istálló, tejház kivitelezése",
-        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4750000",
+        "contract_value": 4750000.0,
         "contracting_authority": "Cziráki Gábor",
         "date": "12/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20714_2018/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarhatartó telep eszköz beszerzései",
-        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299000000",
-        "contracting_authority": "KÖRÖS-MAROS BIOFARM SZARVASMARHA-TENYÉSZTŐ Korlátolt Felelősségű Társaság",
+        "contract_value": 299000000.0,
+        "contracting_authority": "KÖRÖS-MAROS BIOFARM SZARVASMARHA-TENYÉSZTŐ Kft.",
         "date": "22/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21531_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Körös-Maros Biofarm Kft. - fejőház fejlesztése, építése",
-        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BOSMARK Mezőgazdasági Termelést és Kereskedelmet Szervező, Szolgáltató Kft."
     }
 ]

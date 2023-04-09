@@ -1,35 +1,35 @@
 [
     {
-        "company_names": "Holitor Környezetvédelmi és Szolgáltató Korlátolt Felelősségű Társaság; VIDRA Környezetgazdálkodási Korlátolt Felelősségű Társaság",
-        "contract_value": "121996300",
-        "contracting_authority": "KMKK Középkelet-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság",
+        "company_names": "Holitor Környezetvédelmi és Szolgáltató Kft.; VIDRA Környezetgazdálkodási Kft.",
+        "contract_value": 121996300.0,
+        "contracting_authority": "KMKK Középkelet-magyarországi Közlekedési Központ Zrt.",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22570_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Kármentesítés Szolnok",
-        "registered_name": "VIDRA Környezetgazdálkodási Korlátolt Felelősségű Társaság"
+        "registered_name": "VIDRA Környezetgazdálkodási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89542737",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 89542737.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "03/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5846_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Börcsi pihenőhely szennyvízcsatornára rákötése",
-        "registered_name": "VIDRA Környezetgazdálkodási Korlátolt Felelősségű Társaság"
+        "registered_name": "VIDRA Környezetgazdálkodási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299800000",
-        "contracting_authority": "Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság",
+        "contract_value": 299800000.0,
+        "contracting_authority": "Városliget Ingatlanfejlesztő Zrt.",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10804_2019/",
         "main_cpv": "45262660-5",
         "number_companies_win": 0,
         "procurement_title": "Kármentesítés, részleges rekultiváció",
-        "registered_name": "VIDRA Környezetgazdálkodási Korlátolt Felelősségű Társaság"
+        "registered_name": "VIDRA Környezetgazdálkodási Kft."
     }
 ]

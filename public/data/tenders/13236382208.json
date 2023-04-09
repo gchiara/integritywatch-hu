@@ -1,233 +1,156 @@
 [
     {
         "company_names": "",
-        "contract_value": "39507491",
+        "contract_value": 39507491.0,
         "contracting_authority": "Dör Községi Önkormányzat",
         "date": "08/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_103_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Kultúrház felújítása Dör Községben",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39110990",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 39110990.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "25/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1378_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Szociális és Gyermekvédelmi Főigazgatóság épületeinek energetikai felújítása című projekt keretében a Szociális és Gyermekvédelmi Főigazgatóság Győr-Moson-Sopron Megye 025 HRSZ 9086 Töltéstava-Táplánypuszta című, Dr. Piróth Endre Mentálhigiéniás Otthon B épületének energetikai felújítására",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98856472",
+        "contract_value": 98856472.0,
         "contracting_authority": "Kapuvár Városi Önkormányzat",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3567_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kapuvári házhelyi óvoda infrastrukturális fejlesztése",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40007485",
+        "contract_value": 40007485.0,
         "contracting_authority": "Beled Város Önkormányzata",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9550_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Beled város középületeinek energetikai korszerűsítése",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59135196",
+        "contract_value": 59135196.0,
         "contracting_authority": "Beled Város Önkormányzata",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9550_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Beled város középületeinek energetikai korszerűsítése",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31165918",
+        "contract_value": 31165918.0,
         "contracting_authority": "Csorna Város Önkormányzata",
         "date": "03/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21784_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Zöldterületi fejlesztések megvalósítása Csornán",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33874777",
+        "contract_value": 33874777.0,
         "contracting_authority": "Rábacsécsény Község Önkormányzata",
         "date": "04/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24412_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Rábacsécsény iskola energetikai korszerűsítése",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47233244",
+        "contract_value": 47233244.0,
         "contracting_authority": "Kisbér Város Önkormányzata",
         "date": "06/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8017_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Idősek Otthona energetikai korszerűsítése",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85957221",
+        "contract_value": 85957221.0,
         "contracting_authority": "Szil Község Önkormányzata",
         "date": "22/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9072_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sacra Velo kerékpáros bázis kialakítása",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7484034",
+        "contract_value": 7484034.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "24/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2960_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tájékoztató az eljárás eredményéről.",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1040329863",
+        "contract_value": 1040329863.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "24/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2960_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tájékoztató az eljárás eredményéről.",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68331515",
+        "contract_value": 68331515.0,
         "contracting_authority": "Beled Város Önkormányzata",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5336_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69339957",
+        "contract_value": 69339957.0,
         "contracting_authority": "Csorna Város Önkormányzata",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8189_2020/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "Ifjúsági ház felújítása Csornán",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299567988",
+        "contract_value": 299567988.0,
         "contracting_authority": "Csorna Város Önkormányzata",
         "date": "28/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19763_2020/",
         "main_cpv": "45210000-2, 45211350-7, 45233200-1",
         "number_companies_win": 0,
         "procurement_title": "Barnamezős terület rehabilitáció Csornán",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6994923",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21983105",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21997026",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32940960",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "35910590",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "61399563",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "70984447",
-        "contracting_authority": "Soproni Tankerületi Központ",
-        "date": "14/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10888_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolai felújítások",
-        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "KOVÁCS BAU Építőipari és Szolgáltató Kft."
     }
 ]

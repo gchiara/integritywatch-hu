@@ -1,101 +1,90 @@
 [
     {
-        "company_names": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság; Solargroup Energy Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "185850000",
+        "company_names": "HungaroSun Szolgáltató és Kereskedelmi Bt.; Solargroup Energy Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 185850000.0,
         "contracting_authority": "Békés Megyei Központi Kórház",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19642_2017/",
         "main_cpv": "45310000-3",
         "number_companies_win": 2,
         "procurement_title": "Napelemes energiatermelő rendszer kiépítése a Békés Megyei Központi Kórházban",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "162686499",
+        "contract_value": 162686499.0,
         "contracting_authority": "Zákányszék Község Önkormányzata",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5901_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése és Sportcsarnok felújítása",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "297581899",
-        "contracting_authority": "Gyuris Virág Dísznövénytermesztő Korlátolt Felelősségű Társaság",
+        "contract_value": 297581899.0,
+        "contracting_authority": "Gyuris Virág Dísznövénytermesztő Kft.",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8682_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Virágkertészet és üvegházak energetikai korszerűsítése - Gyuris Virág Kft.",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "78618749",
+        "contract_value": 78618749.0,
         "contracting_authority": "Sándorfalva Városi Önkormányzat, Szűz Mária Szent Neve Plébánia",
         "date": "04/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9076_2018/",
         "main_cpv": "45236250-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés keretében Sándorfalva település Zöld város kialakítása",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "16993080",
+        "contract_value": 16993080.0,
         "contracting_authority": "Kiszombor Nagyközség Önkormányzata",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2761_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A KISZOMBOR NAGYKÖZSÉG ÖNKORMÁNYZATA ÉPÜLETEINEK ÁTALAKÍTÁSA KORSZERŰSÍTÉSE",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "244078565",
+        "contract_value": 244078565.0,
         "contracting_authority": "Kiszombor Nagyközség Önkormányzata",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2761_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A KISZOMBOR NAGYKÖZSÉG ÖNKORMÁNYZATA ÉPÜLETEINEK ÁTALAKÍTÁSA KORSZERŰSÍTÉSE",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "179984238",
+        "contract_value": 179984238.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "26/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5190_2019/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Napelempark építése",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "47197962",
+        "contract_value": 47197962.0,
         "contracting_authority": "Kiszombor Nagyközség Önkormányzata",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9640_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Helyi piac létesítése Kiszomboron",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "677028869",
-        "contracting_authority": "ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "06/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12836_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Rotunda energetikai felújítása",
-        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Betéti Társaság"
+        "registered_name": "HungaroSun Szolgáltató és Kereskedelmi Bt."
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "18660221658",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "contract_value": 18660221658.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "05/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19197_2017/",
         "main_cpv": "45230000-8",
@@ -12,8 +12,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "439557875",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 439557875.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3621_2018/",
         "main_cpv": "45316213-1",
@@ -23,8 +23,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "207024320",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 207024320.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "23/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3884_2018/",
         "main_cpv": "45314300-4",
@@ -34,8 +34,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "5308976378",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5308976378.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4327_2018/",
         "main_cpv": "50100000-6",
@@ -45,8 +45,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "22828500",
-        "contracting_authority": "DV Parking Korlátolt Felelősségű Társaság",
+        "contract_value": 22828500.0,
+        "contracting_authority": "DV Parking Kft.",
         "date": "27/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4257_2018/",
         "main_cpv": "38730000-1",
@@ -56,8 +56,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "11334012",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11334012.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_6911_2018/",
         "main_cpv": "34600000-3",
@@ -67,8 +67,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "16785600",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 16785600.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_7028_2018/",
         "main_cpv": "31100000-7",
@@ -78,8 +78,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "165360000",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 165360000.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_7028_2018/",
         "main_cpv": "31100000-7",
@@ -89,8 +89,8 @@
     },
     {
         "company_names": "Knorr-Bremse GmbH.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
-        "contract_value": "7873674509,25",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 7873674509.25,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "14/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_7601_2018/",
         "main_cpv": "34630000-2",
@@ -100,8 +100,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "6283952",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6283952.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "22/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_7868_2018/",
         "main_cpv": "42512500-3",
@@ -111,8 +111,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "891859027,4",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 891859027.4,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "29/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_8384_2018/",
         "main_cpv": "31214000-9",
@@ -121,9 +121,9 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zártkörűen Működő Részvénytársaság; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
-        "contract_value": "717628774,5",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "company_names": "SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zrt.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
+        "contract_value": 717628774.5,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_9760_2018/",
         "main_cpv": "31174000-6",
@@ -132,9 +132,9 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zártkörűen Működő Részvénytársaság; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; ZPUE S.A.",
-        "contract_value": "5265021757,89",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zrt.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; ZPUE S.A.",
+        "contract_value": 5265021757.89,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_9760_2018/",
         "main_cpv": "31174000-6",
@@ -144,8 +144,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "430652408",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 430652408.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_11274_2018/",
         "main_cpv": "34600000-3",
@@ -155,8 +155,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "185948890",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 185948890.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "25/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12531_2018/",
         "main_cpv": "45315700-5",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
+        "contract_value": 20000000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14009_2018/",
@@ -177,8 +177,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "13236599530",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13236599530.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "12/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18176_2018/",
         "main_cpv": "50532000-3",
@@ -188,8 +188,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "47907025,6",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 47907025.6,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "21/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_20810_2018/",
         "main_cpv": "31212000-5",
@@ -199,8 +199,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "673507300",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 673507300.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "21/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_789_2019/",
         "main_cpv": "50532000-3",
@@ -210,8 +210,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "262880",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság",
+        "contract_value": 262880.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft.",
         "date": "08/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_2302_2019/",
         "main_cpv": "31174000-6",
@@ -221,8 +221,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "21510357,6",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 21510357.6,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_2669_2019/",
         "main_cpv": "31174000-6",
@@ -232,8 +232,8 @@
     },
     {
         "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
-        "contract_value": "883748360,3",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 883748360.3,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_2669_2019/",
         "main_cpv": "31174000-6",
@@ -242,9 +242,9 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; KONCAR Distributivni i specijalni transformatori d.d.; LEMI TRAFO JSC.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság",
-        "contract_value": "5566655812,75",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; KONCAR Distributivni i specijalni transformatori d.d.; LEMI TRAFO JSC.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Bt.",
+        "contract_value": 5566655812.75,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "15/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_2669_2019/",
         "main_cpv": "31174000-6",
@@ -254,8 +254,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "28656255,93",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 28656255.93,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6647_2019/",
         "main_cpv": "50532000-3",
@@ -265,8 +265,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "105128920,7",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 105128920.7,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_5745_2019/",
         "main_cpv": "31212000-5",
@@ -276,8 +276,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "480823104",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 480823104.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_8982_2019/",
         "main_cpv": "31174000-6",
@@ -287,8 +287,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "1188295104",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 1188295104.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_8982_2019/",
         "main_cpv": "31174000-6",
@@ -298,8 +298,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "314214654",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 314214654.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_7760_2019/",
         "main_cpv": "31000000-6",
@@ -309,8 +309,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "63713543,8",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 63713543.8,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11233_2019/",
         "main_cpv": "31213200-4",
@@ -320,8 +320,8 @@
     },
     {
         "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; Končar – Distribution and Special Transformers, Inc.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
-        "contract_value": "2861534779",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 2861534779.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11233_2019/",
         "main_cpv": "31213200-4",
@@ -331,8 +331,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "44074030",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 44074030.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "22/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_13204_2019/",
         "main_cpv": "50532000-3",
@@ -342,8 +342,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "4832000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4832000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "12/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17345_2019/",
         "main_cpv": "31170000-8",
@@ -353,8 +353,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "44936391",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 44936391.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19776_2019/",
         "main_cpv": "31000000-6",
@@ -364,8 +364,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "1108456",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1108456.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "24/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_20040_2019/",
         "main_cpv": "50532000-3",
@@ -375,8 +375,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "150000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "contract_value": 150000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "04/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_19750_2019/",
         "main_cpv": "42124340-9",
@@ -386,8 +386,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "5078627",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5078627.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0419_2020/",
         "main_cpv": "50532000-3",
@@ -397,8 +397,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "29954710",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 29954710.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0419_2020/",
         "main_cpv": "50532000-3",
@@ -408,8 +408,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "61009184",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 61009184.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0419_2020/",
         "main_cpv": "50532000-3",
@@ -419,8 +419,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "1065316802",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1065316802.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0419_2020/",
         "main_cpv": "50532000-3",
@@ -430,8 +430,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "4492208",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
+        "contract_value": 4492208.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
         "date": "21/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_2296_2020/",
         "main_cpv": "31174000-6",
@@ -441,8 +441,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "10494998",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10494998.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "28/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_6954_2020/",
         "main_cpv": "50532000-3",
@@ -451,8 +451,8 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; ELEKTRO PROFI Vállalkozási Korlátolt Felelősségű Társaság; Prolan Irányítástechnikai Zártkörűen Működő Részvénytársaság; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "750000000",
+        "company_names": "4iG Nyrt.; BRAVOVISUAL Kft.; ELEKTRO PROFI Vállalkozási Kft.; Prolan Irányítástechnikai Zrt.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; T-Systems Magyarország Zrt.",
+        "contract_value": 750000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7878_2020/",
@@ -462,8 +462,8 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; Elektromotive Hungaria Korlátolt Felelősségű Társaság; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2000000000",
+        "company_names": "4iG Nyrt.; Elektromotive Hungaria Kft.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; T-Systems Magyarország Zrt.",
+        "contract_value": 2000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7878_2020/",
@@ -474,8 +474,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "596968440",
-        "contracting_authority": "OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság",
+        "contract_value": 596968440.0,
+        "contracting_authority": "OPUS TITÁSZ Áramhálózati Zrt.",
         "date": "05/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_9519_2020/",
         "main_cpv": "35125000-6",
@@ -484,8 +484,8 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "Hitachi Energy Hungary Korlátolt Felelősségű Társaság; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
-        "contract_value": "1274315289",
+        "company_names": "Hitachi Energy Hungary Kft.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
+        "contract_value": 1274315289.0,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10157_2020/",
@@ -495,8 +495,8 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "Hitachi Energy Hungary Korlátolt Felelősségű Társaság; Lemi-Trafo JSC; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Betéti Társaság",
-        "contract_value": "2543646143,25",
+        "company_names": "Hitachi Energy Hungary Kft.; Lemi-Trafo JSC; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság; SZIGMAVILL Mérnöki Kereskedelmi és Szolgáltató Bt.",
+        "contract_value": 2543646143.25,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10157_2020/",
@@ -507,8 +507,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "5485918",
-        "contracting_authority": "MVM Balance Zártkörűen Működő Részvénytársaság",
+        "contract_value": 5485918.0,
+        "contracting_authority": "MVM Balance Zrt.",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12948_2020/",
         "main_cpv": "50532000-3",
@@ -517,9 +517,9 @@
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     },
     {
-        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zártkörűen Működő Részvénytársaság; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
-        "contract_value": "1060231230",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
+        "company_names": "ABB Mérnöki Kereskedelmi és Szolgáltató Kft.; SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zrt.; Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság",
+        "contract_value": 1060231230.0,
+        "contracting_authority": "E.ON Gazdasági Szolgáltató Kft.",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_14430_2020/",
         "main_cpv": "31214000-9",
@@ -529,7 +529,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "367439894,8",
+        "contract_value": 367439894.8,
         "contracting_authority": "MVM Démász Áramhálózati Kft.",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_18159_2020/",
@@ -540,79 +540,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "1263738",
+        "contract_value": 1263738.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "10/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22134_2020/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépészmérnöki eszközök beszerzése",
-        "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "98253134,1",
-        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság",
-        "date": "28/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_7227_2021/",
-        "main_cpv": "31210000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Középfeszültségű 22 kV-os tokozott berendezés",
-        "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "130302675",
-        "contracting_authority": "E.ON Gazdasági Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "04/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_7449_2021/",
-        "main_cpv": "31214000-9",
-        "number_companies_win": 0,
-        "procurement_title": "KÖF, légszigetelésű, tokozott kapcsolóberendezés",
-        "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "99313776,6",
-        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság",
-        "date": "13/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_8451_2021/",
-        "main_cpv": "31210000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Középfeszültségű 22 kV-os tokozott berendezés",
-        "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1166680371,9",
-        "contracting_authority": "ELMÜ Hálózati Elosztó Korlátolt Felelősségű Társaság, MVM Émász Áramhálózati Kft.",
-        "date": "10/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_16965_2021/",
-        "main_cpv": "31214000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kompakt kapcsolóberendezések beszerzése",
-        "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3222578",
-        "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18906_2021/",
-        "main_cpv": "38970000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Kiber-fizikai gyártórendszer beszerzése",
-        "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "266612044",
-        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zártkörűen Működő Részvénytársaság",
-        "date": "30/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_23400_2021/",
-        "main_cpv": "31214000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kapcsoló berendezések szállítása II.",
         "registered_name": "Siemens termelő, szolgáltató és kereskedelmi zártkörüen működő részvénytársaság"
     }
 ]

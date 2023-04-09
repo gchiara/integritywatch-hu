@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "272747718",
+        "contract_value": 272747718.0,
         "contracting_authority": "Migazzi Kristóf Idősek Otthona",
         "date": "11/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19730_2019/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Migazzi Otthon energetikai korszerűsítése",
-        "registered_name": "REAG Invest Korlátolt Felelősségű Társaság"
+        "registered_name": "REAG Invest Kft."
     },
     {
         "company_names": "",
-        "contract_value": "115151760",
+        "contract_value": 115151760.0,
         "contracting_authority": "Katolikus Szeretetszolgálat",
         "date": "16/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19729_2019/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Názáret Otthon energetikai korszerűsítése",
-        "registered_name": "REAG Invest Korlátolt Felelősségű Társaság"
+        "registered_name": "REAG Invest Kft."
     },
     {
         "company_names": "",
-        "contract_value": "217760237",
+        "contract_value": 217760237.0,
         "contracting_authority": "Szent Mór Bencés Perjelség",
         "date": "30/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20204_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Bencés Gimnázium és Kollégium energetikai felújítása",
-        "registered_name": "REAG Invest Korlátolt Felelősségű Társaság"
+        "registered_name": "REAG Invest Kft."
     },
     {
         "company_names": "",
-        "contract_value": "131907407",
+        "contract_value": 131907407.0,
         "contracting_authority": "Esztergom-Budapesti Főegyházmegye",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15025_2020/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Szent József Óvoda és Iskola II. ütem - felújítás",
-        "registered_name": "REAG Invest Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "214327849",
-        "contracting_authority": "Szent Mór Bencés Perjelség",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23361_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 0,
-        "procurement_title": "Szent Mór Bencés Perjelség-Loyd Palota tetőtér",
-        "registered_name": "REAG Invest Korlátolt Felelősségű Társaság"
+        "registered_name": "REAG Invest Kft."
     }
 ]

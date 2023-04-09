@@ -1,189 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "2149884433",
+        "contract_value": 2149884433.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "27/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12410_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "A debreceni déli gazdasági övezet feltáró úthálózatának megépítése a hozzá kapcsolódó közművekkel",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1904263038",
+        "contract_value": 1904263038.0,
         "contracting_authority": "Aqua Sport Egyesület",
         "date": "02/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13215_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyíregyházi Bujtosi uszoda építése a Hunyadi - Szegfű utcasarkon",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1387361250",
+        "contract_value": 1387361250.0,
         "contracting_authority": "\"Makó és Térsége\" Ivóvízminőség-Javító Önkormányzati Társulás",
         "date": "25/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3154_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Makó ivóvíz tervezés és kivitelezés",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "Bazaltech Mérnöki Szolgáltató Kft.; KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1702385593",
-        "contracting_authority": "Homokhátsági Regionális Hulladékgazdálkodási Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "Bazaltech Mérnöki Szolgáltató Kft.; KEVIÉP Építőipari és Kereskedelmi Kft.",
+        "contract_value": 1702385593.0,
+        "contracting_authority": "Homokhátsági Regionális Hulladékgazdálkodási Önkormányzati Társulás, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "04/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9169_2019/",
         "main_cpv": "45222100-0",
         "number_companies_win": 2,
         "procurement_title": "Komplex hulladékgazdálkodási rendszer fejlesztése a Homokhátság területén",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3455730870",
-        "contracting_authority": "Debreceni Agglomeráció Hulladékgazdálkodási Társulat, NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 3455730870.0,
+        "contracting_authority": "Debreceni Agglomeráció Hulladékgazdálkodási Társulat, NFP Nemzeti Fejlesztési Programiroda Nonprofit Kft.",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2313_2020/",
         "main_cpv": "45222100-0",
         "number_companies_win": 0,
         "procurement_title": "Hajdú-Bihar megyében, MBH technológia kivitelezése",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "730014155",
+        "contract_value": 730014155.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "17/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2272_2020/",
         "main_cpv": "45112700-2",
         "number_companies_win": 0,
         "procurement_title": "Debrecen, Dósa nádor tér rendezése",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1368257758",
+        "contract_value": 1368257758.0,
         "contracting_authority": "Hajdúböszörményi Torna Egylet",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3977_2020/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Multifunkcionális kézilabdacsarnok tervezés, kivitelezés",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6463750",
+        "contract_value": 6463750.0,
         "contracting_authority": "Aqua Sport Egyesület",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4930_2020/",
         "main_cpv": "37400000-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14640250",
+        "contract_value": 14640250.0,
         "contracting_authority": "Aqua Sport Egyesület",
         "date": "23/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4930_2020/",
         "main_cpv": "37400000-2",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "817572394",
+        "contract_value": 817572394.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5203_2020/",
         "main_cpv": "45247112-8",
         "number_companies_win": 0,
         "procurement_title": "Cs-1 jelű zárt csapadékvíz elvezető rendszer",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24707761",
+        "contract_value": 24707761.0,
         "contracting_authority": "Aqua Sport Egyesület",
         "date": "16/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6638_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Napelem telepítés Város Uszoda",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "837809800",
+        "contract_value": 837809800.0,
         "contracting_authority": "Debrecen-Nagytemplomi Református Egyházközség",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11282_2020/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Meglévő iskolaépület bővítése és felújítása",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43113750",
+        "contract_value": 43113750.0,
         "contracting_authority": "Aqua Sport Egyesület",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13177_2020/",
         "main_cpv": "45112710-5",
         "number_companies_win": 0,
         "procurement_title": "A nyíregyházi uszoda környezetében kertépítészeti kivitelezési munkák elvégzése",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "377990007",
-        "contracting_authority": "A.K.S.D. Városgazdálkodási Korlátolt Felelősségű Társaság",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6210_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Nem veszélyeshulladék-lerakó 6/A. ütem kivitelezés",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "647002442",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9880_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Epreskerti Általános Iskola tornateremmel bővítése",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "176045610",
-        "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
-        "date": "25/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20514_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Jégkorszak Állatbemutató építése II–V. ütem",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "573433585",
-        "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
-        "date": "25/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20514_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Jégkorszak Állatbemutató építése II–V. ütem",
-        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KEVIÉP Építőipari és Kereskedelmi Kft."
     }
 ]

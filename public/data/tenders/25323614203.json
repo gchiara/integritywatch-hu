@@ -1,200 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "27981283",
+        "contract_value": 27981283.0,
         "contracting_authority": "Bócsa Község Önkormányzat",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19337_2017/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati étkeztetés fejlesztése Bócsán",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50465416",
+        "contract_value": 50465416.0,
         "contracting_authority": "Pirtó Község Önkormányzata",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18411_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai fejlesztés és közösségi tér kialakítás",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "61990720",
+        "contract_value": 61990720.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "28/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21449_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kiskunhalasi városháza tornyának felújítása",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8950000",
-        "contracting_authority": "JEDLIK 1830 Korlátolt Felelősségű Társaság",
+        "contract_value": 8950000.0,
+        "contracting_authority": "JEDLIK 1830 Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20787_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyümölcslé gyártó üzem kialakítása",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "292890395",
-        "contracting_authority": "JEDLIK 1830 Korlátolt Felelősségű Társaság",
+        "contract_value": 292890395.0,
+        "contracting_authority": "JEDLIK 1830 Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20787_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyümölcslé gyártó üzem kialakítása",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27800377",
+        "contract_value": 27800377.0,
         "contracting_authority": "Pirtó Község Önkormányzata",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22666_2018/",
         "main_cpv": "45210000-2, 45261400-8, 45350000-5",
         "number_companies_win": 0,
         "procurement_title": "Közösségi tér kialakítása",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82747268",
-        "contracting_authority": "Halasi Média és Kultúra Nonprofit Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 82747268.0,
+        "contracting_authority": "Halasi Média és Kultúra Nonprofit Szolgáltató Kft.",
         "date": "07/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10440_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sáfrik-féle szélmalom felújítása",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33569992",
+        "contract_value": 33569992.0,
         "contracting_authority": "Szentkirály Község Önkormányzata",
         "date": "10/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10132_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szentkirályi piac, közétkeztetés fejlesztése",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48500592",
+        "contract_value": 48500592.0,
         "contracting_authority": "Szentkirály Község Önkormányzata",
         "date": "10/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10132_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szentkirályi piac, közétkeztetés fejlesztése",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31712589",
+        "contract_value": 31712589.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "11/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9955_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati intézmények energetikai korszerűsítése",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55926986",
+        "contract_value": 55926986.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "11/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9955_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati intézmények energetikai korszerűsítése",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "201727359",
+        "contract_value": 201727359.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "11/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9955_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati intézmények energetikai korszerűsítése",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29010518",
+        "contract_value": 29010518.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_22435_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szegregált városrészek felújítása Kiskunhalason",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "117074384",
-        "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14035_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "4 óvoda korszerűsítése - Szegeden",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "89534334",
-        "contracting_authority": "Jakabszállás Község Önkormányzata",
-        "date": "12/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14661_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségügyi központ kialakítása Jakabszálláson",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "47217903",
-        "contracting_authority": "Hódmezővásárhely Megyei Jogú Város Önkormányzata",
-        "date": "19/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20470_2021/",
-        "main_cpv": "45211340-4",
-        "number_companies_win": 0,
-        "procurement_title": "Leromlott városi területek rehabilitációja",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55058892",
-        "contracting_authority": "Hódmezővásárhely Megyei Jogú Város Önkormányzata",
-        "date": "19/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20470_2021/",
-        "main_cpv": "45211340-4",
-        "number_companies_win": 0,
-        "procurement_title": "Leromlott városi területek rehabilitációja",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "76519500",
-        "contracting_authority": "Hódmezővásárhely Megyei Jogú Város Önkormányzata",
-        "date": "19/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20470_2021/",
-        "main_cpv": "45211340-4",
-        "number_companies_win": 0,
-        "procurement_title": "Leromlott városi területek rehabilitációja",
-        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Korlátolt Felelősségű Társaság"
+        "registered_name": "PÜSPÖKI ÉPÍTŐIPARI Kft."
     }
 ]

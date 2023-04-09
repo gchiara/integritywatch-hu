@@ -1,123 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "42418961",
+        "contract_value": 42418961.0,
         "contracting_authority": "Vasvár Város Önkormányzata",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_678_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nagyboldogasszony Római Katolikus Temetőkápolna felújítása",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47817950",
+        "contract_value": 47817950.0,
         "contracting_authority": "SZOMBATHELYI TANKERÜLETI KÖZPONT",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2123_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Mindszenty József Általános Iskola, a Kölcsey Ferenc Gimnázium és a Németh Pál Kollégium felújítási munkái",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70210400",
+        "contract_value": 70210400.0,
         "contracting_authority": "Vas Megyei Rendőr-Főkapitányság",
         "date": "19/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1863_2018/",
         "main_cpv": "45400000-1",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Vas Megyei Rendőr-főkapitányság Szombathely, Söptei út külső alatti Szent László Terem és étkezde belső felújítására.",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52531100",
+        "contract_value": 52531100.0,
         "contracting_authority": "Perenye Község Önkormányzata",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9597_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "A perenyei Aranyhíd Óvoda felújítása és korszerűsítése (építési beruházás)",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "156618163",
-        "contracting_authority": "Mandula Fűszer Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 156618163.0,
+        "contracting_authority": "Mandula Fűszer Kereskedelmi Kft.",
         "date": "28/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1775_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyümölcslé gyártó üzem építése",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "141575853",
+        "contract_value": 141575853.0,
         "contracting_authority": "Vas Megyei Rendőr-Főkapitányság",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6418_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Konyhafelújítás",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49959230",
+        "contract_value": 49959230.0,
         "contracting_authority": "Vas Megyei Kormányhivatal",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17364_2019/",
         "main_cpv": "45300000-0",
         "number_companies_win": 0,
         "procurement_title": "Lift kialakítása",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "294978901",
+        "contract_value": 294978901.0,
         "contracting_authority": "Körmend Város Önkormányzata",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8188_2020/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Vásár-tér, helyi piac létesítése Körmenden",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "417969665",
+        "contract_value": 417969665.0,
         "contracting_authority": "SZOMBATHELYI TANKERÜLETI KÖZPONT",
         "date": "23/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_21640_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építőipari munkálatok",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "62333931",
-        "contracting_authority": "Vas Megyei Kormányhivatal",
-        "date": "08/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23958_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Sági út 4. vizsgasori szerelőakna",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "87728061",
-        "contracting_authority": "Vas Megyei Rendőr-Főkapitányság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24004_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Vas Megyei RFK - Körmend energetikai felújítás",
-        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Vasi Tandem Építőipari és Szolgáltató Kft."
     }
 ]

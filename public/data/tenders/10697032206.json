@@ -1,24 +1,24 @@
 [
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "194983275",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Kft.",
+        "contract_value": 194983275.0,
         "contracting_authority": "Budapesti Zsido Hitközség",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7537_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 2,
         "procurement_title": "A Budapest XIV. kerület, Thököly út 83. szám alatti zsinagóga átalakítási munkáinak kivitelezése",
-        "registered_name": "EMKE Kereskedelmi- és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EMKE Kereskedelmi- és Szolgáltató Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "146000000",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; \"EMKE\" Kereskedelmi- és Szolgáltató Kft.",
+        "contract_value": 146000000.0,
         "contracting_authority": "Sopron Megyei Jogú Város Önkormányzata",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12155_2018/",
         "main_cpv": "45443000-4",
         "number_companies_win": 2,
         "procurement_title": "Sopron belvárosi műemléki épületek homlokzatának felújítási munkáinak megvalósítása",
-        "registered_name": "EMKE Kereskedelmi- és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EMKE Kereskedelmi- és Szolgáltató Kft."
     }
 ]

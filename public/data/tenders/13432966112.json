@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "106932000",
+        "contract_value": 106932000.0,
         "contracting_authority": "Dél-Borsodi Sürgősségi Betegellátási Társulás",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18741_2017/",
         "main_cpv": "85121100-4",
         "number_companies_win": 0,
         "procurement_title": "Központi orvosi ügyeleti feladatok ellátása ügyeleti szolgálat működtetése Mezőcsát központi telephellyel",
-        "registered_name": "Pannon Paramedic Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pannon Paramedic Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "559920000",
+        "contract_value": 559920000.0,
         "contracting_authority": "Miskolc Megyei Jogú Város Önkormányzata",
         "date": "22/08/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_12996_2018/",
         "main_cpv": "85140000-2",
         "number_companies_win": 0,
         "procurement_title": "Háziorvosi és házi gyermekorvosi központi ügyelet",
-        "registered_name": "Pannon Paramedic Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pannon Paramedic Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77760000",
+        "contract_value": 77760000.0,
         "contracting_authority": "Bátonyterenye Város Önkormányzata, Dorogháza Község Önkormányzata, Mátramindszent Község Önkormányzata, Mátranovák Község Önkormányzat, Mátraterenye Község Önkormányzata, Mátraverebély Község Önkormányzata, Nemti Község Önkormányzata, Rákóczibánya Község Önkormányzata, Szuha Község Önkormányzata",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0091_2020/",
         "main_cpv": "85121100-4",
         "number_companies_win": 0,
         "procurement_title": "Központi orvosi ügyelet ellátása",
-        "registered_name": "Pannon Paramedic Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pannon Paramedic Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "117288000",
+        "contract_value": 117288000.0,
         "contracting_authority": "Alsótold Község Önkormányzata, Bokor Község Önkormányzata, Csécse Község Önkormányzata, Cserhátszentiván Község Önkormányzata, Ecseg Község Önkormányzata, Felsőtold Község Önkormányzata, Garáb Község Önkormányzata, Jobbágyi Község Önkormányzata, Kozárd Község Önkormányzata, Kutasó Község Önkormányzata, Mátraszőlős Község Önkormányzata, Pásztó Városi Önkormányzat, Szarvasgede Község Önkormányzata, Szurdokpüspöki Község Önkormányzata, Tar Község Önkormányzata",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11716_2020/",
         "main_cpv": "85121100-4",
         "number_companies_win": 0,
         "procurement_title": "Központi orvosi ügyelet ellátása",
-        "registered_name": "Pannon Paramedic Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Pannon Paramedic Szolgáltató Kft."
     }
 ]

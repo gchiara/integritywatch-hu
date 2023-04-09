@@ -1,46 +1,46 @@
 [
     {
-        "company_names": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság; WESSLING Hungary Környezetvédelmi, Élelmiszerbiztonsági, Egészségvédelmi és Minőségügyi Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2082676973",
+        "company_names": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft.; WESSLING Hungary Környezetvédelmi, Élelmiszerbiztonsági, Egészségvédelmi és Minőségügyi Szolgáltató Kft.",
+        "contract_value": 2082676973.0,
         "contracting_authority": "Országos Vízügyi Főigazgatóság",
         "date": "30/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_14612_2018/",
         "main_cpv": "71610000-7",
         "number_companies_win": 2,
         "procurement_title": "Vállalkozási szerződés a VKI monitoring projekt keretében kutatási - módszerfejlesztő - adatgyűjtő program kialakítására",
-        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft."
     },
     {
-        "company_names": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság; IDUR Tervező, Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; MECSEKÉRC Környezetvédelmi Zártkörűen Működő Részvénytársaság",
-        "contract_value": "148125000",
+        "company_names": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft.; IDUR Tervező, Kivitelező és Szolgáltató Kft.; MECSEKÉRC Környezetvédelmi Zrt.",
+        "contract_value": 148125000.0,
         "contracting_authority": "Országos Vízügyi Főigazgatóság",
         "date": "27/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21462_2018/",
         "main_cpv": "90722200-6",
         "number_companies_win": 3,
         "procurement_title": "Szekszárd, Lőtéri vízbázis kármentesítése című projekt tervezést előkészítő feladatainak ellátása",
-        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23092000",
+        "contract_value": 23092000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1292_2019/",
         "main_cpv": "90731400-4",
         "number_companies_win": 0,
         "procurement_title": "Légszennyező pontforrás kibocsátásának vizsgálata",
-        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft."
     },
     {
-        "company_names": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság; ELGOSCAR-2000 Környezettechnológiai és Vízgazdálkodási Korlátolt Felelősségű Társaság; TI-ROL Környezetvédelmi Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "600000000",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "company_names": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft.; ELGOSCAR-2000 Környezettechnológiai és Vízgazdálkodási Kft.; TI-ROL Környezetvédelmi Szolgáltató Kft.",
+        "contract_value": 600000000.0,
+        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zrt.",
         "date": "16/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19659_2019/",
         "main_cpv": "71900000-7",
         "number_companies_win": 3,
         "procurement_title": "Monitoring laboratóriumi mintavételekre és vizsgálatokra",
-        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BÁLINT ANALITIKA Mérnöki Kutató és Szolgáltató Kft."
     }
 ]

@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "299331468",
+        "contract_value": 299331468.0,
         "contracting_authority": "Berettyóújfalu Város Önkormányzata",
         "date": "25/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16957_2018/",
         "main_cpv": "45316110-9",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítás korszerűsítése - építési beruházás",
-        "registered_name": "MEZEI-VILL INTERNATIONAL Korlátolt Felelősségű Társaság"
+        "registered_name": "MEZEI-VILL INTERNATIONAL Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55774000",
+        "contract_value": 55774000.0,
         "contracting_authority": "Nyírlugos Város Önkormányzata",
         "date": "25/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20017_2019/",
         "main_cpv": "45316110-9",
         "number_companies_win": 0,
         "procurement_title": "Nyírlugos Város közvilágítási rendszerének korszerűsítése",
-        "registered_name": "MEZEI-VILL INTERNATIONAL Korlátolt Felelősségű Társaság"
+        "registered_name": "MEZEI-VILL INTERNATIONAL Kft."
     },
     {
         "company_names": "",
-        "contract_value": "244217345",
+        "contract_value": 244217345.0,
         "contracting_authority": "Püspökladány Város Önkormányzata",
         "date": "15/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8573_2020/",
         "main_cpv": "45316110-9",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítás LED-es átépítése, üzemeltetése",
-        "registered_name": "MEZEI-VILL INTERNATIONAL Korlátolt Felelősségű Társaság"
+        "registered_name": "MEZEI-VILL INTERNATIONAL Kft."
     },
     {
         "company_names": "",
-        "contract_value": "282580500",
+        "contract_value": 282580500.0,
         "contracting_authority": "Hajdúnánás Városi Önkormányzat",
         "date": "19/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8825_2020/",
         "main_cpv": "45316110-9",
         "number_companies_win": 0,
         "procurement_title": "Hajdúnánás közvilágításának korszerűsítése",
-        "registered_name": "MEZEI-VILL INTERNATIONAL Korlátolt Felelősségű Társaság"
+        "registered_name": "MEZEI-VILL INTERNATIONAL Kft."
     },
     {
         "company_names": "",
-        "contract_value": "163821960",
+        "contract_value": 163821960.0,
         "contracting_authority": "Derecske Város Önkormányzata",
         "date": "12/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13852_2020/",
         "main_cpv": "45316110-9",
         "number_companies_win": 0,
         "procurement_title": "Közvilágítás LED-es korszerűsítése Derecskén",
-        "registered_name": "MEZEI-VILL INTERNATIONAL Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "65967000",
-        "contracting_authority": "Téglás Város Önkormányzata",
-        "date": "14/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17732_2021/",
-        "main_cpv": "45316000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Téglás város közvilágításának korszerűsítése",
-        "registered_name": "MEZEI-VILL INTERNATIONAL Korlátolt Felelősségű Társaság"
+        "registered_name": "MEZEI-VILL INTERNATIONAL Kft."
     }
 ]

@@ -1,35 +1,24 @@
 [
     {
-        "company_names": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ORINOCO '2002 Ipari, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "476697029",
+        "company_names": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Kft.; ORINOCO '2002 Ipari, Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 476697029.0,
         "contracting_authority": "Nagyvenyim Nagyközség Önkormányzata",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3572_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Útjavítás, vízelvezetés kialakítása",
-        "registered_name": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111713860",
+        "contract_value": 111713860.0,
         "contracting_authority": "Nagyvenyim Nagyközség Önkormányzata",
         "date": "13/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4509_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mélykúti földút stabilizációs útépítési munkái",
-        "registered_name": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "138496654",
-        "contracting_authority": "Nagyvenyim Nagyközség Önkormányzata",
-        "date": "19/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22885_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Felszíni vízrendezés I. üteme",
-        "registered_name": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "DOMINIK és SZÉP Kereskedelmi és Szolgáltató Kft."
     }
 ]

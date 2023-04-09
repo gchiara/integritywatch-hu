@@ -1,24 +1,24 @@
 [
     {
-        "company_names": "BioDigit Fejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HISTORIARCH Régészeti Tanácsadó, Kutató, Fejlesztő, Innovációs Korlátolt Felelősségű Társaság",
-        "contract_value": "292069538",
+        "company_names": "BioDigit Fejlesztő, Kereskedelmi és Szolgáltató Kft.; HISTORIARCH Régészeti Tanácsadó, Kutató, Fejlesztő, Innovációs Kft.",
+        "contract_value": 292069538.0,
         "contracting_authority": "Nagykőrös Város Önkormányzata",
         "date": "17/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5219_2018/",
         "main_cpv": "39133000-3",
         "number_companies_win": 2,
         "procurement_title": "Nagykőrös, Arany János Közérdekű Muzeális Gyűjtemény fejlesztéséhez kiállítótéri berendezések, installációk beszerzése",
-        "registered_name": "BioDigit Fejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BioDigit Fejlesztő, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "111434920",
-        "contracting_authority": "\"BONY-V\" Kereskedelmi Betéti Társaság \"felszámolás alatt\"",
+        "contract_value": 111434920.0,
+        "contracting_authority": "\"BONY-V\" Kereskedelmi Bt. \"felszámolás alatt\"",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6655_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Tükörfűtés gyártó automata célgépek beszerzése",
-        "registered_name": "BioDigit Fejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BioDigit Fejlesztő, Kereskedelmi és Szolgáltató Kft."
     }
 ]

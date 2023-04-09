@@ -1,145 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "24658484",
-        "contracting_authority": "MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság",
+        "contract_value": 24658484.0,
+        "contracting_authority": "MFB Magyar Fejlesztési Bank Zrt.",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19552_2017/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "Inforex Treasury Rendszer továbbfejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "65200000",
-        "contracting_authority": "Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság",
+        "contract_value": 65200000.0,
+        "contracting_authority": "Magyar Export-Import Bank Zrt.",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10505_2018/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "Inforex fejlesztése és működtetésének támogatása 2018 - 2019.",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "40080000",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
+        "contract_value": 40080000.0,
+        "contracting_authority": "MVM Informatika Zrt.",
         "date": "23/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1275_2019/",
         "main_cpv": "72266000-7",
         "number_companies_win": 0,
         "procurement_title": "InFoRex Integrált Treasury informatika szoftverrendszer támogatása",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "64999852",
-        "contracting_authority": "MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság",
+        "contract_value": 64999852.0,
+        "contracting_authority": "MFB Magyar Fejlesztési Bank Zrt.",
         "date": "21/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8521_2019/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "Inforex Treasury Rendszer továbbfejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "607500000",
+        "contract_value": 607500000.0,
         "contracting_authority": "Magyar Nemzeti Bank",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13992_2019/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "Inforex rendszer támogatása és fejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "59981120",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
+        "contract_value": 59981120.0,
+        "contracting_authority": "MVM Informatika Zrt.",
         "date": "18/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4704_2020/",
         "main_cpv": "72266000-7",
         "number_companies_win": 0,
         "procurement_title": "InFoRex Integrált Treasury informatika",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "55000000",
-        "contracting_authority": "Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság",
+        "contract_value": 55000000.0,
+        "contracting_authority": "Magyar Export-Import Bank Zrt.",
         "date": "18/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17023_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "Inforex rendszer fejlesztése és támogatása.",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "231224556",
-        "contracting_authority": "Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 231224556.0,
+        "contracting_authority": "Államadósság Kezelő Központ Zrt.",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21525_2020/",
         "main_cpv": "72212441-2",
         "number_companies_win": 0,
         "procurement_title": "InFoRex rendszer műszaki - technológiai megújítása",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "245000000",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
+        "contract_value": 245000000.0,
+        "contracting_authority": "MVM Informatika Zrt.",
         "date": "16/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23025_2020/",
         "main_cpv": "72230000-6",
         "number_companies_win": 0,
         "procurement_title": "Treasury Inforex rendszer fejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "71977344",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
-        "date": "13/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0245_2021/",
-        "main_cpv": "72266000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Treasury rendszer támogatás 2021",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "52140000",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
-        "date": "22/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0435_2021/",
-        "main_cpv": "72230000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Treasury Inforex rendszer fejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "68000000",
-        "contracting_authority": "MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4865_2021/",
-        "main_cpv": "72262000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Inforex Treasury Rendszer továbbfejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13760000",
-        "contracting_authority": "MVM Informatika Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19733_2021/",
-        "main_cpv": "72230000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Treasury Inforex rendszer fejlesztése",
-        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zrt."
     }
 ]

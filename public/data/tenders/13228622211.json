@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "64743668",
+        "contract_value": 64743668.0,
         "contracting_authority": "Dorog Város Önkormányzata",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3515_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "2510 Dorog, Bimbó utca út és járda burkolat felújítása",
-        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54647489",
+        "contract_value": 54647489.0,
         "contracting_authority": "Dorog Város Egyesített Sportintézménye, Dorog Város Önkormányzata",
         "date": "21/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11414_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dorogi Zöld Kör kialakítása",
-        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "63485831",
+        "contract_value": 63485831.0,
         "contracting_authority": "Dorog Város Önkormányzata",
         "date": "09/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19506_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A, B, C jelű Erőmű utcák burkolatfelújítása",
-        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "187478918",
+        "contract_value": 187478918.0,
         "contracting_authority": "Dorog Város Önkormányzata",
         "date": "21/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8746_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Köztársaság út és járdaburkolat felújítása",
-        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "288135980",
-        "contracting_authority": "Dorog Város Önkormányzata",
-        "date": "21/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9319_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Dorog, Mária utca felújítása",
-        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SIFLAT Mérnöki Szolgáltató, Ingatlanhasznosító és Kereskedelmi Kft."
     }
 ]

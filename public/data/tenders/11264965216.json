@@ -1,8 +1,8 @@
 [
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "750000000",
-        "contracting_authority": "HEXUM Földgáz Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 750000000.0,
+        "contracting_authority": "HEXUM Földgáz Zrt.",
         "date": "19/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_830_2018/",
         "main_cpv": "76000000-3",
@@ -11,9 +11,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "150000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 150000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_900_2018/",
         "main_cpv": "76000000-3",
@@ -22,9 +22,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "180000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 180000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_901_2018/",
         "main_cpv": "76000000-3",
@@ -33,9 +33,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "340000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 340000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "06/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_882_2018/",
         "main_cpv": "76000000-3",
@@ -44,9 +44,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Korlátolt Felelősségű Társaság; ROTAQUA Geológiai-,Bányászati kutató Mélyfúró Korlátolt Felelősségű Társaság",
-        "contract_value": "577905000",
-        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Kft.; ROTAQUA Geológiai-,Bányászati kutató Mélyfúró Kft.",
+        "contract_value": 577905000.0,
+        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Kft.",
         "date": "03/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15279_2018/",
         "main_cpv": "76491000-1",
@@ -55,9 +55,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Korlátolt Felelősségű Társaság; ROTAQUA Geológiai-,Bányászati kutató Mélyfúró Korlátolt Felelősségű Társaság",
-        "contract_value": "612215000",
-        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Kft.; ROTAQUA Geológiai-,Bányászati kutató Mélyfúró Kft.",
+        "contract_value": 612215000.0,
+        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Kft.",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9459_2019/",
         "main_cpv": "76491000-1",
@@ -66,9 +66,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "340000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 340000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "19/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_9823_2020/",
         "main_cpv": "76100000-4",
@@ -77,9 +77,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "230000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 230000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10703_2020/",
         "main_cpv": "76100000-4",
@@ -88,9 +88,9 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "340000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLGÁZ Mérnökiroda és Szolgáltató Kft.",
+        "contract_value": 340000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "25/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_10702_2020/",
         "main_cpv": "76100000-4",
@@ -99,25 +99,14 @@
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     },
     {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "526215000",
-        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Kft.",
+        "contract_value": 526215000.0,
+        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Kft.",
         "date": "16/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12570_2020/",
         "main_cpv": "76491000-1",
         "number_companies_win": 2,
         "procurement_title": "Bányászati célú mélyfúrások elzárása 2020",
-        "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
-    },
-    {
-        "company_names": "MB 2001. Olajipari Szolgáltató Kft.; REOLSERVICE Olajipari Szolgáltató Korlátolt Felelősségű Társaság; ROTAQUA Geológiai-,Bányászati kutató Mélyfúró Korlátolt Felelősségű Társaság",
-        "contract_value": "509298768",
-        "contracting_authority": "Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
-        "date": "14/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19516_2021/",
-        "main_cpv": "76491000-1",
-        "number_companies_win": 3,
-        "procurement_title": "Bányászati célú mélyfúrások elzárása 2021.",
         "registered_name": "MB 2001. Olajipari Szolgáltató Kft."
     }
 ]

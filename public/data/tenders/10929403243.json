@@ -1,90 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "84490240",
+        "contract_value": 84490240.0,
         "contracting_authority": "Országos Rendőr-Főkapitányság",
         "date": "09/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10563_2018/",
         "main_cpv": "32333200-8",
         "number_companies_win": 0,
         "procurement_title": "Kamera szettek beszerzése",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40352700",
+        "contract_value": 40352700.0,
         "contracting_authority": "Eszterházy Károly Egyetem",
         "date": "11/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15904_2018/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Audio-vizuális eszközök beszerzése az Eszterházy Károly Egyetemen",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13052470",
+        "contract_value": 13052470.0,
         "contracting_authority": "Eszterházy Károly Egyetem",
         "date": "20/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6434_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Audiovizuális eszközök beszerzése",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4731440",
+        "contract_value": 4731440.0,
         "contracting_authority": "Miniszterelnöki Kabinetiroda",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7244_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Fotós és videós eszközök beszerzése",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16101200",
+        "contract_value": 16101200.0,
         "contracting_authority": "Miniszterelnöki Kabinetiroda",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7244_2020/",
         "main_cpv": "32321200-1",
         "number_companies_win": 0,
         "procurement_title": "Fotós és videós eszközök beszerzése",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44152212",
-        "contracting_authority": "Nemzeti Színház Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 44152212.0,
+        "contracting_authority": "Nemzeti Színház Közhasznú Nonprofit Zrt.",
         "date": "04/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19847_2020/",
         "main_cpv": "32333000-6",
         "number_companies_win": 0,
         "procurement_title": "CCTV rendszer rekonstrukciója",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2128500",
-        "contracting_authority": "AGORA Sport és Szabadidő Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház",
-        "date": "28/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17937_2021/",
-        "main_cpv": "32300000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Árubeszerzés az Agora Nonprofit Kft. projektjeihez",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11632000",
-        "contracting_authority": "AGORA Sport és Szabadidő Közhasznú Nonprofit Korlátolt Felelősségű Társaság, Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház",
-        "date": "28/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17937_2021/",
-        "main_cpv": "32300000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Árubeszerzés az Agora Nonprofit Kft. projektjeihez",
-        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "PANAUDIO Elektronikai Kereskedő és Szolgáltató Kft."
     }
 ]

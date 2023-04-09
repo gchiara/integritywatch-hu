@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "15500000",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "contract_value": 15500000.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "05/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_23010_2019/",
         "main_cpv": "18143000-3",
         "number_companies_win": 0,
         "procurement_title": "Orrmerevítéses védőlábbelik és sapkák beszerzése",
-        "registered_name": "TEENS-TEXTIL Kereskedelmi, Ipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TEENS-TEXTIL Kereskedelmi, Ipari és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120500000",
-        "contracting_authority": "Magyar Posta Zártkörűen Működő Részvénytársaság",
+        "contract_value": 120500000.0,
+        "contracting_authority": "Magyar Posta Zrt.",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_8033_2020/",
         "main_cpv": "18143000-3",
         "number_companies_win": 0,
         "procurement_title": "Könnyített lábbelik és esővédők beszerzése 2019.",
-        "registered_name": "TEENS-TEXTIL Kereskedelmi, Ipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TEENS-TEXTIL Kereskedelmi, Ipari és Szolgáltató Kft."
     }
 ]

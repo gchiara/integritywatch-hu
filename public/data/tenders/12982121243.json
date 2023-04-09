@@ -1,57 +1,24 @@
 [
     {
-        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ARLITECH Informatikai Korlátolt Felelősségű Társaság; Black Cell Magyarország Korlátolt Felelősségű Társaság; Compliance Data Systems Korlátolt Felelősségű Társaság; Cyber Services Zártkörűen Működő Részvénytársaság; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GAMAX Informatikai és Munkaerő-kölcsönző Korlátolt Felelősségű Társaság; Gloster Infokommunikációs Kft.; Gloster IT Security Korlátolt Felelősségű Társaság; Gloster Networks Korlátolt Felelősségű Társaság; Grepton Informatikai Zártkörűen Működő Részvénytársaság; HUMANsoft Elektronikai Korlátolt Felelősségű Társaság; IMG Solution Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; madeIT.hu Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Korlátolt Felelősségű Társaság; Networker Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Officium Szolgáltató Korlátolt Felelősségű Társaság; Pegasus Informatikai Korlátolt Felelősségű Társaság; PIK-SYS Informatikai és Tanácsadó Korlátolt Felelősségű Társaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; QUADRON Kibervédelmi Szolgáltató Korlátolt Felelősségű Társaság; QZRT Infotech Korlátolt Felelősségű Társaság; R+R Periféria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Soloron 40 Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TR Consult Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; Visoft Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000000",
+        "company_names": "99999 Informatika Kereskedelmi és Szolgáltató Kft.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ALPHA MACHINE Informatikai Kereskedelmi és Szolgáltató Kft.; Areus Infokommunikációs Zrt.; ARLITECH Informatikai Kft.; Black Cell Magyarország Kft.; Compliance Data Systems Kft.; Cyber Services Zrt.; DAMIT INFORMATIKA Kereskedelmi és Szolgáltató Kft.; Datron Távközlési Zárkörűen Működő Részvénytársaság; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; filter:max Informatikai Kereskedelmi és Szolgáltató Kft.; GAMAX Informatikai és Munkaerő-kölcsönző Kft.; Gloster Infokommunikációs Kft.; Gloster IT Security Kft.; Gloster Networks Kft.; Grepton Informatikai Zrt.; HUMANsoft Elektronikai Kft.; IMG Solution Kft.; INNOMATRIX SERVICES Kft.; Invigor Informatika Kft.; Invitech Megoldások Zrt.; IT PRO QUALITY Zrt.; KÜRT Információbiztonsági és Adatmentő \"zártkörű\" Részvénytársaság; LicensePort Informatikai Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Kft.; M & S Informatikai Zrt.; madeIT.hu Informatika Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Kft.; Networker Kereskedelmi és Szolgáltató Kft.; NOREG Információvédelmi Kft.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; Officium Szolgáltató Kft.; Pegasus Informatikai Kft.; PIK-SYS Informatikai és Tanácsadó Kft.; PROFESSZIONÁL Informatikai Zrt.; QUADRON Kibervédelmi Szolgáltató Kft.; QZRT Infotech Kft.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Consulting Hungary Rendszerintegrációs & Technológiaátadási Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; SERCO Informatika Kft.; Soloron 40 Kft.; SYMPORT HOLDING Informatikai Zrt.; Sysman Informatikai Zrt.; Szinva Net Informatikai Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TR Consult Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; T-Systems Magyarország Zrt.; USER RENDSZERHÁZ Informatikai Kft.; Valkyr Informatikai Kft.; Visoft Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.; XS Matrix Security Solutions Kft.",
+        "contract_value": 20000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7487_2018/",
         "main_cpv": "48730000-4",
         "number_companies_win": 62,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "3451354166",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Areus Infokommunikációs Zrt.; filter:max Informatikai Kereskedelmi és Szolgáltató Kft.; INNOMATRIX SERVICES Kft.; Invitech ICT Services Kft.; IT PRO QUALITY Zrt.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NOREG Információvédelmi Kft.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; XS Matrix Security Solutions Kft.",
+        "contract_value": 3451354166.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "26/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21464_2020/",
         "main_cpv": "48730000-4",
         "number_companies_win": 9,
         "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "170948749",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1416_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 9,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése",
-        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "131377961",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "23/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15425_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 9,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; INNOMATRIX SERVICES Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; IT PRO QUALITY Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NOREG Információvédelmi Korlátolt Felelősségű Társaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XS Matrix Security Solutions Korlátolt Felelősségű Társaság",
-        "contract_value": "39877761",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23680_2021/",
-        "main_cpv": "48730000-4",
-        "number_companies_win": 9,
-        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
-        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "filter:max Informatikai Kereskedelmi és Szolgáltató Kft."
     }
 ]

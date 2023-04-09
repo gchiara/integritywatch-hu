@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "151805537",
+        "contract_value": 151805537.0,
         "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft., Veszprémi Szakképzési Centrum",
         "date": "12/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2484_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "NFSI – Veszprém – energetikai korszerűsítés",
-        "registered_name": "SIKER BERUHÁZÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "SIKER BERUHÁZÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89421757",
-        "contracting_authority": "Déli Agrárszakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 89421757.0,
+        "contracting_authority": "Déli Agrárszakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2556_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "NFSI - Szekszárd - energetikai korszerűsítés",
-        "registered_name": "SIKER BERUHÁZÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "SIKER BERUHÁZÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "142932088",
-        "contracting_authority": "Déli Agrárszakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 142932088.0,
+        "contracting_authority": "Déli Agrárszakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2556_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "NFSI - Szekszárd - energetikai korszerűsítés",
-        "registered_name": "SIKER BERUHÁZÓ Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "199993997",
-        "contracting_authority": "Magyar Labdarúgó Szövetség",
-        "date": "20/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20355_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Zodony utca - 4 blokkos öltözőépület kivitelezése",
-        "registered_name": "SIKER BERUHÁZÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "SIKER BERUHÁZÓ Kft."
     }
 ]

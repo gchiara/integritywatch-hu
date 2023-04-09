@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "18481300",
-        "contracting_authority": "BAFAMI Sertéstenyésztő és -Hízlaló Korlátolt Felelősségű Társaság",
+        "contract_value": 18481300.0,
+        "contracting_authority": "BAFAMI Sertéstenyésztő és -Hízlaló Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17711_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai fejlesztés",
-        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Korlátolt felelősségű társaság"
+        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "280475075",
-        "contracting_authority": "BAFAMI Sertéstenyésztő és -Hízlaló Korlátolt Felelősségű Társaság",
+        "contract_value": 280475075.0,
+        "contracting_authority": "BAFAMI Sertéstenyésztő és -Hízlaló Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17711_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Energetikai fejlesztés",
-        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Korlátolt felelősségű társaság"
+        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "675958738",
-        "contracting_authority": "FLEISCH-HYB Kereskedelmi és Állattenyésztő Korlátolt Felelősségű Társaság",
+        "contract_value": 675958738.0,
+        "contracting_authority": "FLEISCH-HYB Kereskedelmi és Állattenyésztő Kft.",
         "date": "10/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0045_2019/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "550 kocás sertéstelep építése és technológiai korszerűsítése Hegyszentmárton 064 hrsz.",
-        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Korlátolt felelősségű társaság"
+        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1065000000",
-        "contracting_authority": "Meat and drink Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 1065000000.0,
+        "contracting_authority": "Meat and drink Kereskedelmi és Szolgáltató Kft.",
         "date": "18/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17704_2019/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "650 kocás sertéstelep építése",
-        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Korlátolt felelősségű társaság"
+        "registered_name": "TECHNOPIG Kereskedelmi és Szolgáltató Kft."
     }
 ]

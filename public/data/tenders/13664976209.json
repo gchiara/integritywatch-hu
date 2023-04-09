@@ -1,123 +1,112 @@
 [
     {
-        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Korlátolt Felelősségű Társaság; CSŐFEK Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HidroPro Szolgáltató Korlátolt Felelősségű Társaság; H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; HYDRO-LOGIC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Kevei Lajos és Társai Mélyépítő Szolgáltató Tervező Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Közmű Plusz Építő Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; LÁPOLDAL Állattenyésztő és Növénytermelő Korlátolt Felelősségű Társaság; MOMI GÉPSZER Szolgáltató Betéti Társaság; P-Közmű Építő és Kereskedő Korlátolt Felelősségű Társaság; Pulzus + Közműépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; VITÉP '95 Vízügyi és Épitőipari Korlátolt Felelősségű Társaság; VULKÁN Épitő, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2800000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Kft.; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Kft.; CSŐFEK Építőipari és Szolgáltató Kft.; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HidroPro Szolgáltató Kft.; H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.; HYDRO-LOGIC Szolgáltató és Kereskedelmi Kft.; Kevei Lajos és Társai Mélyépítő Szolgáltató Tervező Kft. \"felszámolás alatt\"; Közmű Plusz Építő Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; LÁPOLDAL Állattenyésztő és Növénytermelő Kft.; MOMI GÉPSZER Szolgáltató Bt.; P-Közmű Építő és Kereskedő Kft.; Pulzus + Közműépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; VITÉP '95 Vízügyi és Épitőipari Kft.; VULKÁN Épitő, Szolgáltató és Kereskedelmi Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 2800000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_6667_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 20,
         "procurement_title": "Keretmegállapodás vízvezeték nyíltárkos létesítésére, rekonstrukciójára és szükség szerint tervezésre",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Korlátolt Felelősségű Társaság; BONEX Építőipari Korlátolt Felelősségű Társaság; CSŐFEK Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; H-L Mérnök Műszaki tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Korlátolt Felelősségű Társaság; MOMI GÉPSZER Szolgáltató Betéti Társaság; P-Közmű Építő és Kereskedő Korlátolt Felelősségű Társaság; Pulzus + Közműépítő Kft.; SADE-Magyarország Mélyépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "7800000000",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"FER-3331\" Építőipari és Kereskedelmi Kft.; Almádi-textil Kereskedelmi Korlártolt Felelősségű Társaság; A-Z- KINCS Gazdasági és Műszaki Szolgáltató Kft.; BONEX Építőipari Kft.; CSŐFEK Építőipari és Szolgáltató Kft.; GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; H-L Mérnök Műszaki tanácsadó és Szolgáltató Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.; KÖZMŰ-TECHNIKA Kivitelező és Szolgáltató Kft.; MOMI GÉPSZER Szolgáltató Bt.; P-Közmű Építő és Kereskedő Kft.; Pulzus + Közműépítő Kft.; SADE-Magyarország Mélyépítő Kft.; TERRA-21. Közmű- és Mélyépítő Kft.; WER-FE BAU Épitőipari Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 7800000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "24/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_6667_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 15,
         "procurement_title": "Keretmegállapodás vízvezeték nyíltárkos létesítésére, rekonstrukciójára és szükség szerint tervezésre",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "51605127",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 51605127.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_18479_2018/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Csőrekonstrukciós keretmegállapodás",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299950000",
+        "contract_value": 299950000.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "15/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0570_2019/",
         "main_cpv": "45111290-7",
         "number_companies_win": 0,
         "procurement_title": "Közműépítési munkák",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "86322054",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 86322054.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "23/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_900_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Csőrekonstrukció",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "170955490",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 170955490.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6057_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Csőrekonstrukciós keretmegállapodás",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "34284327",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 34284327.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "10/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_12142_2019/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Csőrekonstrukció",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "65283763",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 65283763.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "27/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0997_2020/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Csőrekonstrukció",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "204270569",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 204270569.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "16/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_6302_2020/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Csőrekonstrukció - 2020. I. negyedév",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     },
     {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "50079773",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
+        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Kft.; HMM-BAU Építőipari és Kereskedelmi Kft.",
+        "contract_value": 50079773.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
         "date": "22/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_12744_2020/",
         "main_cpv": "45232151-5",
         "number_companies_win": 2,
         "procurement_title": "Vízvezeték nyíltárkos létesítése, rekonstrukciója és szükség szerint tervezére",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "GYULAFI és TÁRSA Mérnöki Szolgáltató Kivitelező Korlátolt Felelősségű Társaság; HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "127852612",
-        "contracting_authority": "Fővárosi Vízművek Zártkörűen Működő Részvénytársaság",
-        "date": "06/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_12319_2021/",
-        "main_cpv": "45232151-5",
-        "number_companies_win": 2,
-        "procurement_title": "Vízvezeték rekonstrukciós munkák",
-        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "HMM-BAU Építőipari és Kereskedelmi Kft."
     }
 ]

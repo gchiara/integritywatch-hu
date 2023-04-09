@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "52000000",
+        "contract_value": 52000000.0,
         "contracting_authority": "Kecskeméti Városrendészet",
         "date": "12/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15081_2018/",
         "main_cpv": "51214000-5",
         "number_companies_win": 0,
         "procurement_title": "Parkolójegy-kiadó automaták felújítása Kecskeméten",
-        "registered_name": "NORT kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NORT kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50525000",
+        "contract_value": 50525000.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9923_2019/",
         "main_cpv": "38730000-1",
         "number_companies_win": 0,
         "procurement_title": "Parkoló automaták beszerzése karbantartása",
-        "registered_name": "NORT kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "352000000",
-        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata, Újbuda Parkolásüzemeltető Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "15/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22125_2021/",
-        "main_cpv": "38730000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Parkolóautomaták beszerzése és felújítása",
-        "registered_name": "NORT kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "NORT kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,112 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "20392422",
+        "contract_value": 20392422.0,
         "contracting_authority": "Apostag Község Önkormányzata",
         "date": "25/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10098_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Óvodafejlesztés Apostagon",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "99203048",
+        "contract_value": 99203048.0,
         "contracting_authority": "Apostag Község Önkormányzata",
         "date": "25/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10098_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Óvodafejlesztés Apostagon",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "36993434",
+        "contract_value": 36993434.0,
         "contracting_authority": "Solt Város Önkormányzat",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13376_2018/",
         "main_cpv": "45212314-0",
         "number_companies_win": 0,
         "procurement_title": "Vécsey Kastély felújítása",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "7283364",
+        "contract_value": 7283364.0,
         "contracting_authority": "Soltszentimre Község Önkormányzata",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21135_2018/",
         "main_cpv": "45261210-9",
         "number_companies_win": 0,
         "procurement_title": "Szivárvány Óvoda és Konyha épület tetőfelújítása",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "43527291",
+        "contract_value": 43527291.0,
         "contracting_authority": "Akasztó Község Önkormányzata, Solt Város Önkormányzat",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22940_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Lakásfelújítások Solton és Akasztón",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "31110341",
+        "contract_value": 31110341.0,
         "contracting_authority": "Apostag Község Önkormányzata",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2562_2020/",
         "main_cpv": "45212314-0",
         "number_companies_win": 0,
         "procurement_title": "Apostagi zsinagóga műemléki felújítása",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "27019360",
+        "contract_value": 27019360.0,
         "contracting_authority": "Solt Város Önkormányzat",
         "date": "29/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11516_2020/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Kissolti melegítő-tálaló konyha felújítása II.ütem",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "13280815",
+        "contract_value": 13280815.0,
         "contracting_authority": "Soltszentimre Község Önkormányzata",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22697_2020/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Művelődési ház felújítása Soltszentimrén",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26976040",
-        "contracting_authority": "Soltszentimre Község Önkormányzata",
-        "date": "19/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4455_2021/",
-        "main_cpv": "45215200-9",
-        "number_companies_win": 0,
-        "procurement_title": "Iskola energetikai fejlesztése, mini bölcsőde kialakítása",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "46355284",
-        "contracting_authority": "Soltszentimre Község Önkormányzata",
-        "date": "19/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4455_2021/",
-        "main_cpv": "45215200-9",
-        "number_companies_win": 0,
-        "procurement_title": "Iskola energetikai fejlesztése, mini bölcsőde kialakítása",
-        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BEVONAT Építőipari, Kereskedelmi és Szolgáltató Bt."
     }
 ]

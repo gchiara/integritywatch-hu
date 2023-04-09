@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "194967118",
+        "contract_value": 194967118.0,
         "contracting_authority": "Körös-Maros Vidékfejlesztési és Ökogazdálkodási Alapítvány",
         "date": "06/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4046_2020/",
         "main_cpv": "45214000-0",
         "number_companies_win": 0,
         "procurement_title": "Oktatási Központ és Szociális Garzonház építése",
-        "registered_name": "BOZÓ-ARCHITECTURA Építésztervező, Lebonyolító és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "BOZÓ-ARCHITECTURA Építésztervező, Lebonyolító és Kivitelező Kft."
     }
 ]

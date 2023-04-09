@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "33012750",
+        "contract_value": 33012750.0,
         "contracting_authority": "Göd Város Önkormányzata",
         "date": "25/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1393_2018/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Kinizsi utca burkolat felújítása és szélesítése az Ady Endre út és Kádár utca között",
-        "registered_name": "ÚT-FINIS Közlekedés és Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-FINIS Közlekedés és Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "82814009",
+        "contract_value": 82814009.0,
         "contracting_authority": "Játszva, Sportolva Megelőzni Alapítvány",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8684_2018/",
         "main_cpv": "45212212-5",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Farkasréti Általános Iskola beltéri medencéjének és kapcsolódó elemeinek a felújítása tekintetében",
-        "registered_name": "ÚT-FINIS Közlekedés és Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-FINIS Közlekedés és Közműépítő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "144222550",
+        "contract_value": 144222550.0,
         "contracting_authority": "Nagymaros Város Önkormányzata",
         "date": "20/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18034_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Belterületi utak felújítása, építése",
-        "registered_name": "ÚT-FINIS Közlekedés és Közműépítő Korlátolt Felelősségű Társaság"
+        "registered_name": "ÚT-FINIS Közlekedés és Közműépítő Kft."
     }
 ]

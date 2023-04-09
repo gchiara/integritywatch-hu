@@ -1,57 +1,46 @@
 [
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "213213034",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 213213034.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3972_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Kivitelezési szerződés alapján a lovasberényi római katolikus templom felújítása.",
-        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "315086463",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 315086463.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9165_2018/",
         "main_cpv": "45421000-4",
         "number_companies_win": 2,
         "procurement_title": "Pázmány Péter Katolikus Egyetem BTK 1088 Budapest, Mikszáth Kálmán tér 1. alatti ingatlanán homlokzat felújítás, homlokzati nyílászárók cseréje, díszvilágítás kiépítése.",
-        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "471154763",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 471154763.0,
         "contracting_authority": "Székesfehérvári Egyházmegye",
         "date": "04/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1880_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Római katolikus templom felújítása",
-        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Kft."
     },
     {
-        "company_names": "\"ARTemisz & Sofia\" Építőipari Korlátolt Felelősségű Társaság \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "492283696",
+        "company_names": "\"ARTemisz & Sofia\" Építőipari Kft. \"felszámolás alatt\"; Berczel Hungary Építőipari és Szolgáltató Kft.",
+        "contract_value": 492283696.0,
         "contracting_authority": "Győri Egyházmegye",
         "date": "10/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6381_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Tatai Szt. Kereszt templom felújítása",
-        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "\"RADIÁN\"Épitőipari Tervező,Szervező Üzemeltető Korlátolt Felelősségű Társaság; Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság; CSÍZIÓ-Stúdió Építési Korlátolt Felelősségű Társaság; Nimród-Bau Beruházó és Kivitelező Korlátolt Felelősségű Társaság",
-        "contract_value": "1150000000",
-        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14413_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 4,
-        "procurement_title": "Építési munkálatok",
-        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Berczel Hungary Építőipari és Szolgáltató Kft."
     }
 ]

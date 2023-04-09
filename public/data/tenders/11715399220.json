@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "138010091",
+        "contract_value": 138010091.0,
         "contracting_authority": "Horváth Tihamér Elek",
         "date": "14/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2344_2018/",
         "main_cpv": "45213200-5",
         "number_companies_win": 0,
         "procurement_title": "Fejőház és helyi termék műhely létrehozása Vindornyalakon",
-        "registered_name": "Épkerbau Generál Egyszemélyes Korlátolt Felelősségű Társaság"
+        "registered_name": "Épkerbau Generál Egyszemélyes Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "293262592",
-        "contracting_authority": "RS-Bautech Építőipari és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 293262592.0,
+        "contracting_authority": "RS-Bautech Építőipari és Szolgáltató Kft.",
         "date": "05/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9320_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Radax Bautech Kft olajprés üzeméhez kapcsolódó építési munkák beszerzése",
-        "registered_name": "GEISZ és TÁRSAI Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "GEISZ és TÁRSAI Kereskedelmi és Szolgáltató Bt."
     }
 ]

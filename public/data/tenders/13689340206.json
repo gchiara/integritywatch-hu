@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "9950000",
+        "contract_value": 9950000.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5019_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Makó-Kálvin u. bontás és rendelő kivitelezés",
-        "registered_name": "BORCI TRANS Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "BORCI TRANS Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16017501",
+        "contract_value": 16017501.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "04/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15791_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Külterületi helyi közutak fejlesztése",
-        "registered_name": "BORCI TRANS Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "BORCI TRANS Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "65332534",
+        "contract_value": 65332534.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "04/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15791_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Külterületi helyi közutak fejlesztése",
-        "registered_name": "BORCI TRANS Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "BORCI TRANS Szállítmányozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27509259",
+        "contract_value": 27509259.0,
         "contracting_authority": "Makó Város Önkormányzata",
         "date": "18/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15786_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Makó belterületi útfelújítások",
-        "registered_name": "BORCI TRANS Szállítmányozó Korlátolt Felelősségű Társaság"
+        "registered_name": "BORCI TRANS Szállítmányozó Kft."
     }
 ]

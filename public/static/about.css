@@ -272,15 +272,50 @@ div.dc-html-legend {
   color: #205d85;
 }
 @media only screen and (min-width: 992px) {
-  #iw-nav .nav-link-about {
+  #iw-nav a.active, #iw-nav a:hover {
+    color: #fff;
+  }
+}
+@media only screen and (min-width: 992px) {
+  #iw-nav .nav-link-section {
     background: #3b95d0;
     color: #fff;
     padding: 5px 15px;
     position: relative;
     top: 3px;
+    margin-right: 10px;
+    transition: 0.4s all;
+  }
+  #iw-nav .nav-link-section:hover, #iw-nav .nav-link-section.active {
+    color: #fff !important;
+    background: #205d85;
+  }
+}
+@media only screen and (min-width: 992px) {
+  #iw-nav .nav-link-about {
+    background: #3b95d0;
+    color: #fff;
+    padding: 5px 25px;
+    position: relative;
+    top: 3px;
     transition: 0.4s all;
   }
   #iw-nav .nav-link-about:hover, #iw-nav .nav-link-about:active {
+    color: #fff;
+    background: #205d85;
+  }
+}
+@media only screen and (min-width: 992px) {
+  #iw-nav .nav-link-other {
+    background: #3b95d0;
+    color: #fff;
+    padding: 5px 15px;
+    position: relative;
+    top: 3px;
+    margin-left: 10px;
+    transition: 0.4s all;
+  }
+  #iw-nav .nav-link-other:hover, #iw-nav .nav-link-other:active {
     color: #fff;
     background: #205d85;
   }
@@ -324,6 +359,9 @@ div.dc-html-legend {
   margin-bottom: 10px;
   font-family: Oswald;
   font-weight: 600;
+}
+.top-description-container .top-description-content h1 .h1-smaller {
+  font-size: 35px;
 }
 .top-description-container .top-description-content h2 {
   font-size: 23px;
@@ -461,7 +499,7 @@ div.dc-html-legend {
 }
 .subrow-title-container .subrow-title.subrow-title-right {
   text-align: right;
-  color: #e51f5c;
+  color: #fc3503;
 }
 
 .chart-col {
@@ -493,13 +531,37 @@ div.dc-html-legend {
   height: 530px;
 }
 .chart-container.organizations_4 {
-  height: 530px;
+  height: 560px;
 }
 .chart-container.organizations_5 {
-  height: 530px;
+  height: 560px;
 }
 .chart-container.organizations_6 {
-  height: 530px;
+  height: 560px;
+}
+.chart-container.organizations_7 {
+  height: 560px;
+}
+.chart-container.owners_1 {
+  height: 490px;
+}
+.chart-container.owners_2 {
+  height: 490px;
+}
+.chart-container.owners_3 {
+  height: 490px;
+}
+.chart-container.owners_4 {
+  height: 510px;
+}
+.chart-container.owners_5 {
+  height: 510px;
+}
+.chart-container.owners_6 {
+  height: 510px;
+}
+.chart-container.owners_7 {
+  height: 510px;
 }
 @media only screen and (max-width: 767px) {
   .chart-container {
@@ -508,7 +570,7 @@ div.dc-html-legend {
 }
 
 /* MODAL TABLE */
-.tenders-table-title {
+.tenders-table-title, .companies-table-title {
   font-size: 18px;
   margin: 20px 0;
   text-align: left;
@@ -516,33 +578,73 @@ div.dc-html-legend {
   color: #3b95d0;
 }
 
-.tenders-table {
+.tenders-table, .companies-table {
   width: 100% !important;
   margin-bottom: 15px;
 }
-.tenders-table td, .tenders-table th {
+.tenders-table td, .tenders-table th, .companies-table td, .companies-table th {
   border: 1px solid #ccc;
   padding: 5px 10px;
   height: 30px;
   font-size: 12px;
 }
-.tenders-table th {
+.tenders-table th, .companies-table th {
   background: #f5f6f7;
   color: #3a89c1;
 }
 
-#modalTendersTable_wrapper .dataTables_info {
+.tenders-table tr {
+  cursor: default;
+}
+.tenders-table tr td {
+  cursor: default;
+}
+.tenders-table tr td a {
+  font-weight: 600;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#modalTendersTable_wrapper .dataTables_info, #modalCompaniesTable_wrapper .dataTables_info {
   width: auto;
   padding: 10px 0;
   font-size: 14px;
 }
 @media only screen and (max-width: 768px) {
-  #modalTendersTable_wrapper .dataTables_info {
+  #modalTendersTable_wrapper .dataTables_info, #modalCompaniesTable_wrapper .dataTables_info {
     width: 100%;
     text-align: center;
     margin: 0 auto;
   }
 }
+#modalTendersTable_wrapper .dataTables_paginate, #modalCompaniesTable_wrapper .dataTables_paginate {
+  width: auto;
+  padding: 10px 0;
+  font-size: 14px;
+}
+@media only screen and (max-width: 768px) {
+  #modalTendersTable_wrapper .dataTables_paginate, #modalCompaniesTable_wrapper .dataTables_paginate {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+#modalTendersTable_wrapper .dataTables_filter, #modalCompaniesTable_wrapper .dataTables_filter {
+  text-align: left;
+  margin-bottom: 10px;
+}
+#modalTendersTable_wrapper .dataTables_filter label, #modalCompaniesTable_wrapper .dataTables_filter label {
+  font-size: 14px;
+}
+#modalTendersTable_wrapper .dataTables_filter input, #modalCompaniesTable_wrapper .dataTables_filter input {
+  margin-left: 10px;
+  border-radius: 2px;
+  background: #eee;
+  border: 1px solid #ddd;
+  padding: 2px 10px;
+  font-size: 14px;
+}
+
 #modalTendersTable_wrapper th:nth-child(3) {
   min-width: 250px !important;
 }
@@ -553,33 +655,6 @@ div.dc-html-legend {
   #modalTendersTable_wrapper td:nth-child(3), #modalTendersTable_wrapper td:nth-child(4), #modalTendersTable_wrapper th:nth-child(3), #modalTendersTable_wrapper th:nth-child(4) {
     display: none;
   }
-}
-#modalTendersTable_wrapper .dataTables_paginate {
-  width: auto;
-  padding: 10px 0;
-  font-size: 14px;
-}
-@media only screen and (max-width: 768px) {
-  #modalTendersTable_wrapper .dataTables_paginate {
-    width: 100%;
-    text-align: center;
-    margin: 0 auto;
-  }
-}
-#modalTendersTable_wrapper .dataTables_filter {
-  text-align: left;
-  margin-bottom: 10px;
-}
-#modalTendersTable_wrapper .dataTables_filter label {
-  font-size: 14px;
-}
-#modalTendersTable_wrapper .dataTables_filter input {
-  margin-left: 10px;
-  border-radius: 2px;
-  background: #eee;
-  border: 1px solid #ddd;
-  padding: 2px 10px;
-  font-size: 14px;
 }
 
 /* FOOTER BAR */
@@ -659,8 +734,13 @@ div.dc-html-legend {
     display: none;
   }
 }
-.footer-bar .footer-counts .count-box.count-box-published-meetings {
-  width: 200px;
+.footer-bar .footer-counts .count-box.count-box-amountwon {
+  width: 300px;
+}
+@media only screen and (max-width: 1200px) {
+  .footer-bar .footer-counts .count-box.count-box-amountwon {
+    display: none;
+  }
 }
 .footer-bar .footer-counts .count-box .filter-count {
   color: #205d85;
@@ -786,7 +866,7 @@ div.dc-html-legend {
 }
 #detailsModal .details-title.details-title-right {
   text-align: center;
-  background: #e51f5c;
+  background: #fc3503;
 }
 #detailsModal .details-left {
   text-align: left;
@@ -796,7 +876,7 @@ div.dc-html-legend {
 }
 #detailsModal .details-right a {
   font-weight: 600;
-  color: #e51f5c;
+  color: #fc3503;
 }
 #detailsModal .details-line {
   padding: 5px 0;
@@ -806,6 +886,9 @@ div.dc-html-legend {
 }
 #detailsModal .details-line .details-line-title {
   font-weight: 600;
+}
+#detailsModal .details-line .details-line-title-red {
+  color: #fc3503;
 }
 #detailsModal .modal-activities-title {
   font-weight: 600;
@@ -919,9 +1002,18 @@ table.dataTable thead .sorting_desc_disabled {
 .dataTables_wrapper th {
   color: #3b95d0;
   text-align: left;
+  font-size: 14px;
+}
+.dataTables_wrapper th.header-red {
+  color: #fc3503;
 }
 .dataTables_wrapper td {
   text-align: left;
+  font-size: 14px;
+}
+.dataTables_wrapper .redflag-img {
+  width: 15px;
+  margin-right: 2px;
 }
 .dataTables_wrapper .dataTables_info {
   width: 40%;
@@ -1046,7 +1138,25 @@ th:nth-child(3) {
   text-align: left;
 }
 @media only screen and (max-width: 768px) {
-  .organizations-page .chart-table td:nth-child(1), .organizations-page .chart-table td:nth-child(3), .organizations-page .chart-table td:nth-child(4), .organizations-page .chart-table td:nth-child(5), .organizations-page .chart-table td:nth-child(6), .organizations-page .chart-table th:nth-child(1), .organizations-page .chart-table th:nth-child(3), .organizations-page .chart-table th:nth-child(4), .organizations-page .chart-table th:nth-child(5), .organizations-page .chart-table th:nth-child(6) {
+  .organizations-page .chart-table td:nth-child(2), .organizations-page .chart-table td:nth-child(3), .organizations-page .chart-table td:nth-child(4), .organizations-page .chart-table td:nth-child(5), .organizations-page .chart-table td:nth-child(7), .organizations-page .chart-table td:nth-child(8), .organizations-page .chart-table th:nth-child(2), .organizations-page .chart-table th:nth-child(3), .organizations-page .chart-table th:nth-child(4), .organizations-page .chart-table th:nth-child(5), .organizations-page .chart-table th:nth-child(7), .organizations-page .chart-table th:nth-child(8) {
+    display: none;
+  }
+}
+
+/* OWNERS PAGE STYLE */
+.owners-page #detailsModal a {
+  color: #3b95d0;
+  font-weight: 600;
+}
+.owners-page #detailsModal .modal-title {
+  font-weight: 700;
+  color: #3b95d0;
+}
+.owners-page #detailsModal .details-line {
+  text-align: left;
+}
+@media only screen and (max-width: 768px) {
+  .owners-page .chart-table td:nth-child(2), .owners-page .chart-table td:nth-child(4), .owners-page .chart-table td:nth-child(5), .owners-page .chart-table td:nth-child(6), .owners-page .chart-table th:nth-child(2), .owners-page .chart-table th:nth-child(4), .owners-page .chart-table th:nth-child(5), .owners-page .chart-table th:nth-child(6) {
     display: none;
   }
 }
@@ -1154,11 +1264,19 @@ th:nth-child(3) {
   margin: 20px auto;
 }
 .about-eu-funding img {
-  width: 200px;
+  width: 300px;
 }
 .about-eu-funding p {
   font-size: 13px;
   margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.cc-logo {
+  width: 30px;
+  margin-right: 10px;
+  position: relative;
+  top: -2px;
 }
 
 /* 404 PAGE */
@@ -1256,7 +1374,7 @@ th:nth-child(3) {
 }
 }
 .chart-header .chart-title[data-v-feea20] {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   text-align: left;
   line-height: 128%;
@@ -1264,17 +1382,17 @@ th:nth-child(3) {
 }
 @media only screen and (max-width: 1400px) {
 .chart-header .chart-title[data-v-feea20] {
-    font-size: 18px;
+    font-size: 14px;
 }
 }
 @media only screen and (max-width: 1250px) {
 .chart-header .chart-title[data-v-feea20] {
-    font-size: 16px;
+    font-size: 14px;
 }
 }
 @media only screen and (max-width: 767px) {
 .chart-header .chart-title[data-v-feea20] {
-    font-size: 20px;
+    font-size: 16px;
 }
 }
 .chart-header .chart-header-buttons[data-v-feea20] {

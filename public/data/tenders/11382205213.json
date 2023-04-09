@@ -1,90 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "413390003",
-        "contracting_authority": "ÉSZAK HÚS ÉLELMISZERIPARI KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
+        "contract_value": 413390003.0,
+        "contracting_authority": "ÉSZAK HÚS ÉLELMISZERIPARI Kft.",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1557_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Húsüzem épület bővítése, tetőtér beépítése, korszerűsítése",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "205763311",
-        "contracting_authority": "HERNÁD HÚS ÉLELMISZERIPARI KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
+        "contract_value": 205763311.0,
+        "contracting_authority": "HERNÁD HÚS ÉLELMISZERIPARI Kft.",
         "date": "22/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13101_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29472353",
+        "contract_value": 29472353.0,
         "contracting_authority": "Alsógagy Község Önkormányzata",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8764_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Orvosi rendelő és közösségi tér felújítása",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4296083",
-        "contracting_authority": "Hernádpetri Község Önkormányzata",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8617_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szegregált élethelyzetek felszámolása 2. ütem",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5074622",
-        "contracting_authority": "Hernádpetri Község Önkormányzata",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8617_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szegregált élethelyzetek felszámolása 2. ütem",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5615299",
-        "contracting_authority": "Hernádpetri Község Önkormányzata",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8617_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szegregált élethelyzetek felszámolása 2. ütem",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9006309",
-        "contracting_authority": "Hernádpetri Község Önkormányzata",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8617_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szegregált élethelyzetek felszámolása 2. ütem",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "30644763",
-        "contracting_authority": "Hernádpetri Község Önkormányzata",
-        "date": "12/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8617_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szegregált élethelyzetek felszámolása 2. ütem",
-        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ELIX-BAU-2000 Építőipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

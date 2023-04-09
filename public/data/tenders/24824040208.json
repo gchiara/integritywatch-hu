@@ -1,24 +1,13 @@
 [
     {
-        "company_names": "DÖMPER Korlátolt Felelősségű Társaság; Pannon-Doprastav Korlátolt Felelősségű Társaság; S u b t e r r a - Raab Korlátolt Felelősségű Társaság",
-        "contract_value": "43999785001",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "DÖMPER Kft.; Pannon-Doprastav Kft.; S u b t e r r a - Raab Kft.",
+        "contract_value": 43999785001.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "12/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9114_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 3,
         "procurement_title": "M85 Fertőrákos-Sopron oh. tervezése, kivitelezése",
-        "registered_name": "S u b t e r r a - Raab Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "DÖMPER Korlátolt Felelősségű Társaság; Pannon-Doprastav Korlátolt Felelősségű Társaság; S u b t e r r a - Raab Korlátolt Felelősségű Társaság",
-        "contract_value": "220000000002",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "28/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25620_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 3,
-        "procurement_title": "M100 út Bicske-Esztergom szakasz kivitelezése",
-        "registered_name": "S u b t e r r a - Raab Korlátolt Felelősségű Társaság"
+        "registered_name": "S u b t e r r a - Raab Kft."
     }
 ]

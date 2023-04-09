@@ -1,112 +1,112 @@
 [
     {
         "company_names": "",
-        "contract_value": "15208915",
-        "contracting_authority": "Budapest Airport Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zártkörűen Működő Részvénytársaság",
+        "contract_value": 15208915.0,
+        "contracting_authority": "Budapest Airport Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zrt.",
         "date": "15/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19154_2017/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Liszt Ferenc Nemzetközi Repülőtér Főporta engedélyes és kiviteli terveinek elkészítése",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33360000",
+        "contract_value": 33360000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1938_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Tervezési szolgáltatás beszerzése",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16700000",
+        "contract_value": 16700000.0,
         "contracting_authority": "Budapest Főváros XIX. Kerület Kispest Önkormányzata",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16085_2018/",
         "main_cpv": "71400000-2",
         "number_companies_win": 0,
         "procurement_title": "Kerületi Építési Szabályzat-Kispest részterülete",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8940000",
+        "contract_value": 8940000.0,
         "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7380_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Gébárt - szükséges engedélyezési/generál kiviteli tervdokumentációk elkészítése",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10000000",
+        "contract_value": 10000000.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "29/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13536_2019/",
         "main_cpv": "71311000-1, 71410000-5",
         "number_companies_win": 0,
         "procurement_title": "Tárnoki, Szent István, Ürmös, Sóskúti utakon csomópontok és kapcsolódó útépítések tervezése",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10500000",
+        "contract_value": 10500000.0,
         "contracting_authority": "Országos Mentőszolgálat",
         "date": "29/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13994_2019/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Tervezési eljárás II.",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
-        "company_names": "\"MG Építész\" Tervező és Szolgáltató Korlátolt Felelősségű Társaság; KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság; TOP-KVALITÁS Tervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "380698080",
+        "company_names": "\"MG Építész\" Tervező és Szolgáltató Kft.; KASIB Mérnöki Manager Iroda Kft.; Perfektum Építész Kft.; TOP-KVALITÁS Tervező és Szolgáltató Kft.",
+        "contract_value": 380698080.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0167_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Egészséges Budapest Program keretében az Észak-pesti Centrum ÉPC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
-        "company_names": "\"MG Építész\" Tervező és Szolgáltató Korlátolt Felelősségű Társaság; KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság; TOP-KVALITÁS Tervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "381999040",
+        "company_names": "\"MG Építész\" Tervező és Szolgáltató Kft.; KASIB Mérnöki Manager Iroda Kft.; Perfektum Építész Kft.; TOP-KVALITÁS Tervező és Szolgáltató Kft.",
+        "contract_value": 381999040.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0329_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Egészséges Budapest Program keretében a Dél-budai Centrum DBC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
-        "company_names": "\"MG Építész\" Tervező és Szolgáltató Korlátolt Felelősségű Társaság; KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság; TOP-KVALITÁS Tervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "579999680",
+        "company_names": "\"MG Építész\" Tervező és Szolgáltató Kft.; KASIB Mérnöki Manager Iroda Kft.; Perfektum Építész Kft.; TOP-KVALITÁS Tervező és Szolgáltató Kft.",
+        "contract_value": 579999680.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0341_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Egészséges Budapest Program keretében a Dél-pesti Centrum DPC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10650000",
+        "contract_value": 10650000.0,
         "contracting_authority": "Görög Országos Önkormányzat",
         "date": "17/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23653_2020/",
         "main_cpv": "71240000-2",
         "number_companies_win": 0,
         "procurement_title": "Épületfelújítás kiviteli tervdokumentációja",
-        "registered_name": "KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "KASIB Mérnöki Manager Iroda Kft."
     }
 ]

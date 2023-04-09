@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "190000000",
+        "contract_value": 190000000.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "03/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10115_2018/",
         "main_cpv": "45223100-7",
         "number_companies_win": 0,
         "procurement_title": "Keretmegállapodás megkötése labdarúgópályák mobillelátóinak kivitelezésére",
-        "registered_name": "LELÁTÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "LELÁTÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68500000",
+        "contract_value": 68500000.0,
         "contracting_authority": "Magyar Kajak-Kenu Szövetség",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13085_2019/",
         "main_cpv": "44212317-4",
         "number_companies_win": 0,
         "procurement_title": "MOBIL LELÁTÓ HELYSZÍNI BIZTOSÍTÁSA",
-        "registered_name": "LELÁTÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "LELÁTÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6300000",
+        "contract_value": 6300000.0,
         "contracting_authority": "Szigetvár Város Önkormányzat",
         "date": "15/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6180_2020/",
         "main_cpv": "37416000-7",
         "number_companies_win": 0,
         "procurement_title": "Lelátó beszerzése",
-        "registered_name": "LELÁTÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "LELÁTÓ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26000000",
-        "contracting_authority": "MÓRANET Mórahalmi Informatikai Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 26000000.0,
+        "contracting_authority": "MÓRANET Mórahalmi Informatikai Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "21/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8824_2020/",
         "main_cpv": "39111200-5",
         "number_companies_win": 0,
         "procurement_title": "Lovasközpont turisztikai eszközbeszerzése",
-        "registered_name": "LELÁTÓ Korlátolt Felelősségű Társaság"
+        "registered_name": "LELÁTÓ Kft."
     }
 ]

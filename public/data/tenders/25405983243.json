@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 100000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7869_2018/",
         "main_cpv": "66172000-6",
         "number_companies_win": 0,
         "procurement_title": "Készpénzmentes elszámolási rendszer bevezetése a BGYH Zrt. üzemeltetésében lévő fürdők kereskedelmi egységeiben",
-        "registered_name": "FestiPay Készpénzmentes Fizetési Szolgáltatások Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FestiPay Készpénzmentes Fizetési Szolgáltatások Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 200000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "09/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9677_2020/",
         "main_cpv": "66172000-6",
         "number_companies_win": 0,
         "procurement_title": "Készpénzmentes szolgáltatások beszerzése",
-        "registered_name": "FestiPay Készpénzmentes Fizetési Szolgáltatások Zártkörűen Működő Részvénytársaság"
+        "registered_name": "FestiPay Készpénzmentes Fizetési Szolgáltatások Zrt."
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "company_names": "AL-INOX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ETKF Európai Tudományos Kutatási és Fejlesztési Korlátolt Felelősségű Társaság",
-        "contract_value": "66580399",
+        "company_names": "AL-INOX Kereskedelmi és Szolgáltató Kft.; ETKF Európai Tudományos Kutatási és Fejlesztési Kft.",
+        "contract_value": 66580399.0,
         "contracting_authority": "\"Kossuth\" Pinceszövetkezet",
         "date": "10/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5359_2018/",
         "main_cpv": "42200000-8",
         "number_companies_win": 2,
         "procurement_title": "Szőlő feldolgozáshoz és palackozáshoz, valamint egyéb pinceműveletekhez szükséges eszközök beszerzése",
-        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "132130000",
-        "contracting_authority": "VINOTRADE BORÁSZATI KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG",
+        "contract_value": 132130000.0,
+        "contracting_authority": "VINOTRADE BORÁSZATI Kft.",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14921_2018/",
         "main_cpv": "39221130-7",
         "number_companies_win": 0,
         "procurement_title": "Hűtőköpenyes erjesztő tartályok beszerzése",
-        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92365000",
-        "contracting_authority": "\"Egri Csillagok\" Borászati, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság",
+        "contract_value": 92365000.0,
+        "contracting_authority": "\"Egri Csillagok\" Borászati, Kereskedelmi és Szolgáltató Zrt.",
         "date": "24/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16490_2018/",
         "main_cpv": "42210000-1",
         "number_companies_win": 0,
         "procurement_title": "Borászati eszközök beszerzése az Egri Csillagok Zrt.-nél",
-        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44789000",
-        "contracting_authority": "FRITTMANN TESTVÉREK Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 44789000.0,
+        "contracting_authority": "FRITTMANN TESTVÉREK Kereskedelmi és Szolgáltató Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20049_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Gépek beszerzése borászati fejlesztés keretében a Frittmann Testvérek Kft. részére",
-        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "136600000",
-        "contracting_authority": "KIRÁLYHEGY-KER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 136600000.0,
+        "contracting_authority": "KIRÁLYHEGY-KER Kereskedelmi és Szolgáltató Kft.",
         "date": "04/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21349_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Borászati tartályok, gépek, berendezések beszerzése",
-        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AL-INOX Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,90 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "55120000",
+        "contract_value": 55120000.0,
         "contracting_authority": "Körmend Város Önkormányzata",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10212_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dr. Batthyányné Coreth Mária Óvoda fejlesztése Körmenden pályázat kivitelezési munkálatai vállalkozási szerződés keretében",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139951557",
+        "contract_value": 139951557.0,
         "contracting_authority": "Körmend Város Önkormányzata",
         "date": "29/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11356_2018/",
         "main_cpv": "45112000-5",
         "number_companies_win": 0,
         "procurement_title": "Körmend - Keleti városrész csapadékvíz elvezetés kivitelezése",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69463191",
+        "contract_value": 69463191.0,
         "contracting_authority": "Csepreg Város Önkormányzata",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17390_2018/",
         "main_cpv": "45100000-8",
         "number_companies_win": 0,
         "procurement_title": "Csepreg - Zöld város",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36059519",
+        "contract_value": 36059519.0,
         "contracting_authority": "Balogunyom Község Önkormányzata",
         "date": "31/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24665_2019/",
         "main_cpv": "45232452-5",
         "number_companies_win": 0,
         "procurement_title": "Balogunyom, csapadékvíz-elvezetési rendszer",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "69562991",
-        "contracting_authority": "Kőszeg Város Önkormányzata",
-        "date": "06/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24898_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Alsó körút, Strand sétány burkolat felújítás",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "120280067",
-        "contracting_authority": "Kőszeg Város Önkormányzata",
-        "date": "06/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24901_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Útburkolat, parkoló felújítása",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "66222356",
-        "contracting_authority": "Kőszeg Város Önkormányzata",
-        "date": "25/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5068_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Útburkolatok felújítása",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "41391485",
-        "contracting_authority": "Kőszeg Város Önkormányzata",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_22356_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Táncsics Mihály utca útburkolat felújítása",
-        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SMALL Consulting Szolgáltató és Kereskedelmi Kft."
     }
 ]

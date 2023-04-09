@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "210000000",
+        "contract_value": 210000000.0,
         "contracting_authority": "Nemzeti Földalapkezelő Szervezet",
         "date": "10/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15395_2018/",
         "main_cpv": "45110000-1",
         "number_companies_win": 0,
         "procurement_title": "NFA - földrészletek művelésben tartásának elősegítése a kommunális hulladékkal, építési törmelékkel és veszélyes hulladékkal történt szennyezettség megszüntetésével",
-        "registered_name": "Alföldi Környezetvédelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Alföldi Környezetvédelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "210000000",
+        "contract_value": 210000000.0,
         "contracting_authority": "Nemzeti Földügyi Központ",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0377_2020/",
         "main_cpv": "90500000-2",
         "number_companies_win": 0,
         "procurement_title": "Hulladékmentesítés 2019",
-        "registered_name": "Alföldi Környezetvédelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Alföldi Környezetvédelmi Kft."
     }
 ]

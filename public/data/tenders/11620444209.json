@@ -1,79 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "292010674",
+        "contract_value": 292010674.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "10/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_170_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Debrecen Keleti városrész csapadékvíz elvezetésének kivitelezése",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "229929948",
+        "contract_value": 229929948.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11941_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nagysándortelep-Vulkántelep és Fészek lakópark (Téglagyár városrész) csapadékvíz elvezetésének kivitelezése",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "139435365",
+        "contract_value": 139435365.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "01/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17594_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nagysándortelep-Vulkántelep és Fészek lakópark (Téglagyár városrész) csapadékvíz elvezetés kivitelezésének 2. része",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24506210",
+        "contract_value": 24506210.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12735_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csatornahálózaton hibaelhárítás, fenntartás",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22079201",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "22/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_4734_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "2020. évi lakossági útépítéseinek kivitelezése",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "148762315",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "09/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17068_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Debrecen, Mézeshegy és Pipóhegy utcák útépítése",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "188721467",
-        "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata",
-        "date": "13/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17321_2021/",
-        "main_cpv": "45247112-8",
-        "number_companies_win": 0,
-        "procurement_title": "Nagysándortelep csapadékvíz elvezetése - II. ütem",
-        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "KUSZI Közmű-, Út- és Szolgáltató Ipari Mérnöki Tervező és Kivitelező Kft."
     }
 ]

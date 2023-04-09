@@ -1,222 +1,167 @@
 [
     {
         "company_names": "",
-        "contract_value": "204202967",
+        "contract_value": 204202967.0,
         "contracting_authority": "Győri Szakképzési Centrum",
         "date": "30/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1556_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Győri Műszaki SZC Lukács Sándor Mechatronikai és Gépészeti Szakgimnáziuma, Szakközépiskolája kollégiumi épületének felújítása",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "221178040",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; FODOR Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 221178040.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10901_2018/",
         "main_cpv": "45211350-7",
         "number_companies_win": 2,
         "procurement_title": "A MVP keretében a győri Xantus János Állatkert a meglévő zsiráfház épület átalakításával, bővítésével megvalósuló orrszarvúház kialakítása és kivitelezése a műszaki dokumentáció szerint, meglévő kiviteli tervek alapján vállalkozói szerződés keretében",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "175425299",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; FODOR Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 175425299.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10907_2018/",
         "main_cpv": "45211350-7",
         "number_companies_win": 2,
         "procurement_title": "A Modern Városok Program keretében a győri Xantus János Állatkert Új főbejárat (1. rész) és Állategészségügyi Központ (2. rész) létesítmények kivitelezése meglévő kiviteli tervek alapján vállalkozási szerződés keretében 2 részben",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "262869179",
-        "contracting_authority": "Győri Szolgáltatási Szakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 262869179.0,
+        "contracting_authority": "Győri Szolgáltatási Szakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12355_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Győri Szolgáltatási Szakképzési Centrum energetikai fejlesztése című projekt keretében a 2672/10 hrsz. 9024 Győr, Cuha utca 2. szám alatti épületének energetikai felújítására.",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "FK System Építő Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3054203326",
-        "contracting_authority": "GYŐR-SZOL Győri Közszolgáltató és Vagyongazdálkodó Zártkörűen Működő Részvénytársaság",
+        "company_names": "FK System Építő Szolgáltató és Kereskedelmi Kft.; FODOR Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 3054203326.0,
+        "contracting_authority": "GYŐR-SZOL Győri Közszolgáltató és Vagyongazdálkodó Zrt.",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12817_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 2,
         "procurement_title": "Vállalkozási szerződés Győr Vásárcsarnok átépítése, valamint parkolási helyzetének rendezésére a Zöld város kialakítása Győrben című pályázat keretében",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44922464",
+        "contract_value": 44922464.0,
         "contracting_authority": "Kossuth L. u. 36-40-Bercsényi liget 41-43",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18402_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Bercsényi liget 41. sz. alatti épület felújítása",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "382492203",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; FODOR Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 382492203.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22574_2018/",
         "main_cpv": "45211350-7",
         "number_companies_win": 2,
         "procurement_title": "XJÁ Majomház és Takarmányfeldolgozó kivitelezése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "183377213",
+        "contract_value": 183377213.0,
         "contracting_authority": "Győr, Bercsényi Liget 35/A. Társasház",
         "date": "13/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2455_2019/",
         "main_cpv": "45111100-9, 45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Bercsényi liget 35. sz. alatti épület felújítása",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "90742883",
+        "contract_value": 90742883.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "12/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_12732_2019/",
         "main_cpv": "45214000-0",
         "number_companies_win": 0,
         "procurement_title": "A ménfőcsanaki Bölcsőde felújítása",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1547643189",
+        "company_names": "EURO GENERÁL Építő és Szolgáltató Zrt.; FODOR Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1547643189.0,
         "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
         "date": "16/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19484_2019/",
         "main_cpv": "45211350-7",
         "number_companies_win": 2,
         "procurement_title": "A győri Xantus János Állatkert átfogó fejlesztésének keretében a tárgyi létesítmények kivitelezése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199400632",
-        "contracting_authority": "Bábolna Nemzeti Ménesbirtok, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 199400632.0,
+        "contracting_authority": "Bábolna Nemzeti Ménesbirtok, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "03/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1816_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bábolna épületeinek épületenergetikai fejlesztése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89109469",
+        "contract_value": 89109469.0,
         "contracting_authority": "Hajléktalanokat Segítő Szolgálat Győr",
         "date": "24/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3056_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hajléktalanszálló bővítése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69040708",
-        "contracting_authority": "Győr Megyei Jogú Város Önkormányzata, GYŐR-SZOL Győri Közszolgáltató és Vagyongazdálkodó Zártkörűen Működő Részvénytársaság",
+        "contract_value": 69040708.0,
+        "contracting_authority": "Győr Megyei Jogú Város Önkormányzata, GYŐR-SZOL Győri Közszolgáltató és Vagyongazdálkodó Zrt.",
         "date": "24/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7164_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Nyugdíjasház személyfelvonóval történő bővítése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "758351819",
-        "contracting_authority": "Klebelsberg Központ, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 758351819.0,
+        "contracting_authority": "Klebelsberg Központ, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "16/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10180_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Klebelsberg Központ GYMS megyei épületek energetikai fejlesztése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SZABÓ ÉS TÁRSA BELSŐÉPÍTÉSZETI Korlátolt Felelősségű Társaság",
-        "contract_value": "299738749",
-        "contracting_authority": "Klebelsberg Központ, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "company_names": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft.; SZABÓ ÉS TÁRSA BELSŐÉPÍTÉSZETI Kft.",
+        "contract_value": 299738749.0,
+        "contracting_authority": "Klebelsberg Központ, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "16/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10180_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Klebelsberg Központ GYMS megyei épületek energetikai fejlesztése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "637316892",
-        "contracting_authority": "Tatabányai Tankerületi Központ",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1330_2021/",
-        "main_cpv": "45453100-8",
-        "number_companies_win": 2,
-        "procurement_title": "Nagyigmándi Pápay József Általános Iskola infrastruktúra fejlesztése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "949885500",
-        "contracting_authority": "Tatabányai Tankerületi Központ",
-        "date": "01/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1333_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Nagyigmándi Pápay József Általános Iskola infrastruktúra fejlesztése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "206622442",
-        "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
-        "date": "08/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9983_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Városháza energetikai korszerűsítése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VEMÉV-SZER Építő- és Szerelőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "5983466429",
-        "contracting_authority": "Pannon Egyetem",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13678_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Energetikai fejlesztés (tervezés és kivitelezés)",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO GENERÁL Építő és Szolgáltató Zártkörűen Működő Részvénytársaság; FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "613911141",
-        "contracting_authority": "Győri Szakképzési Centrum, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
-        "date": "06/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19480_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Győri SZC épületenergetikai fejlesztése",
-        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FODOR Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

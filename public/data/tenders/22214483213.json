@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "207086611",
+        "contract_value": 207086611.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_15852_2018/",
         "main_cpv": "34731700-7",
         "number_companies_win": 0,
         "procurement_title": "AS-350B típusú helikopterek fenntartása 2018-2019",
-        "registered_name": "Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar Légimentő Nonprofit Kft."
     }
 ]

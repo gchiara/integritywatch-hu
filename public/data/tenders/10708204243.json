@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "211803375",
+        "contract_value": 211803375.0,
         "contracting_authority": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület",
         "date": "10/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20497_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Balatoni viharjelző rendszer korszerűsítése",
-        "registered_name": "NOVOFER Távközlési Innovációs Zártkörűen Működő Részvénytársaság"
+        "registered_name": "NOVOFER Távközlési Innovációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "17562964",
+        "contract_value": 17562964.0,
         "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
         "date": "13/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18185_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Új rádiómonitoring telephely kialakítása Ménfőcsanakon",
-        "registered_name": "NOVOFER Távközlési Innovációs Zártkörűen Működő Részvénytársaság"
+        "registered_name": "NOVOFER Távközlési Innovációs Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "142164000",
+        "contract_value": 142164000.0,
         "contracting_authority": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület",
         "date": "26/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10956_2020/",
         "main_cpv": "72000000-5",
         "number_companies_win": 0,
         "procurement_title": "PannonRIS rendszer supportja",
-        "registered_name": "NOVOFER Távközlési Innovációs Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "190000000",
-        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1486_2021/",
-        "main_cpv": "50410000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Spektrum monitoring állomások javítása, karbantartása",
-        "registered_name": "NOVOFER Távközlési Innovációs Zártkörűen Működő Részvénytársaság"
+        "registered_name": "NOVOFER Távközlési Innovációs Zrt."
     }
 ]

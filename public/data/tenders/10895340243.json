@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "98425197",
+        "contract_value": 98425197.0,
         "contracting_authority": "Budafoki Munkás Testedző Egyesület",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0352_2020/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Elektromos szerelési munkák",
-        "registered_name": "Papp Elektromos Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Papp Elektromos Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "189616287",
+        "contract_value": 189616287.0,
         "contracting_authority": "Budafoki Munkás Testedző Egyesület",
         "date": "17/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12891_2020/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Labdarúgópálya világításának fejlesztése NBI-re",
-        "registered_name": "Papp Elektromos Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Papp Elektromos Szolgáltató Kft."
     }
 ]

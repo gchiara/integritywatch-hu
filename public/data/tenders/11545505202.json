@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "33613588",
+        "contract_value": 33613588.0,
         "contracting_authority": "Nagypall Község Önkormányzata",
         "date": "02/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3397_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Nagypall Önkormányzati épület felújítása, korszerűsítése",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pécsváradi Architekt Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "66606459",
+        "contract_value": 66606459.0,
         "contracting_authority": "Boldogasszony Római Katolikus Gondnokság",
         "date": "04/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5135_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Máriakéméndi Római Katolikus Plébánia épületének felújítása",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pécsváradi Architekt Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75846643",
+        "contract_value": 75846643.0,
         "contracting_authority": "Bári Római Katolikus Plébánia, Pécsi Egyházmegye",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10399_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szebényi Római Katolikus Templom épületének felújítása",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pécsváradi Architekt Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77525124",
+        "contract_value": 77525124.0,
         "contracting_authority": "Geresdlaki Romai Katolikus Plébánia, Pécsi Egyházmegye",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11089_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Geresdlaki Római Katolikus Templom külső felújítása",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pécsváradi Architekt Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "112299779",
+        "contract_value": 112299779.0,
         "contracting_authority": "Himesházai Római Katolikus Plébánia, Pécsi Egyházmegye",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11055_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "A Himesházai Római Katolikus Templom külső felújítása",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pécsváradi Architekt Építőipari Kft."
     },
     {
-        "company_names": "ALISCA BAU Építőipari Zártkörűen Működő Részvénytársaság; Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság",
-        "contract_value": "442952608",
+        "company_names": "ALISCA BAU Építőipari Zrt.; Pécsváradi Architekt Építőipari Kft.",
+        "contract_value": 442952608.0,
         "contracting_authority": "Pécsi Egyházmegye",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12195_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "A bátai Szent Vér Kegyhely komplex turisztikai fejlesztése és a Bátaszéki Szent Orbán Kápolna felújítása",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "298777398",
-        "contracting_authority": "Pécsvárad Város Önkormányzata",
-        "date": "26/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3353_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Zöld belváros Pécsváradon",
-        "registered_name": "Pécsváradi Architekt Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "Pécsváradi Architekt Építőipari Kft."
     }
 ]

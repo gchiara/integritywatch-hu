@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "91132412",
+        "contract_value": 91132412.0,
         "contracting_authority": "Jánd Község Önkormányzata",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11076_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése Jándon",
-        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "120425359",
+        "contract_value": 120425359.0,
         "contracting_authority": "Gyüre Község Önkormányzata",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11080_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gyüre Község Általános Iskolájának épületenergetikai korszerűsítése",
-        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "208395648",
+        "contract_value": 208395648.0,
         "contracting_authority": "Magosliget Község Önkormányzata",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14807_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Óvoda felújítása, bölcsődei csoport kialakítása",
-        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "183955464",
+        "contract_value": 183955464.0,
         "contracting_authority": "Magosliget Község Önkormányzata",
         "date": "18/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19741_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvoda felújítás, bölcsődei csoport kialakítás",
-        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199004215",
-        "contracting_authority": "Tokaji Kutatóintézet Szőlészeti és Borászati Kutató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 199004215.0,
+        "contracting_authority": "Tokaji Kutatóintézet Szőlészeti és Borászati Kutató Nonprofit Kft.",
         "date": "05/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7791_2020/",
         "main_cpv": "45212314-0",
         "number_companies_win": 0,
         "procurement_title": "Tarcal, Rákóczi szüretelőház turisztikai fejlesztése",
-        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "ZOMBOR és Társai Épitőipari és Kereskedelmi Kft."
     }
 ]

@@ -1,519 +1,409 @@
 [
     {
         "company_names": "",
-        "contract_value": "4693640",
+        "contract_value": 4693640.0,
         "contracting_authority": "Magyar Nemzeti Bank",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_277/megtekint/portal_18902_2017/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Számítástechnikai gépek alkatrész beszerzése, 4. lehívás",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22178000",
-        "contracting_authority": "ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 22178000.0,
+        "contracting_authority": "ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_833_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Microsoft OV licensz beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94969850",
+        "contract_value": 94969850.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "15/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2305_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Microsoft szoftverlicencek beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "155997496",
+        "contract_value": 155997496.0,
         "contracting_authority": "Legfőbb Ügyészség",
         "date": "06/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2681_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Irodai programcsomag beszerzés",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "394990",
+        "contract_value": 394990.0,
         "contracting_authority": "Magyar Nemzeti Levéltár",
         "date": "27/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11062_2018/",
         "main_cpv": "38520000-6",
         "number_companies_win": 0,
         "procurement_title": "e-documenta Pannonica című projekt keretében széles formátumú (műszaki) szkenner és nagy tárolókapacitású számítógép beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6894140",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6894140.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11022_2018/",
         "main_cpv": "38653400-1",
         "number_companies_win": 0,
         "procurement_title": "Projektorok, kiegészítők és nyomtatók beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44394000",
+        "contract_value": 44394000.0,
         "contracting_authority": "Jász-Nagykun-Szolnok Megyei Kormányhivatal",
         "date": "01/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12401_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Különböző eszközök beszerzése a Jász-Nagykun-Szolnok Megyei Kormányhivatal, mint projektgazda részére",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6537820",
-        "contracting_authority": "OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 6537820.0,
+        "contracting_authority": "OFA Országos Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "05/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15809_2018/",
         "main_cpv": "64212000-5",
         "number_companies_win": 0,
-        "procurement_title": "Mobiltelefon készülékek és mobiltelefon szolgáltatás előfizetés beszerzése az OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "procurement_title": "Mobiltelefon készülékek és mobiltelefon szolgáltatás előfizetés beszerzése az OFA Országos Foglalkoztatási Közhasznú Nonprofit Kft. részére",
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
-        "company_names": "DOCEMUR DOCENDO Korlátolt Felelősségű Társaság; KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság",
-        "contract_value": "81357033",
+        "company_names": "DOCEMUR DOCENDO Kft.; KARAKTER Számitástechnikai, Elektronikai Kft.",
+        "contract_value": 81357033.0,
         "contracting_authority": "Belügyminisztérium",
         "date": "31/10/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_19257_2018/",
         "main_cpv": "80000000-4",
         "number_companies_win": 2,
         "procurement_title": "Fogvatartottak iskolarendszeren kívüli szakképzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "88822",
+        "contract_value": 88822.0,
         "contracting_authority": "Békéscsabai Tankerületi Központ",
         "date": "08/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20196_2018/",
         "main_cpv": "30237000-9",
         "number_companies_win": 0,
         "procurement_title": "Windows 10 Home operációs szoftver és kiegészítők",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10353300",
-        "contracting_authority": "Apertus Közszolgálati Oktatás-fejlesztési Központ Szolgáltató Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 10353300.0,
+        "contracting_authority": "Apertus Közszolgálati Oktatás-fejlesztési Központ Szolgáltató Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "22/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20322_2018/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szoftvereszközök beszerzése – 2018.",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17378900",
+        "contract_value": 17378900.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22139_2018/",
         "main_cpv": "30233100-2",
         "number_companies_win": 0,
         "procurement_title": "Különböző típusú belső háttértárak beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1789950",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1789950.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21257_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatók, scannerek és hálózati eszközök",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10390273",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10390273.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "14/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0634_2019/",
         "main_cpv": "30190000-7",
         "number_companies_win": 0,
         "procurement_title": "Munkakörülmény javító eszközök beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22385031",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 22385031.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "14/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0634_2019/",
         "main_cpv": "30190000-7",
         "number_companies_win": 0,
         "procurement_title": "Munkakörülmény javító eszközök beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1319890",
-        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság",
+        "contract_value": 1319890.0,
+        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zrt.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0733_2019/",
         "main_cpv": "30213100-6",
         "number_companies_win": 0,
         "procurement_title": "ÜTÉS-ÉS VÍZÁLLÓ NOTEBOOK BESZERZÉSE",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16692370",
+        "contract_value": 16692370.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1904_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szoftver licencek biztosítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4496280",
+        "contract_value": 4496280.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "09/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5917_2019/",
         "main_cpv": "30233180-6",
         "number_companies_win": 0,
         "procurement_title": "KR NNI informatikai eszközök beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28358000",
+        "contract_value": 28358000.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19662_2018/",
         "main_cpv": "48730000-4",
         "number_companies_win": 0,
         "procurement_title": "Behatolás megelőző (IPS) e-mail és web-szűrő rendszerek licenceinek 2018. évi megújítása, követése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14747500",
+        "contract_value": 14747500.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Polgármesteri Hivatala",
         "date": "24/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9333_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5792150",
+        "contract_value": 5792150.0,
         "contracting_authority": "Magyar Nemzeti Levéltár",
         "date": "25/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11191_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Office Program beszerzése KÖFOP finanszírozással",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6894000",
-        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 6894000.0,
+        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14192_2019/",
         "main_cpv": "48820000-2",
         "number_companies_win": 0,
         "procurement_title": "Központi informatikai eszközök, szoftverek szállítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "27485360",
-        "contracting_authority": "Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 27485360.0,
+        "contracting_authority": "Dunántúli Regionális Vízmű Zrt.",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21074_2019/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "MS szoftver licencek beszerzése a DRV Zrt. részére",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7891200",
+        "contract_value": 7891200.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1236_2020/",
         "main_cpv": "80000000-4",
         "number_companies_win": 0,
         "procurement_title": "Oktatási szolgáltatások biztosítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16926970",
+        "contract_value": 16926970.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "24/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0576_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szoftver licencek biztosítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8711820",
-        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8711820.0,
+        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zrt.",
         "date": "31/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5167_2020/",
         "main_cpv": "30214000-2",
         "number_companies_win": 0,
         "procurement_title": "Mobil munkaállomások beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "498890",
+        "contract_value": 498890.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "21/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12187_2020/",
         "main_cpv": "30213200-7",
         "number_companies_win": 0,
         "procurement_title": "Táblagépek beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6494400",
+        "contract_value": 6494400.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "27/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15578_2020/",
         "main_cpv": "80510000-2",
         "number_companies_win": 0,
         "procurement_title": "Képzésszervezési szolgáltatás megvalósítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28222670",
-        "contracting_authority": "ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 28222670.0,
+        "contracting_authority": "ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.",
         "date": "15/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18864_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Microsoft licenc beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4902000",
+        "contract_value": 4902000.0,
         "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20389_2020/",
         "main_cpv": "80000000-4",
         "number_companies_win": 0,
         "procurement_title": "OKJ szerinti képzések szervezése és lebonyolítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13446000",
+        "contract_value": 13446000.0,
         "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
         "date": "09/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20389_2020/",
         "main_cpv": "80000000-4",
         "number_companies_win": 0,
         "procurement_title": "OKJ szerinti képzések szervezése és lebonyolítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6992190",
+        "contract_value": 6992190.0,
         "contracting_authority": "Hajdú-Bihar Megyei Kormányhivatal",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23207_2020/",
         "main_cpv": "48000000-8",
         "number_companies_win": 0,
         "procurement_title": "Szoftverlicencek, kellékanyagok és informatikai eszközök szállítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5350000",
+        "contract_value": 5350000.0,
         "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23842_2020/",
         "main_cpv": "80000000-4",
         "number_companies_win": 0,
         "procurement_title": "OKJ képzések",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7560000",
+        "contract_value": 7560000.0,
         "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23842_2020/",
         "main_cpv": "80000000-4",
         "number_companies_win": 0,
         "procurement_title": "OKJ képzések",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11025000",
+        "contract_value": 11025000.0,
         "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
         "date": "21/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23842_2020/",
         "main_cpv": "80000000-4",
         "number_companies_win": 0,
         "procurement_title": "OKJ képzések",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2762400",
+        "contract_value": 2762400.0,
         "contracting_authority": "Szolnoki Tankerületi Központ",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24643_2020/",
         "main_cpv": "30213200-7",
         "number_companies_win": 0,
         "procurement_title": "48 db táblagép beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6775100",
+        "contract_value": 6775100.0,
         "contracting_authority": "Állami Számvevőszék",
         "date": "30/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24630_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "2-in-1 laptop- tablet eszköz beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "336000",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_0101_2021/",
-        "main_cpv": "80000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Képzési szolgáltatások",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "560000",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_0101_2021/",
-        "main_cpv": "80000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Képzési szolgáltatások",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "885000",
-        "contracting_authority": "MÁV FKG Felépitménykarbantartó és Gépjavitó Korlátolt Felelősségü Társaság, MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság, MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_0101_2021/",
-        "main_cpv": "80000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Képzési szolgáltatások",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20508500",
-        "contracting_authority": "MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság",
-        "date": "29/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1538_2021/",
-        "main_cpv": "72261000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Microsoft Open Value licenckövetés beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "48729000",
-        "contracting_authority": "MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság",
-        "date": "29/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1538_2021/",
-        "main_cpv": "72261000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Microsoft Open Value licenckövetés beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20967460",
-        "contracting_authority": "Budaörs Város Önkormányzata, Budaörsi Polgármesteri Hivatal",
-        "date": "17/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2370_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Szoftver licenszek biztosítása",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7254000",
-        "contracting_authority": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4688_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Microsoft szoftver licencek beszerzése",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7102150",
-        "contracting_authority": "Jász-Nagykun-Szolnok Megyei Kormányhivatal",
-        "date": "21/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17790_2021/",
-        "main_cpv": "30000000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Multifunkciós eszközök, toner és licensz beszerzés",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1650000",
-        "contracting_authority": "Budapest Főváros XVII. Kerület Rákosmente Önkormányzata",
-        "date": "14/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_20158_2021/",
-        "main_cpv": "80000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Szakmai és kompetenciafejlesztő képzések",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45637990",
-        "contracting_authority": "ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "12/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21836_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Microsoft Licence megújítás",
-        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Korlátolt Felelősségü Társaság"
+        "registered_name": "KARAKTER Számitástechnikai, Elektronikai Kft."
     }
 ]

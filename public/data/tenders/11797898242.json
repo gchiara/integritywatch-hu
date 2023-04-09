@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "11000000",
-        "contracting_authority": "KözPont Újbudai Kulturális Korlátolt Felelősségű Társaság",
+        "contract_value": 11000000.0,
+        "contracting_authority": "KözPont Újbudai Kulturális Kft.",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21928_2018/",
         "main_cpv": "79820000-8",
         "number_companies_win": 0,
         "procurement_title": "Nyomdai szolgáltatás 2019",
-        "registered_name": "CREW Nyomdaipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREW Nyomdaipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52712917",
-        "contracting_authority": "BFTK Budapesti Fesztivál-és Turisztikai Központ Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 52712917.0,
+        "contracting_authority": "BFTK Budapesti Fesztivál-és Turisztikai Központ Nonprofit Kft.",
         "date": "06/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3887_2019/",
         "main_cpv": "79800000-2",
         "number_companies_win": 0,
         "procurement_title": "Nyomdai szolgáltatás II.",
-        "registered_name": "CREW Nyomdaipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREW Nyomdaipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "172217150",
-        "contracting_authority": "Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, Nemzeti Kommunikációs Hivatal",
+        "contract_value": 172217150.0,
+        "contracting_authority": "Magyar Turisztikai Ügynökség Zrt., Nemzeti Kommunikációs Hivatal",
         "date": "11/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14370_2019/",
         "main_cpv": "79821000-5",
         "number_companies_win": 0,
         "procurement_title": "MTÜ nyomdai előkészítés és kivitelezés feladata",
-        "registered_name": "CREW Nyomdaipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREW Nyomdaipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44785000",
-        "contracting_authority": "BFTK Budapesti Fesztivál-és Turisztikai Központ Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 44785000.0,
+        "contracting_authority": "BFTK Budapesti Fesztivál-és Turisztikai Központ Nonprofit Kft.",
         "date": "25/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3100_2020/",
         "main_cpv": "79821000-5",
         "number_companies_win": 0,
         "procurement_title": "Nyomdai szolgáltatások 2020 II.",
-        "registered_name": "CREW Nyomdaipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREW Nyomdaipari Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33451340",
-        "contracting_authority": "Nemzeti Színház Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33451340.0,
+        "contracting_authority": "Nemzeti Színház Közhasznú Nonprofit Zrt.",
         "date": "04/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6545_2020/",
         "main_cpv": "79800000-2",
         "number_companies_win": 0,
         "procurement_title": "Nyomdai szolgáltatások megrendelése",
-        "registered_name": "CREW Nyomdaipari Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20000000",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "10/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9827_2021/",
-        "main_cpv": "79820000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Nyomdai kivitelezési szolgáltatások",
-        "registered_name": "CREW Nyomdaipari Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CREW Nyomdaipari Szolgáltató Kft."
     }
 ]

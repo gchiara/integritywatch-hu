@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "198869214",
+        "contract_value": 198869214.0,
         "contracting_authority": "Újfehértó Város Önkormányzata",
         "date": "28/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11097_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Újfehértói Iskola épület energia megtakarítást eredményező felújítása",
-        "registered_name": "NYÍRSÉGI MAGASÉPÍTŐ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "NYÍRSÉGI MAGASÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40512392",
+        "contract_value": 40512392.0,
         "contracting_authority": "Újfehértó Város Önkormányzata",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11668_2019/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Újfehértó, Zajti Ferenc Kulturális Központ színháztermének és kapcsolódó helyiségeinek felújítása",
-        "registered_name": "NYÍRSÉGI MAGASÉPÍTŐ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "NYÍRSÉGI MAGASÉPÍTŐ Kft."
     },
     {
         "company_names": "",
-        "contract_value": "113301605",
+        "contract_value": 113301605.0,
         "contracting_authority": "Magyarországi Zsidó Hitközségek Szövetsége",
         "date": "20/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17996_2019/",
         "main_cpv": "45212360-7",
         "number_companies_win": 0,
         "procurement_title": "Ortodox zarándokház építése - Nagykálló",
-        "registered_name": "NYÍRSÉGI MAGASÉPÍTŐ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG"
+        "registered_name": "NYÍRSÉGI MAGASÉPÍTŐ Kft."
     }
 ]

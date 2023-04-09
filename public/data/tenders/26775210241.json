@@ -1,112 +1,13 @@
 [
     {
-        "company_names": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság; ENERGY HUNGARY Energetikai Zártkörűen Működő Részvénytársaság; Green Plan Energy Környezetvédelmi Korlátolt Felelősségü Társaság; HelioActive Rendszerintegrátor Korlátolt Felelősségű Társaság; Optimum Solar Építőipari Szolgáltató Korlátolt Felelősségű Társaság; Turbo Tech Hungary Korlátolt Felelősségű Társaság; VABEKO Müszaki Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság",
-        "contract_value": "140000000000",
-        "contracting_authority": "MVM Zöld Generáció Korlátolt Felelősségű Társaság",
+        "company_names": "Electric Four Energetikai Zrt.; ENERGY HUNGARY Energetikai Zrt.; Green Plan Energy Környezetvédelmi Kft.; HelioActive Rendszerintegrátor Kft.; Optimum Solar Építőipari Szolgáltató Kft.; Turbo Tech Hungary Kft.; VABEKO Müszaki Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 140000000000.0,
+        "contracting_authority": "MVM Zöld Generáció Kft.",
         "date": "15/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_16181_2020/",
         "main_cpv": "45262000-1",
         "number_companies_win": 7,
         "procurement_title": "PV erőművek kiviteli tervezése és kivitelezése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5029892",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11556114",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23538807",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "48190902",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "51859735",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "57534887",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "115191651",
-        "contracting_authority": "MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "02/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2649_2021/",
-        "main_cpv": "45232300-5",
-        "number_companies_win": 0,
-        "procurement_title": "Optikai hálózat létesítése",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság; Lillyneir Rendszermérnök Korlátolt Felelősségű Társaság",
-        "contract_value": "232386343,8",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_5379_2021/",
-        "main_cpv": "31310000-2",
-        "number_companies_win": 2,
-        "procurement_title": "OPGW beszerzés Sajószöged-Szolnok-Mezőcsát",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság; FCI Kompozit Szigetelő Korlátolt Felelősségű Társaság; Forest-Vill Villamosipari és Energetikai Létesítményeket Tervező és Kivitelező Korlátolt Felelősségű Társaság",
-        "contract_value": "874000510,74",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
-        "date": "22/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_13181_2021/",
-        "main_cpv": "31310000-2",
-        "number_companies_win": 3,
-        "procurement_title": "Optikai összeköttetések anyagainak (acélvédőcsőben elhelyezett, 96 optikai szálas OPGW) szállítása",
-        "registered_name": "Electric Four Energetikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Electric Four Energetikai Zrt."
     }
 ]

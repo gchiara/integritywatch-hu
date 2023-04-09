@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "39331785",
+        "contract_value": 39331785.0,
         "contracting_authority": "Mezőszilasi Református Egyházközség",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12177_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Református templom felújítása Mezőszilason",
-        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21542415",
+        "contract_value": 21542415.0,
         "contracting_authority": "Soponya Nagyközség Önkormányzat",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14363_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mesevár Óvoda főzőkonyha, Önkormányzati épületek energetika felújítása",
-        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "46044140",
+        "contract_value": 46044140.0,
         "contracting_authority": "Soponya Nagyközség Önkormányzat",
         "date": "16/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14363_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mesevár Óvoda főzőkonyha, Önkormányzati épületek energetika felújítása",
-        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69676657",
+        "contract_value": 69676657.0,
         "contracting_authority": "Györköny Községi Önkormányzat, Tolnáért - Tolna Megyei Térségfejlesztési Nonprofit Közhasznú Kft.",
         "date": "11/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2189_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Györkönyi Pincehegy-interaktív bemutatási formák kialakítása és az ehhez szükséges hardver eszközök beszerzése",
-        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JAKSAÉP-BAU Építőipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

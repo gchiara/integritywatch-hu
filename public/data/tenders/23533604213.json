@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "85148738",
+        "contract_value": 85148738.0,
         "contracting_authority": "Heim Pál Országos Gyermekgyógyászati Intézet",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6870_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Mentál és alváslabor felújítása",
-        "registered_name": "TLT System Korlátolt Felelősségű Társaság"
+        "registered_name": "TLT System Kft."
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "company_names": "",
-        "contract_value": "299800000",
-        "contracting_authority": "LÁSZLÓPACK Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 299800000.0,
+        "contracting_authority": "LÁSZLÓPACK Ipari, Kereskedelmi és Szolgáltató Kft.",
         "date": "13/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22937_2018/",
         "main_cpv": "42600000-2",

@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "53197906",
+        "contract_value": 53197906.0,
         "contracting_authority": "Kunágota Község Önkormányzata",
         "date": "29/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4348_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés - a Közúti közlekedési biztonság Komplex Fejlesztése Kunágota településen tárgyban",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "171219805",
+        "contract_value": 171219805.0,
         "contracting_authority": "Orosháza Város Önkormányzata",
         "date": "19/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5465_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Óvodák felújítása Orosházán (Lehel és Könd)",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33050470",
+        "contract_value": 33050470.0,
         "contracting_authority": "Gádoros Nagyközség Önkormányzata",
         "date": "10/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14288_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Gádoros Nagyközség Önkormányzata Képviselő-Testületének Napközi Otthonos Óvodája infrastrukturális fejlesztése",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "64937816",
+        "contract_value": 64937816.0,
         "contracting_authority": "Dombegyház Nagyközség Önkormányzata",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15784_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Fenntartható közlekedésfejlesztés Dombegyház Nagyközség területén",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "254943095",
+        "contract_value": 254943095.0,
         "contracting_authority": "Tótkomlós Város Önkormányzata",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18352_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Tótkomlós kerékpárforgalmi hálózat fejlesztése",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77895199",
+        "contract_value": 77895199.0,
         "contracting_authority": "Kelebia Község Önkormányzata",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5342_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Deák Ferenc utca útépítése",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
+        "contract_value": 100000000.0,
         "contracting_authority": "Kunfehértó Község Önkormányzata",
         "date": "05/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5996_2019/",
         "main_cpv": "45233162-2",
         "number_companies_win": 0,
         "procurement_title": "Belterületi kerékpárút építése Kunfehértón",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság; GEOHIDROTERV Mérnökgeológiai, Környezetvédelmi és Vízgazdálkodási Korlátolt Felelősségű Társaság; STRABAG-MML Magas- és Mérnöki Létesítmény Építő Korlátolt Felelősségű Társaság",
-        "contract_value": "193900000",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
-        "date": "08/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3416_2021/",
-        "main_cpv": "90733900-3",
-        "number_companies_win": 3,
-        "procurement_title": "Ócsa, használaton kívüli üzemanyagbázis, környezeti kármentesítés kiegészítő építés beruházáshoz kapcsolódó szolgáltatás",
-        "registered_name": "Bácska Mérnöki Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Bácska Mérnöki Szolgáltató Kft."
     }
 ]

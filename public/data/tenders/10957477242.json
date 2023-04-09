@@ -1,145 +1,134 @@
 [
     {
         "company_names": "",
-        "contract_value": "16498215",
+        "contract_value": 16498215.0,
         "contracting_authority": "Csornai Margit Kórház",
         "date": "16/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5838_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Járóbeteg szakellátó szolgáltatások fejlesztése a Csornai Margit Kórházban projekt keretében eszközbeszerzés",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7336000",
-        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 7336000.0,
+        "contracting_authority": "Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.",
         "date": "17/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14316_2018/",
         "main_cpv": "33155000-1",
         "number_companies_win": 0,
         "procurement_title": "Fizikoterápiás készülékek beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2995425",
+        "contract_value": 2995425.0,
         "contracting_authority": "Nyergesújfalu Város Önkormányzata",
         "date": "08/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17712_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi eszközök beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4756000",
+        "contract_value": 4756000.0,
         "contracting_authority": "Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő",
         "date": "30/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_16806_2018/",
         "main_cpv": "33111800-9",
         "number_companies_win": 0,
         "procurement_title": "A pápai Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő járóbeteg-szakellátó szolgáltatásainak fejlesztése új eszközök beszerzésén keresztül című pályázati konstrukcióban beszerzendő eszközökre",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1789200",
+        "contract_value": 1789200.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13129_2019/",
         "main_cpv": "33190000-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi és egyéb eszközök beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6260000",
+        "contract_value": 6260000.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "26/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13129_2019/",
         "main_cpv": "33190000-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi és egyéb eszközök beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39634360",
+        "contract_value": 39634360.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "24/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17636_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Járóbeteg-szakellátás orvostechnológiai eszközbeszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "596375",
-        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 596375.0,
+        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft.",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_23295_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszerek és eszközök beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3832000",
-        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 3832000.0,
+        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft.",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_23295_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszerek és eszközök beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1297500",
+        "contract_value": 1297500.0,
         "contracting_authority": "Szántó J. Endre Egyesített Szociális és Egészségügyi Intézet",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14994_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnikai berendezések beszerzése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1595450",
+        "contract_value": 1595450.0,
         "contracting_authority": "Szentendre Város Önkormányzat",
         "date": "15/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_15691_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "SZEI eszközfejlesztés",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1786000",
-        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 1786000.0,
+        "contracting_authority": "XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft.",
         "date": "07/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22714_2020/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvosi műszerek",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "919000",
-        "contracting_authority": "Várpalota Város Önkormányzata",
-        "date": "01/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15213_2021/",
-        "main_cpv": "33100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Orvosi gépek, műszerek, eszközök, készülékek, berendezések beszerezése",
-        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "OMSZÖV-MEDIC Orvostechnikai Fejlesztő Gyártó és Kereskedelmi Kft."
     }
 ]

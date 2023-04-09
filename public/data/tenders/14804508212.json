@@ -1,112 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "55948779",
+        "contract_value": 55948779.0,
         "contracting_authority": "Pásztó Városi Önkormányzat",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2732_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Pásztói bölcsőde kialakításának építési beruházása meglévő épület átalakításával",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13930142",
+        "contract_value": 13930142.0,
         "contracting_authority": "Lőrinci Városi Önkormányzat",
         "date": "18/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5776_2018/",
         "main_cpv": "45320000-6",
         "number_companies_win": 0,
         "procurement_title": "Lőrinci háziorvosi rendelő felújítása",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "66181675",
+        "contract_value": 66181675.0,
         "contracting_authority": "Wigner Fizikai Kutatóközpont",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16185_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Épület tetőterének részleges beépítési munkái",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39014875",
+        "contract_value": 39014875.0,
         "contracting_authority": "Lőrinci Városi Önkormányzat",
         "date": "16/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24801_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Selypi kultúrház belső tereinek felújítása",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "160395883",
+        "contract_value": 160395883.0,
         "contracting_authority": "Bercel Község Önkormányzata",
         "date": "23/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1398_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Inkubátorház fejlesztése II.",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18529626",
+        "contract_value": 18529626.0,
         "contracting_authority": "Nógrád Megyei Kormányhivatal",
         "date": "03/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5253_2019/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "NMKH energetikai fejlesztés Szécsényben",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58669268",
+        "contract_value": 58669268.0,
         "contracting_authority": "Lőrinci Városi Önkormányzat",
         "date": "08/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12212_2019/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Épület felújítás/bővítés (Edzőterem)",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26028426",
+        "contract_value": 26028426.0,
         "contracting_authority": "Lőrinci Városi Önkormányzat",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6941_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Magasépítészeti munkák kivitelezése Lőrinciben",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36307164",
+        "contract_value": 36307164.0,
         "contracting_authority": "Lőrinci Városi Önkormányzat",
         "date": "21/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6941_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Magasépítészeti munkák kivitelezése Lőrinciben",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42017960",
-        "contracting_authority": "Nógrád Megyei Kormányhivatal",
-        "date": "23/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2786_2021/",
-        "main_cpv": "45321000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Pásztó Munkaügyi Központ energetikai fejlesztése",
-        "registered_name": "CS+E Épületgépészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "CS+E Épületgépészeti és Szolgáltató Kft."
     }
 ]

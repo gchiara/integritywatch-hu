@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "4360000",
+        "contract_value": 4360000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "26/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3959_2018/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Pszichiátriai ellátórendszer strukturált fejlesztése keretében a szakellátások minőségének és hozzáférésének javítása projekt keretén belül",
-        "registered_name": "MŰÉPÍTÉSZ Építészeti Tervezőiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "MŰÉPÍTÉSZ Építészeti Tervezőiroda Kft."
     },
     {
         "company_names": "",
-        "contract_value": "468068000",
+        "contract_value": 468068000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "11/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22438_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Kardiovaszkuláris szívsebészeti központ tervezése",
-        "registered_name": "MŰÉPÍTÉSZ Építészeti Tervezőiroda Korlátolt Felelősségű Társaság"
+        "registered_name": "MŰÉPÍTÉSZ Építészeti Tervezőiroda Kft."
     }
 ]

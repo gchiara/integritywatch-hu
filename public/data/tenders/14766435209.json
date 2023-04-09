@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "512600000",
-        "contracting_authority": "Debreceni Hulladék Közszolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 512600000.0,
+        "contracting_authority": "Debreceni Hulladék Közszolgáltató Nonprofit Kft.",
         "date": "28/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9096_2020/",
         "main_cpv": "34144510-6",
         "number_companies_win": 0,
         "procurement_title": "Elektromos meghajtású hulladékgyűjtők beszerzése",
-        "registered_name": "ELECTROMEGA Korlátolt Felelősségű Társaság"
+        "registered_name": "ELECTROMEGA Kft."
     }
 ]

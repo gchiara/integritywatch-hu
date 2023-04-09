@@ -1,145 +1,134 @@
 [
     {
         "company_names": "",
-        "contract_value": "2418377255",
+        "contract_value": 2418377255.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "12/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_259_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "A Nemzeti Adó- És Vámhivatal Budapest, XIII. kerület Kresz Géza u. 13-15. (hrsz.: 25142/1) szám alatti irodaépülete komplex felújításának kivitelezési munkái",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
-        "company_names": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság; Laterex Építő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1189981485",
+        "company_names": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft.; Laterex Építő Zrt.",
+        "contract_value": 1189981485.0,
         "contracting_authority": "Országos Rendőr-Főkapitányság",
         "date": "01/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1352_2018/",
         "main_cpv": "45216111-5",
         "number_companies_win": 2,
         "procurement_title": "Gárdony Rendőrkapitányság épületének kivitelezése",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "104190560",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 104190560.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "09/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5346_2018/",
         "main_cpv": "45443000-4",
         "number_companies_win": 0,
         "procurement_title": "Székesfehérvári Szakképzési Centrum épületeinek energetikai korszerűsítése",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1868790424",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 1868790424.0,
+        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Kft.",
         "date": "19/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_10159_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Dégi Festetics-kastély és parkja turisztikai célú fejlesztése tárgyú projekt megvalósításához szükséges építési és restaurátori tevékenység ellátása vállalkozási szerződés keretében",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "325132178",
+        "contract_value": 325132178.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17440_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Tarjáni Kéttannyelvű Általános Iskola, Petőfi Sándor Általános Iskola Bálint Sándor telephely, Weöres Sándor Általános Iskola, Tabán Általános Iskola, Bonifert Általános Iskola energetikai korszerűsítése",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "386549113",
+        "contract_value": 386549113.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "03/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17440_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Tarjáni Kéttannyelvű Általános Iskola, Petőfi Sándor Általános Iskola Bálint Sándor telephely, Weöres Sándor Általános Iskola, Tabán Általános Iskola, Bonifert Általános Iskola energetikai korszerűsítése",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "822319322",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 822319322.0,
+        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Kft.",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_16208_2019/",
         "main_cpv": "45212354-2",
         "number_companies_win": 0,
         "procurement_title": "Dégi Festetics-kastély homlokzatfelújítása",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "988296220",
+        "contract_value": 988296220.0,
         "contracting_authority": "Alkotmánybíróság",
         "date": "14/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19491_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Épület hőszigetelés, nyílászáró csere kivitelezés",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
-        "company_names": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság; Sasad Építő Korlátolt Felelősségű Társaság",
-        "contract_value": "3778091868",
+        "company_names": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft.; Sasad Építő Kft.",
+        "contract_value": 3778091868.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "30/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20787_2019/",
         "main_cpv": "45212314-0",
         "number_companies_win": 2,
         "procurement_title": "SzIKM Rendház épületének rekonstrukciója, bővítése",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "231875122",
+        "contract_value": 231875122.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5845_2020/",
         "main_cpv": "45262650-2",
         "number_companies_win": 0,
         "procurement_title": "BartókB tér szabadtérépítészet CSIKK rekonstrukció",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "187968076",
-        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\", Széchenyi István Egyetem",
+        "contract_value": 187968076.0,
+        "contracting_authority": "NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\", Széchenyi István Egyetem",
         "date": "12/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6750_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Széchenyi István Egyetem E épület - építési beruházás",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2639236520",
+        "contract_value": 2639236520.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "10/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22358_2020/",
         "main_cpv": "45212310-2",
         "number_companies_win": 0,
         "procurement_title": "Kőtár és Árpád-ház kutatóintézet 2.",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7279135637",
-        "contracting_authority": "Makó Város Önkormányzata",
-        "date": "15/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9979_2021/",
-        "main_cpv": "45300000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Makó Városi Termál- és Gyógyfürdő fejlesztése",
-        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Korlátolt Felelősségű Társaság"
+        "registered_name": "FEHÉRÉP Építőipari és Kereskedelmi Fővállalkozó Kft."
     }
 ]

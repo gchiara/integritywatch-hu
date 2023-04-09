@@ -1,68 +1,57 @@
 [
     {
-        "company_names": "\"ENGER\" Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Káta-Mill Plusz Betéti Társaság; NATUR - ROST Kereskedelmi és Szolgáltató Kft.",
-        "contract_value": "7496062992",
+        "company_names": "\"ENGER\" Kereskedelmi és Szolgáltató Kft.; Káta-Mill Plusz Bt.; NATUR - ROST Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 7496062992.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2745_2018/",
         "main_cpv": "15800000-6",
         "number_companies_win": 3,
         "procurement_title": "Élelmiszersegély biztosítása szociálisan rászoruló megváltozott munkaképességű, valamint rendkívül alacsony jövedelmű időskorú személyek számára",
-        "registered_name": "ENGER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ENGER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "489008000",
+        "contract_value": 489008000.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_5918_2018/",
         "main_cpv": "33695000-8",
         "number_companies_win": 0,
         "procurement_title": "alapvető fogyasztási cikkek biztosítása szegény, gyermekes családok számára -1. csomagmegrendelés",
-        "registered_name": "ENGER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ENGER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "496848500",
+        "contract_value": 496848500.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "14/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4147_2019/",
         "main_cpv": "33695000-8",
         "number_companies_win": 0,
         "procurement_title": "Alapvető fogyasztási cikkek biztosítása szegény, gyermekes családok számára",
-        "registered_name": "ENGER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ENGER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "299904500",
+        "contract_value": 299904500.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "15/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7895_2020/",
         "main_cpv": "33695000-8",
         "number_companies_win": 0,
         "procurement_title": "Alapvető fogyasztási cikkek biztosítása szegény, gyermekes családok számára",
-        "registered_name": "ENGER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ENGER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "288660000",
+        "contract_value": 288660000.0,
         "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
         "date": "31/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13316_2020/",
         "main_cpv": "33695000-8",
         "number_companies_win": 0,
         "procurement_title": "Alapvető fogyasztási cikkek biztosítása szegény, gyermekes családok számára",
-        "registered_name": "ENGER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "262034400",
-        "contracting_authority": "Szociális és Gyermekvédelmi Főigazgatóság",
-        "date": "21/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20144_2021/",
-        "main_cpv": "33695000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Alapvető fogyasztási cikkek biztosítása szegény, gyermekes családok számára - 6. csomagmegrendelés",
-        "registered_name": "ENGER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ENGER Kereskedelmi és Szolgáltató Kft."
     }
 ]

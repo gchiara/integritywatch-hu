@@ -1,211 +1,101 @@
 [
     {
-        "company_names": "APIS LOGISTIC Szolgáltató Korlátolt Felelősségű Társaság; AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Atlantis Rendszerház Korlátolt Felelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; CTS Kft.; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Debreceni Irodarendszer Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DÉLI PART Ingatlanhasznosító Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Exicom Informatika Kereskedőház Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; Interelektronik ITS Számítás- és Irodatechnikai Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NADCOM Informatikai Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Quality Intelligence Korlátolt Felelősségű Társaság; RevoSmart Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Saldo Kft.; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; TONEXT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; UNICOMP Informatikai Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6000000000",
+        "company_names": "APIS LOGISTIC Szolgáltató Kft.; AP-OFFICE Kereskedelmi és Tanácsadó Kft.; Atlantis Rendszerház Kft.; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVOVISUAL Kft.; CTS Kft.; Danka Irodatechnikai Kft.; Debreceni Irodarendszer Kereskedelmi és Szolgáltató Kft.; DÉLI PART Ingatlanhasznosító Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; ECOFFICE TECHNOLOGY Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; I-COM IRODAELLÁTÁS Kereskedelmi Kft.; Interelektronik ITS Számítás- és Irodatechnikai Kft.; Invitech Megoldások Zrt.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; M & S Informatikai Zrt.; NADCOM Informatikai Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NTT-2000 Kereskedelmi és Szolgáltató Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.; Quality Intelligence Kft.; RevoSmart Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Saldo Kft.; Szervízpark Szolgáltató és Tanácsadó Kft.; TONEXT Kereskedelmi és Szolgáltató Kft.; UNICOMP Informatikai Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 6000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 33,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; BRAVOCOPY Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Korlátolt Felelősségű Társaság; BRAVONET Korlátolt Felelősségű Társaság; BRAVOVISUAL Korlátolt Felelősségű Társaság; C + F PROFESSIONAL Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Danka Irodatechnikai Korlátolt Felelősségű Társaság; Delta Services Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DOCKLAND SERVICES Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; Invitech Megoldások Zártkörűen Működő Részvénytársaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Konica Minolta Magyarország Üzleti Megoldások Korlátolt Felelősségű Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MANUAL HUNGARY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MPS eXpert Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Printerház Nyomdaipari és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; Szervízpark Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; Technotrade Solution & Capital Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "8000000000",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; BRAVOCOPY Szolgáltató és Kereskedelmi Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; BRAVONET Kft.; BRAVOVISUAL Kft.; C + F PROFESSIONAL Kereskedelmi és Szolgáltató Kft.; COLORSPECTRUM Kereskedelmi Termelő és Szolgáltató Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Danka Irodatechnikai Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; DOCKLAND SERVICES Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Invitech Megoldások Zrt.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; Konica Minolta Magyarország Üzleti Megoldások Kft.; M & S Informatikai Zrt.; MANUAL HUNGARY Kereskedelmi és Szolgáltató Kft.; MPS eXpert Kereskedelmi és Szolgáltató Kft.; Printerház Nyomdaipari és Kereskedelmi Kft.; PROFIL-COPY Iroda és Másolástechnikai Kereskedelmi és Szolgáltató Kft.; RICOH HUNGARY IRODARENDSZEREK Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SHARP Electronics (Europe) GmbH Magyarországi Fióktelepe; Szervízpark Szolgáltató és Tanácsadó Kft.; Technotrade Solution & Capital Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 8000000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 28,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2517200",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 2517200.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "13/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4474_2019/",
         "main_cpv": "30213200-7",
         "number_companies_win": 0,
         "procurement_title": "Integrált billentyűzettel rendelkező táblagépek beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Alienline Korlátolt Felelősségű Társaság; BUSINESS AND GAMES Kereskedelmi Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Smartsolution Hungary Korlátolt Felelősségű Társaság; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "2600000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Alienline Kft.; BUSINESS AND GAMES Kereskedelmi Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; PC Trade Systems Informatikai Kereskedelmi és Szolgáltató Kft.; Smartsolution Hungary Kft.; SYSInfo Rendszerinformatikai Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 2600000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "05/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9596_2020/",
         "main_cpv": "32250000-0",
         "number_companies_win": 6,
         "procurement_title": "Mobiltelefonok beszerzése (MTEL19)",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3246120",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 3246120.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17822_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 3,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "14135950",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; DOKUCENTRUM Irodai Rendszerek Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 14135950.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "05/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19217_2020/",
         "main_cpv": "30232100-5",
         "number_companies_win": 3,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Alienline Korlátolt Felelősségű Társaság; BUSINESS AND GAMES Kereskedelmi Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "6611394",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Alienline Kft.; BUSINESS AND GAMES Kereskedelmi Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 6611394.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "12/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22395_2020/",
         "main_cpv": "32250000-0",
         "number_companies_win": 3,
         "procurement_title": "Mobiltelefonok beszerzése (rövid név: MTEL19)",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Invigor Informatika Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Italent Services Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "78070907",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Duna Elektronika Számítástechnikai Kft.; Invigor Informatika Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.; Italent Services Szolgáltató Kft.",
+        "contract_value": 78070907.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "18/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23395_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 4,
         "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "423257229",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "EURO-PROFIL RENDSZERHÁZ Kft.; ÍRISZ Holding Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 423257229.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24170_2020/",
         "main_cpv": "30200000-1",
         "number_companies_win": 2,
         "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Alienline Korlátolt Felelősségű Társaság; BUSINESS AND GAMES Kereskedelmi Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "99372175",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "10/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1637_2021/",
-        "main_cpv": "32250000-0",
-        "number_companies_win": 3,
-        "procurement_title": "Mobiltelefonok beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Duna Elektronika Számítástechnikai Korlátolt Felelősségű Társaság; Invigor Informatika Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Italent Services Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "16301512",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4257_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 4,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "31093210",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5366_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 3,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "24162416",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5315_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 3,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "117714527",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5689_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 2,
-        "procurement_title": "Kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "14821620",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "26/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13497_2021/",
-        "main_cpv": "30200000-1",
-        "number_companies_win": 2,
-        "procurement_title": "SZGR - kliens oldali informatikai eszközök beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "11262780",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13564_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 3,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; DOKUCENTRUM Irodai Rendszerek Korlátolt Felelősségű Társaság; ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "18275005",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13819_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 3,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "59440",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20692_2021/",
-        "main_cpv": "30192112-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "751430",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "08/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20692_2021/",
-        "main_cpv": "30192112-9",
-        "number_companies_win": 0,
-        "procurement_title": "Kellékanyagok beszerzése",
-        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "ÍRISZ Holding Kereskedelmi és Szolgáltató Kft."
     }
 ]

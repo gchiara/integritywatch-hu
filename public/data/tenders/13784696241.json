@@ -1,24 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "535788000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 535788000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "11/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_9839_2020/",
         "main_cpv": "50116100-2",
         "number_companies_win": 0,
         "procurement_title": "AM metró teljesítményelektronikák karbantartása",
-        "registered_name": "Ganz-Skoda Közlekedési Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "525780347",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "17/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_24678_2021/",
-        "main_cpv": "50116100-2",
-        "number_companies_win": 0,
-        "procurement_title": "AM M4 metró teljesítményelektronikák karbantartása",
-        "registered_name": "Ganz-Skoda Közlekedési Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Ganz-Skoda Közlekedési Zrt."
     }
 ]

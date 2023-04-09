@@ -1,101 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "42692952",
+        "contract_value": 42692952.0,
         "contracting_authority": "Közép-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19467_2017/",
         "main_cpv": "50241000-6",
         "number_companies_win": 0,
         "procurement_title": "Kitűző III. hajó felújítása, javítása vállalkozási szerződés keretében",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30191495",
+        "contract_value": 30191495.0,
         "contracting_authority": "Alsó-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7105_2018/",
         "main_cpv": "50241000-6",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés keretében jégtörő és jégtörést támogató hajók felújítása kapcsolódó szolgáltatásokkal",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "86537949",
+        "contract_value": 86537949.0,
         "contracting_authority": "Alsó-Duna-Völgyi Vízügyi Igazgatóság",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7105_2018/",
         "main_cpv": "50241000-6",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés keretében jégtörő és jégtörést támogató hajók felújítása kapcsolódó szolgáltatásokkal",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "91930000",
+        "contract_value": 91930000.0,
         "contracting_authority": "Észak-Dunántúli Vízügyi Igazgatóság",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12968_2018/",
         "main_cpv": "50241000-6",
         "number_companies_win": 0,
         "procurement_title": "Jégtörő és jégtörést támogató hajók felújítása, javítása vállalkozási szerződés keretében",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "28870000",
+        "contract_value": 28870000.0,
         "contracting_authority": "Budapesti Rendőr-Főkapitányság",
         "date": "23/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13117_2020/",
         "main_cpv": "50241000-6",
         "number_companies_win": 0,
         "procurement_title": "BRFK részére alumínium járőrhajó (SUGÓ) felújítása",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1597200",
-        "contracting_authority": "Jász-Nagykun-Szolnok Megyei Rendőr-Főkapitányság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5914_2021/",
-        "main_cpv": "34310000-3",
-        "number_companies_win": 0,
-        "procurement_title": "TVRK részére hajómotorok és jet-skik beszerzése",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14059065",
-        "contracting_authority": "Jász-Nagykun-Szolnok Megyei Rendőr-Főkapitányság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5914_2021/",
-        "main_cpv": "34310000-3",
-        "number_companies_win": 0,
-        "procurement_title": "TVRK részére hajómotorok és jet-skik beszerzése",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15860000",
-        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
-        "date": "14/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8337_2021/",
-        "main_cpv": "50244000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szolgálati hajók és úszóművek felújítása",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "39945000",
-        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
-        "date": "14/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8337_2021/",
-        "main_cpv": "50244000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szolgálati hajók és úszóművek felújítása",
-        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "SHIP & CAR Hajó és Autójavító, Szolgáltató és Kereskedelmi Kft."
     }
 ]

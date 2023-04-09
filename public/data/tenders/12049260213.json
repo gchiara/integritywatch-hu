@@ -1,90 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "45855979",
+        "contract_value": 45855979.0,
         "contracting_authority": "Tápiószecső Nagyközség Önkormányzata",
         "date": "23/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_665_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Idősek napközi Otthona felújítása és energetikai korszerűsítése, valamint meglévő többcélú épület felújítása és energetikai korszerűsítése védőnői rendelő kialakítása céljából",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "247600000",
+        "contract_value": 247600000.0,
         "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
         "date": "09/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2227_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "FKF Nonprofit Zrt. használatában lévő telephelyeken (Ecseri út 8-12., Ecseri út 9., Gyáli út 36., Pusztazámor) építmény-felújítási, korszerűsítési, átalakítási, építési és bontási munkák",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "122738088",
+        "contract_value": 122738088.0,
         "contracting_authority": "Pázmány Péter Katolikus Egyetem",
         "date": "03/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6666_2018/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "1083 Budapest, Práter u. 50/A. sz. épületében homlokzat síkra épített alumínium ablakok utólagos szigetelése, illetve a tetőről lejövő csapadékvíz elvezetés átalakítása.",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42842651",
+        "contract_value": 42842651.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23042_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "KVIK-PSZK-KKK 2018.évi felújítása",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "72607978",
+        "contract_value": 72607978.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "19/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23042_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "KVIK-PSZK-KKK 2018.évi felújítása",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52157843",
+        "contract_value": 52157843.0,
         "contracting_authority": "Sülysáp Város Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24201_2018/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Dózsa Gy. úti óvoda felújítása",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "494143412",
+        "contract_value": 494143412.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "31/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14101_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "BGE PSZK A épület porta és B épület átalakítás",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "57099084",
-        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "23/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14195_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szinyei Merse Pál Gimnázium – homlokzati felújítás",
-        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "GAZSI és GAZSI Ipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "111598179",
+        "contract_value": 111598179.0,
         "contracting_authority": "Szeged-Csanádi Egyházmegye",
         "date": "26/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13181_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "134938117",
+        "contract_value": 134938117.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8366_2019/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "165110380",
+        "contract_value": 165110380.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "16/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8366_2019/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "65601684",
+        "contract_value": 65601684.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "10/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11887_2019/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "92901195",
+        "contract_value": 92901195.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "10/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11887_2019/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "97778944",
+        "contract_value": 97778944.0,
         "contracting_authority": "Hódmezővásárhelyi Tankerületi Központ",
         "date": "10/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11887_2019/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "235203791",
+        "contract_value": 235203791.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17705_2019/",
@@ -78,7 +78,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "116860664",
+        "contract_value": 116860664.0,
         "contracting_authority": "Gál Ferenc Egyetem",
         "date": "24/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20681_2019/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "207503987",
+        "contract_value": 207503987.0,
         "contracting_authority": "Szent Erzsébet Katolikus Általános Iskola és Óvoda",
         "date": "24/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20680_2019/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25352298",
+        "contract_value": 25352298.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "10/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1723_2020/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "474318477",
+        "contract_value": 474318477.0,
         "contracting_authority": "Makó-Belvárosi Református Egyházközség",
         "date": "05/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13974_2020/",
@@ -122,8 +122,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "335856693",
-        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság \"végelszámolás alatt\"",
+        "contract_value": 335856693.0,
+        "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal, NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Kft. \"végelszámolás alatt\"",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18157_2020/",
         "main_cpv": "45000000-7",
@@ -133,46 +133,13 @@
     },
     {
         "company_names": "",
-        "contract_value": "624250240",
-        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 624250240.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
         "date": "22/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19543_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Orosháza Tűzoltó- parancsnokság komplex felújítása",
-        "registered_name": "Építészmester Tervező és Kivitelező Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3896609",
-        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
-        "date": "18/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22858_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Kivitelezés - gondozóhálózat",
-        "registered_name": "Építészmester Tervező és Kivitelező Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1590756171",
-        "contracting_authority": "Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely-Makó",
-        "date": "24/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4567_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "ROHU-450 - tervezés és kivitelezés",
-        "registered_name": "Építészmester Tervező és Kivitelező Zártkörű Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "373212130",
-        "contracting_authority": "Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely-Makó",
-        "date": "17/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15827_2021/",
-        "main_cpv": "45210000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Sebészeti és belgyógyászati osztály felújítás - Makó",
         "registered_name": "Építészmester Tervező és Kivitelező Zártkörű Részvénytársaság"
     }
 ]

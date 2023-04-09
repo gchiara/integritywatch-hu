@@ -1,112 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "148035518",
-        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 148035518.0,
+        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zrt.",
         "date": "14/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2134_2018/",
         "main_cpv": "45220000-5",
         "number_companies_win": 0,
         "procurement_title": "Abasár Vízműtelepen lévő gerincvezetékek építésének, csőkapcsolatok kialakításának, és 2x 250 m3-es medence építésének kiviteli munkái",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
-        "company_names": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "96074364",
+        "company_names": "MÁTRAKÖZMŰ Mélyépitő Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 96074364.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6353_2018/",
         "main_cpv": "45233162-2",
         "number_companies_win": 2,
         "procurement_title": "Gyöngyös - Mátrafüred kerékpárút fejlesztése",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38299964",
+        "contract_value": 38299964.0,
         "contracting_authority": "Abasár Községi Önkormányzat",
         "date": "09/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13830_2018/",
         "main_cpv": "45231000-5",
         "number_companies_win": 0,
         "procurement_title": "Ivóvíz termelésből felhagyott kutak III.",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "71308728",
+        "contract_value": 71308728.0,
         "contracting_authority": "Gyöngyös Városi Önkormányzat",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0250_2019/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Szurdokpart úti szennyvízcsatorna vezeték építése",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
-        "company_names": "EURO CAMPUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság",
-        "contract_value": "82779138",
+        "company_names": "EURO CAMPUS Kereskedelmi és Szolgáltató Kft.; MÁTRAKÖZMŰ Mélyépitő Kft.",
+        "contract_value": 82779138.0,
         "contracting_authority": "Parád Nagyközségi Önkormányzat",
         "date": "29/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1734_2019/",
         "main_cpv": "45232451-8",
         "number_companies_win": 2,
         "procurement_title": "Csapadékvíz elvezetés a Kékesi és Hársfa utcákban",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
-        "company_names": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "285489025",
+        "company_names": "MÁTRAKÖZMŰ Mélyépitő Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 285489025.0,
         "contracting_authority": "Mátraderecske Községi Önkormányzat",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7670_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Mátraderecske vízrendezés I. ütem",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69573539",
-        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 69573539.0,
+        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zrt.",
         "date": "11/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21086_2019/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Hasznos vízmű nyersvízvezeték kiváltása II. ütem",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33859544",
-        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság",
+        "contract_value": 33859544.0,
+        "contracting_authority": "ÉRV. Északmagyarországi Regionális Vízművek Zrt.",
         "date": "15/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21835_2019/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Karancskeszi-Karancslapujtő vezetékrekonstrukció",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     },
     {
-        "company_names": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság; PEKU AGRO Építő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "85044826",
+        "company_names": "MÁTRAKÖZMŰ Mélyépitő Kft.; PEKU AGRO Építő és Szolgáltató Kft.",
+        "contract_value": 85044826.0,
         "contracting_authority": "Aldebrő Községi Önkormányzat",
         "date": "04/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1920_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Aldebrő település egyes belterületi utcáinak vízrendezése",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "51675735",
-        "contracting_authority": "Sirok Községi Önkormányzat, Szajla Községi Önkormányzat",
-        "date": "20/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6625_2021/",
-        "main_cpv": "45113000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Sirok-Szajla tanösvény kialakítása",
-        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Korlátolt Felelősségű Társaság"
+        "registered_name": "MÁTRAKÖZMŰ Mélyépitő Kft."
     }
 ]

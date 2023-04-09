@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "63850000",
+        "contract_value": 63850000.0,
         "contracting_authority": "Fővárosi Önkormányzat Csarnok és Piac Igazgatósága",
         "date": "02/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13630_2018/",
         "main_cpv": "38341300-0",
         "number_companies_win": 0,
         "procurement_title": "Villamos mérőórák cseréje elektronikus bekötéssel, adatgyűjtő rendszer kiépítéssel",
-        "registered_name": "Opti-Cost Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Opti-Cost Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "71045931",
+        "contract_value": 71045931.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
         "date": "20/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17855_2019/",
         "main_cpv": "45314000-1",
         "number_companies_win": 0,
         "procurement_title": "TÉRFIGYELŐ KAMERARENDSZER II.",
-        "registered_name": "Opti-Cost Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Opti-Cost Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55450000",
+        "contract_value": 55450000.0,
         "contracting_authority": "Kaposvár Megyei Jogú Város Polgármesteri Hivatala",
         "date": "06/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14341_2020/",
         "main_cpv": "50344200-0",
         "number_companies_win": 0,
         "procurement_title": "Kamerarendszer karbantartása",
-        "registered_name": "Opti-Cost Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Opti-Cost Kereskedelmi és Szolgáltató Kft."
     }
 ]

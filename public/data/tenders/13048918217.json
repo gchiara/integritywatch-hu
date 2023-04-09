@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "35547092",
+        "contract_value": 35547092.0,
         "contracting_authority": "Értény Község Önkormányzata",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19261_2017/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "37202157",
+        "contract_value": 37202157.0,
         "contracting_authority": "Belecska Községi Önkormányzat",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19250_2017/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25673724",
+        "contract_value": 25673724.0,
         "contracting_authority": "Varsád Község Önkormányzata",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19580_2017/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "34043898",
+        "contract_value": 34043898.0,
         "contracting_authority": "Felsőnyéki Roma Nemzetiségi Önkormányzat",
         "date": "26/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1137_2018/",
@@ -45,7 +45,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "24282797",
+        "contract_value": 24282797.0,
         "contracting_authority": "Felsőnyékért Közalapitvány",
         "date": "16/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2437_2018/",
@@ -56,7 +56,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "32630078",
+        "contract_value": 32630078.0,
         "contracting_authority": "Felsőnyék Községi Önkormányzat",
         "date": "09/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3238_2018/",
@@ -67,7 +67,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "32855371",
+        "contract_value": 32855371.0,
         "contracting_authority": "Pincehely Nagyközség Önkormányzata",
         "date": "10/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_4029_2018/",
@@ -77,8 +77,8 @@
         "registered_name": "Topa és Társa Építési Kft."
     },
     {
-        "company_names": "HETECH TREND Mérnöki Iroda Korlátolt Felelősségű Társaság; Topa és Társa Építési Kft.",
-        "contract_value": "115067725",
+        "company_names": "HETECH TREND Mérnöki Iroda Kft.; Topa és Társa Építési Kft.",
+        "contract_value": 115067725.0,
         "contracting_authority": "Csike Szabolcs",
         "date": "08/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9653_2018/",
@@ -89,7 +89,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "56247667",
+        "contract_value": 56247667.0,
         "contracting_authority": "Őcsényi Római Katolikus Plébánia, Pécsi Egyházmegye",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10839_2018/",
@@ -100,7 +100,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "98775767",
+        "contract_value": 98775767.0,
         "contracting_authority": "Papp Géza Árpád",
         "date": "03/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10513_2018/",
@@ -111,7 +111,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "54211757",
+        "contract_value": 54211757.0,
         "contracting_authority": "Iregszemcsei Római Katolikus Plébánia, Pécsi Egyházmegye",
         "date": "04/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11567_2018/",
@@ -122,7 +122,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "75019473",
+        "contract_value": 75019473.0,
         "contracting_authority": "Pécsi Egyházmegye, Tolnai Római Katolikus Plébánia",
         "date": "04/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11587_2018/",
@@ -133,7 +133,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "117298386",
+        "contract_value": 117298386.0,
         "contracting_authority": "Dombóvár Város Önkormányzata",
         "date": "28/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13045_2018/",
@@ -144,8 +144,8 @@
     },
     {
         "company_names": "",
-        "contract_value": "385166350",
-        "contracting_authority": "Döbröközi Mezőgazdasági Zártkörűen Működő Részvénytársaság",
+        "contract_value": 385166350.0,
+        "contracting_authority": "Döbröközi Mezőgazdasági Zrt.",
         "date": "19/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16422_2018/",
         "main_cpv": "45000000-7",
@@ -155,7 +155,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "58098545",
+        "contract_value": 58098545.0,
         "contracting_authority": "Tamási Város Önkormányzata",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17867_2018/",
@@ -166,7 +166,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "202981515",
+        "contract_value": 202981515.0,
         "contracting_authority": "Pécsi Egyházmegye",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18573_2018/",
@@ -177,7 +177,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "137131424",
+        "contract_value": 137131424.0,
         "contracting_authority": "Varga István László",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22656_2018/",
@@ -188,7 +188,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "66109867",
+        "contract_value": 66109867.0,
         "contracting_authority": "Nagyszokoly Község Önkormányzata",
         "date": "07/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24286_2018/",
@@ -199,7 +199,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "202163866",
+        "contract_value": 202163866.0,
         "contracting_authority": "Szalay Jenő Családi Gazdálkodó - őstermelő",
         "date": "19/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2774_2019/",
@@ -210,7 +210,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "45390609",
+        "contract_value": 45390609.0,
         "contracting_authority": "Koppányszántó Község Önkormányzata",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5586_2019/",
@@ -221,7 +221,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "32752820",
+        "contract_value": 32752820.0,
         "contracting_authority": "Dombóvár Város Önkormányzata",
         "date": "16/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15250_2019/",
@@ -232,7 +232,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "567038138",
+        "contract_value": 567038138.0,
         "contracting_authority": "Tamási Tankerületi Központ",
         "date": "15/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24662_2019/",
@@ -243,7 +243,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "277333736",
+        "contract_value": 277333736.0,
         "contracting_authority": "Tolna Megyei Rendőr-Főkapitányság",
         "date": "02/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_19958_2020/",

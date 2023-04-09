@@ -1,101 +1,101 @@
 [
     {
         "company_names": "",
-        "contract_value": "281995937",
-        "contracting_authority": "TIMPEX Kereskedelmi Ipari Mezőgazdasági Korlátolt Felelősségü Társaság",
+        "contract_value": 281995937.0,
+        "contracting_authority": "TIMPEX Kereskedelmi Ipari Mezőgazdasági Kft.",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3426_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Fedeles lovarda és Kiszolgáló épület építése, Istálló bővítése- I. ütem",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
-        "company_names": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság; MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "38154250",
+        "company_names": "KÁLLÓ-BAU Építőipari Kft.; MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 38154250.0,
         "contracting_authority": "Kemecsei Református Egyházközség",
         "date": "27/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14422_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Kemecsei Református Templom felújítása",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "85842580",
+        "contract_value": 85842580.0,
         "contracting_authority": "\"DOMBKA 2003\" Mezőgazdasági Kereskedelmi és Szolgáltató Zárkörűen Működő Részvénytársaság",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15332_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Húsfeldolgozó üzem eszközbeszerzése Dombrádon",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "141271190",
+        "contract_value": 141271190.0,
         "contracting_authority": "\"DOMBKA 2003\" Mezőgazdasági Kereskedelmi és Szolgáltató Zárkörűen Működő Részvénytársaság",
         "date": "04/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15332_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Húsfeldolgozó üzem eszközbeszerzése Dombrádon",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "198848089",
+        "contract_value": 198848089.0,
         "contracting_authority": "Juhász László",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16287_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sörfőzde létesítése Nagykállóban",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
-        "company_names": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság; VITAFORT Első Takarmánygyártó és Forgalmazó Zártkörűen Működő Részvénytársaság",
-        "contract_value": "365637240",
+        "company_names": "KÁLLÓ-BAU Építőipari Kft.; VITAFORT Első Takarmánygyártó és Forgalmazó Zrt.",
+        "contract_value": 365637240.0,
         "contracting_authority": "\"DOMBKA 2003\" Mezőgazdasági Kereskedelmi és Szolgáltató Zárkörűen Működő Részvénytársaság",
         "date": "27/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17496_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Sertéstartó-telep korszerűsítése Dombrádon",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
-        "company_names": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság; MHM Product Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "40934112",
+        "company_names": "KÁLLÓ-BAU Építőipari Kft.; MHM Product Építőipari, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 40934112.0,
         "contracting_authority": "Nyírtéti Református Egyházközség",
         "date": "06/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19720_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Nyírtéti Református Templom felújítása",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "152515750",
+        "contract_value": 152515750.0,
         "contracting_authority": "Juhász László",
         "date": "14/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2821_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Sörfőzde eszközbeszerzése Nagykállóban",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     },
     {
         "company_names": "",
-        "contract_value": "547587734",
+        "contract_value": 547587734.0,
         "contracting_authority": "Nagykálló Város Önkormányzata",
         "date": "27/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1311_2020/",
         "main_cpv": "45213251-7",
         "number_companies_win": 0,
         "procurement_title": "Inkubátorház építése Nagykállóban",
-        "registered_name": "KÁLLÓ-BAU Építőipari Korlátolt Felelősségű Társaság"
+        "registered_name": "KÁLLÓ-BAU Építőipari Kft."
     }
 ]

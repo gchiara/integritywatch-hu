@@ -1,134 +1,123 @@
 [
     {
-        "company_names": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság; Viráglabor Korlátolt Felelősségű Társaság",
-        "contract_value": "10842000",
-        "contracting_authority": "Székesfehérvár Városgondnoksága Korlátolt Felelősségű Társaság",
+        "company_names": "EVERLING Építő,Termelő és Szolgáltató Kft.; Viráglabor Kft.",
+        "contract_value": 10842000.0,
+        "contracting_authority": "Székesfehérvár Városgondnoksága Kft.",
         "date": "05/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3065_2018/",
         "main_cpv": "03120000-8",
         "number_companies_win": 2,
         "procurement_title": "Egynyári virágpalánták, virághagymák és kétnyári virágpalánták, muskátli és virágföld, valamint évelők, virághagymák és fűmag beszerzése",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "110505504",
+        "contract_value": 110505504.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "18/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5553_2018/",
         "main_cpv": "45453000-7",
         "number_companies_win": 0,
         "procurement_title": "A PTE TTK atlétikapályájának felújítása a Modern Városok Program keretében",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29424058",
+        "contract_value": 29424058.0,
         "contracting_authority": "Sárvári Tankerületi Központ",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6268_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Tanulást segítő terek infrastrukturális fejlesztése a Sárvári Tankerületi Központ által fenntartott intézményekben",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
-        "company_names": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság; PREMIER PITCHES Korlátolt Felelősségű Társaság; Sportpark Magyarország Korlátolt Felelősségű Társaság",
-        "contract_value": "1600000000",
+        "company_names": "EVERLING Építő,Termelő és Szolgáltató Kft.; PREMIER PITCHES Kft.; Sportpark Magyarország Kft.",
+        "contract_value": 1600000000.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7534_2018/",
         "main_cpv": "45212210-1",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében élő- és műfüves sportpályák tervezése és/ vagy építése, valamint öltőző épületek tervezési és/vagy kivitelezési munkáinak ellátása",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
-        "company_names": "\"GLOBÁL SPORT\" Ipari kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság; Sportpark Magyarország Korlátolt Felelősségű Társaság",
-        "contract_value": "3600000000",
+        "company_names": "\"GLOBÁL SPORT\" Ipari kereskedelmi és Szolgáltató Kft.; EVERLING Építő,Termelő és Szolgáltató Kft.; Sportpark Magyarország Kft.",
+        "contract_value": 3600000000.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "25/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7534_2018/",
         "main_cpv": "45212210-1",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében élő- és műfüves sportpályák tervezése és/ vagy építése, valamint öltőző épületek tervezési és/vagy kivitelezési munkáinak ellátása",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "130088816",
+        "contract_value": 130088816.0,
         "contracting_authority": "Pécsi Vasutas Sportkör",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14449_2018/",
         "main_cpv": "45236119-7",
         "number_companies_win": 0,
         "procurement_title": "PVSK 8 sávos atlétikai pálya felújítása, korszerűsítése",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60323708",
+        "contract_value": 60323708.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6847_2019/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Élőfüves és műfüves nemzetközi labdarúgópályák, valamint öltözőépületek tervezése és/vagy építése",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75098461",
+        "contract_value": 75098461.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6847_2019/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Élőfüves és műfüves nemzetközi labdarúgópályák, valamint öltözőépületek tervezése és/vagy építése",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "102995437",
+        "contract_value": 102995437.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6840_2019/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Műfüves nemzetközi labdarúgópályák tervezése/építése",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "144995589",
+        "contract_value": 144995589.0,
         "contracting_authority": "Magyar Labdarúgó Szövetség",
         "date": "26/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6847_2019/",
         "main_cpv": "45212200-8",
         "number_companies_win": 0,
         "procurement_title": "Élőfüves és műfüves nemzetközi labdarúgópályák, valamint öltözőépületek tervezése és/vagy építése",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "341285757",
+        "contract_value": 341285757.0,
         "contracting_authority": "Budapest Főváros XVI. Kerületi Önkormányzat",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14050_2019/",
         "main_cpv": "45212100-7",
         "number_companies_win": 0,
         "procurement_title": "Jókai Mór utcai ltp. közterületeinek felújítása 2",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "49761202",
-        "contracting_authority": "Magyarországi Németek Általános Müvelödési Központja",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10427_2021/",
-        "main_cpv": "45212200-8",
-        "number_companies_win": 0,
-        "procurement_title": "Sportpálya kialakítása",
-        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "EVERLING Építő,Termelő és Szolgáltató Kft."
     }
 ]

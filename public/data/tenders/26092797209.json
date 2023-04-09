@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "3660000",
+        "contract_value": 3660000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18098_2018/",
         "main_cpv": "80650000-5",
         "number_companies_win": 0,
         "procurement_title": "Hivatásos repülőgép-vezetői nappali képzés",
-        "registered_name": "PHARMAFLIGHT Nemzetközi Tudományos és Szolgáltató Központ Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PHARMAFLIGHT Nemzetközi Tudományos és Szolgáltató Központ Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "3054712500",
+        "contract_value": 3054712500.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "07/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14391_2019/",
         "main_cpv": "80650000-5",
         "number_companies_win": 0,
         "procurement_title": "Légijármű-üzemeltető szakmérnök képzés DE",
-        "registered_name": "PHARMAFLIGHT Nemzetközi Tudományos és Szolgáltató Központ Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PHARMAFLIGHT Nemzetközi Tudományos és Szolgáltató Központ Zrt."
     }
 ]

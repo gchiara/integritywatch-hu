@@ -1,288 +1,178 @@
 [
     {
         "company_names": "",
-        "contract_value": "24955000",
+        "contract_value": 24955000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_409_2018/",
         "main_cpv": "50340000-0",
         "number_companies_win": 0,
         "procurement_title": "Az MTVA adáslebonyolító stúdióját kiszolgáló meglévő D-series rendszerének gyártói és first-line rendszertámogatása",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29453100",
+        "contract_value": 29453100.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_419_2018/",
         "main_cpv": "50340000-0",
         "number_companies_win": 0,
         "procurement_title": "Az MTVA adáslebonyolító stúdióját kiszolgáló meglévő Nexio Invenio rendszereinek gyártói és first-line rendszertámogatása",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
-        "company_names": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; XEROX Magyarország Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "547839190",
+        "company_names": "Silicon Computers Számítógép Kereskedelmi Kft.; XEROX Magyarország Kereskedelmi Kft.",
+        "contract_value": 547839190.0,
         "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
         "date": "12/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11900_2018/",
         "main_cpv": "38520000-6",
         "number_companies_win": 2,
         "procurement_title": "Az Országos Széchényi Könyvtár Integrált Könyvtári Információs Rendszerének kialakítása projekt keretében digitalizálást támogató keretrendszer és a Digitalizáló Központ működéséhez szükséges digitalizáló eszközök beszerzése.",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7683856",
+        "contract_value": 7683856.0,
         "contracting_authority": "Magyar Nemzeti Levéltár",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19252_2018/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Informatikai kliens eszközeinek beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3869000",
+        "contract_value": 3869000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "21/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21306_2018/",
         "main_cpv": "32322000-6",
         "number_companies_win": 0,
         "procurement_title": "Channel Branding rendszer beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35147000",
+        "contract_value": 35147000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22559_2018/",
         "main_cpv": "50340000-0",
         "number_companies_win": 0,
         "procurement_title": "D-series gyártói és first-line rendszertámogatása",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62992126",
+        "contract_value": 62992126.0,
         "contracting_authority": "NYÍREGYHÁZI EGYETEM",
         "date": "08/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0208_2019/",
         "main_cpv": "30230000-0",
         "number_companies_win": 0,
         "procurement_title": "NYE - Hőkamera rendszer feldolgozó egységgel",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "206696755",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 206696755.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "26/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3348_2019/",
         "main_cpv": "30210000-4",
         "number_companies_win": 0,
         "procurement_title": "Filmszkenner és médiaszerver beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52900000",
+        "contract_value": 52900000.0,
         "contracting_authority": "Budapest Főváros Levéltára",
         "date": "30/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20960_2019/",
         "main_cpv": "48820000-2",
         "number_companies_win": 0,
         "procurement_title": "Adatközponti IT eszközök és szolgáltatások",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20400000",
+        "contract_value": 20400000.0,
         "contracting_authority": "Szegedi Biológiai Kutatóközpont",
         "date": "05/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21369_2019/",
         "main_cpv": "48800000-6",
         "number_companies_win": 0,
         "procurement_title": "Szerverek beszerzése, bővítés és háttértár beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38595000",
+        "contract_value": 38595000.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "02/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24636_2019/",
         "main_cpv": "50340000-0",
         "number_companies_win": 0,
         "procurement_title": "D-series rendszer gyártói és first-line támogatás",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "310857525",
-        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 310857525.0,
+        "contracting_authority": "Nemzeti Filmintézet Közhasznú Nonprofit Zrt.",
         "date": "15/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6353_2020/",
         "main_cpv": "32000000-3",
         "number_companies_win": 0,
         "procurement_title": "Film digitalizáló berendezés",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10423084",
+        "contract_value": 10423084.0,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "26/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_15475_2020/",
         "main_cpv": "30211400-5",
         "number_companies_win": 0,
         "procurement_title": "MTVA szerver amortizációs cseréje",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16374352,34",
+        "contract_value": 16374352.34,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "27/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_15598_2020/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "Hatósági rögzítő rendszer licence bővítés, support",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3279372046",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "company_names": "Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; SERCO Informatika Kft.; Silicon Computers Számítógép Kereskedelmi Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 3279372046.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "27/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21229_2020/",
         "main_cpv": "48820000-2",
         "number_companies_win": 7,
         "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "97186017,6",
+        "contract_value": 97186017.6,
         "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
         "date": "09/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22157_2020/",
         "main_cpv": "50340000-0",
         "number_companies_win": 0,
         "procurement_title": "D-series gyártói és first-line támogatás 3 év",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "116990000",
-        "contracting_authority": "Országos Meteorológiai Szolgálat",
-        "date": "11/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24789_2020/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Nagy számítási kapacitású szerver és a hozzá kapcsolódó diszk alrendszer beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3273800888",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2737_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 7,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8884580",
-        "contracting_authority": "MÉDIASZOLGÁLTATÁS-TÁMOGATÓ ÉS VAGYONKEZELŐ ALAP",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13878_2021/",
-        "main_cpv": "32533000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Műholdas berendezések amortizációs cseréje",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "3590683336",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "30/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13829_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 7,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ACE Network Zártkörűen Működő Részvénytársaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; MHM Computer Hungária Korlátolt Felelősségű Társaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; PROFESSZIONÁL Informatikai Zártkörűen Működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SYMPORT HOLDING Informatikai Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; Syspro Informatika Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "80000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 41,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "4iG Nyilvánosan Működő Részvénytársaság; 99999 Informatika Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Korlátolt Felelősségű Társaság; Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Delta Systems Korlátolt Felelősségű Társaság; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zártkörűen Működő Részvénytársaság; Enterprise Communications Magyarország Kereskedelmi és Szolgáltató Kft.; EURO ONE Számítástechnikai Zártkörűen Működő Részvénytársaság; Gloster Infokommunikációs Nyilvánosan Működő Részvénytársaság; GVSX Szolgáltató Korlátolt Felelősségű Társaság; HumanoiT Informatikai Kft.; IMG Solution Zártkörűen Működő Részvénytársaság; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zártkörűen Működő Részvénytársaság; Invigor Informatika Korlátolt Felelősségű Társaság; Invitech ICT Services Korlátolt Felelősségű Társaság; iSRV Szolgáltató Zártkörűen Működő Részvénytársaság; JTC Számítástechnikai Kereskedelmi Korlátolt Felelősségű Társaság; Kermann Műszaki Fejlesztő és Tanácsadó Zártkörűen Működő Részvénytársaság; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zártkörűen Működő Részvénytársaság; NÁDOR Rendszerház Irodaautomatizálási Korlátolt Felelősségű Társaság; NETvisor Informatikai és Kommunikációs Zártkörűen működő Részvénytársaság; NTT Magyarország Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANOR Informatika Zártkörűen működő Részvénytársaság; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; S&T Services Hungary Korlátolt Felelősségű Társaság; SCI-Hálózat Távközlési és Hálózatintegrációs zártkörűen működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; SMP Solutions Zártkörűen Működő Részvénytársaság; Sysman Informatikai Zártkörűen Működő Részvénytársaság; SzámHEAD Számitástechnikai és Szolgáltató Korlátolt Felelősségű Társaság; Szinva Net Informatikai Zártkörűen Működő Részvénytársaság; TIGRA Computer - és Irodatechnikai Korlátolt Felelősségű Társaság; Tigra Rendszerház Korlátolt Felelősségű Társaság; TRACO Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; T-Systems Magyarország Zártkörűen Működő Részvénytársaság; USER RENDSZERHÁZ Informatikai Korlátolt Felelősségű Társaság; Valkyr Informatikai Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "120000000000",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "18/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 43,
-        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "26200000",
-        "contracting_authority": "Magyar Nemzeti Levéltár",
-        "date": "20/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18133_2021/",
-        "main_cpv": "72000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Gyártói hardvergarancia és szoftverkövetés meghosszabbítása",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23804000",
-        "contracting_authority": "Szegedi Biológiai Kutatóközpont",
-        "date": "23/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18141_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 0,
-        "procurement_title": "SZBK - Szerverek beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "36400000",
-        "contracting_authority": "Wigner Fizikai Kutatóközpont",
-        "date": "11/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20483_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Informatikai eszközök beszerzése",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Areus Infokommunikációs Zártkörűen Működő Részvénytársaság; ATOS Magyarország Korlátolt Felelősségű Társaság; Poli Computer PC Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság; SERCO Informatika Korlátolt Felelősségű Társaság; Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság; WSH Számítástechnikai, Oktató és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1904241279",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "29/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24922_2021/",
-        "main_cpv": "48820000-2",
-        "number_companies_win": 7,
-        "procurement_title": "Szerverek és tárolók, valamint ezekhez kapcsolódó szolgáltatások beszerzése.",
-        "registered_name": "Silicon Computers Számítógép Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Silicon Computers Számítógép Kereskedelmi Kft."
     }
 ]

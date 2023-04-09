@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "5921132,88",
-        "contracting_authority": "GRANTOOL Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 5921132.88,
+        "contracting_authority": "GRANTOOL Ipari, Kereskedelmi és Szolgáltató Kft.",
         "date": "20/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12841_2018/",
         "main_cpv": "42600000-2",
         "number_companies_win": 0,
         "procurement_title": "Szerszámgyártó berendezések beszerzése",
-        "registered_name": "Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Szerszám Technika Nagykereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "196572911",
-        "contracting_authority": "Toolex Fémfeldolgozó Korlátolt Felelősségű Társaság",
+        "contract_value": 196572911.0,
+        "contracting_authority": "Toolex Fémfeldolgozó Kft.",
         "date": "26/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17008_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Gépek, berendezések beszerzése a Toolex Kft. részére",
-        "registered_name": "Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Szerszám Technika Nagykereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "393538800",
-        "contracting_authority": "Toolex Fémfeldolgozó Korlátolt Felelősségű Társaság",
+        "contract_value": 393538800.0,
+        "contracting_authority": "Toolex Fémfeldolgozó Kft.",
         "date": "21/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3157_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Toolex Kft. részére",
-        "registered_name": "Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Szerszám Technika Nagykereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "96536025",
-        "contracting_authority": "GRANTOOL Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 96536025.0,
+        "contracting_authority": "GRANTOOL Ipari, Kereskedelmi és Szolgáltató Kft.",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7593_2019/",
         "main_cpv": "42600000-2",
         "number_companies_win": 0,
         "procurement_title": "Megmunkáló központok",
-        "registered_name": "Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Szerszám Technika Nagykereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "49636243,67",
-        "contracting_authority": "Toolex Fémfeldolgozó Korlátolt Felelősségű Társaság",
+        "contract_value": 49636243.67,
+        "contracting_authority": "Toolex Fémfeldolgozó Kft.",
         "date": "12/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17211_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Toolex Kft. részére",
-        "registered_name": "Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Szerszám Technika Nagykereskedelmi Kft."
     },
     {
-        "company_names": "Haberkorn Fairtool Műszaki Termékeket Gyártó és Forgalmazó Korlátolt Felelősségű Társaság; Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "30000000",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "company_names": "Haberkorn Fairtool Műszaki Termékeket Gyártó és Forgalmazó Kft.; Szerszám Technika Nagykereskedelmi Kft.",
+        "contract_value": 30000000.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "26/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15464_2020/",
         "main_cpv": "42670000-3",
         "number_companies_win": 2,
         "procurement_title": "Standard gépész anyagok és gépi szerszámok",
-        "registered_name": "Szerszám Technika Nagykereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "Szerszám Technika Nagykereskedelmi Kft."
     }
 ]

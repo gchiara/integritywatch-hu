@@ -1,7 +1,7 @@
 [
     {
         "company_names": "",
-        "contract_value": "34670000",
+        "contract_value": 34670000.0,
         "contracting_authority": "Magyar Természettudományi Múzeumért Alapítvány",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23067_2018/",
@@ -12,7 +12,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "25629500",
+        "contract_value": 25629500.0,
         "contracting_authority": "Kiskunhalas Város Önkormányzata",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8483_2019/",
@@ -23,7 +23,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "27455450",
+        "contract_value": 27455450.0,
         "contracting_authority": "Fővárosi Állat- és Növénykert",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10614_2019/",
@@ -34,7 +34,7 @@
     },
     {
         "company_names": "",
-        "contract_value": "21431500",
+        "contract_value": 21431500.0,
         "contracting_authority": "Badacsonytomaj Város Önkormányzata",
         "date": "27/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7179_2020/",
@@ -44,36 +44,14 @@
         "registered_name": "GEANAT Kft"
     },
     {
-        "company_names": "GEANAT Kft; SNC Art Kiállításrendező Korlátolt Felelősségű Társaság",
-        "contract_value": "257253960",
+        "company_names": "GEANAT Kft; SNC Art Kiállításrendező Kft.",
+        "contract_value": 257253960.0,
         "contracting_authority": "Kecskemét Megyei Jogú Város Önkormányzata",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21284_2020/",
         "main_cpv": "45420000-7",
         "number_companies_win": 2,
         "procurement_title": "Kecskemét Városháza látogatóközpont kivitelezése",
-        "registered_name": "GEANAT Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "152109970",
-        "contracting_authority": "NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "21/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11174_2021/",
-        "main_cpv": "39154000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Majki Kamalduli Remeteség – Kiállítási eszközök",
-        "registered_name": "GEANAT Kft"
-    },
-    {
-        "company_names": "",
-        "contract_value": "90748835",
-        "contracting_authority": "Békéscsaba Megyei Jogú Város Önkormányzata",
-        "date": "01/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11801_2021/",
-        "main_cpv": "39154000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Munkácsy Mihály Emlékházban kiállítás kialakítása",
         "registered_name": "GEANAT Kft"
     }
 ]

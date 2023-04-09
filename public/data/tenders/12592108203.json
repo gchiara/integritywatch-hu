@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "46636252",
+        "contract_value": 46636252.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16308_2018/",
         "main_cpv": "45262690-4",
         "number_companies_win": 0,
         "procurement_title": "Damjanich Utcai Óvoda fejlesztése Kunszentmiklóson",
-        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15314823",
+        "contract_value": 15314823.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "08/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0026_2020/",
         "main_cpv": "45111291-4",
         "number_companies_win": 0,
         "procurement_title": "Kunszentmiklós iskolai tereprendezés",
-        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "73872853",
+        "contract_value": 73872853.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "13/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0499_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Épület átalakítás",
-        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "52890986",
+        "contract_value": 52890986.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "04/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3750_2020/",
         "main_cpv": "45212314-0",
         "number_companies_win": 0,
         "procurement_title": "Kunszentmiklósi Virágh-Kúria műemléki felújítása",
-        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "70887394",
+        "contract_value": 70887394.0,
         "contracting_authority": "Kunszentmiklós Város Önkormányzata",
         "date": "04/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3752_2020/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi Központ épületének felújítása",
-        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "158070528",
-        "contracting_authority": "Kunszentmiklós Város Önkormányzata",
-        "date": "04/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8039_2021/",
-        "main_cpv": "45233200-1",
-        "number_companies_win": 0,
-        "procurement_title": "Zöld város kialakítása Kunszentmiklóson",
-        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "JÁGER Építőipari, Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,442 +1,343 @@
 [
     {
         "company_names": "",
-        "contract_value": "30000000",
+        "contract_value": 30000000.0,
         "contracting_authority": "Budapest Főváros XIX. Kerület Kispest Önkormányzata",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16072_2018/",
         "main_cpv": "71400000-2",
         "number_companies_win": 0,
         "procurement_title": "Kerületi Építési Szabályzat - Wekerletelepre",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4024675,2",
-        "contracting_authority": "Budapest Airport Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4024675.2,
+        "contracting_authority": "Budapest Airport Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zrt.",
         "date": "05/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17887_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "BUD - Rakodó vágányok - műszaki ellenőr",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51454000",
+        "contract_value": 51454000.0,
         "contracting_authority": "Magyar Tudományos Akadémia Létesítménygazdálkodási Központ",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21441_2018/",
         "main_cpv": "71630000-3",
         "number_companies_win": 0,
         "procurement_title": "MTA Székház alapozási tartószerkezet vizsgálat",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "77870000",
-        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság",
+        "contract_value": 77870000.0,
+        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zrt.",
         "date": "29/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21084_2018/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri feladatok ellátása.",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1890000",
+        "contract_value": 1890000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "30/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21741_2018/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás beszerzése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6455000",
-        "contracting_authority": "DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság",
+        "contract_value": 6455000.0,
+        "contracting_authority": "DMRV Duna Menti Regionális Vízmű Zrt.",
         "date": "03/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24249_2018/",
         "main_cpv": "71356100-9",
         "number_companies_win": 0,
         "procurement_title": "FIDIC mérnöki és műszaki ellenőri szolgáltatások",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1872000",
+        "contract_value": 1872000.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1713_2019/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Siha Közi Bölcsőde komplex korszerűsítése, valamint a Vörösmarty Mihály Általános Iskola energetikai korszerűsítése kapcsán teljes körű műszaki ellenőrzés ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2728500",
+        "contract_value": 2728500.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "30/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1713_2019/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Siha Közi Bölcsőde komplex korszerűsítése, valamint a Vörösmarty Mihály Általános Iskola energetikai korszerűsítése kapcsán teljes körű műszaki ellenőrzés ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36245000",
-        "contracting_authority": "BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 36245000.0,
+        "contracting_authority": "BKK Budapesti Közlekedési Központ Zrt.",
         "date": "23/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6550_2019/",
         "main_cpv": "71335000-5",
         "number_companies_win": 0,
         "procurement_title": "Gubacsi híd és környezete - tanulmányterv",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23870000",
+        "contract_value": 23870000.0,
         "contracting_authority": "Pécs Megyei Jogú Város Önkormányzata",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5157_2019/",
         "main_cpv": "71631300-3",
         "number_companies_win": 0,
         "procurement_title": "Vásárcsarnok műellenőr",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
-        "company_names": "MÉLYÉPTERV ENVIRO Mérnöki, Tervező és Szolgáltató Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság",
-        "contract_value": "34603000",
+        "company_names": "MÉLYÉPTERV ENVIRO Mérnöki, Tervező és Szolgáltató Kft.; Perfektum Építész Kft.",
+        "contract_value": 34603000.0,
         "contracting_authority": "Balassagyarmat Város Önkormányzata",
         "date": "05/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9503_2019/",
         "main_cpv": "71000000-8",
         "number_companies_win": 2,
         "procurement_title": "Mérnöki szolgáltatások biztosítása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14370000",
+        "contract_value": 14370000.0,
         "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
         "date": "25/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14061_2019/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri feladatok teljes körű ellátása (Érd, Balatonszemes, MIA C szárny)",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62325000",
-        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság",
+        "contract_value": 62325000.0,
+        "contracting_authority": "Magyar Nemzeti Vagyonkezelő Zrt.",
         "date": "01/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14389_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Összekötő utak csomópontjainak, feltáró út tervezés",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "43000000",
+        "contract_value": 43000000.0,
         "contracting_authority": "Törökbálint Város Önkormányzata",
         "date": "22/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15827_2019/",
         "main_cpv": "71000000-8",
         "number_companies_win": 0,
         "procurement_title": "Őrház u. és közművei felújítása, körforgalom építés",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19750000",
+        "contract_value": 19750000.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "19/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22228_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Idősek Otthona energetikai korszerűsítés-tervezés",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26770000",
+        "contract_value": 26770000.0,
         "contracting_authority": "Hévízgyógyfürdő és Szent András Reumakórház",
         "date": "09/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24135_2019/",
         "main_cpv": "71322000-1",
         "number_companies_win": 0,
         "procurement_title": "A Tófürdő G épületének átalakítása, bővítése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3380000",
+        "contract_value": 3380000.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25317_2019/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Szeged ÓVI Jerney Óvodájának komplex korszerűsítése, a Bárczi Gusztáv Általános Iskola, valamint a Jerney János Általános Iskola energetikai korszerűsítése -műszaki  ellenőri feladatok ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3385000",
+        "contract_value": 3385000.0,
         "contracting_authority": "Szeged Megyei Jogú Város Önkormányzata",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_25317_2019/",
         "main_cpv": "71631000-0",
         "number_companies_win": 0,
         "procurement_title": "Szeged ÓVI Jerney Óvodájának komplex korszerűsítése, a Bárczi Gusztáv Általános Iskola, valamint a Jerney János Általános Iskola energetikai korszerűsítése -műszaki  ellenőri feladatok ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
-        "company_names": "\"MG Építész\" Tervező és Szolgáltató Korlátolt Felelősségű Társaság; KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság; TOP-KVALITÁS Tervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "380698080",
+        "company_names": "\"MG Építész\" Tervező és Szolgáltató Kft.; KASIB Mérnöki Manager Iroda Kft.; Perfektum Építész Kft.; TOP-KVALITÁS Tervező és Szolgáltató Kft.",
+        "contract_value": 380698080.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0167_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Egészséges Budapest Program keretében az Észak-pesti Centrum ÉPC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
-        "company_names": "\"MG Építész\" Tervező és Szolgáltató Korlátolt Felelősségű Társaság; KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság; TOP-KVALITÁS Tervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "381999040",
+        "company_names": "\"MG Építész\" Tervező és Szolgáltató Kft.; KASIB Mérnöki Manager Iroda Kft.; Perfektum Építész Kft.; TOP-KVALITÁS Tervező és Szolgáltató Kft.",
+        "contract_value": 381999040.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0329_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Egészséges Budapest Program keretében a Dél-budai Centrum DBC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
-        "company_names": "\"MG Építész\" Tervező és Szolgáltató Korlátolt Felelősségű Társaság; KASIB Mérnöki Manager Iroda Korlátolt Felelősségű Társaság; Perfektum Építész Korlátolt Felelősségű Társaság; TOP-KVALITÁS Tervező és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "579999680",
+        "company_names": "\"MG Építész\" Tervező és Szolgáltató Kft.; KASIB Mérnöki Manager Iroda Kft.; Perfektum Építész Kft.; TOP-KVALITÁS Tervező és Szolgáltató Kft.",
+        "contract_value": 579999680.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0341_2020/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Egészséges Budapest Program keretében a Dél-pesti Centrum DPC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3973000",
+        "contract_value": 3973000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0429_2020/",
         "main_cpv": "71631300-3",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4573000",
+        "contract_value": 4573000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0429_2020/",
         "main_cpv": "71631300-3",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5388000",
+        "contract_value": 5388000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0429_2020/",
         "main_cpv": "71631300-3",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10196000",
+        "contract_value": 10196000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "21/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0429_2020/",
         "main_cpv": "71631300-3",
         "number_companies_win": 0,
         "procurement_title": "Műszaki ellenőri szolgáltatás",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14345000",
+        "contract_value": 14345000.0,
         "contracting_authority": "Harkány Város Önkormányzata",
         "date": "28/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3643_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Kültéri Gyerekvilág medencék tervezése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9540000",
+        "contract_value": 9540000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "25/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4844_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Kaposvár tervezés és műszaki ellenőr",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25890000",
+        "contract_value": 25890000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ, Somogy Megyei Kaposi Mór Oktató Kórház",
         "date": "25/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4844_2020/",
         "main_cpv": "71220000-6",
         "number_companies_win": 0,
         "procurement_title": "Kaposvár tervezés és műszaki ellenőr",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "33800000",
+        "contract_value": 33800000.0,
         "contracting_authority": "Harkány Város Önkormányzata",
         "date": "23/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10769_2020/",
         "main_cpv": "71245000-7",
         "number_companies_win": 0,
         "procurement_title": "Medencék, öltöző, és ételudvar tervezése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3184000",
+        "contract_value": 3184000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14140_2020/",
         "main_cpv": "71314000-2",
         "number_companies_win": 0,
         "procurement_title": "DE épületeinek energiatanúsítása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13448000",
+        "contract_value": 13448000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "11/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14140_2020/",
         "main_cpv": "71314000-2",
         "number_companies_win": 0,
         "procurement_title": "DE épületeinek energiatanúsítása",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "935000",
-        "contracting_authority": "Óbudai Egyetem",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11287_2021/",
-        "main_cpv": "71315000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Akadálymentesítési szakvélemény beszerzése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "29665000",
-        "contracting_authority": "Baranya Megyei Önkormányzat",
-        "date": "07/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12478_2021/",
-        "main_cpv": "71245000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Térségi jelentőségű kerékpárutak tervezése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55700300",
-        "contracting_authority": "NEMZETI KÖZSZOLGÁLATI EGYETEM",
-        "date": "17/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17642_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "NKE két épület felújításának és átalakításának tervezése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "67800000",
-        "contracting_authority": "Csongrád-Csanád Megyei Önkormányzat",
-        "date": "21/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17870_2021/",
-        "main_cpv": "71240000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Külterületi kerékpárutak tervezése",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8190000",
-        "contracting_authority": "Miskolc Megyei Jogú Város Önkormányzata",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19206_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 0,
-        "procurement_title": "AVAS TETŐ MEGÚJÍTÁSÁNAK TERVEZÉSE",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "31840000",
-        "contracting_authority": "Miskolci Egyetem",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18768_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Green and Smart Campus tervezési szolgáltatások",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "71700000",
-        "contracting_authority": "Miskolci Egyetem",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18769_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 0,
-        "procurement_title": "TIP fejlesztés tervezési szolgáltatások",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "107350000",
-        "contracting_authority": "Miskolci Egyetem",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18768_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Green and Smart Campus tervezési szolgáltatások",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4870000",
-        "contracting_authority": "Dunaújvárosi Egyetem",
-        "date": "29/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_23307_2021/",
-        "main_cpv": "71220000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Tervezési szolgáltatás - Klímarendszerek",
-        "registered_name": "Perfektum Építész Korlátolt Felelősségű Társaság"
+        "registered_name": "Perfektum Építész Kft."
     }
 ]

@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "56000000",
+        "contract_value": 56000000.0,
         "contracting_authority": "Harsány Község Önkormányzata",
         "date": "06/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19957_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Hűtőház kialakítása Harsány településen",
-        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40103990",
+        "contract_value": 40103990.0,
         "contracting_authority": "Bogács Község Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17892_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bogácsi Hűtőház megvalósítása",
-        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30239876",
+        "contract_value": 30239876.0,
         "contracting_authority": "Harsány Község Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14655_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése és óvoda bővítése Harsányban",
-        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "62209499",
+        "contract_value": 62209499.0,
         "contracting_authority": "Harsány Község Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14655_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése és óvoda bővítése Harsányban",
-        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SZONI-SZER 2000 Ipari Kereskedelmi és Szolgáltató Kft."
     }
 ]

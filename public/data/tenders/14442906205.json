@@ -1,244 +1,145 @@
 [
     {
         "company_names": "",
-        "contract_value": "9780000",
+        "contract_value": 9780000.0,
         "contracting_authority": "Szikszó Város Önkormányzata",
         "date": "06/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3544_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Településképet meghatározó szikszói uszoda rekonstrukciója - nyílászáró csere",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48264805",
+        "contract_value": 48264805.0,
         "contracting_authority": "SZERENCSI TANKERÜLETI KÖZPONT",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8872_2018/",
         "main_cpv": "45214310-6",
         "number_companies_win": 0,
         "procurement_title": "Szerencsi Tankerületi Központ intézményeinek energetikai korszerűsítése Tokaj, Mád, Forró és Legyesbénye helységekben",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58878795",
+        "contract_value": 58878795.0,
         "contracting_authority": "Bekecs Község Önkormányzata",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10340_2019/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése Bekecsen",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7442790",
+        "contract_value": 7442790.0,
         "contracting_authority": "Csobaj Község Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13397_2019/",
         "main_cpv": "45215222-9",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13981770",
+        "contract_value": 13981770.0,
         "contracting_authority": "Csobaj Község Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13397_2019/",
         "main_cpv": "45215222-9",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18766242",
+        "contract_value": 18766242.0,
         "contracting_authority": "Csobaj Község Önkormányzata",
         "date": "18/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13397_2019/",
         "main_cpv": "45215222-9",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "295272422",
+        "contract_value": 295272422.0,
         "contracting_authority": "SZERENCSI TANKERÜLETI KÖZPONT",
         "date": "02/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18807_2019/",
         "main_cpv": "45214200-2",
         "number_companies_win": 0,
         "procurement_title": "Infrastrukturális fejlesztés Taktaharkányban",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15119917",
+        "contract_value": 15119917.0,
         "contracting_authority": "Csobaj Község Önkormányzata",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14074_2020/",
         "main_cpv": "45215222-9",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76935797",
+        "contract_value": 76935797.0,
         "contracting_authority": "Csobaj Község Önkormányzata",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14074_2020/",
         "main_cpv": "45215222-9",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50852174",
+        "contract_value": 50852174.0,
         "contracting_authority": "Mályi Község Önkormányzata",
         "date": "28/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16939_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpárút építése Mályi településen",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23594855",
+        "contract_value": 23594855.0,
         "contracting_authority": "Rátkai Német Nemzetiségi Települési Önkormányzat",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21237_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Rátka energetikai fejlesztése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "29617780",
+        "contract_value": 29617780.0,
         "contracting_authority": "Rátkai Német Nemzetiségi Települési Önkormányzat",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21237_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Rátka energetikai fejlesztése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34401251",
+        "contract_value": 34401251.0,
         "contracting_authority": "Rátkai Német Nemzetiségi Települési Önkormányzat",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21237_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Rátka energetikai fejlesztése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19282088",
-        "contracting_authority": "SZERENCSI TANKERÜLETI KÖZPONT",
-        "date": "06/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22394_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szerencsi Tankerület intézményeinél tetőfelújítás",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "27308873",
-        "contracting_authority": "SZERENCSI TANKERÜLETI KÖZPONT",
-        "date": "06/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_22394_2020/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Szerencsi Tankerület intézményeinél tetőfelújítás",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3598245",
-        "contracting_authority": "Bekecs Község Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9594_2021/",
-        "main_cpv": "45215222-9",
-        "number_companies_win": 0,
-        "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5752253",
-        "contracting_authority": "Bekecs Község Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9594_2021/",
-        "main_cpv": "45215222-9",
-        "number_companies_win": 0,
-        "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8007728",
-        "contracting_authority": "Bekecs Község Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9594_2021/",
-        "main_cpv": "45215222-9",
-        "number_companies_win": 0,
-        "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11706585",
-        "contracting_authority": "Bekecs Község Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9594_2021/",
-        "main_cpv": "45215222-9",
-        "number_companies_win": 0,
-        "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14226035",
-        "contracting_authority": "Bekecs Község Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9594_2021/",
-        "main_cpv": "45215222-9",
-        "number_companies_win": 0,
-        "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "31832094",
-        "contracting_authority": "Bekecs Község Önkormányzata",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9594_2021/",
-        "main_cpv": "45215222-9",
-        "number_companies_win": 0,
-        "procurement_title": "Polgármesteri Hivatal energetikai korszerűsítése",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "67322267",
-        "contracting_authority": "Hernádkércs Község Önkormányzata",
-        "date": "01/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18413_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Hernádkércsen új termelői piac létrehozása",
-        "registered_name": "Capital Class Korlátolt Felelősségű Társaság"
+        "registered_name": "Capital Class Kft."
     }
 ]

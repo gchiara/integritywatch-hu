@@ -1,101 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "129161000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 129161000.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_8174_2018/",
         "main_cpv": "31121110-4",
         "number_companies_win": 0,
         "procurement_title": "Statikus áramátalakító beszerzése",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "478358000",
-        "contracting_authority": "MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 478358000.0,
+        "contracting_authority": "MÁV-HÉV Helyiérdekű Vasút Zrt.",
         "date": "11/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_11305_2018/",
         "main_cpv": "31161900-1",
         "number_companies_win": 0,
         "procurement_title": "A MÁV-HÉV Zrt. részére személyszállító járművek segédüzemi áramellátási rendszerének beszerzése",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "173160000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 173160000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_13769_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "IC+ 70 sorozatgyártás projekt - Központi diagnosztikai rendszer beszerzése",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "134500000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 134500000.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "19/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0668_2019/",
         "main_cpv": "31121110-4",
         "number_companies_win": 0,
         "procurement_title": "Statikus áramátalakító beszerzése",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "204274000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
+        "contract_value": 204274000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
         "date": "13/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_17155_2019/",
         "main_cpv": "50000000-5",
         "number_companies_win": 0,
         "procurement_title": "PowerQuattro javítása, karbantartása, üzemeltetése",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "32634000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "21/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0669_2021/",
-        "main_cpv": "50532300-6",
-        "number_companies_win": 0,
-        "procurement_title": "Metró szünetmentes áramellátó berendezés javítása",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "56394000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "21/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0669_2021/",
-        "main_cpv": "50532300-6",
-        "number_companies_win": 0,
-        "procurement_title": "Metró szünetmentes áramellátó berendezés javítása",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "125550000",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "02/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1100_2021/",
-        "main_cpv": "31121110-4",
-        "number_companies_win": 0,
-        "procurement_title": "STATIKUS ÁRAMÁTALAKÍTÓ BERENDEZÉS III.",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "372400000",
-        "contracting_authority": "MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság",
-        "date": "04/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_14551_2021/",
-        "main_cpv": "50800000-3",
-        "number_companies_win": 0,
-        "procurement_title": "PowerQuattro gyártmányú termékek javítása, cserealkatrész biztosítása, karbantartása és üzemeltetés támogatása",
-        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zártkörűen Működő Részvénytársaság"
+        "registered_name": "PowerQuattro Egyesült Teljesítményelektronikai Zrt."
     }
 ]

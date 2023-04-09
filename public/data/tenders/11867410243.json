@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "34150900",
+        "contract_value": 34150900.0,
         "contracting_authority": "Felső-Tisza-Vidéki Vízügyi Igazgatóság",
         "date": "10/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_15795_2018/",
         "main_cpv": "34513000-6",
         "number_companies_win": 0,
         "procurement_title": "Kétéltű (önjáró) nád- és hínárvágó gép beszerzése",
-        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "44392800",
+        "contract_value": 44392800.0,
         "contracting_authority": "Aggteleki Nemzeti Park Igazgatóság",
         "date": "22/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_0979_2019/",
         "main_cpv": "43328000-8",
         "number_companies_win": 0,
         "procurement_title": "Kétéltű vízfelület-karbantartógép és tartozékai",
-        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38960900",
+        "contract_value": 38960900.0,
         "contracting_authority": "Balaton-Felvidéki Nemzeti Park Igazgatóság",
         "date": "27/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14825_2020/",
         "main_cpv": "16000000-5",
         "number_companies_win": 0,
         "procurement_title": "Nádvágógép beszerzése",
-        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "59260000",
-        "contracting_authority": "Országos Vízügyi Főigazgatóság",
-        "date": "17/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15487_2021/",
-        "main_cpv": "43261000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Lánctalpas kétéltű nádvágógép, munkaszerelékekkel.",
-        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Richter Mérnöki Iroda és Szolgáltató Kft."
     }
 ]

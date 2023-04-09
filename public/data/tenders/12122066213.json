@@ -1,729 +1,729 @@
 [
     {
         "company_names": "",
-        "contract_value": "14687000",
+        "contract_value": 14687000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "23/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_991_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Reométer és felsőállású mikroszkóp beszerzése a Szegedi Tudományegyetem GYTK Gyógyszertechnológiai és Gyógyszerfelügyeleti Intézete részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "58500000",
+        "contract_value": 58500000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2387_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés patológiai berendezések beszerzésére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "174391184",
+        "contract_value": 174391184.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2387_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés patológiai berendezések beszerzésére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; HOGE Orvosi Müszer KFT; TIBA Javító, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "309998000",
+        "company_names": "BIOMARKER Kereskedelmi és Szolgáltató Kft.; HOGE Orvosi Müszer KFT; TIBA Javító, Kereskedő és Szolgáltató Kft.",
+        "contract_value": 309998000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2387_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 3,
         "procurement_title": "Adásvételi szerződés patológiai berendezések beszerzésére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13258105",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 13258105.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_1743_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "In vivo biológiai labor (zebrahal rendszer) berendezések beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7848642",
+        "contract_value": 7848642.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "12/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_3000_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés a Minősített élelmiszerlánc KFI infrastruktúra fejlesztése című projekt keretében labor-, illetve méréstechnikai eszközök beszerzésére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "76980000",
+        "contract_value": 76980000.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6995_2018/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "ELISA, AGID és PCR kitek, valamint TSE beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "353160000",
+        "contract_value": 353160000.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "24/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6995_2018/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "ELISA, AGID és PCR kitek, valamint TSE beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5697400",
+        "contract_value": 5697400.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "22/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9626_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi eszközpark kialakítása speciális sejtek funkcionális analízisére a Pécsi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5959680",
+        "contract_value": 5959680.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "22/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9626_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi eszközpark kialakítása speciális sejtek funkcionális analízisére a Pécsi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42997000",
+        "contract_value": 42997000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "10/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11478_2018/",
         "main_cpv": "33124100-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése a Pécsi Tudományegyetem Általános Orvostudományi Kar részére a Modern Városok Program keretein belül 2.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "209836000",
+        "contract_value": 209836000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "18/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11223_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "3 db immunfestő automata szállítása, beüzemelése és a kezelő munkatársak betanítása a berendezés teljes működéséhez szükséges anyagokkal (a primer antitest kivételével)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42231249",
+        "contract_value": 42231249.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "31/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12986_2018/",
         "main_cpv": "42993000-3",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1682360",
+        "contract_value": 1682360.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "07/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14046_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés alapján fenntartható nyersanyag-gazdálkodás tematikus hálózat fejlesztéséhez szükséges eszközök beszerzése az SZTE részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1307475",
+        "contract_value": 1307475.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13598_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Kutatási célú eszközök beszerzése a Pécsi Tudományegyetem ECRIN pályázata keretein belül",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3137004",
+        "contract_value": 3137004.0,
         "contracting_authority": "Eszterházy Károly Egyetem",
         "date": "12/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16154_2018/",
         "main_cpv": "24000000-4",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi vegyszerek és fogyóeszközök beszerzése az Eszterházy Károly Egyetemen Európai Uniós források felhasználásával 2018",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1990485",
+        "contract_value": 1990485.0,
         "contracting_authority": "Zala Megyei Szent Rafael Kórház",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17585_2018/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Orvostechnikai berendezések beszerzése a Zala Megyei Szent Rafael Kórház részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "889871",
+        "contract_value": 889871.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18269_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22047244",
+        "contract_value": 22047244.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18269_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5474454",
+        "contract_value": 5474454.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "18/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18450_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Új generációs DNS szekvenáló platform beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8850453",
+        "contract_value": 8850453.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "18/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18450_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Új generációs DNS szekvenáló platform beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; GeneTiCA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "50748584",
+        "company_names": "BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; GeneTiCA Kereskedelmi és Szolgáltató Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; VWR International Kft.",
+        "contract_value": 50748584.0,
         "contracting_authority": "Eötvös Loránd Tudományegyetem",
         "date": "18/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18450_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 7,
         "procurement_title": "Új generációs DNS szekvenáló platform beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ATGandCo Biotechnológiai Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "11539829",
+        "company_names": "ATGandCo Biotechnológiai Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 11539829.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "25/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18964_2018/",
         "main_cpv": "33696500-0",
         "number_companies_win": 3,
         "procurement_title": "Vegyszerek, reagensek, fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170448",
+        "contract_value": 170448.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "06/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19686_2018/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Kutatási célú vegyszerek, reagensek, fogyóanyagok és kísérleti állatok beszerzése a Pécsi Tudományegyetem projektje keretein belül",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3266762",
+        "contract_value": 3266762.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "12/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_19160_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24293083",
+        "contract_value": 24293083.0,
         "contracting_authority": "Baranya Megyei Kormányhivatal",
         "date": "04/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22006_2018/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "A BAMKH Népegészségügyi Főosztály Laboratóriumi Osztály Mikrobiológiai laboratóriumának fejlesztése című projekt keretein belül laboratóriumi eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23208758",
+        "contract_value": 23208758.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0592_2019/",
         "main_cpv": "33695000-8",
         "number_companies_win": 0,
         "procurement_title": "Molekulár patológiai vegyszerek",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "79296007",
+        "contract_value": 79296007.0,
         "contracting_authority": "Kísérleti Orvostudományi Kutatóintézet",
         "date": "18/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0560_2019/",
         "main_cpv": "38432000-2",
         "number_companies_win": 0,
         "procurement_title": "Fagyasztva törő berendezés beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13385826",
+        "contract_value": 13385826.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "18/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2518_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Mikrobiológiai labor fejlesztés PTE",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1360181312",
+        "contract_value": 1360181312.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "05/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3652_2019/",
         "main_cpv": "24300000-7",
         "number_companies_win": 0,
         "procurement_title": "Akkreditált eljárás vegyszer és eszköz",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6299000",
+        "contract_value": 6299000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "07/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_3842_2019/",
         "main_cpv": "39162110-9",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Pécsi Tudományegyetem Természettudományi Kara részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98999000",
+        "contract_value": 98999000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "14/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4127_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Konfokális lézerpásztázó mikroszkóp beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "47394000",
+        "contract_value": 47394000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "25/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_4588_2019/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "170100000",
+        "contract_value": 170100000.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "09/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5955_2019/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Különböző kitek és BSE gyorsteszt beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "283230000",
+        "contract_value": 283230000.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "09/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5955_2019/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "Különböző kitek és BSE gyorsteszt beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4528000",
+        "contract_value": 4528000.0,
         "contracting_authority": "TOLDY FERENC KÓRHÁZ ÉS RENDELŐINTÉZET",
         "date": "16/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6733_2019/",
         "main_cpv": "33100000-1",
         "number_companies_win": 0,
         "procurement_title": "Pathológia szövettani vizsgálóberendezéseinek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság",
-        "contract_value": "8875336",
+        "company_names": "BIOMARKER Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 8875336.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7300_2019/",
         "main_cpv": "24000000-4",
         "number_companies_win": 2,
         "procurement_title": "Vegyszer és fogyóanyag beszerzés",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelősségű Társaság; MOLAR CHEMICALS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "7889286",
+        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; MERCK Vegyi és Gyógyszeripari Kereskedelmi Kft.; MOLAR CHEMICALS Ipari és Kereskedelmi Kft.; VWR International Kft.",
+        "contract_value": 7889286.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8508_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 9,
         "procurement_title": "Vegyszerek beszerzése I.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ATGandCo Biotechnológiai Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOLAB Diagnosztikai Laboratórium Zártkörűen Működő Részvénytársaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; GeneTiCA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; MOLAR CHEMICALS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "51652627",
+        "company_names": "ATGandCo Biotechnológiai Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOLAB Diagnosztikai Laboratórium Zrt.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; GeneTiCA Kereskedelmi és Szolgáltató Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Kvalitex Tudományos Technológiai Kereskedelmi Kft.; MOLAR CHEMICALS Ipari és Kereskedelmi Kft.; VWR International Kft.",
+        "contract_value": 51652627.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8508_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 12,
         "procurement_title": "Vegyszerek beszerzése I.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOLAB Diagnosztikai Laboratórium Zártkörűen Működő Részvénytársaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; FRANK Diagnosztika Korlátolt Felelősségü Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelősségű Társaság; MOLAR CHEMICALS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "53754863",
+        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOLAB Diagnosztikai Laboratórium Zrt.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; FRANK Diagnosztika Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Merck Life Science Kft.; MERCK Vegyi és Gyógyszeripari Kereskedelmi Kft.; MOLAR CHEMICALS Ipari és Kereskedelmi Kft.; VWR International Kft.",
+        "contract_value": 53754863.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8508_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 13,
         "procurement_title": "Vegyszerek beszerzése I.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ATGandCo Biotechnológiai Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOLAB Diagnosztikai Laboratórium Zártkörűen Működő Részvénytársaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; FRANK Diagnosztika Korlátolt Felelősségü Társaság; GeneTiCA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelősségű Társaság; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI KFT.; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "58593223",
+        "company_names": "ATGandCo Biotechnológiai Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOLAB Diagnosztikai Laboratórium Zrt.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; FRANK Diagnosztika Kft.; GeneTiCA Kereskedelmi és Szolgáltató Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Kvalitex Tudományos Technológiai Kereskedelmi Kft.; Merck Life Science Kft.; MERCK Vegyi és Gyógyszeripari Kereskedelmi Kft.; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI Kft.; VWR International Kft.",
+        "contract_value": 58593223.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8508_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 15,
         "procurement_title": "Vegyszerek beszerzése I.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOLAB Diagnosztikai Laboratórium Zártkörűen Működő Részvénytársaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelősségű Társaság; MOLAR CHEMICALS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "101434252",
+        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOLAB Diagnosztikai Laboratórium Zrt.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Merck Life Science Kft.; MERCK Vegyi és Gyógyszeripari Kereskedelmi Kft.; MOLAR CHEMICALS Ipari és Kereskedelmi Kft.; VWR International Kft.",
+        "contract_value": 101434252.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8508_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 12,
         "procurement_title": "Vegyszerek beszerzése I.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOLAB Diagnosztikai Laboratórium Zártkörűen Működő Részvénytársaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; FRANK Diagnosztika Korlátolt Felelősségü Társaság; GeneTiCA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; MOLAR CHEMICALS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság",
-        "contract_value": "160754713",
+        "company_names": "ABL&E-JASCO Magyarország Kereskedelmi és Szolgáltató Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOLAB Diagnosztikai Laboratórium Zrt.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; FRANK Diagnosztika Kft.; GeneTiCA Kereskedelmi és Szolgáltató Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Kvalitex Tudományos Technológiai Kereskedelmi Kft.; Merck Life Science Kft.; MOLAR CHEMICALS Ipari és Kereskedelmi Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; VWR International Kft.",
+        "contract_value": 160754713.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "17/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8508_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 15,
         "procurement_title": "Vegyszerek beszerzése I.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15450018",
+        "contract_value": 15450018.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "29/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9593_2019/",
         "main_cpv": "38300000-8",
         "number_companies_win": 0,
         "procurement_title": "Egyes kutatás-fejlesztési eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17990000",
+        "contract_value": 17990000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "12/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10259_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Mikroszkópok beszerzés 2019.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "64289752",
+        "contract_value": 64289752.0,
         "contracting_authority": "Országos Korányi Pulmonológiai Intézet",
         "date": "24/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9822_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Látens TBC reagens beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16300000",
+        "contract_value": 16300000.0,
         "contracting_authority": "Nemzeti Adó- és Vámhivatal",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11649_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "A NAV Szakértői Intézete részére 1 db digitális mikroszkóp beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2066159",
+        "contract_value": 2066159.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "02/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11617_2019/",
         "main_cpv": "24000000-4",
         "number_companies_win": 0,
         "procurement_title": "Vegyszer és fogyóeszköz beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38989000",
+        "contract_value": 38989000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "10/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16668_2019/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Leica DM6B fejlesztése lézer mikrodisszekcióval",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1172977",
+        "contract_value": 1172977.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "01/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18705_2019/",
         "main_cpv": "33130000-0",
         "number_companies_win": 0,
         "procurement_title": "Rizikófaktorokat és parodontológiai szempontokat is figyelembe vevő, új fogászati inplantátumrendszer kifejlesztéséhez eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4581531",
+        "contract_value": 4581531.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "04/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18563_2019/",
         "main_cpv": "24000000-4",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek és laboratóriumi fogyóeszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6233587",
+        "contract_value": 6233587.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "06/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23342_2019/",
         "main_cpv": "33190000-8",
         "number_companies_win": 0,
         "procurement_title": "Járásanalizáló rendszer és IPA NUL szoftver",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2150975",
+        "contract_value": 2150975.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "10/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_24565_2019/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerbeszerzés",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10239304",
+        "contract_value": 10239304.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "10/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0123_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek és fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42653670",
+        "contract_value": 42653670.0,
         "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
         "date": "14/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0099_2020/",
         "main_cpv": "33695000-8",
         "number_companies_win": 0,
         "procurement_title": "Molekulár patológiai vegyszerek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1954642",
+        "contract_value": 1954642.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "20/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0345_2020/",
         "main_cpv": "33696300-8",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek és laboratóriumi fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2066213",
+        "contract_value": 2066213.0,
         "contracting_authority": "Állatorvostudományi Egyetem",
         "date": "22/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0737_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Többféle laboreszköz beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "318188",
+        "contract_value": 318188.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "24/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2509_2020/",
         "main_cpv": "24000000-4",
         "number_companies_win": 0,
         "procurement_title": "Reagensek és fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7165354",
+        "contract_value": 7165354.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "11/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3848_2020/",
         "main_cpv": "38519000-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5199923",
+        "contract_value": 5199923.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4544_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7584000",
+        "contract_value": 7584000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "19/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4544_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23490000",
+        "contract_value": 23490000.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4747_2020/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Digitális mikroszkóp munkaállomás és összehasonlító mikroszkóp beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26985000",
+        "contract_value": 26985000.0,
         "contracting_authority": "Nemzeti Szakértői és Kutató Központ",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4747_2020/",
         "main_cpv": "38510000-3",
         "number_companies_win": 0,
         "procurement_title": "Digitális mikroszkóp munkaállomás és összehasonlító mikroszkóp beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1900895",
+        "contract_value": 1900895.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "27/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5403_2020/",
         "main_cpv": "48190000-6",
         "number_companies_win": 0,
         "procurement_title": "Immateriális javak beszerzése EFOP projekt keretében",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5258855",
+        "contract_value": 5258855.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "17/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6336_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszer beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2519403",
+        "contract_value": 2519403.0,
         "contracting_authority": "Eszterházy Károly Egyetem",
         "date": "23/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6264_2020/",
         "main_cpv": "24000000-4",
         "number_companies_win": 0,
         "procurement_title": "Laboratóriumi fogyóeszközök beszerzése III.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
@@ -734,435 +734,171 @@
         "main_cpv": "33696500-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek, fogyóanyagok (Az eljárás meghatározott keretösszege nettó 58 660 166 Ft. A keretösszeg részenként történő eloszlása nem megállapítható.)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7453555",
+        "contract_value": 7453555.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "09/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9427_2020/",
         "main_cpv": "24000000-4",
         "number_companies_win": 0,
         "procurement_title": "Vegyszer és fogyóanyag beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "768393",
+        "contract_value": 768393.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "10/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9743_2020/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Vegyszerek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; DIAGNOSTICUM Gyártó és Forgalmazó Zártkörűen Működő Részvénytársaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság; ZENON BIO Biotechnológia Korlátolt Felelősségű Társaság",
-        "contract_value": "8369596",
+        "company_names": "\"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; DIAGNOSTICUM Gyártó és Forgalmazó Zrt.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Merck Life Science Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; VWR International Kft.; ZENON BIO Biotechnológia Kft.",
+        "contract_value": 8369596.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11878_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 10,
         "procurement_title": "Vegyszerek, reagensek, fogyóanyagok (DBR)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Korlátolt Felelősségű Társaság; Astridbio Technologies Korlátolt Felelősségű Társaság; BIO-KASZTEL Kereskedelmi Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Bio-Rad Magyarország Kereskedelmi Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; Creative Labor Biotechnológiai Korlátolt Felelősségű Társaság; Life Technologies Magyarország Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; Nucleotest Bio Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI KFT.; VWR International Korlátolt Felelősségű Társaság; ZENON BIO Biotechnológia Korlátolt Felelősségű Társaság",
-        "contract_value": "30746075",
+        "company_names": "\"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Kft.; Astridbio Technologies Kft.; BIO-KASZTEL Kereskedelmi Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Bio-Rad Magyarország Kereskedelmi Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; Creative Labor Biotechnológiai Kft.; Life Technologies Magyarország Kft.; Merck Life Science Kft.; Nucleotest Bio Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI Kft.; VWR International Kft.; ZENON BIO Biotechnológia Kft.",
+        "contract_value": 30746075.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11878_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 15,
         "procurement_title": "Vegyszerek, reagensek, fogyóanyagok (DBR)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"AVIDIN\" Kutató, Fejlesztő és Kereskedelmi Korlátolt Felelősségű Társaság; \"IZINTA\" Kereskedelmi Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIO-KASZTEL Kereskedelmi Korlátolt Felelősségű Társaság; BIOLAB Diagnosztikai Laboratórium Zártkörűen Működő Részvénytársaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Biomedica Hungaria Orvostechnikai Korlátolt Felelősségű Társaság; Bio-Rad Magyarország Kereskedelmi Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; Bovimex Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DIAGNOSTICUM Gyártó és Forgalmazó Zártkörűen Működő Részvénytársaság; FORR-LAB Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Life Technologies Magyarország Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VWR International Korlátolt Felelősségű Társaság; ZENON BIO Biotechnológia Korlátolt Felelősségű Társaság",
-        "contract_value": "59571821",
+        "company_names": "\"AVIDIN\" Kutató, Fejlesztő és Kereskedelmi Kft.; \"IZINTA\" Kereskedelmi Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIO-KASZTEL Kereskedelmi Kft.; BIOLAB Diagnosztikai Laboratórium Zrt.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; Biomedica Hungaria Orvostechnikai Kft.; Bio-Rad Magyarország Kereskedelmi Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; Bovimex Kereskedelmi és Szolgáltató Kft.; DIAGNOSTICUM Gyártó és Forgalmazó Zrt.; FORR-LAB Kereskedelmi és Szolgáltató Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Kvalitex Tudományos Technológiai Kereskedelmi Kft.; Life Technologies Magyarország Kft.; Merck Life Science Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; VWR International Kft.; ZENON BIO Biotechnológia Kft.",
+        "contract_value": 59571821.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11878_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 20,
         "procurement_title": "Vegyszerek, reagensek, fogyóanyagok (DBR)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "211536000",
+        "contract_value": 211536000.0,
         "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
         "date": "27/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_15102_2020/",
         "main_cpv": "33694000-1",
         "number_companies_win": 0,
         "procurement_title": "ASP PCR készletek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14223673",
+        "contract_value": 14223673.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "30/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17715_2020/",
         "main_cpv": "38434000-6",
         "number_companies_win": 0,
         "procurement_title": "Fluoreszcens sztereo mikroszkóp/makroszkóp",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6852615",
+        "contract_value": 6852615.0,
         "contracting_authority": "Nemzeti Biodiverzitás- és Génmegőrzési Központ",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18494_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Állattenyésztési biológiai vizsgálatok eszközei",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13900000",
+        "contract_value": 13900000.0,
         "contracting_authority": "Nemzeti Biodiverzitás- és Génmegőrzési Központ",
         "date": "09/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18494_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Állattenyésztési biológiai vizsgálatok eszközei",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "\"IZINTA\" Kereskedelmi Korlátolt Felelősségű Társaság; \"KROMAT\" Műszerforgalmazó Kft.; \"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; CENTRAL EUROPEAN BIOSYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GeneTiCA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Life Technologies Magyarország Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; Nucleotest Bio Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI KFT.; VWR International Korlátolt Felelősségű Társaság; ZENON BIO Biotechnológia Korlátolt Felelősségű Társaság",
-        "contract_value": "29526685",
+        "company_names": "\"IZINTA\" Kereskedelmi Kft.; \"KROMAT\" Műszerforgalmazó Kft.; \"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Kft.; BIOCENTER Laboratóriumi Szolgáltató Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.; BIO-SCIENCE Kereskedelmi és Szolgáltató Kft.; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Kft.; CENTRAL EUROPEAN BIOSYSTEMS Kereskedelmi és Szolgáltató Kft.; GeneTiCA Kereskedelmi és Szolgáltató Kft.; GREINER BIO-ONE HUNGARY Műanyagtechnika Kft.; Kvalitex Tudományos Technológiai Kereskedelmi Kft.; Life Technologies Magyarország Kft.; Merck Life Science Kft.; Nucleotest Bio Kft.; RK Tech Kereskedelmi és Szolgáltató Kft.; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI Kft.; VWR International Kft.; ZENON BIO Biotechnológia Kft.",
+        "contract_value": 29526685.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "14/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18549_2020/",
         "main_cpv": "33696500-0",
         "number_companies_win": 18,
         "procurement_title": "Vegyszerek, reagensek, fogyóanyagok",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2917080",
+        "contract_value": 2917080.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "18/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20640_2020/",
         "main_cpv": "33124100-6",
         "number_companies_win": 0,
         "procurement_title": "Eszközök szállítása a Pécsi Tudományegyetem részére",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "732474",
+        "contract_value": 732474.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21225_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszerészi vegyszerek, fogyóanyagok II.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "94800000",
+        "contract_value": 94800000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22007_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Patológiai berendezések beszerzése 2020",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "698800000",
+        "contract_value": 698800000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22007_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 0,
         "procurement_title": "Patológiai berendezések beszerzése 2020",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "Auro-Science Consulting Kereskedelmi Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "73275000",
+        "company_names": "Auro-Science Consulting Kereskedelmi Kft.; BIOMARKER Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 73275000.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22007_2020/",
         "main_cpv": "38000000-5",
         "number_companies_win": 2,
         "procurement_title": "Patológiai berendezések beszerzése 2020",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "12830237",
-        "contracting_authority": "Nemzeti Biodiverzitás- és Génmegőrzési Központ",
-        "date": "20/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1038_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Genetikai labor eszközeinek beszerzése II.",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5048323",
-        "contracting_authority": "Agrártudományi Kutatóközpont",
-        "date": "24/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0917_2021/",
-        "main_cpv": "33000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Laboratóriumi fogyóeszközök és vegyszerek",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23158692",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "31/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4961_2021/",
-        "main_cpv": "33696000-5",
-        "number_companies_win": 0,
-        "procurement_title": "DE Pathologia reagensek, kittek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4838160",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8516_2021/",
-        "main_cpv": "48000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "IPA NUL szoftver licensz beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44040729",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6902_2021/",
-        "main_cpv": "24000000-4",
-        "number_companies_win": 0,
-        "procurement_title": "Reagensek és fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2508616",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "07/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9355_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 0,
-        "procurement_title": "Kutatási vegyszer beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5265505",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "01/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11916_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Eszközbeszerzés",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "550400000",
-        "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
-        "date": "02/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11948_2021/",
-        "main_cpv": "33694000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Robotizálható mágneses nukleinsav kivonó készlet",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "581500000",
-        "contracting_authority": "Nemzeti Élelmiszerlánc-Biztonsági Hivatal",
-        "date": "02/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11947_2021/",
-        "main_cpv": "33694000-1",
-        "number_companies_win": 0,
-        "procurement_title": "ASP PCR készletek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7754360",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13810_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Egészségipari laboratóriumi eszközök",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "15795415",
-        "contracting_authority": "Agrártudományi Kutatóközpont",
-        "date": "03/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13780_2021/",
-        "main_cpv": "38432000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Q-PCR és Spektrofotométer, Szekvenáló berendezéshez és Nukleinsav tisztító kitek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "6024053",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14027_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Laboratóriumi eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14898375",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "19/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14027_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Laboratóriumi eszközök beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "20694597",
-        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "31/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15824_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Molekuláris diagnosztikai és patológiai eszközök",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "38846110",
-        "contracting_authority": "Markusovszky Egyetemi Oktatókórház",
-        "date": "27/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17255_2021/",
-        "main_cpv": "33695000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Molekulár patológiai vegyszerek szállítása",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "14497852",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18908_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Kutatási eszközök 1. - PTE ÁOK (RRF)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "23576400",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18908_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Kutatási eszközök 1. - PTE ÁOK (RRF)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "37998000",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "05/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18908_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Kutatási eszközök 1. - PTE ÁOK (RRF)",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "790625",
-        "contracting_authority": "Magyar Agrár- és Élettudományi Egyetem",
-        "date": "07/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19640_2021/",
-        "main_cpv": "38950000-9",
-        "number_companies_win": 0,
-        "procurement_title": "PCR készülékek beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "629694",
-        "contracting_authority": "Pécsi Tudományegyetem",
-        "date": "18/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19688_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Eszközbeszerzés",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "\"IZINTA\" Kereskedelmi Korlátolt Felelősségű Társaság; \"KROMAT\" Műszerforgalmazó Kft.; \"Sarstedt\" Készülékek és Termékek Orvosi, Tudományos Célokra Korlátolt Felelősségű Társaság; BIOCENTER Laboratóriumi Szolgáltató Korlátolt Felelősségű Társaság; BIO-KASZTEL Kereskedelmi Korlátolt Felelősségű Társaság; BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; BIO-SCIENCE Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Bioszeparáció Korlátolt Felelősségű Társaság; BioTech Hungary Kereskedelmi, Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság; CENTRAL EUROPEAN BIOSYSTEMS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; DIAGNOSTICUM Gyártó és Forgalmazó Zártkörűen Működő Részvénytársaság; Diagon Diagnosztikai Korlátolt Felelősségű Társaság; FORR-LAB Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GeneTiCA Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; GEN-LAB Általános Laboratóriumi Felszereléseket Forgalmazó és Szolgáltató Korlátolt Felelősségű Társaság; GREINER BIO-ONE HUNGARY Műanyagtechnika Korlátolt Felelősségű Társaság; Kvalitex Tudományos Technológiai Kereskedelmi Korlátolt Felelősségű Társaság; Merck Life Science Korlátolt Felelősségű Társaság; RK Tech Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ROCHE (MAGYARORSZÁG) GYÓGYSZER- ÉS VEGYIANYAGKERESKEDELMI KFT.; SIMKON Külkereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság; VWR International Korlátolt Felelősségű Társaság; Waters Kromatográfiás Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; ZENON BIO Biotechnológia Korlátolt Felelősségű Társaság",
-        "contract_value": "57057477",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "26/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19780_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 24,
-        "procurement_title": "Vegyszerek, reagensek, fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "133858268",
-        "contracting_authority": "HCEMM Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21122_2021/",
-        "main_cpv": "38000000-5",
-        "number_companies_win": 0,
-        "procurement_title": "HCEMM műszerközpontok fejlesztése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "86611611",
-        "contracting_authority": "Debreceni Egyetem",
-        "date": "26/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22989_2021/",
-        "main_cpv": "33696000-5",
-        "number_companies_win": 0,
-        "procurement_title": "DE KK Pathologia részére immunfestő automatához szükséges fogyóanyagok beszerzése",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5887597",
-        "contracting_authority": "Eötvös Loránd Tudományegyetem",
-        "date": "02/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23430_2021/",
-        "main_cpv": "33696500-0",
-        "number_companies_win": 0,
-        "procurement_title": "Vegyszerek és laboratóriumi fogyóanyagok beszerzés",
-        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "BIOMARKER Kereskedelmi és Szolgáltató Kft."
     }
 ]

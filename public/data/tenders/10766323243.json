@@ -1,123 +1,101 @@
 [
     {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; PRO URBE Mérnöki és Városrendezési Korlátolt Felelősségű Társaság; UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "244800000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; PRO URBE Mérnöki és Városrendezési Kft.; UVATERV Út-, Vasúttervező Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 244800000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "10/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_4790_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 4,
         "procurement_title": "Székesfehérvár Megyei Jogú Város vasútállomás fejlesztése kapcsán tervezési feladatok ellátása, valamint a részletes megvalósíthatósági tanulmány és K-H elemzés felülvizsgálata.",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "ARGON-GEO Mérnöki Iroda Korlátolt Felelősségű Társaság; Geodéziai és Térképészeti Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "372000000",
-        "contracting_authority": "Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság",
+        "company_names": "ARGON-GEO Mérnöki Iroda Kft.; Geodéziai és Térképészeti Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 372000000.0,
+        "contracting_authority": "Herman Ottó Intézet Nonprofit Kft.",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6942_2018/",
         "main_cpv": "71313100-6",
         "number_companies_win": 3,
         "procurement_title": "Stratégiai zajtérképek megújítása 2 részben vállalkozási szerződés alapján",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "UVATERV Út-, Vasúttervező Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "118950000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "UVATERV Út-, Vasúttervező Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 118950000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11593_2018/",
         "main_cpv": "71335000-5",
         "number_companies_win": 2,
         "procurement_title": "Tervezési szerződés a 21. sz. főút Salgótarján elkerülő és országhatár közötti szakasz fejlesztésének előkészítése tárgyában",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; UTIBER Közúti Beruházó Kft.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "396000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
+        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; UTIBER Közúti Beruházó Kft.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 396000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
         "date": "11/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18078_2018/",
         "main_cpv": "71320000-7",
         "number_companies_win": 3,
         "procurement_title": "Megvalósíthatósági Tanulmány és környezeti hatástanulmány elkészítése, valamint jogerős környezetvédelmi engedély megszerzése az M0 autóút nyugati szektor 10. sz. főút-M1 autópálya közötti szakaszára.",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "30750000",
+        "contract_value": 30750000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1400_2019/",
         "main_cpv": "90711400-8",
         "number_companies_win": 0,
         "procurement_title": "Várpalota NATURA 2000",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "314600000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 314600000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "20/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8619_2019/",
         "main_cpv": "90712500-6",
         "number_companies_win": 2,
         "procurement_title": "Környezetvédelmi vizsgálatok és tervezés",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "8782500",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 8782500.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19062_2019/",
         "main_cpv": "90712500-6",
         "number_companies_win": 2,
         "procurement_title": "Környezetvédelmi vizsgálatok és tervezés",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "11398000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 11398000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "08/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6015_2020/",
         "main_cpv": "90712500-6",
         "number_companies_win": 2,
         "procurement_title": "Környezetvédelmi vizsgálatok és tervezés",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     },
     {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "65840000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zrt.; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 65840000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt.",
         "date": "13/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_18413_2020/",
         "main_cpv": "90712500-6",
         "number_companies_win": 2,
         "procurement_title": "Környezetvédelmi vizsgálatok és tervezés",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "6930000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12597_2021/",
-        "main_cpv": "90712500-6",
-        "number_companies_win": 2,
-        "procurement_title": "Környezetvédelmi vizsgálatok és tervezés",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "UNITEF'83 Műszaki Tervező és Fejlesztő Zártkörűen Működő Részvénytársaság; VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "11980000",
-        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19283_2021/",
-        "main_cpv": "90712500-6",
-        "number_companies_win": 2,
-        "procurement_title": "Környezetvédelmi vizsgálatok és tervezés",
-        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "VIBROCOMP Akusztikai, Számítástechnikai Szolgáltató és Kereskedelmi Kft."
     }
 ]

@@ -1,211 +1,178 @@
 [
     {
         "company_names": "",
-        "contract_value": "138065040",
+        "contract_value": 138065040.0,
         "contracting_authority": "Bajai Szent Rókus Kórház",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19336_2017/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Megbízási szerződés keretében a Bajai Szent Rókus Kórház székhelyén személy- és vagyonvédelmi, valamint portaszolgálati feladatok ellátása.",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "49100000",
+        "contract_value": 49100000.0,
         "contracting_authority": "Nemzeti Választási Iroda",
         "date": "08/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_194_2018/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Őrzés-védelmi szolgáltatás nyújtása a Nemzeti Választási Iroda részére 2018",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "59652030",
-        "contracting_authority": "\"Zöld Híd B.I.G.G.\" Környezetvédelmi és Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 59652030.0,
+        "contracting_authority": "\"Zöld Híd B.I.G.G.\" Környezetvédelmi és Hulladékgazdálkodási Nonprofit Kft.",
         "date": "06/03/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3548_2018/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Őrzés-védelmi szolgáltatás a Zöld Híd B.I.G.G. Környezetvédelmi és Hulladékgazdálkodási Nonprofit Kft. részére 12 hónap időtartamban",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "65000000",
+        "contract_value": 65000000.0,
         "contracting_authority": "Magyar Állami Operaház",
         "date": "06/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11669_2018/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "A Magyar Állami Operaház és az Erkel Színház, valamint azok telephelyei vagyonvédelmének, járőrszolgálatának ellátása, pénzkísérési szolgáltatások elvégzése",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "57952200",
+        "contract_value": 57952200.0,
         "contracting_authority": "Budapest Főváros XV. Kerületi Önkormányzat Dr. Vass László Egészségügyi Intézmény",
         "date": "11/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2449_2019/",
         "main_cpv": "71700000-5",
         "number_companies_win": 0,
         "procurement_title": "Épületfelügyeleti szolgáltatás teljesítése",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "55000000",
+        "contract_value": 55000000.0,
         "contracting_authority": "Nemzeti Választási Iroda",
         "date": "14/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4459_2019/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Őrzés-védelmi szolgáltatás az NVI részére",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "16731600",
-        "contracting_authority": "Nyíregyházi Állatpark Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 16731600.0,
+        "contracting_authority": "Nyíregyházi Állatpark Nonprofit Kft.",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8134_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Őrzési és recepciós feladatok ellátása",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "25666800",
-        "contracting_authority": "Nyíregyházi Állatpark Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 25666800.0,
+        "contracting_authority": "Nyíregyházi Állatpark Nonprofit Kft.",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8134_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Őrzési és recepciós feladatok ellátása",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "200175346",
+        "contract_value": 200175346.0,
         "contracting_authority": "Közép-Budai Tankerületi Központ",
         "date": "08/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7743_2019/",
         "main_cpv": "90900000-6",
         "number_companies_win": 0,
         "procurement_title": "Takarítási és portaszolgálati feladatok",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "13836480",
-        "contracting_authority": "Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13836480.0,
+        "contracting_authority": "Országos Fordító és Fordításhitelesítő Iroda Zrt.",
         "date": "10/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4819_2019/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Őrzés-védelmi szolgáltatás 2019",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "32000000",
+        "contract_value": 32000000.0,
         "contracting_authority": "Győri Nemzeti Színház",
         "date": "19/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13331_2019/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Őrzés- és vagyonvédelmi feladatok ellátása",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "40125664",
+        "contract_value": 40125664.0,
         "contracting_authority": "Moholy-Nagy Művészeti Egyetem",
         "date": "12/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4242_2020/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "MOME Vagyonvédelem",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "62601000",
+        "contract_value": 62601000.0,
         "contracting_authority": "Nemzeti Választási Iroda",
         "date": "17/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4533_2020/",
         "main_cpv": "79713000-5",
         "number_companies_win": 0,
         "procurement_title": "Őrzés-védelmi szolgáltatás az NVI részére 2020",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "33994080",
+        "contract_value": 33994080.0,
         "contracting_authority": "Szentgotthárdi Szakosított Otthon",
         "date": "01/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5584_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Élőerős személy és vagyonvédelmi szolgáltatás",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "53374320",
+        "contract_value": 53374320.0,
         "contracting_authority": "Budapest Főváros XV. Kerületi Önkormányzat Dr. Vass László Egészségügyi Intézmény",
         "date": "16/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6351_2020/",
         "main_cpv": "71700000-5",
         "number_companies_win": 0,
         "procurement_title": "Épületfelügyelet, vagyonőr- és portaszolgálat",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "159598872",
+        "contract_value": 159598872.0,
         "contracting_authority": "Bajai Szent Rókus Kórház",
         "date": "12/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8155_2020/",
         "main_cpv": "79710000-4",
         "number_companies_win": 0,
         "procurement_title": "Személy és vagyonvédelem, portaszolgálat",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "40000000",
-        "contracting_authority": "Budapesti Corvinus Egyetem",
-        "date": "15/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12828_2021/",
-        "main_cpv": "98341120-2",
-        "number_companies_win": 0,
-        "procurement_title": "BCE Kinizsi - TSK portaszolgálat_2021",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "58633280",
-        "contracting_authority": "Magyar Képzőművészeti Egyetem",
-        "date": "23/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18461_2021/",
-        "main_cpv": "98341120-2",
-        "number_companies_win": 0,
-        "procurement_title": "MKE épületeiben porta-recepciós szolgáltatás 2021",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5747650",
-        "contracting_authority": "Budapest Főváros XV. Kerületi Önkormányzat Egyesített Szociális Intézménye, Budapest Főváros XV. Kerületi Rákospalota, Pestújhely, Újpalota Önkormányzat Gazdasági Működtetési Központ",
-        "date": "16/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23428_2021/",
-        "main_cpv": "98341120-2",
-        "number_companies_win": 0,
-        "procurement_title": "Őrzésvédelmi szolgálat, portaszolgálat ellátása",
-        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zártkörűen Működő Részvénytársaság"
+        "registered_name": "Top Cop Security Vagyonvédelmi és Szolgáltató Zrt."
     }
 ]

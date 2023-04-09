@@ -1,90 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "6170000",
+        "contract_value": 6170000.0,
         "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
         "date": "20/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2700_2018/",
         "main_cpv": "45211310-5",
         "number_companies_win": 0,
         "procurement_title": "Székesfehérvár, Pozsonyi úti piac területén egy vizesblokk épület megtervezése és kivitelezése a szükséges kiviteli, szakági tervekkel, közmű csatlakozásokkal együtt",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Equitas Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60535080",
+        "contract_value": 60535080.0,
         "contracting_authority": "Csór Község Önkormányzat",
         "date": "19/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5264_2018/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Csór község Önkormányzat épületeinek energetikai korszerűsítése",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Equitas Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "89565100",
-        "contracting_authority": "Székesfehérvár Városgondnoksága Korlátolt Felelősségű Társaság",
+        "contract_value": 89565100.0,
+        "contracting_authority": "Székesfehérvár Városgondnoksága Kft.",
         "date": "28/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20907_2019/",
         "main_cpv": "45262400-5",
         "number_companies_win": 0,
         "procurement_title": "Amerikai futballpálya ülőlelátójának lefedése",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Equitas Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3913733",
+        "contract_value": 3913733.0,
         "contracting_authority": "Óbudai Egyetem",
         "date": "16/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0567_2020/",
         "main_cpv": "45342000-6",
         "number_companies_win": 0,
         "procurement_title": "Székesfehérvári Campus Budai úti kerítés építése",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Equitas Építő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "220828835",
+        "contract_value": 220828835.0,
         "contracting_authority": "Fejér Megyei Kormányhivatal",
         "date": "04/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14102_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "FMKH C épület statikai helyreállítása",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "244853338",
-        "contracting_authority": "Fejér Megyei Rendőr-Főkapitányság",
-        "date": "09/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3469_2021/",
-        "main_cpv": "45216110-8",
-        "number_companies_win": 0,
-        "procurement_title": "FMRFK főépület tető és homlokzat rekonstrukció",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "69858586",
-        "contracting_authority": "Székesfehérvár Megyei Jogú Város Önkormányzata",
-        "date": "13/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8274_2021/",
-        "main_cpv": "45214000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Mancz János bölcsőde kialakítása",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "55500419",
-        "contracting_authority": "Székesfehérvári Tankerületi Központ",
-        "date": "16/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25100_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Iskolaépületek felújítása",
-        "registered_name": "Equitas Építő Korlátolt Felelősségű Társaság"
+        "registered_name": "Equitas Építő Kft."
     }
 ]

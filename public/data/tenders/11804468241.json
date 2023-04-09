@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "582092904",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 582092904.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "11/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_4103_2019/",
         "main_cpv": "34632200-8",
         "number_companies_win": 0,
         "procurement_title": "Jelző- és váltóállító berendezések módosítása, javítása",
-        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "43376000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 43376000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5311_2019/",
         "main_cpv": "45230000-8",
         "number_companies_win": 0,
         "procurement_title": "Vontatási kábelek jelzőszál és elektronika javítása",
-        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "23003290",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 23003290.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "14/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9841_2019/",
         "main_cpv": "34946000-0",
         "number_companies_win": 0,
         "procurement_title": "Váltófűtés komponensek beszerzése II.",
-        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "4200000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 4200000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "23/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24547_2019/",
         "main_cpv": "71320000-7",
         "number_companies_win": 0,
         "procurement_title": "Rádiós váltóállító berendezés tervezése",
-        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "77134000",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 77134000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "30/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_7214_2020/",
         "main_cpv": "71630000-3",
         "number_companies_win": 0,
         "procurement_title": "Oszlop nullázások vizsgálata",
-        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "\"KÖZLEKEDÉS\" Tervező Iroda Kft.; \"TEN-T\" Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság; ARCUS Mérnöki Iroda Korlátolt Felelősségű Társaság",
-        "contract_value": "334000000",
-        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság",
-        "date": "11/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3828_2021/",
-        "main_cpv": "71320000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Villamospálya tervezése az Új Duna-hídon",
-        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zártkörűen Működő Részvénytársaság"
+        "registered_name": "TEN-T Tömegközlekedés Energiaellátását Tervező és Kivitelező Zrt."
     }
 ]

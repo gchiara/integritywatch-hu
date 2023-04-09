@@ -1,1146 +1,827 @@
 [
     {
         "company_names": "",
-        "contract_value": "54000000",
+        "contract_value": 54000000.0,
         "contracting_authority": "Pécsi Ellátó Központ",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19179_2017/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok és eszközök szállítása a Pécs Városi Költségvetési Központi Elszámoló Szervezet és telephelyei részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "60000000",
+        "contract_value": 60000000.0,
         "contracting_authority": "Pécsi Ellátó Központ",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19179_2017/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok és eszközök szállítása a Pécs Városi Költségvetési Központi Elszámoló Szervezet és telephelyei részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "66000000",
+        "contract_value": 66000000.0,
         "contracting_authority": "Pécsi Ellátó Központ",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19179_2017/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok és eszközök szállítása a Pécs Városi Költségvetési Központi Elszámoló Szervezet és telephelyei részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "86000000",
+        "contract_value": 86000000.0,
         "contracting_authority": "Pécsi Ellátó Központ",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19179_2017/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok és eszközök szállítása a Pécs Városi Költségvetési Központi Elszámoló Szervezet és telephelyei részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "140000000",
+        "contract_value": 140000000.0,
         "contracting_authority": "Pécsi Ellátó Központ",
         "date": "11/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19179_2017/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok és eszközök szállítása a Pécs Városi Költségvetési Központi Elszámoló Szervezet és telephelyei részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "625429",
+        "contract_value": 625429.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2612_2018/",
         "main_cpv": "37500000-3",
         "number_companies_win": 0,
         "procurement_title": "Pöttöm Sziget Bölcsőde eszközbeszerzés",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1112025",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
+        "contract_value": 1112025.0,
+        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.",
         "date": "19/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5569_2018/",
         "main_cpv": "44511000-5",
         "number_companies_win": 0,
         "procurement_title": "Udvartér fenntartási gépek, eszközök és kézi szerszámok, műszerek és segédanyagok beszerzése II. adásvételi szerződés keretében 3 részben",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21300000",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 21300000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8086_2018/",
         "main_cpv": "31230000-7",
         "number_companies_win": 0,
         "procurement_title": "Üzemeltetéshez szükséges anyagok,- alkatrészek szállítása",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12134600",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12134600.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12324_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Vezetékek, kábelek kiegészítő alkatrészei beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17384800",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 17384800.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12324_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Vezetékek, kábelek kiegészítő alkatrészei beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48192500",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 48192500.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12324_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Vezetékek, kábelek kiegészítő alkatrészei beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "98728000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 98728000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12324_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Vezetékek, kábelek kiegészítő alkatrészei beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "121270100",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 121270100.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_12324_2018/",
         "main_cpv": "34631000-9",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Vezetékek, kábelek kiegészítő alkatrészei beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3722881",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3722881.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13808_2018/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Kéziszerszám közfoglalkoztatottak részére (2018-2019)",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3848769",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 3848769.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13808_2018/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Kéziszerszám közfoglalkoztatottak részére (2018-2019)",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8899975",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 8899975.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13808_2018/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Kéziszerszám közfoglalkoztatottak részére (2018-2019)",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10156371",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 10156371.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13808_2018/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Kéziszerszám közfoglalkoztatottak részére (2018-2019)",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13551207",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 13551207.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13808_2018/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Kéziszerszám közfoglalkoztatottak részére (2018-2019)",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22896900",
-        "contracting_authority": "Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 22896900.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
         "date": "13/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_13808_2018/",
         "main_cpv": "44510000-8",
         "number_companies_win": 0,
         "procurement_title": "Kéziszerszám közfoglalkoztatottak részére (2018-2019)",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15928106",
+        "contract_value": 15928106.0,
         "contracting_authority": "Márianosztrai Fegyház és Börtön",
         "date": "13/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16457_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "31089786",
+        "contract_value": 31089786.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "04/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17679_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4142739",
+        "contract_value": 4142739.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22771_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "BAZ Megyei Kórház - építési szerelési anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6429721",
+        "contract_value": 6429721.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22771_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "BAZ Megyei Kórház - építési szerelési anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "8858615",
+        "contract_value": 8858615.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22771_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "BAZ Megyei Kórház - építési szerelési anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "449978",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 449978.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "739211",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 739211.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3697227",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 3697227.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4029494",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 4029494.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4472544",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 4472544.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "4986620",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 4986620.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5998980",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 5998980.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6185722",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 6185722.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "7284008",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 7284008.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9995339",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 9995339.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11971821",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 11971821.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "15/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22700_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17787228",
+        "contract_value": 17787228.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22657_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartó szakanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18294768",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 18294768.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23342_2018/",
         "main_cpv": "44161000-6",
         "number_companies_win": 0,
         "procurement_title": "Vízszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "59965064",
+        "contract_value": 59965064.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22657_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartó szakanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "66625375",
+        "contract_value": 66625375.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22657_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartó szakanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "191928619",
+        "contract_value": 191928619.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "20/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22657_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartó szakanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5466388",
+        "contract_value": 5466388.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "04/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24089_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés építési segédanyagok és eszközök, épületgépészeti anyagok és eszközök, lakatos anyagok és eszközök beszerzésére a Budapesti Gazdasági Egyetem részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "14357906",
+        "contract_value": 14357906.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "04/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24089_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés építési segédanyagok és eszközök, épületgépészeti anyagok és eszközök, lakatos anyagok és eszközök beszerzésére a Budapesti Gazdasági Egyetem részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38029554",
+        "contract_value": 38029554.0,
         "contracting_authority": "Budapesti Gazdasági Egyetem",
         "date": "04/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24089_2018/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi keretszerződés építési segédanyagok és eszközök, épületgépészeti anyagok és eszközök, lakatos anyagok és eszközök beszerzésére a Budapesti Gazdasági Egyetem részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "25000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5110_2019/",
         "main_cpv": "39830000-9",
         "number_companies_win": 0,
         "procurement_title": "Takarítási segédanyagok beszerzése 2018",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11081000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 11081000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8555_2019/",
         "main_cpv": "34631400-3",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Villamos készülékek beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "55000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 55000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "15/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8555_2019/",
         "main_cpv": "34631400-3",
         "number_companies_win": 0,
         "procurement_title": "IC+70 sorozatgyártás projekt - Villamos készülékek beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "209913",
+        "contract_value": 209913.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6745_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Óvoda Fácán Tagóvoda eszközbeszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "951230",
+        "contract_value": 951230.0,
         "contracting_authority": "Érd Megyei Jogú Város Önkormányzata",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6716_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Erdőszéle (BUBU) óvoda eszközbeszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 2000000.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8923_2019/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok 2019.",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 10000000.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8923_2019/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok 2019.",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "20000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
+        "contract_value": 20000000.0,
+        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zrt.",
         "date": "27/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8923_2019/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok 2019.",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5447572",
-        "contracting_authority": "\"Sóstó-Gyógyfürdők\" Szolgáltató és Fejlesztő Zártkörűen Működő Részvénytársaság, Nyíregyháza Megyei Jogú Város Önkormányzata",
+        "contract_value": 5447572.0,
+        "contracting_authority": "\"Sóstó-Gyógyfürdők\" Szolgáltató és Fejlesztő Zrt., Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "30/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9728_2019/",
         "main_cpv": "31000000-6",
         "number_companies_win": 0,
         "procurement_title": "Hotel Sóstó elektromos berendezések beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40610616",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 40610616.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "03/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11787_2019/",
         "main_cpv": "31210000-1",
         "number_companies_win": 0,
         "procurement_title": "Villanyszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "75741004",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 75741004.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "03/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11787_2019/",
         "main_cpv": "31210000-1",
         "number_companies_win": 0,
         "procurement_title": "Villanyszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "81790572",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 81790572.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "03/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11787_2019/",
         "main_cpv": "31210000-1",
         "number_companies_win": 0,
         "procurement_title": "Villanyszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5955804",
+        "contract_value": 5955804.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18349_2019/",
         "main_cpv": "39000000-2",
         "number_companies_win": 0,
         "procurement_title": "Munkásszálló eszközbeszerzés",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19390625",
+        "contract_value": 19390625.0,
         "contracting_authority": "Közép-Dunántúli Országos Büntetés-Végrehajtási Intézet",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18145_2019/",
         "main_cpv": "44000000-0",
         "number_companies_win": 0,
         "procurement_title": "Karbantartó anyagok beszerzése 12 hónapra",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "22735630",
+        "contract_value": 22735630.0,
         "contracting_authority": "Közép-Dunántúli Országos Büntetés-Végrehajtási Intézet",
         "date": "30/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18145_2019/",
         "main_cpv": "44000000-0",
         "number_companies_win": 0,
         "procurement_title": "Karbantartó anyagok beszerzése 12 hónapra",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11159044",
-        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 11159044.0,
+        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Kft.",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20994_2019/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "16295537",
-        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 16295537.0,
+        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Kft.",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20994_2019/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45359754",
-        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 45359754.0,
+        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Kft.",
         "date": "31/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20994_2019/",
         "main_cpv": "44100000-1",
         "number_companies_win": 0,
         "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "258260",
+        "contract_value": 258260.0,
         "contracting_authority": "Izsák Város Önkormányzata, Kiskunmajsa Város Önkormányzata",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22907_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Izsák és Kiskunmajsa Városok eszközbeszerzései",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "557868",
+        "contract_value": 557868.0,
         "contracting_authority": "Izsák Város Önkormányzata, Kiskunmajsa Város Önkormányzata",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22907_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Izsák és Kiskunmajsa Városok eszközbeszerzései",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3890045",
+        "contract_value": 3890045.0,
         "contracting_authority": "Izsák Város Önkormányzata, Kiskunmajsa Város Önkormányzata",
         "date": "12/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22907_2019/",
         "main_cpv": "39100000-3",
         "number_companies_win": 0,
         "procurement_title": "Izsák és Kiskunmajsa Városok eszközbeszerzései",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "3000000",
+        "contract_value": 3000000.0,
         "contracting_authority": "Fővárosi Állat- és Növénykert",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1811_2020/",
         "main_cpv": "44400000-4",
         "number_companies_win": 0,
         "procurement_title": "Építőipari karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5000000",
+        "contract_value": 5000000.0,
         "contracting_authority": "Fővárosi Állat- és Növénykert",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1811_2020/",
         "main_cpv": "44400000-4",
         "number_companies_win": 0,
         "procurement_title": "Építőipari karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "9000000",
+        "contract_value": 9000000.0,
         "contracting_authority": "Fővárosi Állat- és Növénykert",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1811_2020/",
         "main_cpv": "44400000-4",
         "number_companies_win": 0,
         "procurement_title": "Építőipari karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15000000",
+        "contract_value": 15000000.0,
         "contracting_authority": "Fővárosi Állat- és Növénykert",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1811_2020/",
         "main_cpv": "44400000-4",
         "number_companies_win": 0,
         "procurement_title": "Építőipari karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "19886638",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 19886638.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "26/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4918_2020/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "KÁBELSZERELÉSI ANYAGOK BESZERZÉSE",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "248134971",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 248134971.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "17/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_6333_2020/",
         "main_cpv": "31000000-6",
         "number_companies_win": 0,
         "procurement_title": "Villanyszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1685666",
+        "contract_value": 1685666.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "18/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10809_2020/",
         "main_cpv": "39221180-2",
         "number_companies_win": 0,
         "procurement_title": "Ferencvárosban épülő munkásszálló eszközök beszerzése II.",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2544750",
+        "contract_value": 2544750.0,
         "contracting_authority": "Országgyűlés Hivatala",
         "date": "03/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13887_2020/",
         "main_cpv": "71314100-3",
         "number_companies_win": 0,
         "procurement_title": "Lámpák felújítása",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "92314408",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
+        "contract_value": 92314408.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
         "date": "21/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_16745_2020/",
         "main_cpv": "31681400-7",
         "number_companies_win": 0,
         "procurement_title": "AM metrókocsikhoz különféle alkatrészek beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6451300",
+        "contract_value": 6451300.0,
         "contracting_authority": "Közép-Dunántúli Országos Büntetés-Végrehajtási Intézet",
         "date": "20/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21292_2020/",
         "main_cpv": "39314000-6",
         "number_companies_win": 0,
         "procurement_title": "Konyhatechnológia fejlesztés eszközbeszerzés",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11416045",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
+        "contract_value": 11416045.0,
+        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Kft.",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21235_2020/",
         "main_cpv": "34600000-3",
         "number_companies_win": 0,
         "procurement_title": "Kábelszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "100000000",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "06/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24639_2020/",
-        "main_cpv": "44190000-8",
-        "number_companies_win": 2,
-        "procurement_title": "Fa és egyéb anyagok szállítására",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11932728",
-        "contracting_authority": "BKV Vasúti Járműjavító Szolgáltató Korlátolt Felelősségű Társaság",
-        "date": "12/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0109_2021/",
-        "main_cpv": "34600000-3",
-        "number_companies_win": 0,
-        "procurement_title": "NYOMOGOMBOK BESZERZÉSE II.",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "42473544",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
-        "date": "10/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2359_2021/",
-        "main_cpv": "39830000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Takarítószerek beszerzése 2020",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "31015080",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
-        "date": "05/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3814_2021/",
-        "main_cpv": "39000000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Takarítóeszközök beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "22318019",
-        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6240_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "25426620",
-        "contracting_authority": "UD PRAKTIKA Szállítási és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "19/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6240_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartási anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "66000000",
-        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
-        "date": "27/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9485_2021/",
-        "main_cpv": "39830000-9",
-        "number_companies_win": 0,
-        "procurement_title": "BRFK,Tisztító és takarítóeszközök beszerzése 2020",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1346420",
-        "contracting_authority": "Kapuvár Városi Önkormányzat",
-        "date": "02/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10111_2021/",
-        "main_cpv": "39000000-2",
-        "number_companies_win": 0,
-        "procurement_title": "Orvostechnológiai eszközök beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2606121",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12895_2021/",
-        "main_cpv": "42000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Gépészeti és elektromos alkatrészek",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "4436753",
-        "contracting_authority": "ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság",
-        "date": "12/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12895_2021/",
-        "main_cpv": "42000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Gépészeti és elektromos alkatrészek",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2460782",
-        "contracting_authority": "Magyar Állami Operaház",
-        "date": "13/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12795_2021/",
-        "main_cpv": "44190000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Fa és egyéb anyagok szállítása",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "4000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13949_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 3,
-        "procurement_title": "Építőanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; Elzett-Certa Kereskedelmi Korlátolt Felelősségű Társaság; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "5000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13949_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 3,
-        "procurement_title": "Építőanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "7000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13949_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 2,
-        "procurement_title": "Építőanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "AKTÍV Ipari, Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság; FELNI GÉPIPARI ÉS KERESKEDELMI KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "20000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13949_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 3,
-        "procurement_title": "Építőanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "52000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13949_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 2,
-        "procurement_title": "Építőanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Bodrogi Bau Kivitelező, Tervező, Kereskedő és Szolgáltató Korlátolt Felelősségű Társaság; FELNI GÉPIPARI ÉS KERESKEDELMI KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG; Gilux Hungary Korlátolt Felelősségű Társaság",
-        "contract_value": "54000000",
-        "contracting_authority": "IKV Ingatlankezelő és Vagyongazdálkodó Zártkörűen működő Részvénytársaság",
-        "date": "27/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13949_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 3,
-        "procurement_title": "Építőanyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "70315582",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_14105_2021/",
-        "main_cpv": "31000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Villanyszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "82741030",
-        "contracting_authority": "Budapesti Közlekedési Zártkörűen Működő Részvénytársaság",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_14105_2021/",
-        "main_cpv": "31000000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Villanyszerelési anyagok beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45520140",
-        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága, Győr-Moson-Sopron Megyei Büntetés-Végrehajtási Intézet, Sopronkőhidai Fegyház és Börtön, Veszprém Megyei Büntetés-Végrehajtási Intézet, Zala Megyei Büntetés-Végrehajtási Intézet",
-        "date": "02/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15906_2021/",
-        "main_cpv": "39830000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Tisztítószerek a NYMo. bv. intézetek részére",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19584938",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "10/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17401_2021/",
-        "main_cpv": "44000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartási anyagok beszerzése 2021",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19908622",
-        "contracting_authority": "Budapesti Gazdasági Egyetem",
-        "date": "10/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17401_2021/",
-        "main_cpv": "44000000-0",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartási anyagok beszerzése 2021",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "155440800",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "27/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_20865_2021/",
-        "main_cpv": "31200000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Hőközponti munkákhoz szükséges elektromos anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "339559200",
-        "contracting_authority": "BKM Budapesti Közművek Nonprofit Zártkörűen Működő Részvénytársaság",
-        "date": "27/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_20865_2021/",
-        "main_cpv": "31200000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Hőközponti munkákhoz szükséges elektromos anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8283870",
-        "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24175_2021/",
-        "main_cpv": "39830000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Takarítási eszközök beszerzése",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "2424483",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "14/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24956_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartó anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "7960974",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "14/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24956_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartó anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "8634982",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "14/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24956_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartó anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13361853",
-        "contracting_authority": "Budapesti Fegyház és Börtön",
-        "date": "14/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24956_2021/",
-        "main_cpv": "44100000-1",
-        "number_companies_win": 0,
-        "procurement_title": "Karbantartó anyagok",
-        "registered_name": "Gilux Hungary Korlátolt Felelősségű Társaság"
+        "registered_name": "Gilux Hungary Kft."
     }
 ]

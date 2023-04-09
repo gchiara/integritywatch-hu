@@ -1,46 +1,35 @@
 [
     {
-        "company_names": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Korlátolt Felelősségű Társaság; Magyar Bányászati és Földtani Szolgálat",
-        "contract_value": "38450000",
+        "company_names": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Kft.; Magyar Bányászati és Földtani Szolgálat",
+        "contract_value": 38450000.0,
         "contracting_authority": "Borsod-Abaúj-Zemplén Megyei Önkormányzat",
         "date": "04/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_19644_2017/",
         "main_cpv": "90713000-8",
         "number_companies_win": 2,
         "procurement_title": "Önkormányzati épületek korszerűsítése - Borsod-Abaúj-Zemplén megyében megtalálható, LEADER Helyi Akciócsoportok részére Fenntartható Energia és Klíma Akcióterv (SECAP) kidolgozása, valamint a SECAP-ok összefogása",
-        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Korlátolt Felelősségű Társaság"
+        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "112527135,04",
+        "contract_value": 112527135.04,
         "contracting_authority": "Aggteleki Nemzeti Park Igazgatóság",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9061_2018/",
         "main_cpv": "98300000-6",
         "number_companies_win": 0,
         "procurement_title": "Természetvédelmi felmérések, vizsgálatok és mérések elvégzése",
-        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Korlátolt Felelősségű Társaság"
+        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "117337000",
+        "contract_value": 117337000.0,
         "contracting_authority": "Miskolci Egyetem",
         "date": "18/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2087_2020/",
         "main_cpv": "90733600-0",
         "number_companies_win": 0,
         "procurement_title": "Az ukrajnai Solotvinói sóbánya komplex felmérése",
-        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "110123376",
-        "contracting_authority": "Miskolci Egyetem",
-        "date": "29/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20485_2021/",
-        "main_cpv": "90733400-8",
-        "number_companies_win": 0,
-        "procurement_title": "DIKEINSPECT projekt kutatási feladatainak ellátása",
-        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Korlátolt Felelősségű Társaság"
+        "registered_name": "GeoGold Kárpátia Környezetvédelmi és Mérnöki Szakértő Kft."
     }
 ]

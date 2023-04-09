@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "15501000",
+        "contract_value": 15501000.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "02/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18966_2017/",
         "main_cpv": "73421000-9",
         "number_companies_win": 0,
         "procurement_title": "Térfelügyeleti kamerarendszer bővítése",
-        "registered_name": "M.B.V. Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M.B.V. Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "21159938",
+        "contract_value": 21159938.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21093_2018/",
         "main_cpv": "73421000-9",
         "number_companies_win": 0,
         "procurement_title": "Térfelügyeleti kamerarendszer bővítése, fejlesztése",
-        "registered_name": "M.B.V. Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M.B.V. Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23541500",
+        "contract_value": 23541500.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "28/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9316_2019/",
         "main_cpv": "73421000-9",
         "number_companies_win": 0,
         "procurement_title": "Térfelügyeleti kamerarendszer bővítése - Haller Park",
-        "registered_name": "M.B.V. Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M.B.V. Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11760000",
+        "contract_value": 11760000.0,
         "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
         "date": "03/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23182_2019/",
         "main_cpv": "73421000-9",
         "number_companies_win": 0,
         "procurement_title": "Térfelügyeleti kamerarendszer bővítése - IX.ker.",
-        "registered_name": "M.B.V. Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21708642",
-        "contracting_authority": "Budapest Főváros XV. Kerület Rákospalota, Pestújhely, Újpalota Önkormányzata",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2425_2021/",
-        "main_cpv": "35125300-2",
-        "number_companies_win": 0,
-        "procurement_title": "Térfigyelő kamera rendszer fejlesztése",
-        "registered_name": "M.B.V. Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "M.B.V. Szolgáltató Kft."
     }
 ]

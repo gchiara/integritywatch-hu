@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "Cívis Hungast Korlátolt Felelősségű Társaság; Hungast Vital Korlátolt Felelősségű Társaság",
-        "contract_value": "7751039000",
+        "company_names": "Cívis Hungast Kft.; Hungast Vital Kft.",
+        "contract_value": 7751039000.0,
         "contracting_authority": "Debrecen Megyei Jogú Város Önkormányzata, Debreceni Intézményműködtető Központ",
         "date": "16/07/2018",
         "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_11702_2018/",
         "main_cpv": "55520000-1",
         "number_companies_win": 2,
         "procurement_title": "Intézményi és szünidei gyermekétkeztetés biztosítása Debrecen Megyei Jogú Város közigazgatási területén működő nevelési és közoktatási intézményekben",
-        "registered_name": "Cívis Hungast Korlátolt Felelősségű Társaság"
+        "registered_name": "Cívis Hungast Kft."
     }
 ]

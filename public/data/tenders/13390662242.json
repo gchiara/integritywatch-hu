@@ -1,79 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "15279000",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 15279000.0,
+        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft.",
         "date": "04/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7256_2018/",
         "main_cpv": "34110000-1",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek beszerzése bérleti szerződés keretében",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "24000000",
+        "contract_value": 24000000.0,
         "contracting_authority": "Fővárosi Önkormányzati Rendészeti Igazgatóság",
         "date": "20/09/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_16925_2018/",
         "main_cpv": "50112000-3",
         "number_companies_win": 0,
         "procurement_title": "Fővárosi Önkormányzati Rendészeti Igazgatóság gépjármű állományának karbantartása, javítása a kapcsolódó szolgáltatásokkal",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "18040000",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 18040000.0,
+        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft.",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6892_2019/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "4 db személygépjármű beszerzése",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "36849922",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 36849922.0,
+        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft.",
         "date": "29/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20319_2019/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek beszerzése",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft."
     },
     {
-        "company_names": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; RI-CAR Autójavító és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "26400000",
+        "company_names": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft.; RI-CAR Autójavító és Szolgáltató Kft.",
+        "contract_value": 26400000.0,
         "contracting_authority": "Fővárosi Önkormányzati Rendészeti Igazgatóság",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4050_2020/",
         "main_cpv": "50112000-3",
         "number_companies_win": 2,
         "procurement_title": "FÖRI gépjárműveinek javítása, karbantartása",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "13905150",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 13905150.0,
+        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft.",
         "date": "09/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5306_2020/",
         "main_cpv": "34100000-8",
         "number_companies_win": 0,
         "procurement_title": "Gépjárművek beszerzése bérleti szerződés keretében",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "17485000",
-        "contracting_authority": "Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "16/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10932_2021/",
-        "main_cpv": "34100000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Gépjármű beszerzés, bérleti szerződés - 2021",
-        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "AUTÓ-M3 Kereskedelmi és Szolgáltató Kft."
     }
 ]

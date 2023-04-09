@@ -1,24 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "689492762",
-        "contracting_authority": "K és V Nemzetközi Fuvarozó Korlátolt Felelősségű Társaság",
+        "contract_value": 689492762.0,
+        "contracting_authority": "K és V Nemzetközi Fuvarozó Kft.",
         "date": "20/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5957_2018/",
         "main_cpv": "45213220-1",
         "number_companies_win": 0,
         "procurement_title": "Raktárcsarnok bővítésének generál kivitelezése - építési beruházás",
-        "registered_name": "OMNION Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OMNION Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1285644890",
-        "contracting_authority": "Palace Garden Hotel Vendéglátó Korlátolt Felelősségű Társaság",
+        "contract_value": 1285644890.0,
+        "contracting_authority": "Palace Garden Hotel Vendéglátó Kft.",
         "date": "24/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2461_2020/",
         "main_cpv": "45212411-0",
         "number_companies_win": 0,
         "procurement_title": "Palace Garden Hotel kialakítása",
-        "registered_name": "OMNION Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "OMNION Kereskedelmi és Szolgáltató Kft."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "159094578",
+        "contract_value": 159094578.0,
         "contracting_authority": "Tiszaszentmárton Község Önkormányzata",
         "date": "22/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9154_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Orvosi szolgálati lakás építése",
-        "registered_name": "SOMA 96 Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság"
+        "registered_name": "SOMA 96 Kereskedelmi és Szolgáltató Kft."
     }
 ]

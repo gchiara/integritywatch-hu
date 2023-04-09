@@ -1,46 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "200603677",
-        "contracting_authority": "Szentlőrinci SZOLANUM Termelő,Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 200603677.0,
+        "contracting_authority": "Szentlőrinci SZOLANUM Termelő,Szolgáltató és Kereskedelmi Kft.",
         "date": "16/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18653_2018/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Szolanum Kft. telepének energetikai korszerűsítése",
-        "registered_name": "TANECO PLUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TANECO PLUS Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "663327658",
-        "contracting_authority": "Szentlőrinci SZOLANUM Termelő,Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 663327658.0,
+        "contracting_authority": "Szentlőrinci SZOLANUM Termelő,Szolgáltató és Kereskedelmi Kft.",
         "date": "03/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18867_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Sertéstelep felújítása",
-        "registered_name": "TANECO PLUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "ÖT-K Korlátolt Felelősségű Társaság; Szedibau Építőipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; TANECO PLUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Wolfbau Team Építőipari és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "1875000000",
-        "contracting_authority": "Vajszló Nagyközség Önkormányzat",
-        "date": "10/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10444_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 4,
-        "procurement_title": "Vajszló szennyvízelvezetés tervezés-kivitelezés II.",
-        "registered_name": "TANECO PLUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "54304549",
-        "contracting_authority": "Pécs Megyei Jogú Város Önkormányzata",
-        "date": "05/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15031_2021/",
-        "main_cpv": "45232450-1",
-        "number_companies_win": 0,
-        "procurement_title": "Városi környezetvédelmi infrastruktúra fejlesztések",
-        "registered_name": "TANECO PLUS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "TANECO PLUS Kereskedelmi és Szolgáltató Kft."
     }
 ]

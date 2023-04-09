@@ -1,68 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "50915617",
+        "contract_value": 50915617.0,
         "contracting_authority": "Hernád Nagyközség Önkormányzata",
         "date": "23/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8523_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Gyermekorvosi rendelő átalakítása és bővítése",
-        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "26478127",
+        "contract_value": 26478127.0,
         "contracting_authority": "Hernád Nagyközség Önkormányzata",
         "date": "12/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10649_2019/",
         "main_cpv": "45215100-8",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi Komplexum belső felújítása",
-        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "162243282",
+        "contract_value": 162243282.0,
         "contracting_authority": "Táborfalva Nagyközség Önkormányzata",
         "date": "05/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3911_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Bölcsőde építése Táborfalván 2.",
-        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5388000",
+        "contract_value": 5388000.0,
         "contracting_authority": "Hernád Nagyközség Önkormányzata",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13384_2020/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés megvalósítása Hernádon",
-        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48838500",
+        "contract_value": 48838500.0,
         "contracting_authority": "Hernád Nagyközség Önkormányzata",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13384_2020/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Energetikai korszerűsítés megvalósítása Hernádon",
-        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "149641510",
+        "contract_value": 149641510.0,
         "contracting_authority": "Táborfalva Nagyközség Önkormányzata",
         "date": "28/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13682_2020/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Orvosi szolgálati lakás építése Táborfalván",
-        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "SCHÖN-BAU Építőipari és Kereskedelmi Szolgáltató Kft."
     }
 ]

@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "645580000",
+        "contract_value": 645580000.0,
         "contracting_authority": "Hirschler László",
         "date": "08/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_14142_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Üvegmegmunkáló gyártósor beszerzése",
-        "registered_name": "PLC Szoftverfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PLC Szoftverfejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "15360000",
-        "contracting_authority": "HIRSCHLER-GLAS Termelési és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 15360000.0,
+        "contracting_authority": "HIRSCHLER-GLAS Termelési és Kereskedelmi Kft.",
         "date": "07/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22333_2018/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Üvegmegmunkáló gépek beszerzése",
-        "registered_name": "PLC Szoftverfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PLC Szoftverfejlesztő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "128125000",
-        "contracting_authority": "HIRSCHLER-GLAS Termelési és Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 128125000.0,
+        "contracting_authority": "HIRSCHLER-GLAS Termelési és Kereskedelmi Kft.",
         "date": "24/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1439_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Üvegmegmunkáló gépek beszerzése",
-        "registered_name": "PLC Szoftverfejlesztő Korlátolt Felelősségű Társaság"
+        "registered_name": "PLC Szoftverfejlesztő Kft."
     }
 ]

@@ -1,57 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "39284000",
-        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 39284000.0,
+        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Kft.",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6140_2018/",
         "main_cpv": "71355000-1",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII.31.) Korm. rendeletben foglalt földmérési munkák elvégzésére - V. ütem",
-        "registered_name": "Földmérő Korlátolt Felelősségü Társaság"
+        "registered_name": "Földmérő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54740000",
-        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 54740000.0,
+        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Kft.",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6140_2018/",
         "main_cpv": "71355000-1",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII.31.) Korm. rendeletben foglalt földmérési munkák elvégzésére - V. ütem",
-        "registered_name": "Földmérő Korlátolt Felelősségü Társaság"
+        "registered_name": "Földmérő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "54768000",
-        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 54768000.0,
+        "contracting_authority": "Nemzeti Kataszteri Program Nonprofit Kft.",
         "date": "26/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6140_2018/",
         "main_cpv": "71355000-1",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII.31.) Korm. rendeletben foglalt földmérési munkák elvégzésére - V. ütem",
-        "registered_name": "Földmérő Korlátolt Felelősségü Társaság"
+        "registered_name": "Földmérő Kft."
     },
     {
         "company_names": "",
-        "contract_value": "40050000",
+        "contract_value": 40050000.0,
         "contracting_authority": "Nemzeti Földügyi Központ",
         "date": "12/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21118_2019/",
         "main_cpv": "71355000-1",
         "number_companies_win": 0,
         "procurement_title": "A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII.31.) Korm. rendeletben foglalt földmérési munkák elvégzése - VI. ütem",
-        "registered_name": "Földmérő Korlátolt Felelősségü Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "59432000",
-        "contracting_authority": "Nemzeti Földügyi Központ",
-        "date": "14/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0093_2021/",
-        "main_cpv": "71355000-1",
-        "number_companies_win": 0,
-        "procurement_title": "A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII.31.) Korm. rendeletben foglalt földmérési munkák elvégzése Magyarország területén",
-        "registered_name": "Földmérő Korlátolt Felelősségü Társaság"
+        "registered_name": "Földmérő Kft."
     }
 ]

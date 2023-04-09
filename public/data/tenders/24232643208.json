@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "9600000000",
+        "contract_value": 9600000000.0,
         "contracting_authority": "Győr Nagytérségi Hulladékgazdálkodási Önkormányzati Társulás",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11975_2019/",
         "main_cpv": "90500000-2",
         "number_companies_win": 0,
         "procurement_title": "Hulladékgazdálkodási közszolgáltatás",
-        "registered_name": "GYHG Győri Hulladékgazdálkodási Nonprofit Korlátolt Felelősségű Társaság"
+        "registered_name": "GYHG Győri Hulladékgazdálkodási Nonprofit Kft."
     }
 ]

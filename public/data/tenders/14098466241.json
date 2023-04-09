@@ -1,79 +1,79 @@
 [
     {
         "company_names": "",
-        "contract_value": "98340000",
+        "contract_value": 98340000.0,
         "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
         "date": "05/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_17251_2018/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "Főnix rendszer továbbfejlesztése 2018",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1180800000",
+        "contract_value": 1180800000.0,
         "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
         "date": "17/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0631_2019/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "Főnix rendszer támogatás és jogszabálykövetés",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "93300000",
+        "contract_value": 93300000.0,
         "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
         "date": "21/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_11085_2019/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "Főnix fogvatartotti időrend 2019.",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "69600000",
+        "contract_value": 69600000.0,
         "contracting_authority": "Belügyminisztérium",
         "date": "27/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_15686_2019/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "ENYÜBS előállítását szolgáló BSR 24 havi szupportja",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "23000000",
+        "contract_value": 23000000.0,
         "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
         "date": "10/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1917_2020/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "BvOP KF és PME modul bővítése",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "716535433",
+        "contract_value": 716535433.0,
         "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
         "date": "15/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12314_2020/",
         "main_cpv": "72261000-2",
         "number_companies_win": 0,
         "procurement_title": "Főnix rendszer fejlesztése-2",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35433000",
+        "contract_value": 35433000.0,
         "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
         "date": "06/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19574_2020/",
         "main_cpv": "72262000-9",
         "number_companies_win": 0,
         "procurement_title": "FŐNIX rendszer - Egészségügyi adatok integrációja",
-        "registered_name": "Konasoft Project Tanácsadó Korlátolt Felelősségű Társaság"
+        "registered_name": "Konasoft Project Tanácsadó Kft."
     }
 ]

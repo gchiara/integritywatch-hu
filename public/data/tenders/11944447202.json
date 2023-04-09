@@ -1,46 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "20102000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 20102000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "21/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_6522_2018/",
         "main_cpv": "50500000-0",
         "number_companies_win": 0,
         "procurement_title": "Pécs város közigazgatási területén, a BIOKOM Nonprofit Kft. kezelésében lévő nyílt téri szökőkutak éves karbantartási, illetőleg üzemeltetési feladatainak ellátása",
-        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "199972907",
+        "contract_value": 199972907.0,
         "contracting_authority": "Bonyhád Város Önkormányzata",
         "date": "24/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19380_2018/",
         "main_cpv": "45310000-3",
         "number_companies_win": 0,
         "procurement_title": "Napelem park létesítése Bonyhádon.",
-        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "50000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 50000000.0,
+        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Kft.",
         "date": "31/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_8475_2019/",
         "main_cpv": "50500000-0, 50800000-3, 51100000-3",
         "number_companies_win": 0,
         "procurement_title": "Szökőkút karbantartása, üzemeltetése",
-        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "54000000",
-        "contracting_authority": "BIOKOM Pécsi Városüzemeltetési és Környezetgazdálkodási Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6235_2021/",
-        "main_cpv": "76460000-5",
-        "number_companies_win": 0,
-        "procurement_title": "Szökőkutak karbantartása, üzemeltetése",
-        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "T.M. HIDRO-SZER Kereskedelmi és Szolgáltató Kft."
     }
 ]

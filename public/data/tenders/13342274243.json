@@ -1,35 +1,24 @@
 [
     {
         "company_names": "",
-        "contract_value": "212506525",
+        "contract_value": 212506525.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "28/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7154_2020/",
         "main_cpv": "44611400-0",
         "number_companies_win": 0,
         "procurement_title": "Föld feletti üzemanyag-ellátó tároló konténerek",
-        "registered_name": "FLY4LESS Légiszolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLY4LESS Légiszolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "493732800",
-        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 493732800.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
         "date": "02/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_21618_2020/",
         "main_cpv": "60440000-4",
         "number_companies_win": 0,
         "procurement_title": "Helikopteres vezetékbejárás támogatása",
-        "registered_name": "FLY4LESS Légiszolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "11000000",
-        "contracting_authority": "Készenléti Rendőrség",
-        "date": "09/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14988_2021/",
-        "main_cpv": "79980000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Navigációs szoftverek beszerzése, adatbázisok frissítése",
-        "registered_name": "FLY4LESS Légiszolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "FLY4LESS Légiszolgáltató Kft."
     }
 ]

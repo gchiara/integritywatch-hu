@@ -1,68 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "400000000",
-        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság",
+        "contract_value": 400000000.0,
+        "contracting_authority": "HungaroControl Magyar Légiforgalmi Szolgálat Zrt.",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_2906_2018/",
         "main_cpv": "50000000-5",
         "number_companies_win": 0,
         "procurement_title": "A HungaroControl Zrt. budapesti és vidéki létesítményeiben, illetve a tulajdonában lévő, az általa vagyonkezelt vagy bérelt ingatlanokban végzendő gépészeti karbantartási munkák ellátása",
-        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "48777629",
+        "contract_value": 48777629.0,
         "contracting_authority": "Monori Tankerületi Központ",
         "date": "16/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21045_2018/",
         "main_cpv": "45262800-9",
         "number_companies_win": 0,
         "procurement_title": "Meglévő öltözőépület bővítése a monori József Attila Gimnázium és Közgazdasági Szakgimnáziumban",
-        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "426713089",
+        "contract_value": 426713089.0,
         "contracting_authority": "Üllő Város Önkormányzata",
         "date": "12/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2589_2019/",
         "main_cpv": "45214100-1",
         "number_companies_win": 0,
         "procurement_title": "Új 4 csoportos óvoda építése Üllőn",
-        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37700000",
+        "contract_value": 37700000.0,
         "contracting_authority": "Nemzeti Védelmi Szolgálat",
         "date": "30/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7606_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "VII/A. sz. épületben 1 db klímarendszer kivitelezése",
-        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Kft."
     },
     {
         "company_names": "",
-        "contract_value": "159726791",
+        "contract_value": 159726791.0,
         "contracting_authority": "Üllő Város Önkormányzata",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6285_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "2 csoportos bölcsőde építése Üllőn",
-        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "58737854",
-        "contracting_authority": "Vecsés Város Német Nemzetiségi Önkormányzata",
-        "date": "17/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11408_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Általános Iskola fűtéskorszerűsítése",
-        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Korlátolt Felelősségű Társaság"
+        "registered_name": "THERMIK PLUS Müszaki, Kereskedelmi és Generál Kivitelező Kft."
     }
 ]

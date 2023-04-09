@@ -1,101 +1,90 @@
 [
     {
         "company_names": "",
-        "contract_value": "66472502",
+        "contract_value": 66472502.0,
         "contracting_authority": "Bugac Nagyközségi Önkormányzat",
         "date": "26/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_3110_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "A Bugaci Öreg Csárda megmentése funkcióbővítéssel a kultúrának és a hagyományoknak",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "74823725",
+        "contract_value": 74823725.0,
         "contracting_authority": "Bugac Nagyközségi Önkormányzat",
         "date": "30/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_13107_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Összevont egészségügyi szolgáltató központ építése",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "34244744",
+        "contract_value": 34244744.0,
         "contracting_authority": "Pálmonostora Község Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24465_2018/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42495874",
+        "contract_value": 42495874.0,
         "contracting_authority": "Pálmonostora Község Önkormányzata",
         "date": "02/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24465_2018/",
         "main_cpv": "45321000-3",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "38895257",
+        "contract_value": 38895257.0,
         "contracting_authority": "Pálmonostora Község Önkormányzata",
         "date": "24/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9312_2019/",
         "main_cpv": "45213140-6",
         "number_companies_win": 0,
         "procurement_title": "Piac infrastrukturális fejlesztése",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "6618230",
+        "contract_value": 6618230.0,
         "contracting_authority": "Pálmonostora Község Önkormányzata",
         "date": "16/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_17492_2019/",
         "main_cpv": "45442110-1",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek karbantartási munkái",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "51701856",
+        "contract_value": 51701856.0,
         "contracting_authority": "Bugac Nagyközségi Önkormányzat",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20969_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     },
     {
         "company_names": "",
-        "contract_value": "190955312",
+        "contract_value": 190955312.0,
         "contracting_authority": "Bugac Nagyközségi Önkormányzat",
         "date": "17/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20969_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "119499500",
-        "contracting_authority": "Kerka Vizimalom Egyesület",
-        "date": "07/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5533_2021/",
-        "main_cpv": "45212000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Andrássy-Szapáry vízimalom helyreállítása Kerkán",
-        "registered_name": "Bács-Ép-Generál Korlátolt Felelősségű Társaság"
+        "registered_name": "Bács-Ép-Generál Kft."
     }
 ]

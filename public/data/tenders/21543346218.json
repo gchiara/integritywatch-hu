@@ -1,46 +1,46 @@
 [
     {
         "company_names": "",
-        "contract_value": "37532535",
+        "contract_value": 37532535.0,
         "contracting_authority": "Kossics József Kétnyelvű Általános Iskola és Óvoda",
         "date": "15/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7720_2018/",
         "main_cpv": "45260000-7",
         "number_companies_win": 0,
         "procurement_title": "Kossics József Kétnyelvű Általános Iskola és Óvoda felújítása, tetőcseréje",
-        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "28375247",
+        "contract_value": 28375247.0,
         "contracting_authority": "Kühár Emlékház (Szlovén Tájház)",
         "date": "14/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_23025_2018/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Kühár Emlékház (Szlovén Tájház) felújítása",
-        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "30460236",
+        "contract_value": 30460236.0,
         "contracting_authority": "Kossics József Kétnyelvű Általános Iskola és Óvoda",
         "date": "27/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11895_2019/",
         "main_cpv": "45261400-8, 45310000-3, 45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Kossics József Általános Iskola - Különféle építések",
-        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Bt."
     },
     {
         "company_names": "",
-        "contract_value": "28098032",
+        "contract_value": 28098032.0,
         "contracting_authority": "Felsőszölnöki Plébánia",
         "date": "01/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11893_2019/",
         "main_cpv": "45453100-8",
         "number_companies_win": 0,
         "procurement_title": "Római Katolikus Templom részleges felújítása",
-        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Betéti Társaság"
+        "registered_name": "BRIAN & BRIAN Kereskedelmi és Szolgáltató Bt."
     }
 ]

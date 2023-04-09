@@ -1,13 +1,13 @@
 [
     {
-        "company_names": "ÁSATÁRS Kulturális, Régészeti Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; MERIDIÁN Mérnöki Iroda Korlátolt Felelősségű Társaság",
-        "contract_value": "290000000",
+        "company_names": "ÁSATÁRS Kulturális, Régészeti Szolgáltató és Kereskedelmi Kft.; MERIDIÁN Mérnöki Iroda Kft.",
+        "contract_value": 290000000.0,
         "contracting_authority": "Wosinsky Mór Megyei Múzeum",
         "date": "25/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_21833_2020/",
         "main_cpv": "45112200-7",
         "number_companies_win": 2,
         "procurement_title": "Régészeti bontómunka és kapcsolódó geodéziai feladatok",
-        "registered_name": "MERIDIÁN Mérnöki Iroda Korlátolt Felelősségű Társaság"
+        "registered_name": "MERIDIÁN Mérnöki Iroda Kft."
     }
 ]

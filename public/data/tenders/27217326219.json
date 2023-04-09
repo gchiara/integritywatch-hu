@@ -1,288 +1,123 @@
 [
     {
         "company_names": "",
-        "contract_value": "38216000",
+        "contract_value": 38216000.0,
         "contracting_authority": "Honvédelmi Minisztérium Védelemgazdasági Hivatal",
         "date": "05/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_919_2018/",
         "main_cpv": "60172000-4",
         "number_companies_win": 0,
         "procurement_title": "Személyszállítás autóbuszokkal 2018. évre",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "35000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "contract_value": 35000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "16/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1082_2018/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "A munkavégzéshez kapcsolódó személyszállítási tevékenység a Hajdúszoboszlói földgáztároló esetében",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "192000000",
+        "contract_value": 192000000.0,
         "contracting_authority": "Készenléti Rendőrség",
         "date": "11/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_7505_2018/",
         "main_cpv": "60112000-6",
         "number_companies_win": 0,
         "procurement_title": "Autóbuszos személyszállítási feladatok",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "762000",
+        "contract_value": 762000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5134_2020/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP- Utas szállítás felnőttképzési tanfolyamokhoz",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "1905000",
+        "contract_value": 1905000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5134_2020/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP- Utas szállítás felnőttképzési tanfolyamokhoz",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "2200000",
+        "contract_value": 2200000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5134_2020/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP- Utas szállítás felnőttképzési tanfolyamokhoz",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "3282000",
+        "contract_value": 3282000.0,
         "contracting_authority": "Szent István Egyetem",
         "date": "24/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5134_2020/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "EFOP- Utas szállítás felnőttképzési tanfolyamokhoz",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; KLOKI-TRANS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "50000000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
+        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Bt.; KLOKI-TRANS Kereskedelmi és Szolgáltató Kft.; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 50000000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
         "date": "07/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5440_2020/",
         "main_cpv": "60112000-6",
         "number_companies_win": 3,
         "procurement_title": "Személyszállítási szolgáltatás központi területeken",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "65000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
+        "contract_value": 65000000.0,
+        "contracting_authority": "Magyar Földgáztároló Zrt.",
         "date": "20/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_18342_2020/",
         "main_cpv": "60140000-1",
         "number_companies_win": 0,
         "procurement_title": "Személyszállítási tevékenység 3 évre-2020",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "39900000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 39900000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24167_2020/",
         "main_cpv": "60100000-9",
         "number_companies_win": 0,
         "procurement_title": "Budapest - Szolnok viszonylat",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     },
     {
         "company_names": "",
-        "contract_value": "51000000",
-        "contracting_authority": "MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság",
+        "contract_value": 51000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
         "date": "23/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24167_2020/",
         "main_cpv": "60100000-9",
         "number_companies_win": 0,
         "procurement_title": "Budapest - Szolnok viszonylat",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "19558000",
-        "contracting_authority": "AGRÁRMINISZTÉRIUM",
-        "date": "15/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0259_2021/",
-        "main_cpv": "60000000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Kecskemétre történő dolgozói személyszállítás-2021",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "60000000",
-        "contracting_authority": "Magyar Földgáztároló Zártkörűen Működő Részvénytársaság",
-        "date": "15/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_0139_2021/",
-        "main_cpv": "60130000-8",
-        "number_companies_win": 0,
-        "procurement_title": "Személyszállítási tevékenység 3 évre – 2020 II",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "322498000",
-        "contracting_authority": "Páty Község Önkormányzata",
-        "date": "06/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4955_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Helyi autóbuszos személyszállítás - Páty",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; \"GYUROK\" Személyszállító és Szolgátató Korlátolt Felelősségű Társaság; B Euro Car Korlátolt Felelősségű Társaság; EGALTRANS Személyszállító és Szolgáltató Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KLOKI-TRANS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Levissimo Kereskedelmi és Szolgáltató Kft.; MR REISEN Szállítmányozási és Kereskedelmi Korlátolt Felelősségű Társaság; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "253708000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7994_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; Adria Transport Korlátolt Felelősségű Társaság; B Euro Car Korlátolt Felelősségű Társaság; EGALTRANS Személyszállító és Szolgáltató Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; INTER TAN-KER Tanácsadó és Kereskedelmi Zártkörűen Működő Részvénytársaság; Levissimo Kereskedelmi és Szolgáltató Kft.; NEVOL BUSZ Kft.; SZALAI-BUSZ PLUSZ Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "289952000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7994_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; \"PANORÁMA TOURIST\" Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság; Atlasz Busz Szolgáltató Korlátolt Felelősségű Társaság; B Euro Car Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Levissimo Kereskedelmi és Szolgáltató Kft.; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SZALAI-BUSZ PLUSZ Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Zséder Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "543660000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7994_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; Atlasz Busz Szolgáltató Korlátolt Felelősségű Társaság; B Euro Car Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KLOKI-TRANS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Levissimo Kereskedelmi és Szolgáltató Kft.; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SZALAI-BUSZ PLUSZ Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; Zséder Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "724880000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "11/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7994_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; \"GARANCIA - SPED\" Kereskedelmi, Fuvarozó és Szolgáltató Korlátolt Felelősségű Társaság; ARMAMAXA Korlátolt Felelősségű Társaság; B Euro Car Korlátolt Felelősségű Társaság; CALIPPO Szállítmányozási Szolgáltató Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Levissimo Kereskedelmi és Szolgáltató Kft.; NEVOL BUSZ Kft.; Obusz Travel Szállítási és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "181220000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11135_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatás 2.",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; Adria Transport Korlátolt Felelősségű Társaság; ARMAMAXA Korlátolt Felelősségű Társaság; B Euro Car Korlátolt Felelősségű Társaság; CALIPPO Szállítmányozási Szolgáltató Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Levissimo Kereskedelmi és Szolgáltató Kft.; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Zséder Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "181220000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11135_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatás 2.",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; B Euro Car Korlátolt Felelősségű Társaság; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; KÉKESBUSZ Személyszállítási és Szolgáltató Korlátolt Felelősségű Társaság; KLOKI-TRANS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Levissimo Kereskedelmi és Szolgáltató Kft.; NEVOL BUSZ Kft.; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; SZALAI-BUSZ PLUSZ Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság",
-        "contract_value": "181220000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "22/06/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11135_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatás 2.",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "13880850",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19580_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45680256",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19580_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "52720000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19580_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "181220000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "02/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19587_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 0,
-        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások 2.",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
-    },
-    {
-        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Betéti Társaság; KLOKI-TRANS Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; PANNON-BUSZ-RENT Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "778000",
-        "contracting_authority": "VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság",
-        "date": "24/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19579_2021/",
-        "main_cpv": "60112000-6",
-        "number_companies_win": 3,
-        "procurement_title": "Személyszállítási szolgáltatás központi területeken",
-        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Betéti Társaság"
+        "registered_name": "BALATON-BUSZ Idegenforgalmi és Kereskedelmi Bt."
     }
 ]

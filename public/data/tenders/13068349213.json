@@ -1,90 +1,68 @@
 [
     {
         "company_names": "",
-        "contract_value": "26682333",
+        "contract_value": 26682333.0,
         "contracting_authority": "Gödöllő Város Önkormányzata",
         "date": "06/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9318_2018/",
         "main_cpv": "45112723-9",
         "number_companies_win": 0,
         "procurement_title": "A Gödöllő, Rönkvár játszótér felújítása, a Megrendelő által rendelkezésre bocsátott kiviteli tervdokumentáció alapján",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37342630",
+        "contract_value": 37342630.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "06/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9920_2019/",
         "main_cpv": "45111000-8",
         "number_companies_win": 0,
         "procurement_title": "Keveháza Utcai Óvoda játszóudvar felújítás II.ütem",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Kft."
     },
     {
-        "company_names": "KEREKERDŐ 1998 Kertészeti és Erdészeti Korlátolt Felelősségű Társaság; Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "495000000",
+        "company_names": "KEREKERDŐ 1998 Kertészeti és Erdészeti Kft.; Magyar kőris Kertészeti és Szolgáltató Kft.",
+        "contract_value": 495000000.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "30/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0717_2020/",
         "main_cpv": "90610000-6",
         "number_companies_win": 2,
         "procurement_title": "Járdatisztítási szolgáltatás 2019.",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "107566062",
+        "contract_value": 107566062.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "18/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_14875_2020/",
         "main_cpv": "45236290-9",
         "number_companies_win": 0,
         "procurement_title": "A Nyár Óvoda udvarának felújítása",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "53485562",
+        "contract_value": 53485562.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "05/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17450_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Park kialakítása a Pengő u. és Fillér u. sarkán",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "68815120",
+        "contract_value": 68815120.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "30/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19429_2020/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Vérhalom téri futókör és sportpálya felújítása",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Harmat Kert Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; ZÖLD KORONA GARDEN Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság",
-        "contract_value": "7500000000",
-        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
-        "date": "25/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15842_2021/",
-        "main_cpv": "77313000-7",
-        "number_companies_win": 3,
-        "procurement_title": "Parkok, zöldfelületek, közterületek és utak fenntartási, köztisztasági és karbantartási feladatainak ellátása Budapest Főváros II. kerület közigazgatási területén",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1098036270",
-        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
-        "date": "20/09/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17980_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Máriaremete Közösségi Liget kivitelezése",
-        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "Magyar kőris Kertészeti és Szolgáltató Kft."
     }
 ]

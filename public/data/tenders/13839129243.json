@@ -1,992 +1,783 @@
 [
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "149999884",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 149999884.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "05/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_959_2018/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "268503936",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 268503936.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "21/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_2337_2018/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "40500310",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 40500310.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "22/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2598_2018/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Budapest XI. kerület Somlói út (Szüret utca - Kelenhegyi út között) útfelújítási feladatainak ellátása tekintetében",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "65199380",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 65199380.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "22/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2595_2018/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Budapest XI. kerület Ménesi út (Szüret utca-Alsóhegy utca közötti szakasz) útfelújítási feladatainak ellátása tekintetében",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "85193820",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 85193820.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "22/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_2591_2018/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Budapest XI. kerület Fegyvernek utca szervizút és parkoló (Vegyész u.-Építész u. közötti szakasz) útfelújítási feladatainak ellátása tekintetében",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "167835000",
+        "contract_value": 167835000.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1995_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Kisfaludy utca építése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "218031122",
+        "contract_value": 218031122.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "23/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_1994_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Fodros utca építése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "159809820",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 159809820.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "18/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8219_2018/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Budapest XI. kerület, Eper utca (Törökbálinti út-Beregszász út közötti szakasz) és Gulyás utca útfelújítási feladatainak ellátása tekintetében",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "KOBOLD'2003 Növénytermesztő és Parképítő Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "588812847",
+        "company_names": "KOBOLD'2003 Növénytermesztő és Parképítő Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 588812847.0,
         "contracting_authority": "Nyíregyháza Megyei Jogú Város Önkormányzata",
         "date": "30/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_8956_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 2,
         "procurement_title": "Vállalkozási szerződés a nyíregyházi Bessenyei tér és Benczúr tér Green City elvekkel összhangban lévő építésére/kivitelezésére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "62570350",
+        "contract_value": 62570350.0,
         "contracting_authority": "Kistarcsa Város Önkormányzata",
         "date": "07/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_9043_2018/",
         "main_cpv": "45247112-8",
         "number_companies_win": 0,
         "procurement_title": "Kistarcsa, Rozmaring utca felszíni csapadékvíz elvezetési létesítmények kiépítése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "120470039",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 120470039.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "15/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_9427_2018/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "96993810",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 96993810.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "19/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_12115_2018/",
         "main_cpv": "45233251-3",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés a Budapest XI. kerület, Igmándi utca felújítási munkálatai tekintetében",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "127400844",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 127400844.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "15/08/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_12737_2018/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "200000000",
+        "contract_value": 200000000.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "02/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_17541_2018/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Budapest Főváros II. Kerületi Önkormányzat közigazgatási területén belül elhelyezkedő önkormányzati kezelésben lévő úthálózat kijelölt szakaszain útépítési és -felújítási munkák elvégzése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "120118063",
+        "contract_value": 120118063.0,
         "contracting_authority": "Budapest Főváros VII. Ker. Erzsébetváros Önkormányzata",
         "date": "18/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18033_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Budapest, VII. kerület, Jobbágy utca felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "236270641",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 236270641.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "19/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18390_2018/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Keretmegállapodás keretében városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "105398245",
+        "contract_value": 105398245.0,
         "contracting_authority": "Pomáz Város Önkormányzata",
         "date": "14/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_19859_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Rákóczi F. és Mátyás k. utca csapadékvíz elvezetés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "40007106",
+        "contract_value": 40007106.0,
         "contracting_authority": "Kistarcsa Város Önkormányzata",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20746_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útépítési feladatok ellátása Raktár krt Móra F. u.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "75947723",
+        "contract_value": 75947723.0,
         "contracting_authority": "Kistarcsa Város Önkormányzata",
         "date": "19/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20746_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Útépítési feladatok ellátása Raktár krt Móra F. u.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "4448033",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 4448033.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "20/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_20892_2018/",
         "main_cpv": "45213316-1",
         "number_companies_win": 0,
         "procurement_title": "Eper utca járdaépítés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "82957322",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 82957322.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "05/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22369_2018/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Kondorosi út felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "108205027",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
+        "company_names": "PENTA Általános Építőipari Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 108205027.0,
+        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zrt.",
         "date": "14/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_504_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Budapest Főváros XIV. Kerület Zugló Önkormányzata kezelésébe tartozó úthálózat és járdahálózat karbantartási és fenntartási munkái",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "25116541",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 25116541.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "25/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_857_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "34901913",
+        "contract_value": 34901913.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1293_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Puskás Tivadar utca és Hársfa utca felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "56823470",
+        "contract_value": 56823470.0,
         "contracting_authority": "Szentendre Város Önkormányzat",
         "date": "07/02/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2243_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Erdélyi, Avar, Kun, Botond, Előd utcák burkolatfelújítása, szegélyezése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "48699972",
+        "contract_value": 48699972.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "26/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4651_2019/",
         "main_cpv": "45221119-9",
         "number_companies_win": 0,
         "procurement_title": "Klebelsberg gyalogoshíd felújítása-2018",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "62473138",
+        "contract_value": 62473138.0,
         "contracting_authority": "Perbál Község Önkormányzata",
         "date": "27/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_4034_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Ipari park - építési munkák kivitelezése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "\"SZIGET-SZILÁRD\" Út- és Közműépítő Ipari és Szolgáltató Kft; TRIAUT Műszaki Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1700000000",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "company_names": "\"SZIGET-SZILÁRD\" Út- és Közműépítő Ipari és Szolgáltató Kft; TRIAUT Műszaki Kereskedelmi és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 1700000000.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5117_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 3,
         "procurement_title": "Útépítés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "113006718",
+        "contract_value": 113006718.0,
         "contracting_authority": "Nyáregyháza Nagyközség Önkormányzata",
         "date": "29/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6126_2019/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Lázár út szilárd burkolattal történő kiépítése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "13512086",
+        "contract_value": 13512086.0,
         "contracting_authority": "Nyáregyháza Nagyközség Önkormányzata",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7445_2019/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpáros közlekedésfejlesztés Nyáregyházán 2.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "70343448",
+        "contract_value": 70343448.0,
         "contracting_authority": "Nyáregyháza Nagyközség Önkormányzata",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7445_2019/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpáros közlekedésfejlesztés Nyáregyházán 2.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "143144359",
+        "contract_value": 143144359.0,
         "contracting_authority": "Nyáregyháza Nagyközség Önkormányzata",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7445_2019/",
         "main_cpv": "45233220-7",
         "number_companies_win": 0,
         "procurement_title": "Kerékpáros közlekedésfejlesztés Nyáregyházán 2.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "364733955",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 364733955.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "02/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6433_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "100413862",
+        "contract_value": 100413862.0,
         "contracting_authority": "Budapest Főváros VII. Ker. Erzsébetváros Önkormányzata",
         "date": "07/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7297_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "A Csengery utca Király utca – Dob utca közötti szakaszának felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "74984220",
+        "contract_value": 74984220.0,
         "contracting_authority": "Perbál Község Önkormányzata",
         "date": "08/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7805_2019/",
         "main_cpv": "45233251-3",
         "number_companies_win": 0,
         "procurement_title": "Szabadság utca felújítása Perbálon",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1000000000",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
+        "company_names": "PENTA Általános Építőipari Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 1000000000.0,
+        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zrt.",
         "date": "08/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7948_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 2,
         "procurement_title": "Budapest Főváros XIV. Kerület Zugló Önkormányzata kezelésébe tartozó úthálózat és járdahálózat karbantartási és fenntartási munkái",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "VÁRÉPKER Építőipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "490980949",
+        "company_names": "VÁRÉPKER Építőipari, Kereskedelmi és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 490980949.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "09/05/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7342_2019/",
         "main_cpv": "45213311-6",
         "number_companies_win": 2,
         "procurement_title": "Autóbusz végállomás átépítése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "210358981",
+        "contract_value": 210358981.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "12/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9758_2019/",
         "main_cpv": "45233128-2",
         "number_companies_win": 0,
         "procurement_title": "Ördögárok Nagyrét utcánál körforgalom építés 2018.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "95154710",
+        "contract_value": 95154710.0,
         "contracting_authority": "Délegyháza Község Önkormányzata",
         "date": "13/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10549_2019/",
         "main_cpv": "45233142-6",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás Délegyházi közutak felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "118879329",
+        "contract_value": 118879329.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "09/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10852_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Földutak szilárd burkolattal történő ellátása - 2019",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "25501860",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25501860.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13212_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Útépítési munkák ellátása a Budapest Főváros XVIII. kerület Pestszentlőrinc-Pestszentimre Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "164761585",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 164761585.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "17/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13217_2019/",
         "main_cpv": "45233141-9",
         "number_companies_win": 0,
         "procurement_title": "Bertalan-Lágymányosi felújítás II.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "919602877",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 919602877.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "31/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_13342_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "242999999",
+        "contract_value": 242999999.0,
         "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
         "date": "26/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15889_2019/",
         "main_cpv": "45233128-2",
         "number_companies_win": 0,
         "procurement_title": "Marczibányi téri körforgalmak építése 2019.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "12800000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12800000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18000_2019/",
         "main_cpv": "45233140-2",
         "number_companies_win": 0,
         "procurement_title": "IV. ker Árpád út és XIII. ker Váci út felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "25400000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 25400000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "26/09/2019",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18001_2019/",
         "main_cpv": "45233140-2",
         "number_companies_win": 0,
         "procurement_title": "IV. ker Árpád út felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1482799149",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 1482799149.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "07/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18754_2019/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "137613542",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 137613542.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "14/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19708_2019/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Útépítés-vízelvezetés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "44951408",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 44951408.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20114_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Útépítési munkák ellátása a Budapest Főváros XVIII. kerület Pestszentlőrinc-Pestszentimre Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "114916179",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 114916179.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20114_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Útépítési munkák ellátása a Budapest Főváros XVIII. kerület Pestszentlőrinc-Pestszentimre Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "177034025",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 177034025.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "21/10/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20114_2019/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Útépítési munkák ellátása a Budapest Főváros XVIII. kerület Pestszentlőrinc-Pestszentimre Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "204161406",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 204161406.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "04/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23219_2019/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Madárhegy – közműkiváltás",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "224409778",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 224409778.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "04/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23216_2019/",
         "main_cpv": "45316110-9",
         "number_companies_win": 0,
         "procurement_title": "Madárhegy – Közvilágításfejlesztés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "94415435",
+        "contract_value": 94415435.0,
         "contracting_authority": "Kistarcsa Város Önkormányzata",
         "date": "18/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24317_2019/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Csapadékvíz-elvezetés létesítményének kiépítése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "66847911",
-        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zártkörűen Működő Részvénytársaság",
+        "contract_value": 66847911.0,
+        "contracting_authority": "Budapest Főváros XVIII. Kerület Pestszentlőrinc-Pestszentimre Önkormányzata, Városrehabilitáció18 Nonprofit Zrt.",
         "date": "23/01/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0708_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Útépítési munkák ellátása a Budapest Főváros XVIII. kerület Pestszentlőrinc-Pestszentimre Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "980896",
+        "contract_value": 980896.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2435_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadék- és szennyvíz elvezetési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "2350921",
+        "contract_value": 2350921.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2435_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadék- és szennyvíz elvezetési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "5146626",
+        "contract_value": 5146626.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2435_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadék- és szennyvíz elvezetési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "9477540",
+        "contract_value": 9477540.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2435_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadék- és szennyvíz elvezetési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "26838444",
+        "contract_value": 26838444.0,
         "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
         "date": "13/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2435_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Felszíni csapadék- és szennyvíz elvezetési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "18743093407",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 18743093407.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "14/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2180_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "19685013",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 19685013.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "21/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2748_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Városüzemeltetési feladatokhoz kapcsolódó parkfenntartási, felújítási, fejlesztési munkálatok elvégzése Újbuda Önkormányzata részére",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "29658143",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 29658143.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "28/02/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_3507_2020/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Keltike-Hosszúréti útépítés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 100000000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "03/04/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4615_2020/",
         "main_cpv": "45233223-8",
         "number_companies_win": 0,
         "procurement_title": "Nagyfelületű aszfalt bevonatok kiépítése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "299950000",
+        "contract_value": 299950000.0,
         "contracting_authority": "Budapest Főváros IV.Kerület Újpest Önkormányzata",
         "date": "06/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7589_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Útépítési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "98999400",
+        "contract_value": 98999400.0,
         "contracting_authority": "Budaörs Város Önkormányzata",
         "date": "11/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10029_2020/",
         "main_cpv": "45231300-8",
         "number_companies_win": 0,
         "procurement_title": "Hajnal utca felújítása és csatorna rekonstrukció",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "220472441",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 220472441.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "24/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12821_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Parkfenntartás - 2020. II. negyedév",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "330708662",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 330708662.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "17/08/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_12814_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "40995141",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
+        "contract_value": 40995141.0,
+        "contracting_authority": "Budapest Közút Zrt.",
         "date": "14/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_15755_2020/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Budapest XVII. Bakter utca felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
         "company_names": "",
-        "contract_value": "32801322",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 32801322.0,
+        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Kft.",
         "date": "15/09/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_16752_2020/",
         "main_cpv": "45233228-3",
         "number_companies_win": 0,
         "procurement_title": "Közterületi utak felújításai munkái Újbudán",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     },
     {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "359842509",
+        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Kft.; Parkfenntartó- Kertészeti és Szolgáltató Kft.; VIANOVA 87 Közmű és Útépítő Zrt.",
+        "contract_value": 359842509.0,
         "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
         "date": "28/10/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19105_2020/",
         "main_cpv": "77310000-6",
         "number_companies_win": 3,
         "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "136533889",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
-        "date": "28/01/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1267_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 0,
-        "procurement_title": "Budapest XIX. Derkovits utca felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "129133842",
-        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
-        "date": "12/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0345_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 3,
-        "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "61531200",
-        "contracting_authority": "Göd Város Önkormányzata",
-        "date": "18/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4467_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Göd, Komlókert és Kóczán Mór utca útfelújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "44602808",
-        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
-        "date": "23/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4911_2021/",
-        "main_cpv": "45233228-3",
-        "number_companies_win": 0,
-        "procurement_title": "Földutak szilárd burkolása és közvilágítás fejlesztése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "280000000",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
-        "date": "12/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6057_2021/",
-        "main_cpv": "45233140-2",
-        "number_companies_win": 0,
-        "procurement_title": "Nagyfelületű útfelújítási munkálatok",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "125217299",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "16/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5911_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Budapest Főváros XIV. kerület Önkormányzata tulajdonában, fenntartásában, illetve kezelésében lévő különféle építmények építési, illetve építési jellegű felújítási és fenntartási munkáinak ellátása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "396456693",
-        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
-        "date": "26/04/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5870_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 3,
-        "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1600000000",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "07/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7787_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Építmény fenntartás, építési, felújítási munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "151995856",
-        "contracting_authority": "Nagykovácsi Nagyközség Önkormányzata",
-        "date": "18/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9047_2021/",
-        "main_cpv": "45233162-2",
-        "number_companies_win": 0,
-        "procurement_title": "Kerékpárút létesítése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "864169995",
-        "contracting_authority": "Budapest Főváros IX. Kerület Ferencváros Önkormányzata",
-        "date": "09/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13080_2021/",
-        "main_cpv": "45200000-9",
-        "number_companies_win": 2,
-        "procurement_title": "Bakáts tér és Bakáts u. felszíni térrendezés I.ütem",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "342000000",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "13/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12717_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Építmény fenntartás, építési, felújítási munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "148818894",
-        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12869_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 3,
-        "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "GARDEN-SYSTEM Kertépítő és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "7500000000",
-        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
-        "date": "28/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13815_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 2,
-        "procurement_title": "Mélyépítés/parképítés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "199469445",
-        "contracting_authority": "Budapest Közút Zártkörűen Működő Részvénytársaság",
-        "date": "11/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_15077_2021/",
-        "main_cpv": "45221250-9",
-        "number_companies_win": 0,
-        "procurement_title": "Budapest II. Bimbó út felújítása",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "495738032",
-        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zrt., Budapest Főváros VI. Kerület Terézváros Önkormányzata",
-        "date": "25/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16373_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Bp. VI. kerület Jókai tér komplex megújítása II.",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PENTA Általános Építőipari Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "293893713",
-        "contracting_authority": "Zuglói Városgazdálkodási Közszolgáltató Zártkörűen Működő Részvénytársaság",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19373_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 2,
-        "procurement_title": "Építmény fenntartás, építési, felújítási munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "PANNON PARK FOREST Parkfenntartó és Parképítő Korlátolt Felelősségű Társaság; Parkfenntartó- Kertészeti és Szolgáltató Korlátolt Felelősségű Társaság; VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság",
-        "contract_value": "441455609",
-        "contracting_authority": "Budapest Főváros XI. Kerület Újbuda Önkormányzata",
-        "date": "15/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19395_2021/",
-        "main_cpv": "77310000-6",
-        "number_companies_win": 3,
-        "procurement_title": "Parkfenntartási, felújítási, fejlesztési munkák",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "185748765",
-        "contracting_authority": "Budaörs Város Önkormányzata",
-        "date": "19/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19658_2021/",
-        "main_cpv": "45233128-2",
-        "number_companies_win": 0,
-        "procurement_title": "Csata-Garibaldi-Kereskedők utca körforgalom építése",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "142660708",
-        "contracting_authority": "Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "21/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25106_2021/",
-        "main_cpv": "45000000-7",
-        "number_companies_win": 0,
-        "procurement_title": "Madárhegy közműépítés",
-        "registered_name": "VIANOVA 87 Közmű és Útépítő Zártkörűen Működő Részvénytársaság"
+        "registered_name": "VIANOVA 87 Közmű és Útépítő Zrt."
     }
 ]

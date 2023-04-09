@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "142569170",
+        "contract_value": 142569170.0,
         "contracting_authority": "Péter Mihály Zoltán",
         "date": "18/04/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_5811_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "4080 m2 alapterületű üvegház építése",
-        "registered_name": "Holland Hungarian Greenhouses Korlátolt Felelősségű Társaság"
+        "registered_name": "Holland Hungarian Greenhouses Kft."
     },
     {
         "company_names": "",
-        "contract_value": "242011418",
+        "contract_value": 242011418.0,
         "contracting_authority": "Styecz György Zoltán",
         "date": "17/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7755_2018/",
         "main_cpv": "45223210-1",
         "number_companies_win": 0,
         "procurement_title": "új üvegház teljes körű kivitelezése fotovoltaikus rendszerrel",
-        "registered_name": "Holland Hungarian Greenhouses Korlátolt Felelősségű Társaság"
+        "registered_name": "Holland Hungarian Greenhouses Kft."
     },
     {
         "company_names": "",
-        "contract_value": "931461018",
+        "contract_value": 931461018.0,
         "contracting_authority": "Majsai Balázs",
         "date": "11/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_21678_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Vállalkozási szerződés keretében üvegház építésére",
-        "registered_name": "Holland Hungarian Greenhouses Korlátolt Felelősségű Társaság"
+        "registered_name": "Holland Hungarian Greenhouses Kft."
     },
     {
         "company_names": "",
-        "contract_value": "961500000",
+        "contract_value": 961500000.0,
         "contracting_authority": "Csizmadiáné Majsai Szilvia",
         "date": "12/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6434_2019/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Üvegház építés",
-        "registered_name": "Holland Hungarian Greenhouses Korlátolt Felelősségű Társaság"
+        "registered_name": "Holland Hungarian Greenhouses Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1156032685",
+        "contract_value": 1156032685.0,
         "contracting_authority": "Nemes-Nagy János",
         "date": "02/09/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16321_2019/",
         "main_cpv": "45213240-7",
         "number_companies_win": 0,
         "procurement_title": "Üvegház építés",
-        "registered_name": "Holland Hungarian Greenhouses Korlátolt Felelősségű Társaság"
+        "registered_name": "Holland Hungarian Greenhouses Kft."
     }
 ]

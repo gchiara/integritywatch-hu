@@ -1,200 +1,178 @@
 [
     {
         "company_names": "",
-        "contract_value": "20183920",
+        "contract_value": 20183920.0,
         "contracting_authority": "Nemzetbiztonsági Szakszolgálat",
         "date": "03/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18053_2017/",
         "main_cpv": "30125100-2",
         "number_companies_win": 0,
         "procurement_title": "Tintapatron, toner beszerzés 2017.",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5956960",
+        "contract_value": 5956960.0,
         "contracting_authority": "Széchenyi István Egyetem",
         "date": "16/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_19208_2017/",
         "main_cpv": "30200000-1",
         "number_companies_win": 0,
         "procurement_title": "Adásvételi szerződés informatikai eszközök beszerzésére a Széchényi István Egyetemen (7 részterület)",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "39000000",
+        "contract_value": 39000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21146_2018/",
         "main_cpv": "30236200-4",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "81000000",
+        "contract_value": 81000000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "21/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_21146_2018/",
         "main_cpv": "30236200-4",
         "number_companies_win": 0,
         "procurement_title": "Eszközbeszerzés a Szegedi Tudományegyetem részére",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
-        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Korlátolt Felelősségű Társaság; Atlantis Rendszerház Korlátolt Felelősségű Társaság; EURO-PROFIL RENDSZERHÁZ Korlátolt Felelősségű Társaság; I-COM IRODAELLÁTÁS Kereskedelmi Korlátolt Felelősségű Társaság; KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság; ManOPen Irodatechnikai Korlátolt Felelősségű Társaság; PRINT SISTERS Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság; SLIMLOGIC Korlátolt Felelősségű Társaság; XCOPY Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1500000000",
+        "company_names": "AP-OFFICE Kereskedelmi és Tanácsadó Kft.; Atlantis Rendszerház Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; I-COM IRODAELLÁTÁS Kereskedelmi Kft.; KVINT-R Irodatechnikai és 3D Nyomtatási Kft.; ManOPen Irodatechnikai Kft.; PRINT SISTERS Szolgáltató és Kereskedelmi Kft.; PROFIL-COPY 2002 Irodatechnikai Szolgáltató és Kereskedelmi Kft.; SLIMLOGIC Kft.; XCOPY Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1500000000.0,
         "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
         "date": "11/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_76_2019/",
         "main_cpv": "30232100-5",
         "number_companies_win": 10,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "10800000",
+        "contract_value": 10800000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10653_2019/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "Rehabilitációs diagnosztikai eszközök beszerzése",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "17950000",
+        "contract_value": 17950000.0,
         "contracting_authority": "Debreceni Egyetem",
         "date": "20/06/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10653_2019/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "Rehabilitációs diagnosztikai eszközök beszerzése",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "539000",
+        "contract_value": 539000.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15155_2019/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatáshoz eszközök",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "909900",
+        "contract_value": 909900.0,
         "contracting_authority": "Szegedi Tudományegyetem",
         "date": "10/08/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15155_2019/",
         "main_cpv": "42962000-7",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatáshoz eszközök",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "100000000",
-        "contracting_authority": "EBK-Hungary Mérnöki, Termelő, Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 100000000.0,
+        "contracting_authority": "EBK-Hungary Mérnöki, Termelő, Kereskedelmi Kft.",
         "date": "06/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21088_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatók, tartozékai és kapcsolódó szoftverek",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "375000000",
-        "contracting_authority": "EBK-Hungary Mérnöki, Termelő, Kereskedelmi Korlátolt Felelősségű Társaság",
+        "contract_value": 375000000.0,
+        "contracting_authority": "EBK-Hungary Mérnöki, Termelő, Kereskedelmi Kft.",
         "date": "06/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21088_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatók, tartozékai és kapcsolódó szoftverek",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12000000",
-        "contracting_authority": "GUZMY CENTRAL EU Korlátolt Felelősségű Társaság",
+        "contract_value": 12000000.0,
+        "contracting_authority": "GUZMY CENTRAL EU Kft.",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22916_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatók, festőberendezés és szoftvereik",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "375000000",
-        "contracting_authority": "GUZMY CENTRAL EU Korlátolt Felelősségű Társaság",
+        "contract_value": 375000000.0,
+        "contracting_authority": "GUZMY CENTRAL EU Kft.",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22916_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatók, festőberendezés és szoftvereik",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "404980000",
-        "contracting_authority": "Molino Plastic Korlátolt Felelősségű Társaság",
+        "contract_value": 404980000.0,
+        "contracting_authority": "Molino Plastic Kft.",
         "date": "07/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23307_2019/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "3D nyomtatók, tartozékai és kapcsolódó szoftverek",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "45866314",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
+        "contract_value": 45866314.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
         "date": "11/11/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19491_2020/",
         "main_cpv": "30125000-1",
         "number_companies_win": 0,
         "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     },
     {
         "company_names": "",
-        "contract_value": "12749676",
-        "contracting_authority": "MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság",
+        "contract_value": 12749676.0,
+        "contracting_authority": "MÁV Szolgáltató Központ Zrt.",
         "date": "31/12/2020",
         "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24369_2020/",
         "main_cpv": "30125000-1",
         "number_companies_win": 0,
         "procurement_title": "Nyomtatási kellékanyagok szállítása",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9788214",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "25/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2724_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 0,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "9738394",
-        "contracting_authority": "Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság",
-        "date": "14/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_11826_2021/",
-        "main_cpv": "30232100-5",
-        "number_companies_win": 0,
-        "procurement_title": "Nyomat előállító eszközök szállítása és kapcsolódó szolgáltatások teljesítése.",
-        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Korlátolt Felelősségű Társaság"
+        "registered_name": "KVINT-R Irodatechnikai és 3D Nyomtatási Kft."
     }
 ]

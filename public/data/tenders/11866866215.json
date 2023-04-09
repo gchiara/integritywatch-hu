@@ -1,57 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "172292000",
+        "contract_value": 172292000.0,
         "contracting_authority": "Demeter Balázs Tamás",
         "date": "29/01/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_434/megtekint/portal_18770_2017/",
         "main_cpv": "42000000-6",
         "number_companies_win": 0,
         "procurement_title": "Demeter Pálinka Manufaktúra technológiai korszerűsítéséhez kapcsolódó eszközbeszerzés",
-        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "165053682",
+        "contract_value": 165053682.0,
         "contracting_authority": "Berencsi Petra Erzsébet Családi Gazdálkodó",
         "date": "06/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10142_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "5000 tonna kapacitású terménytároló építése Ibrány város külterületén",
-        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "526843579",
+        "contract_value": 526843579.0,
         "contracting_authority": "Tisza Attila Pál",
         "date": "08/10/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_18052_2018/",
         "main_cpv": "45210000-2",
         "number_companies_win": 0,
         "procurement_title": "Baromfitartó telep korszerűsítése",
-        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "134644978",
+        "contract_value": 134644978.0,
         "contracting_authority": "Gégény Zoltánné",
         "date": "04/01/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22228_2018/",
         "main_cpv": "45213241-4",
         "number_companies_win": 0,
         "procurement_title": "Építési beruházás",
-        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Kft."
     },
     {
         "company_names": "",
-        "contract_value": "1216731322",
+        "contract_value": 1216731322.0,
         "contracting_authority": "Demeter Balázs Tamás",
         "date": "09/07/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_11235_2020/",
         "main_cpv": "45223000-6",
         "number_companies_win": 0,
         "procurement_title": "Kacsatartó telep fejlesztése",
-        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Korlátolt Felelősségű Társaság"
+        "registered_name": "KULCSÁR-FÉM Ipari és Kereskedelmi Kft."
     }
 ]

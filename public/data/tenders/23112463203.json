@@ -1,13 +1,13 @@
 [
     {
         "company_names": "",
-        "contract_value": "214063379",
+        "contract_value": 214063379.0,
         "contracting_authority": "Trsztyinszki Béla",
         "date": "29/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_11044_2018/",
         "main_cpv": "45200000-9",
         "number_companies_win": 0,
         "procurement_title": "Fóliaház kialakítása",
-        "registered_name": "Architect Line Studio Korlátolt Felelősségű Társaság"
+        "registered_name": "Architect Line Studio Kft."
     }
 ]

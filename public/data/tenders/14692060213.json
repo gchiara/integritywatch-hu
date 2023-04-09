@@ -1,387 +1,200 @@
 [
     {
-        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság",
-        "contract_value": "300000000",
+        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zrt.; Mediwings Pharma Kft.",
+        "contract_value": 300000000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "02/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_6866_2018/",
         "main_cpv": "33600000-6",
         "number_companies_win": 2,
         "procurement_title": "Semmelweis Egyetem egyedi import kiegészítő gyógyszerbeszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
         "company_names": "",
-        "contract_value": "37603125",
+        "contract_value": 37603125.0,
         "contracting_authority": "Országos Onkológiai Intézet",
         "date": "16/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_11398_2018/",
         "main_cpv": "33000000-0",
         "number_companies_win": 0,
         "procurement_title": "Gyógyszerek beszerzése 8.részben az Országos Onkológiai Intézet számára 12 hónapos határozott időtartamra.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zártkörűen Működő Részvénytársaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "1680800000",
+        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zrt.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; Mediwings Pharma Kft.; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 1680800000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "28/12/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22677_2018/",
         "main_cpv": "33600000-6",
         "number_companies_win": 4,
         "procurement_title": "Semmelweis Egyetem közvetlen lakossági gyógyszerellátásához szükséges gyógyszerek biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Mediwings Pharma Korlátolt Felelősségű Társaság; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "149158467",
+        "company_names": "Mediwings Pharma Kft.; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 149158467.0,
         "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
         "date": "28/03/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5085_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 2,
         "procurement_title": "MH EK egyedi import gyógyszerbeszerzés",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zártkörűen Működő Részvénytársaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság",
-        "contract_value": "38000000",
+        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zrt.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.",
+        "contract_value": 38000000.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14011_2019/",
         "main_cpv": "33690000-3",
         "number_companies_win": 4,
         "procurement_title": "Vényforgalmú gyógyszertárak részére különféle gyógyszerek, kötszerek, gyógyászati segédeszközök és egyéb készítmények beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zártkörűen Működő Részvénytársaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2600000000",
+        "company_names": "EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zrt.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 2600000000.0,
         "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
         "date": "30/07/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14011_2019/",
         "main_cpv": "33690000-3",
         "number_companies_win": 5,
         "procurement_title": "Vényforgalmú gyógyszertárak részére különféle gyógyszerek, kötszerek, gyógyászati segédeszközök és egyéb készítmények beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "530000000",
+        "company_names": "Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 530000000.0,
         "contracting_authority": "Fejér Megyei Szent György Egyetemi Oktató Kórház",
         "date": "14/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20595_2019/",
         "main_cpv": "33690000-3",
         "number_companies_win": 3,
         "procurement_title": "Vényforgalmú patika részére gyógyszer beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
         "company_names": "",
-        "contract_value": "2310000",
+        "contract_value": 2310000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22156_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Semmelweis Egyetem gyógyszer beszerzése I.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
         "company_names": "",
-        "contract_value": "35535000",
+        "contract_value": 35535000.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "21/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22156_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "Semmelweis Egyetem gyógyszer beszerzése I.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
         "company_names": "",
-        "contract_value": "5333025",
+        "contract_value": 5333025.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22380_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "SE gyógyszer beszerzése VI. főcsoport",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
         "company_names": "",
-        "contract_value": "11839020",
+        "contract_value": 11839020.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "29/11/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22471_2019/",
         "main_cpv": "33600000-6",
         "number_companies_win": 0,
         "procurement_title": "SE gyógyszer beszerzése IV. főcsoport",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; CSL Behring Korlátolt Felelősségű Társaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2224217651",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; CSL Behring Kft.; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Kft.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; MEDIMPEX Gyógyszer-nagykereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 2224217651.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "16/12/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_23754_2019/",
         "main_cpv": "33690000-3",
         "number_companies_win": 8,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "153203016",
+        "company_names": "HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; Mediwings Pharma Kft.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 153203016.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8064_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 3,
         "procurement_title": "Az Állami Egészségügyi Tartalék részére gyógyszerek szállítása és minőségmegóvó cseréjük biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Clear Pharma Zártkörűen Működő Részvénytársaság; Egis Gyógyszergyár Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "2980175457",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Kft.; Clear Pharma Zrt.; Egis Gyógyszergyár Zrt.; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Kft.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; Mediwings Pharma Kft.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 2980175457.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "13/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7740_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 9,
         "procurement_title": "Fekvőbeteg-ellátáshoz szükséges gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "196461537",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; MEDIMPEX Gyógyszer-nagykereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 196461537.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "25/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8466_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 6,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Clear Pharma Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; FRESENIUS MEDICAL CARE Magyarország Egészségügyi Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "9321996900",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Kft.; Clear Pharma Zrt.; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Kft.; FRESENIUS MEDICAL CARE Magyarország Egészségügyi Kft.; MEDIMPEX Gyógyszer-nagykereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.; Teva Gyógyszergyár Zrt.",
+        "contract_value": 9321996900.0,
         "contracting_authority": "Állami Egészségügyi Ellátó Központ",
         "date": "25/05/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8466_2020/",
         "main_cpv": "33690000-3",
         "number_companies_win": 10,
         "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "299177040",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; Mediwings Pharma Kft.; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 299177040.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "05/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9481_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 3,
         "procurement_title": "Egyedi import gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     },
     {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság",
-        "contract_value": "4246488777",
+        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Kft.; HUNGAROPHARMA Gyógyszerkereskedelmi Zrt.; Mediwings Pharma Kft.; PHOENIX Pharma Gyógyszerkereskedelmi Zrt.",
+        "contract_value": 4246488777.0,
         "contracting_authority": "Semmelweis Egyetem",
         "date": "26/06/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_10563_2020/",
         "main_cpv": "33600000-6",
         "number_companies_win": 4,
         "procurement_title": "Közvetlen lakossági gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1343341164",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2217_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 5,
-        "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Clear Pharma Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; MEDIMPEX Gyógyszer-nagykereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "19680105738",
-        "contracting_authority": "Országos Kórházi Főigazgatóság",
-        "date": "15/02/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_2217_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 8,
-        "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; Clear Pharma Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "1161189560",
-        "contracting_authority": "Szegedi Tudományegyetem",
-        "date": "09/03/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3652_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 4,
-        "procurement_title": "Gyógyszerek beszerzése, E-katalógus",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1347840",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9365_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése II.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "1787500",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9365_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése II.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3397485",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9365_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése II.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3603600",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9365_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése II.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5607517",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9373_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése III.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "5878600",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9365_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése II.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "21352500",
-        "contracting_authority": "Országos Mentőszolgálat",
-        "date": "26/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9365_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 0,
-        "procurement_title": "Különféle gyógyszerek beszerzése II.",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Clear Pharma Zártkörűen Működő Részvénytársaság; CSL Behring Korlátolt Felelősségű Társaság; Egis Gyógyszergyár Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3630781544",
-        "contracting_authority": "Dél-Pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet",
-        "date": "31/05/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9666_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 10,
-        "procurement_title": "Gyógyszerek E-katalógus",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; CSL Behring Korlátolt Felelősségű Társaság; Egis Gyógyszergyár Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "3236289668",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "20/07/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13356_2021/",
-        "main_cpv": "33600000-6",
-        "number_companies_win": 8,
-        "procurement_title": "Semmelweis Egyetem részére gyári gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "B. Braun Trading Kft.; Clear Pharma Zártkörűen Működő Részvénytársaság; EUROMEDIC-PHARMA Gyógyszernagykereskedelmi Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "19916149300",
-        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
-        "date": "10/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14644_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 8,
-        "procurement_title": "Magyarországi fekvőbeteg ellátó intézmények gyógyszerellátásának biztosítása",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "B. Braun Trading Kft.; Biotest Hungaria Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Egis Gyógyszergyár Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "380984891",
-        "contracting_authority": "Csongrád-Csanád Megyei Dr. Bugyi István Kórház",
-        "date": "16/08/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15105_2021/",
-        "main_cpv": "33690000-3",
-        "number_companies_win": 7,
-        "procurement_title": "Szentes 2020 – Gyógyszerek E-katalógus",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; B. Braun Trading Kft.; Clear Pharma Zártkörűen Működő Részvénytársaság; Egis Gyógyszergyár Zártkörűen Működő Részvénytársaság; Fresenius Kabi Hungary Vegy-, Gyógyszeripari és Kereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság; Teva Gyógyszergyár Zártkörűen Működő Részvénytársaság",
-        "contract_value": "4571542675",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "04/10/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18851_2021/",
-        "main_cpv": "33600000-6",
-        "number_companies_win": 9,
-        "procurement_title": "Fekvőbeteg ellátáshoz gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHARMAROAD Gyógyszerkereskedelmi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
-        "contract_value": "391584090",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "10/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24016_2021/",
-        "main_cpv": "33600000-6",
-        "number_companies_win": 3,
-        "procurement_title": "SE részére egyedi import gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "Atlas Pharma Gyógyszernagykereskedelmi Korlátolt Felelősségű Társaság; HUNGAROPHARMA Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság; Mediwings Pharma Korlátolt Felelősségű Társaság; PHOENIX Pharma Gyógyszerkereskedelmi Zártkörűen Működő Részvénytársaság",
-        "contract_value": "4928412102",
-        "contracting_authority": "Semmelweis Egyetem",
-        "date": "30/12/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25608_2021/",
-        "main_cpv": "33600000-6",
-        "number_companies_win": 4,
-        "procurement_title": "Közvetlen lakossági gyógyszerek beszerzése",
-        "registered_name": "Mediwings Pharma Korlátolt Felelősségű Társaság"
+        "registered_name": "Mediwings Pharma Kft."
     }
 ]

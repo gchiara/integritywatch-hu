@@ -1,79 +1,57 @@
 [
     {
         "company_names": "",
-        "contract_value": "344060000",
+        "contract_value": 344060000.0,
         "contracting_authority": "Pécsi Tudományegyetem",
         "date": "19/02/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2017/0/targy/portal_403/megtekint/portal_18544_2017/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "Egészségügyi és egyéb mosatási szolgáltatás ellátása a Pécsi Tudományegyetem részére 48 hónapra",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "65340350",
+        "contract_value": 65340350.0,
         "contracting_authority": "Szegedi Kistérség Többcélú Társulása",
         "date": "13/11/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_18601_2018/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "MOSODAI SZOLGÁLTATÁS MEGRENDELÉSE AZ SZKTT ÁLTAL AZ SZKTT ESZI RÉSZÉRE VÁLLALKOZÁSI SZERZŐDÉS KERETÉBEN",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "64000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 64000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "17/04/2019",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6371_2019/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "Mosodai szolgáltatások beszerzése",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "81000000",
-        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság",
+        "contract_value": 81000000.0,
+        "contracting_authority": "Budapest Gyógyfürdői és Hévizei Zrt.",
         "date": "09/03/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2717_2020/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "Mosodai szolgáltatások beszerzése 2020",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Kft."
     },
     {
         "company_names": "",
-        "contract_value": "116706096",
+        "contract_value": 116706096.0,
         "contracting_authority": "Szegedi Kistérség Többcélú Társulása Egyesített Szociális Intézmény",
         "date": "04/12/2020",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21854_2020/",
         "main_cpv": "98310000-9",
         "number_companies_win": 0,
         "procurement_title": "Mosodai szolgáltatás beszerzése",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "3573035",
-        "contracting_authority": "Boldog Gellért Egészségügyi Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "05/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21641_2021/",
-        "main_cpv": "98310000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Mosodai szolgáltatás Pomáz-Kiskovácsi Kórház",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
-    },
-    {
-        "company_names": "",
-        "contract_value": "45613820",
-        "contracting_authority": "Boldog Gellért Egészségügyi Közhasznú Nonprofit Korlátolt Felelősségű Társaság",
-        "date": "05/11/2021",
-        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_21641_2021/",
-        "main_cpv": "98310000-9",
-        "number_companies_win": 0,
-        "procurement_title": "Mosodai szolgáltatás Pomáz-Kiskovácsi Kórház",
-        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Korlátolt Felelősségű Társaság"
+        "registered_name": "HÓFEHÉR Textilservice Szolgáltató Kft."
     }
 ]

@@ -1,35 +1,35 @@
 [
     {
         "company_names": "",
-        "contract_value": "111243565",
+        "contract_value": 111243565.0,
         "contracting_authority": "Szilágyi Zsolt",
         "date": "10/05/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_7435_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Szarvasmarha telep korszerűsítése Szilágyi Zsolt egyéni vállalkozónál",
-        "registered_name": "PAZL Global Korlátolt Felelősségű Társaság"
+        "registered_name": "PAZL Global Kft."
     },
     {
         "company_names": "",
-        "contract_value": "42385021",
-        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság",
+        "contract_value": 42385021.0,
+        "contracting_authority": "Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft.",
         "date": "26/06/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10625_2018/",
         "main_cpv": "45233120-6",
         "number_companies_win": 0,
         "procurement_title": "Teleltető hodályhoz út építése",
-        "registered_name": "PAZL Global Korlátolt Felelősségű Társaság"
+        "registered_name": "PAZL Global Kft."
     },
     {
         "company_names": "",
-        "contract_value": "302411137",
+        "contract_value": 302411137.0,
         "contracting_authority": "Terrorelhárítási Központ",
         "date": "02/07/2018",
         "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_10834_2018/",
         "main_cpv": "45000000-7",
         "number_companies_win": 0,
         "procurement_title": "Különféle munkák megrendelése",
-        "registered_name": "PAZL Global Korlátolt Felelősségű Társaság"
+        "registered_name": "PAZL Global Kft."
     }
 ]
