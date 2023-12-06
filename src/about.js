@@ -26,6 +26,9 @@ Vue.component('chart-header', ChartHeader);
 
 new Vue({
   el: '#app',
+  data: {
+    page: 'about'
+  },
   methods: {
     getUrlParameter(sParam) {
       var sPageURL = decodeURIComponent(window.location.search.substring(1)),

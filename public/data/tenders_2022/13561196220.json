@@ -1,0 +1,134 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 732826000.0,
+        "contracting_authority": "Zobori KalandoZoo Kft.",
+        "date": "06/06/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10313_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Zobori KalandoZoo élménykínálatának fejlesztése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 293860000.0,
+        "contracting_authority": "KÁNYAVÁRY BORBIRTOK Kft.",
+        "date": "30/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25962_2021/",
+        "main_cpv": "45210000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Tárolóépület és közösségi vizesblokk építése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 220957545.0,
+        "contracting_authority": "Holnapocska Alapítvány",
+        "date": "23/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11782_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Rendezvényterem és vendégfogadó kivitelezése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 126499999.0,
+        "contracting_authority": "Nagykanizsa Megyei Jogú Város Önkormányzata, Nagykanizsai Városfejlesztő Kft.",
+        "date": "28/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8682_2021/",
+        "main_cpv": "45210000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Bölcsődei férőhelyek kialakítása, bővítése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "Grabant Bence; GRASAL Szolgáltató és Tanácsadó Kft.; JanPet Ingatlan Bt. \"végelszámolás alatt\"",
+        "contract_value": 69000000.0,
+        "contracting_authority": "Szepetnek Községi Önkormányzat",
+        "date": "15/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20862_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Építési beruházás",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 68920369.0,
+        "contracting_authority": "Holnapocska Közhasznú Nonprofit Kft.",
+        "date": "09/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6021_2021/",
+        "main_cpv": "45210000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Helyi piac épület építése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "GRASAL PLAYER Építőipari és Szolgáltató Bt. \"végelszámolás alatt\"; GRASAL Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 39786089.0,
+        "contracting_authority": "Szepetnek Községi Önkormányzat",
+        "date": "11/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10900_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Építési beruházás",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "GRASAL PLAYER Építőipari és Szolgáltató Bt. \"végelszámolás alatt\"; GRASAL Szolgáltató és Tanácsadó Kft.",
+        "contract_value": 39697035.0,
+        "contracting_authority": "Szepetnek Községi Önkormányzat",
+        "date": "15/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20862_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Építési beruházás",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "GRASAL KONSTRUKT Építőipari és Szolgáltató Bt. \"végelszámolás alatt\"; GRASAL Szolgáltató és Tanácsadó Kft.; JanPet Ingatlan Bt. \"végelszámolás alatt\"",
+        "contract_value": 37918729.0,
+        "contracting_authority": "Eszteregnye Község Önkormányzata",
+        "date": "17/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9915_2020/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 37042455.0,
+        "contracting_authority": "Holnapocska Alapítvány",
+        "date": "23/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11782_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Rendezvényterem és vendégfogadó kivitelezése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "GRASAL KONSTRUKT Építőipari és Szolgáltató Bt. \"végelszámolás alatt\"; GRASAL Szolgáltató és Tanácsadó Kft.; JanPet Ingatlan Bt. \"végelszámolás alatt\"",
+        "contract_value": 14090719.0,
+        "contracting_authority": "Eszteregnye Község Önkormányzata",
+        "date": "17/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9915_2020/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Önkormányzati épületek energetikai korszerűsítése",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 2235000.0,
+        "contracting_authority": "Szepetnek Községi Önkormányzat",
+        "date": "15/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20862_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Építési beruházás",
+        "registered_name": "GRASAL Szolgáltató és Tanácsadó Kft."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company_names": "Astron Informatikai Fejlesztő és Tanácsadó Kft.; CAPSYS Informatikai Kft.; Navitasoft Informatikai Zrt.",
+        "contract_value": 2550000000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "03/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_23492_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 3,
+        "procurement_title": "MAVIR üzemviteli rendszereinek fejlesztési és fejlesztéstámogatási feladatai",
+        "registered_name": "CAPSYS Informatikai Kft."
+    },
+    {
+        "company_names": "CAPSYS Informatikai Kft.; Navitasoft Informatikai Zrt.; TrendEn Energetika Stratégiai, Üzleti és Informatikai Kft.; Visoft Kft.",
+        "contract_value": 480000000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "03/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_23492_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 4,
+        "procurement_title": "MAVIR üzemviteli rendszereinek fejlesztési és fejlesztéstámogatási feladatai",
+        "registered_name": "CAPSYS Informatikai Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 425000000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "28/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_7049_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "SZTIR-SZOFI fejlesztés",
+        "registered_name": "CAPSYS Informatikai Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 339000000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "05/09/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_16305_2019/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Rendszerszintű szolgáltatások beszerzésének IT támogatása",
+        "registered_name": "CAPSYS Informatikai Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 22498500.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "22/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_16906_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "SZTIR-SZOFI fejlesztés koncepció kidolgozása",
+        "registered_name": "CAPSYS Informatikai Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 6045000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "03/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_7277_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "SZTIR-SZOFI fejlesztés 1. fázis",
+        "registered_name": "CAPSYS Informatikai Kft."
+    }
+]

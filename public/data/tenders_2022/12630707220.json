@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "\"KÁBEL-MŰHELY\" Villanyszerelő Kft.; JANO-GENERÁL Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 292000000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., OPUS TITÁSZ Áramhálózati Zrt.",
+        "date": "19/02/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_2578_2020/",
+        "main_cpv": "45231000-5",
+        "number_companies_win": 2,
+        "procurement_title": "Fogyasztói csatlakozók létesítése",
+        "registered_name": "\"KÁBEL-MŰHELY\" Villanyszerelő Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 90234885.0,
+        "contracting_authority": "Balatonmáriafürdő Község Önkormányzata",
+        "date": "23/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7017_2019/",
+        "main_cpv": "45210000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Balatonmáriafürdő, Rákóczi u. közműkiváltás",
+        "registered_name": "\"KÁBEL-MŰHELY\" Villanyszerelő Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 45083578.0,
+        "contracting_authority": "Marcali Város Önkormányzata",
+        "date": "02/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20043_2020/",
+        "main_cpv": "45221250-9",
+        "number_companies_win": 0,
+        "procurement_title": "Marcali Keleti Iparterület fejlesztése",
+        "registered_name": "\"KÁBEL-MŰHELY\" Villanyszerelő Kft."
+    }
+]

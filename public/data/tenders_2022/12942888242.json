@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "ABAKUSZ-ADÓ Könyvvizsgáló és Vagyonértékelő Kft.; ADÓLABOR Könyvelőiroda Kft.; A-GENI Könyvvizsgáló és Tanácsadó Iroda Kft.; AUTO-KOMPREX Kereskedelmi Kft.; BM-PRUDENCIA Pénzügyi Tanácsadó és Szolgáltató Kft.; CONFI ' ERA Tanácsadó és Szolgáltató Kft.; DIALOG Plusz Audit Könyvvizsgáló Kft.; Dobák István; Dr Pálffy Imre Péter; ECC-CONSULTING Marketing és Gazdasági Tanácsadó Zrt.; Focus Audit and Advisory Könyvvizsgáló és Tanácsadó Kft.; K-E-S AUDIT Könyvvizsgáló, Könyvvezető és Adószakértő Kft.; Kiss Péter; Komár Gyöngyi; Nagy Györgyi; OPTICASH Könyvvizsgáló és Szolgáltató Kft.; PONTOS KONTÍR Ügyviteli és Szolgáltató Bt.; SALDO Pénzügyi Tanácsadó és Informatikai Zrt.; Schlág Judit; Sebestyén Zoltánné; SUMMA Könyvvizsgáló és Vállalkozási Tanácsadó Kft.; SVICONT Kft.; Szamos Projekt Kft.; Szigeti Mária; TINÓDI Iroda Tanácsadó és Könyvvizsgáló Bt.; Váradiné Jassó Marianna; Varga Magdolna; Vassné Sebők Anna Teréz",
+        "contract_value": 277000000.0,
+        "contracting_authority": "Állami Számvevőszék",
+        "date": "14/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7826_2019/",
+        "main_cpv": "79212100-4",
+        "number_companies_win": 28,
+        "procurement_title": "Külső szakértői ellenőrzési tevékenység ellátása",
+        "registered_name": "A-GENI Könyvvizsgáló és Tanácsadó Iroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 92819000.0,
+        "contracting_authority": "Miniszterelnökség",
+        "date": "10/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17125_2021/",
+        "main_cpv": "79200000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Támogatások könyvvizsgálata 2021",
+        "registered_name": "A-GENI Könyvvizsgáló és Tanácsadó Iroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 89136047.0,
+        "contracting_authority": "Miniszterelnökség",
+        "date": "12/02/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1454_2020/",
+        "main_cpv": "79200000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Könyvvizsgálat pénzügyi kimutatások átvilágítására",
+        "registered_name": "A-GENI Könyvvizsgáló és Tanácsadó Iroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 63000000.0,
+        "contracting_authority": "Batthyány Lajos Alapitvány",
+        "date": "27/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9725_2021/",
+        "main_cpv": "66171000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Pénzügyi és számviteli tanácsadás",
+        "registered_name": "A-GENI Könyvvizsgáló és Tanácsadó Iroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 5449000.0,
+        "contracting_authority": "Pest Vármegyei Kormányhivatal",
+        "date": "09/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5973_2019/",
+        "main_cpv": "79212000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Könyvvizsgálói feladatok ellátása",
+        "registered_name": "A-GENI Könyvvizsgáló és Tanácsadó Iroda Kft."
+    }
+]

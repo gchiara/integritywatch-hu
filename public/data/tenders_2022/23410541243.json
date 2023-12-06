@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "BM HEROS LEK Logisztikai Ellátó Központ Kft.; karmaTech kereskedelmi és szolgáltató Kft.",
+        "contract_value": 235000000.0,
+        "contracting_authority": "KAPOS HOLDING Közszolgáltató Zrt.",
+        "date": "15/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_19392_2019/",
+        "main_cpv": "43800000-1",
+        "number_companies_win": 2,
+        "procurement_title": "Járműtelep - eszközbeszerzés",
+        "registered_name": "karmaTech kereskedelmi és szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 69900000.0,
+        "contracting_authority": "Kaposvár Megyei Jogú Város Önkormányzata",
+        "date": "27/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21263_2020/",
+        "main_cpv": "39162110-9",
+        "number_companies_win": 0,
+        "procurement_title": "Oktatási eszközök beszerzése",
+        "registered_name": "karmaTech kereskedelmi és szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 20000000.0,
+        "contracting_authority": "KAPOS HOLDING Közszolgáltató Zrt.",
+        "date": "27/09/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18278_2019/",
+        "main_cpv": "44163112-8",
+        "number_companies_win": 0,
+        "procurement_title": "Szennyvízkezelő rendszer",
+        "registered_name": "karmaTech kereskedelmi és szolgáltató Kft."
+    }
+]

@@ -1,11 +1,9 @@
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<!--
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-000"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8750968-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-000', { 'anonymize_ip': true });
+  gtag('config', 'UA-8750968-3', { 'anonymize_ip': true });
 </script>
--->

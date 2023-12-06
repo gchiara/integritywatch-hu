@@ -1,0 +1,24 @@
+[
+    {
+        "company_names": "Egomax Építőipari Kft.; Híd-Tám Hídépítési Fővállalkozó, Tanácsadó és Szolgáltató Kft.",
+        "contract_value": 3000000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
+        "date": "29/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_20461_2019/",
+        "main_cpv": "45221119-9",
+        "number_companies_win": 2,
+        "procurement_title": "Hidak karbantartása 2019",
+        "registered_name": "Egomax Építőipari Kft."
+    },
+    {
+        "company_names": "Colas Közlekedésépítő Zrt.; Egomax Építőipari Kft.",
+        "contract_value": 1245540021.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
+        "date": "28/02/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_2891_2020/",
+        "main_cpv": "45221119-9",
+        "number_companies_win": 2,
+        "procurement_title": "Szendrőládi Bódva-híd felújítása",
+        "registered_name": "Egomax Építőipari Kft."
+    }
+]

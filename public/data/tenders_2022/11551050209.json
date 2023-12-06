@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "\"Nóra-97\" Vállalkozási és Kereskedelmi Kft.; Salisbury Régészeti Kft.",
+        "contract_value": 1200000000.0,
+        "contracting_authority": "Déri Múzeum",
+        "date": "29/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9643_2019/",
+        "main_cpv": "45112450-4",
+        "number_companies_win": 2,
+        "procurement_title": "Régészeti kézi bontómunka",
+        "registered_name": "\"Nóra-97\" Vállalkozási és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 286250000.0,
+        "contracting_authority": "Jósa András Múzeum",
+        "date": "07/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17139_2021/",
+        "main_cpv": "45112450-4",
+        "number_companies_win": 0,
+        "procurement_title": "Kézi földmunka és régészeti bontómunka végzése",
+        "registered_name": "\"Nóra-97\" Vállalkozási és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 100625000.0,
+        "contracting_authority": "Jósa András Múzeum",
+        "date": "16/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0635_2020/",
+        "main_cpv": "45112450-4",
+        "number_companies_win": 0,
+        "procurement_title": "Gépi földmunka",
+        "registered_name": "\"Nóra-97\" Vállalkozási és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 80000000.0,
+        "contracting_authority": "Eötvös Loránd Tudományegyetem",
+        "date": "02/09/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15590_2019/",
+        "main_cpv": "45112450-4",
+        "number_companies_win": 0,
+        "procurement_title": "Régészeti bontómunka végzése",
+        "registered_name": "\"Nóra-97\" Vállalkozási és Kereskedelmi Kft."
+    }
+]

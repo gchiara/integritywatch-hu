@@ -1,0 +1,24 @@
+[
+    {
+        "company_names": "ALISCA BAU Építőipari Zrt.; ArcheoGép Kft.; Leveller Építőipari Kft.; Salisbury Régészeti Kft.",
+        "contract_value": 4000000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
+        "date": "14/08/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14668_2020/",
+        "main_cpv": "45100000-8",
+        "number_companies_win": 4,
+        "procurement_title": "Kézi- és gépi földmunka",
+        "registered_name": "ArcheoGép Kft."
+    },
+    {
+        "company_names": "ArcheoGép Kft.; Salisbury Régészeti Kft.; WEST HUNGÁRIA BAU Építőipari Szolgáltató Kft.",
+        "contract_value": 1000000000.0,
+        "contracting_authority": "Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zrt.",
+        "date": "05/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9598_2020/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 3,
+        "procurement_title": "Földmunka keretszerződés 2019",
+        "registered_name": "ArcheoGép Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "4iG Nyrt.; Alpha-ess Hungary Kft.; ATOS Magyarország Kft.; BRAVOGROUP RENDSZERHÁZ Kereskedelmi Kft.; CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; ETIAM Kft.; EURO ONE Számítástechnikai Zrt.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; FLAXCOM HOLDING Elektronikai és Kereskedelmi Zrt.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; MACROTEL Telefontechnikai Kft.; MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; PANOR Informatika Zrt.; R+R Periféria Kereskedelmi és Szolgáltató Kft.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SERCO Informatika Kft.; Szinva Net Informatikai Zrt.; Telekom Rendszerintegráció Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 3925756741.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "07/08/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13756_2020/",
+        "main_cpv": "30230000-0",
+        "number_companies_win": 22,
+        "procurement_title": "Megjelenítő eszközök beszerzése (MESZ)",
+        "registered_name": "MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "CSP SERVICE Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; Delta Services Kereskedelmi és Szolgáltató Kft.; EURO-PROFIL RENDSZERHÁZ Kft.; Exicom Informatika Kereskedőház Kft.; MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 80923265.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "17/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_3406_2021/",
+        "main_cpv": "30230000-0",
+        "number_companies_win": 5,
+        "procurement_title": "Megjelenítő eszközök beszerzése",
+        "registered_name": "MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "Belvárosi Építő és Szolgáltató Kft.; MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 71578740.0,
+        "contracting_authority": "Magyarországi Zsidó Hitközségek Szövetsége",
+        "date": "30/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19932_2020/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Politzer sagakiállítás installáció kivitelezése",
+        "registered_name": "MEDIUM Magyarország Kereskedelmi és Szolgáltató Kft."
+    }
+]

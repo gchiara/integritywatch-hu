@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 142234125.0,
+        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
+        "date": "13/08/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14465_2020/",
+        "main_cpv": "15000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Élelmiszer alapanyagok beszerzése",
+        "registered_name": "Corvinus Ásványvíz Gyártó, Forgalmazó és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 79877953.0,
+        "contracting_authority": "Budapesti Rendőr-Főkapitányság",
+        "date": "06/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14769_2021/",
+        "main_cpv": "15000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Élelmiszeralapanyag beszerzés - 2021",
+        "registered_name": "Corvinus Ásványvíz Gyártó, Forgalmazó és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 42000000.0,
+        "contracting_authority": "Készenléti Rendőrség",
+        "date": "15/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10575_2021/",
+        "main_cpv": "15000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Élelmiszer alapanyagok beszerzése",
+        "registered_name": "Corvinus Ásványvíz Gyártó, Forgalmazó és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 39000000.0,
+        "contracting_authority": "Győr-Sopron-Ebenfurti Vasút Zrt.",
+        "date": "22/12/2020",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_24025_2020/",
+        "main_cpv": "15981000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Természetes ásványvíz beszerzése",
+        "registered_name": "Corvinus Ásványvíz Gyártó, Forgalmazó és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 15910000.0,
+        "contracting_authority": "Országos Vérellátó Szolgálat",
+        "date": "18/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0780_2021/",
+        "main_cpv": "15981000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Ásványvíz beszerzése",
+        "registered_name": "Corvinus Ásványvíz Gyártó, Forgalmazó és Kereskedelmi Kft."
+    }
+]

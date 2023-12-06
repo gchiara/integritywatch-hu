@@ -1,0 +1,68 @@
+[
+    {
+        "company_names": "Merkantil Bérlet Szolgáltató Kft.; NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt.",
+        "contract_value": 325772592.0,
+        "contracting_authority": "Ceglédi Toldy Ferenc Kórház és Rendelőintézet",
+        "date": "29/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_5133_2019/",
+        "main_cpv": "33111721-1",
+        "number_companies_win": 2,
+        "procurement_title": "DSA angio berendezés bérlete",
+        "registered_name": "NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 58998000.0,
+        "contracting_authority": "Ajkai Magyar Imre Kórház",
+        "date": "13/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0050_2020/",
+        "main_cpv": "33100000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Orvosi eszközök beszerzése",
+        "registered_name": "NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 22000000.0,
+        "contracting_authority": "Edelényi Koch Róbert Kórház és Rendelőintézet",
+        "date": "11/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12945_2019/",
+        "main_cpv": "33100000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Különféle orvosi eszközök beszerzése",
+        "registered_name": "NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 19680000.0,
+        "contracting_authority": "Bács-Kiskun Vármegyei Oktatókórház",
+        "date": "19/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8388_2020/",
+        "main_cpv": "33112200-0",
+        "number_companies_win": 0,
+        "procurement_title": "Kiemelt (felsőkategóriás) radiológiai ultrahang diagnosztikai készülék szállítása, üzembehelyezése",
+        "registered_name": "NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 15715000.0,
+        "contracting_authority": "Bács-Kiskun Vármegyei Oktatókórház",
+        "date": "09/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23274_2019/",
+        "main_cpv": "33112200-0",
+        "number_companies_win": 0,
+        "procurement_title": "Középkategóriás ultrahang készülék beszerzése",
+        "registered_name": "NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 5042000.0,
+        "contracting_authority": "Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat",
+        "date": "30/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5126_2020/",
+        "main_cpv": "33191100-6",
+        "number_companies_win": 0,
+        "procurement_title": "Sterilizáló készülékek beszerzése",
+        "registered_name": "NovelMedix Orvosi Műszerkereskedelmi Kereskedelmi és Szolgáltató Zrt."
+    }
+]

@@ -6,7 +6,10 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a href="./" class="nav-link nav-link-section" :class="{active: page == 'organizations'}">Főbb közbeszerzési és cégmutatók</a>
+        <a href="./" class="nav-link nav-link-section" :class="{active: page == 'landing'}">Tenderbajnok</a>
+      </li>
+      <li class="nav-item">
+        <a href="./organizations.php" class="nav-link nav-link-section" :class="{active: page == 'organizations'}">Cégek és közbeszerzések</a>
       </li>
       <li class="nav-item">
         <a href="./beneficial_owners.php" class="nav-link nav-link-section" :class="{active: page == 'owners'}">Végső tulajdonosok</a>
@@ -14,24 +17,7 @@
     </ul>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a href="./about" class="nav-link nav-link-about">Mi ez?</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle nav-link-other" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Hasonló oldalak
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="https://www.integritywatch.eu/" target="_blank">EU</a>
-          <a class="dropdown-item" href="https://www.integritywatch.fr/" target="_blank">Franciaország</a>
-          <a class="dropdown-item" href="https://www.integritywatch.gr/" target="_blank">Görögország</a>
-          <a class="dropdown-item" href="http://www.soldiepolitica.it/" target="_blank">Olaszország</a>
-          <a class="dropdown-item" href="https://deputatiuzdelnas.lv/" target="_blank">Lettország</a>
-          <a class="dropdown-item" href="https://manoseimas.lt/" target="_blank">Litvánia</a>
-          <a class="dropdown-item" href="https://www.integritywatch.nl/" target="_blank">Hollandia</a>
-          <a class="dropdown-item" href="http://varuhintegritete.transparency.si/" target="_blank">Szlovénia</a>
-          <a class="dropdown-item" href="https://integritywatch.es/" target="_blank">Spanyolország</a>
-          <a class="dropdown-item" href="https://openaccess.transparency.org.uk/" target="_blank">Egyesült Királyság</a>
-        </div>
+        <a href="./about" class="nav-link nav-link-about" :class="{active: page == 'about'}">Az oldalról</a>
       </li>
     </ul>
   </div>

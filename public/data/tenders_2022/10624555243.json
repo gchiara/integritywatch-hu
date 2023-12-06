@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "Ground Transportation Systems Hungary Kft.; Thales Austria GmbH",
+        "contract_value": 12896200000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
+        "date": "20/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_22585_2019/",
+        "main_cpv": "45230000-8",
+        "number_companies_win": 2,
+        "procurement_title": "Szajol-Debrecen ETCS vonatbefolyásoló rendszer",
+        "registered_name": "Ground Transportation Systems Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 273085510.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
+        "date": "04/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_406/megtekint/portal_23989_2018/",
+        "main_cpv": "50000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "ELEKTRA1 és ELEKTRA2 rendszerű elektronikus állomási biztosítóberendezések, EBO alapú kezelőfelület és távvezérlő rendszerek és ezek részegységeinek javítása, a javíthatatlanná vált alkatrészek azonos alkatrésszel való pótlása",
+        "registered_name": "Ground Transportation Systems Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 34000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
+        "date": "18/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_2819_2021/",
+        "main_cpv": "34632000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Hidraulikus váltóhajtómű beszerzése",
+        "registered_name": "Ground Transportation Systems Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 26000000.0,
+        "contracting_authority": "MÁV Magyar Államvasutak Zrt.",
+        "date": "18/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_434/megtekint/portal_2819_2021/",
+        "main_cpv": "34632000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Hidraulikus váltóhajtómű beszerzése",
+        "registered_name": "Ground Transportation Systems Hungary Kft."
+    }
+]

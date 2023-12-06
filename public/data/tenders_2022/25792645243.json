@@ -1,0 +1,24 @@
+[
+    {
+        "company_names": "Kantar Hoffmann Kft.; M-METER Kutató és Elemző Kft.",
+        "contract_value": 769343400.0,
+        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
+        "date": "09/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_12822_2021/",
+        "main_cpv": "79311000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Rádiós közönségmérés lebonyolítása",
+        "registered_name": "M-METER Kutató és Elemző Kft."
+    },
+    {
+        "company_names": "GEMIUS Hungary Adatfeldolgozó és Kutató Kft.; Kantar Hoffmann Kft.; M-METER Kutató és Elemző Kft.",
+        "contract_value": 125000000.0,
+        "contracting_authority": "Nemzeti Média- és Hírközlési Hatóság",
+        "date": "28/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19416_2020/",
+        "main_cpv": "79311000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Műszeres rádióhallgatottság-mérés tesztelése",
+        "registered_name": "M-METER Kutató és Elemző Kft."
+    }
+]

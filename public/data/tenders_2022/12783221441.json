@@ -1,0 +1,101 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 1859400000.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
+        "date": "15/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_21394_2021/",
+        "main_cpv": "60640000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Közszolgáltatás üzemeltetése BKV hajókkal",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 626400000.0,
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "25/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22947_2021/",
+        "main_cpv": "34515100-1",
+        "number_companies_win": 0,
+        "procurement_title": "Intelligens és normál úszó jelek",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 437000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
+        "date": "03/02/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1579_2020/",
+        "main_cpv": "34512100-0",
+        "number_companies_win": 0,
+        "procurement_title": "Komp beszerzése",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 436665000.0,
+        "contracting_authority": "Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság",
+        "date": "05/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_21162_2019/",
+        "main_cpv": "34510000-5",
+        "number_companies_win": 0,
+        "procurement_title": "ADN járőrhajó beszerzése",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 163109000.0,
+        "contracting_authority": "MAHART Magyar Hajózási Zrt.",
+        "date": "21/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0730_2020/",
+        "main_cpv": "34515000-0",
+        "number_companies_win": 0,
+        "procurement_title": "Mólók, úszóművek, kikötő hidak beszerzése",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 77000000.0,
+        "contracting_authority": "Erzsébet A Kárpát-Medencei Gyermekekért Alapítvány",
+        "date": "19/09/2019",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_17580_2019/",
+        "main_cpv": "50240000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Szélkirálynő személyhajó átépítése",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 57787000.0,
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "06/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19142_2021/",
+        "main_cpv": "34510000-5",
+        "number_companies_win": 0,
+        "procurement_title": "OVF - VKI - hajók szállítása",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 38400000.0,
+        "contracting_authority": "MAHART Magyar Hajózási Zrt.",
+        "date": "21/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0730_2020/",
+        "main_cpv": "34515000-0",
+        "number_companies_win": 0,
+        "procurement_title": "Mólók, úszóművek, kikötő hidak beszerzése",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 37680000.0,
+        "contracting_authority": "MAHART Magyar Hajózási Zrt.",
+        "date": "21/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0730_2020/",
+        "main_cpv": "34515000-0",
+        "number_companies_win": 0,
+        "procurement_title": "Mólók, úszóművek, kikötő hidak beszerzése",
+        "registered_name": "Magyar Kikötő Fejlesztő és Hajózási Üzemeltető Zrt."
+    }
+]

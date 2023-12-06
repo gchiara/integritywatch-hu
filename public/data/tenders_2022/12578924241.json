@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 42993600.0,
+        "contracting_authority": "Magyar Állami Operaház",
+        "date": "17/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_24365_2019/",
+        "main_cpv": "60100000-9",
+        "number_companies_win": 0,
+        "procurement_title": "MÁO részére alkalmi belföldi közúti teherszállítás",
+        "registered_name": "\"ÖRÖKMOZGÓ 90\" Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 38359613.0,
+        "contracting_authority": "Budapesti Operettszínház",
+        "date": "17/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23532_2020/",
+        "main_cpv": "60000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Fuvarozási szolgáltatás",
+        "registered_name": "\"ÖRÖKMOZGÓ 90\" Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 16923086.0,
+        "contracting_authority": "Budapesti Operettszínház",
+        "date": "17/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23532_2020/",
+        "main_cpv": "60000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Fuvarozási szolgáltatás",
+        "registered_name": "\"ÖRÖKMOZGÓ 90\" Kereskedelmi és Szolgáltató Kft."
+    }
+]

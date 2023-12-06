@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 220812986.0,
+        "contracting_authority": "Alsózsolca Város Önkormányzata",
+        "date": "19/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_18974_2020/",
+        "main_cpv": "45211340-4",
+        "number_companies_win": 0,
+        "procurement_title": "Vay Kastély felújítása",
+        "registered_name": "Deberép Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 60700132.0,
+        "contracting_authority": "Mád Község Önkormányzata",
+        "date": "29/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_1512_2020/",
+        "main_cpv": "45215100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Egészségház - Orvosi rendelő felújítása",
+        "registered_name": "Deberép Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 32773370.0,
+        "contracting_authority": "Mád Község Önkormányzata",
+        "date": "09/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10101_2020/",
+        "main_cpv": "45215100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Egészségház II. ütem",
+        "registered_name": "Deberép Kft."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 514000000.0,
+        "contracting_authority": "MÁV-START Vasúti Személyszállító Zrt.",
+        "date": "20/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_4329_2019/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "VONTAT rendszer - MÁV-START Zrt.",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 240000000.0,
+        "contracting_authority": "MÁV Szolgáltató Központ Zrt.",
+        "date": "13/08/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14317_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "VONTAT rendszer üzemeltetés, fejlesztés",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 208000000.0,
+        "contracting_authority": "VPE Vasúti Pályakapacitás-elosztó Kft.",
+        "date": "27/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25003_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "KAPELLA2 továbbfejlesztése és üzemeltetése",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 128000000.0,
+        "contracting_authority": "VPE Vasúti Pályakapacitás-elosztó Kft.",
+        "date": "13/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_21840_2019/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Rendszer továbbfejlesztése és üzemeltetése",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 22660000.0,
+        "contracting_authority": "VPE Vasúti Pályakapacitás-elosztó Kft.",
+        "date": "01/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1557_2019/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Veszélyes áru bejelentéseket kezelő rendszer kialakítása, üzemeltetése",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 20000000.0,
+        "contracting_authority": "VPE Vasúti Pályakapacitás-elosztó Kft.",
+        "date": "24/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6523_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "VÁB rendszer továbbfejlesztése és üzemeltetése",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 19900000.0,
+        "contracting_authority": "Budapest Közút Zrt.",
+        "date": "11/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_11403_2019/",
+        "main_cpv": "48000000-8, 72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "TOBI felhasználási jogainak kiterjesztése",
+        "registered_name": "PEGACONSULT Tanácsadó Kft."
+    }
+]

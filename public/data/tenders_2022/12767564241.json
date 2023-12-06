@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "RING Mérnöki Iroda Tervező, Szolgáltató Kft.; SPECIÁLTERV Építőmérnöki Kft.",
+        "contract_value": 4492000000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt. \"végelszámolás alatt\"",
+        "date": "29/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14238_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Elővárosi vasúti infrastruktúra fejlesztési projektek teljeskörű előkészítése Budapest agglomerációjában",
+        "registered_name": "RING Mérnöki Iroda Tervező, Szolgáltató Kft."
+    },
+    {
+        "company_names": "FŐMTERV Mérnöki Tervező Zrt.; RING Mérnöki Iroda Tervező, Szolgáltató Kft.",
+        "contract_value": 1505000000.0,
+        "contracting_authority": "NKK Nemzeti Közlekedési Központ Nonprofit Zrt. \"végelszámolás alatt\"",
+        "date": "21/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8973_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Kőbánya felső – Rákos – Rákosliget vasúti vonalszakasz korszerűsítése engedélyezési terv, kiviteli terv és kapcsolódó tenderdokumentáció elkészítése",
+        "registered_name": "RING Mérnöki Iroda Tervező, Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 975000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
+        "date": "09/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11854_2020/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Zalaegerszeg-Rédics vasútvonal tervezés",
+        "registered_name": "RING Mérnöki Iroda Tervező, Szolgáltató Kft."
+    },
+    {
+        "company_names": "RING Mérnöki Iroda Tervező, Szolgáltató Kft.; SPECIÁLTERV Építőmérnöki Kft.",
+        "contract_value": 740000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
+        "date": "30/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13580_2020/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "MÁV szűk keresztmetszet kiváltás - tervezés",
+        "registered_name": "RING Mérnöki Iroda Tervező, Szolgáltató Kft."
+    }
+]

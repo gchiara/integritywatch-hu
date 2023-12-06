@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "Debreceni Egyetem; eNET Magyarország Tanácsadó Kft.; Field Consulting Services Zárkörűen Működő Részvénytársaság; GloboSyS Hungary Kereskedelmi és Szolgáltató Kft.; HBH Stratégia és Fejlesztés Kft.; IFUA HORVÁTH & PARTNERS Vezetési és Informatikai Tanácsadó Kft.; ILEX Vezetési Tanácsadó Kft.; Inter-Med Media Oktatási, Kereskedelmi és Szolgáltató Kft.; Learning Innovation Kft.; LV-Team Kft.; MEDIX 2000. Kft.; MENTOR Informatikai és Oktatási Kft.; Semmelweis Egyetem; SYREON Kutató Intézet Kft.; Topsec Informatikai és Oktatási Kft.; VITAL MANAGEMENT Tanácsadó Kft.; ViVeTech Kft.",
+        "contract_value": 4660000000.0,
+        "contracting_authority": "Egészségügyi Infrastruktúra Fejlesztő Nonprofit Kft.",
+        "date": "03/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_24454_2018/",
+        "main_cpv": "98113000-8",
+        "number_companies_win": 17,
+        "procurement_title": "Egészségügyi szakértői feladatok ellátása",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    },
+    {
+        "company_names": "Ex Ante Tanácsadó Iroda Kft.; HBH Stratégia és Fejlesztés Kft.",
+        "contract_value": 506070000.0,
+        "contracting_authority": "NEMZETI ADATVÉDELMI ÉS INFORMÁCIÓSZABADSÁG HATÓSÁG",
+        "date": "05/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1820_2021/",
+        "main_cpv": "73110000-6",
+        "number_companies_win": 2,
+        "procurement_title": "Közérdekű és közérdekből nyilvános adatok közzétételi kötelezettségének vizsgálatát szolgáló, komplex elemző kutatások és a kutatások eredményeinek szakmai megvalósítása",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    },
+    {
+        "company_names": "\"Életminőség\" Segélyező, Felvilágosító és Megelőző Alapítvány; HBH Stratégia és Fejlesztés Kft.; REGINET Nyugat-dunántúli Tanácsadó Kft.; Szent György Nonprofit Kft.",
+        "contract_value": 127984000.0,
+        "contracting_authority": "Hajdú-Bihar Megyei Vállalkozásfejlesztési Alapítvány",
+        "date": "02/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_3273_2020/",
+        "main_cpv": "85312320-8",
+        "number_companies_win": 4,
+        "procurement_title": "Vállalkozások monitoringja és mentorálása",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    },
+    {
+        "company_names": "HBH Stratégia és Fejlesztés Kft.; Logframe Tanácsadó Iroda Kft.",
+        "contract_value": 19071560.0,
+        "contracting_authority": "Pannon Korlátolt Felelősségű Európai Területi Társulás",
+        "date": "13/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_23273_2019/",
+        "main_cpv": "71241000-9",
+        "number_companies_win": 2,
+        "procurement_title": "Interreg HU-HR CBC stratégia és programértékelés",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 10400000.0,
+        "contracting_authority": "Balmazújváros Város Önkormányzata",
+        "date": "06/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4715_2021/",
+        "main_cpv": "71241000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Foglalkoztatással kapcsolatos tanulmányok készítése",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 6850000.0,
+        "contracting_authority": "Szeged Pólus Fejlesztési Nonprofit Kft.",
+        "date": "05/09/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16596_2019/",
+        "main_cpv": "79311000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Foglalkoztatási paktum",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 2400000.0,
+        "contracting_authority": "Balmazújváros Város Önkormányzata",
+        "date": "06/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_4715_2021/",
+        "main_cpv": "71241000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Foglalkoztatással kapcsolatos tanulmányok készítése",
+        "registered_name": "HBH Stratégia és Fejlesztés Kft."
+    }
+]

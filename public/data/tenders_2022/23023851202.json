@@ -1,0 +1,68 @@
+[
+    {
+        "company_names": "ABC Group Ingatlan Fejlesztő és - Üzemeltető Kft.; Masszi Építész Iroda Korlátolt Felősségű Társaság",
+        "contract_value": 168600000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "21/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17723_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "SE Sebészet felújításához kapcsolódó tervezés",
+        "registered_name": "Masszi Építész Iroda Korlátolt Felősségű Társaság"
+    },
+    {
+        "company_names": "ABC Group Ingatlan Fejlesztő és - Üzemeltető Kft.; Masszi Építész Iroda Korlátolt Felősségű Társaság",
+        "contract_value": 117900000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "31/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16285_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Semmelweis Egyetem, XXI. fejlesztések – Belső Klinikai Tömb Bőr-, Nemikórtani és Bőronkológiai Klinika épületének felújítási és bővítési munkáival kapcsolatos tervezés",
+        "registered_name": "Masszi Építész Iroda Korlátolt Felősségű Társaság"
+    },
+    {
+        "company_names": "ABC Group Ingatlan Fejlesztő és - Üzemeltető Kft.; Masszi Építész Iroda Korlátolt Felősségű Társaság",
+        "contract_value": 97800000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "20/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8924_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "SE Szülészeti Klinika épület felújítás tervezése",
+        "registered_name": "Masszi Építész Iroda Korlátolt Felősségű Társaság"
+    },
+    {
+        "company_names": "ABC Group Ingatlan Fejlesztő és - Üzemeltető Kft.; Masszi Építész Iroda Korlátolt Felősségű Társaság",
+        "contract_value": 73800000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "04/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_9497_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "SE BKT Szemészeti Klinika épület felújítás tervezése",
+        "registered_name": "Masszi Építész Iroda Korlátolt Felősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": 46762500.0,
+        "contracting_authority": "Szegedi Szakképzési Centrum",
+        "date": "29/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_25581_2021/",
+        "main_cpv": "71221000-3",
+        "number_companies_win": 0,
+        "procurement_title": "21. századi iskola - tervezés",
+        "registered_name": "Masszi Építész Iroda Korlátolt Felősségű Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": 19200000.0,
+        "contracting_authority": "Badacsonytomaj Város Önkormányzata",
+        "date": "11/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_8153_2020/",
+        "main_cpv": "71220000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Tervezési szolgáltatások Badacsonytomajon",
+        "registered_name": "Masszi Építész Iroda Korlátolt Felősségű Társaság"
+    }
+]

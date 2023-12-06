@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Barré Technologies Zrt.; BI-TECH Infomatika Szolgáltató és Tanácsadó Kft.; Delta Systems Kft.; Digitran Hungária Digitális Transzformáció Zrt.; E-ZumIT Kft.; FORNAX SI Nagyvállalati Megoldások Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; IT-CM Kereskedelmi és Szolgáltató Kft.; KER-SOFT Számítástechnikai Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NOREG Információvédelmi Kft.; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; Spirity Enterprise Zrt.; Telekom Rendszerintegráció Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; UNIOFFICE Rendszerház Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; VIR Vezetői Információs Rendszerek Szolgáltató Zrt.; ViVeTech Nyrt.; Winformatics Technology Zrt.",
+        "contract_value": 7929000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "20/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8963_2021/",
+        "main_cpv": "72268000-1",
+        "number_companies_win": 22,
+        "procurement_title": "Meglévő IBM licencek bővítése (ILIC20)",
+        "registered_name": "Spirity Enterprise Zrt."
+    },
+    {
+        "company_names": "Business Process Consulting Informatikai és Üzleti Tanácsadó Zrt.; E-ZumIT Kft.; FORNAX SI Nagyvállalati Megoldások Kft.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; IT-CM Kereskedelmi és Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NOREG Információvédelmi Kft.; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Spirity Enterprise Zrt.; Telekom Rendszerintegráció Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; UNIOFFICE Rendszerház Számítástechnikai, Kereskedelmi és Szolgáltató Kft.; VIR Vezetői Információs Rendszerek Szolgáltató Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 2000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "06/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11638_2020/",
+        "main_cpv": "72261000-2",
+        "number_companies_win": 15,
+        "procurement_title": "Meglévő IBM licencek terméktámogatása (ISUP20)",
+        "registered_name": "Spirity Enterprise Zrt."
+    },
+    {
+        "company_names": "IT-CM Kereskedelmi és Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NOREG Információvédelmi Kft.; Poli Computer PC Szolgáltató és Kereskedelmi Kft.; Spirity Enterprise Zrt.; Telekom Rendszerintegráció Zrt.; TRACO Kereskedelmi és Szolgáltató Zrt.; VIR Vezetői Információs Rendszerek Szolgáltató Zrt.",
+        "contract_value": 46020800.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "04/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1183_2021/",
+        "main_cpv": "72261000-2",
+        "number_companies_win": 8,
+        "procurement_title": "Meglévő IBM licencek terméktámogatása (ISUP20)",
+        "registered_name": "Spirity Enterprise Zrt."
+    }
+]

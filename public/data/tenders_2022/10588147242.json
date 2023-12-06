@@ -1,0 +1,90 @@
+[
+    {
+        "company_names": "BIS Hungary Kft.; WARM Szigeteléstechnika Kft.",
+        "contract_value": 5723528528.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
+        "date": "20/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_25280_2019/",
+        "main_cpv": "45321000-3",
+        "number_companies_win": 2,
+        "procurement_title": "Hőszigetelő-bádogos munkák végzése",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 4998804936.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
+        "date": "30/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_25792_2021/",
+        "main_cpv": "45262100-2",
+        "number_companies_win": 0,
+        "procurement_title": "Technológiai épületek és rendszerek állványozása",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 649489900.0,
+        "contracting_authority": "MVM Mátra Energia Zrt.",
+        "date": "01/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_4664_2021/",
+        "main_cpv": "50531100-7",
+        "number_companies_win": 0,
+        "procurement_title": "04/2020 Erőművi berendezések javítása",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 282468782.0,
+        "contracting_authority": "MVM Mátra Energia Zrt.",
+        "date": "02/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0630_2021/",
+        "main_cpv": "45320000-6",
+        "number_companies_win": 0,
+        "procurement_title": "MERT berendezések szigetelési és burkolási munkái",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 167342109.0,
+        "contracting_authority": "MVM Mátra Energia Zrt.",
+        "date": "13/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_19043_2021/",
+        "main_cpv": "50530000-9",
+        "number_companies_win": 0,
+        "procurement_title": "05/2021 II. 670 t/ó kazán léghevítőinek felújítása",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 149073338.0,
+        "contracting_authority": "MVM Mátra Energia Zrt.",
+        "date": "06/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_5297_2021/",
+        "main_cpv": "50530000-9",
+        "number_companies_win": 0,
+        "procurement_title": "ME ZRt 670 t/órás kazán léghevítőinek kosárcserés felújítása",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 120000000.0,
+        "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "10/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11805_2020/",
+        "main_cpv": "50531100-7",
+        "number_companies_win": 0,
+        "procurement_title": "Hőszigetelés karbantartása",
+        "registered_name": "BIS Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 50000000.0,
+        "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "10/08/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15251_2019/",
+        "main_cpv": "51500000-7",
+        "number_companies_win": 0,
+        "procurement_title": "K1, K2, K3, K4 jelű kazánoknál állványzat kiépítése és visszabontása",
+        "registered_name": "BIS Hungary Kft."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 28000000.0,
+        "contracting_authority": "Debreceni Egyetem",
+        "date": "08/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2346_2019/",
+        "main_cpv": "33123200-0",
+        "number_companies_win": 0,
+        "procurement_title": "Életminőség fejlesztése Kelet-Magyarországon - eszközök beszerzése",
+        "registered_name": "\"MSB-MET\" Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 22800000.0,
+        "contracting_authority": "Pécsi Tudományegyetem",
+        "date": "03/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_14499_2021/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Perifériás idegpályák ingerületvezetését mérő rendszer",
+        "registered_name": "\"MSB-MET\" Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 15800000.0,
+        "contracting_authority": "Szegedi Tudományegyetem",
+        "date": "29/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9593_2019/",
+        "main_cpv": "38300000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Egyes kutatás-fejlesztési eszközök beszerzése",
+        "registered_name": "\"MSB-MET\" Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 6500000.0,
+        "contracting_authority": "Debreceni Egyetem",
+        "date": "18/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11315_2021/",
+        "main_cpv": "31640000-4",
+        "number_companies_win": 0,
+        "procurement_title": "DE SKI részére eszközbeszerzés",
+        "registered_name": "\"MSB-MET\" Metodikai- Szoftver- Biotechnológiai- Kutató és Fejlesztő Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "\"BIBLIO-MARKT\" Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Kft.; Aestimator-Terra Kft.; Market Vagyonértékelő Igazságügyi Szakértő Kft.; SERATUS Ingatlan Tanácsadó Igazságügyi Szakértő Kft.",
+        "contract_value": 300000000.0,
+        "contracting_authority": "Nemzeti Földügyi Központ",
+        "date": "05/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7334_2021/",
+        "main_cpv": "70000000-1",
+        "number_companies_win": 4,
+        "procurement_title": "ÉRTÉKBECSLŐI FELADATOK ELLÁTÁSA",
+        "registered_name": "\"BIBLIO-MARKT\" Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "\"BIBLIO-MARKT\" Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Kft.; Aestimator-Terra Kft.; Market Vagyonértékelő Igazságügyi Szakértő Kft.; SERATUS Ingatlan Tanácsadó Igazságügyi Szakértő Kft.",
+        "contract_value": 250000000.0,
+        "contracting_authority": "Nemzeti Földalapkezelő Szervezet",
+        "date": "24/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8975_2019/",
+        "main_cpv": "70000000-1",
+        "number_companies_win": 4,
+        "procurement_title": "Ingatlan értékbecslői feladatok ellátása",
+        "registered_name": "\"BIBLIO-MARKT\" Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 55064160.0,
+        "contracting_authority": "MKK Magyar Követeléskezelő Zrt.",
+        "date": "30/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5032_2020/",
+        "main_cpv": "79419000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Ingatlan-értékbecslés szolgáltatás",
+        "registered_name": "\"BIBLIO-MARKT\" Ingatlanforgalmazó, Kereskedelmi és Szolgáltató Kft."
+    }
+]

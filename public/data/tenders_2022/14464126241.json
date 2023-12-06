@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "4iG Nyrt.; 99999 Informatika Kereskedelmi és Szolgáltató Kft.; ACE Network Zrt.; ALOHA Informatika Kereskedelmi és Szolgáltató KorlátoltFelelősségű Társaság; ANSWARE Informatikai Szolgáltató Kft.; Areus Infokommunikációs Zrt.; ATOS Magyarország Kft.; Delta Systems Kft.; DIGITAL Számitástechnikai Kereskedelmi- és Szolgáltató Kft; Digitran Hungária Digitális Transzformáció Zrt.; EURO ONE Számítástechnikai Zrt.; Gloster Infokommunikációs Nyrt.; GVSX Szolgáltató Kft.; HumanoiT Informatikai Kft.; IMG Solution Zrt.; Inter-Computer-Informatika Számítástechnikai és Kereskedelmi Zrt.; Invitech ICT Services Kft.; iSRV Szolgáltató Zrt.; Kontron Operations Hungary Kft.; M & M COMPUTER Számitás - és Irodatechnikai Kereskedelmi Korlátolt Felelősségü Társaság; M & S Informatikai Zrt.; MHM Computer Hungária Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NETvisor Informatikai és Kommunikációs Zrt.; NTT Magyarország Kereskedelmi és Szolgáltató Kft.; PANOR Informatika Zrt.; PROFESSZIONÁL Informatikai Zrt.; Rufusz Computer Informatika Informatikai Szolgáltató Zártkörűen Működö Részvénytársaság; SCI-Hálózat Távközlési és Hálózatintegrációs Zrt.; SERCO Informatika Kft.; Silicon Computers Számítógép Kereskedelmi Kft.; SYMPORT HOLDING Informatikai Zrt.; Sysman Informatikai Zrt.; Syspro Informatika Zrt.; SzámHEAD Számitástechnikai és Szolgáltató Kft.; Szinva Net Informatikai Zrt.; Telekom Rendszerintegráció Zrt.; TIGRA Computer - és Irodatechnikai Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; USER RENDSZERHÁZ Informatikai Kft.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 80000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "18/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_14405_2021/",
+        "main_cpv": "48820000-2",
+        "number_companies_win": 41,
+        "procurement_title": "Szerverek és tárolók beszerzése (SRVT21)",
+        "registered_name": "SYMPORT HOLDING Informatikai Zrt."
+    },
+    {
+        "company_names": "GAMAX Informatikai és Munkaerő-kölcsönző Kft.; SYMPORT HOLDING Informatikai Zrt.; Telekom Rendszerintegráció Zrt.",
+        "contract_value": 1318394214.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "23/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15425_2021/",
+        "main_cpv": "48730000-4",
+        "number_companies_win": 3,
+        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
+        "registered_name": "SYMPORT HOLDING Informatikai Zrt."
+    },
+    {
+        "company_names": "GAMAX Informatikai és Munkaerő-kölcsönző Kft.; SYMPORT HOLDING Informatikai Zrt.; Telekom Rendszerintegráció Zrt.",
+        "contract_value": 955588921.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "26/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_21464_2020/",
+        "main_cpv": "48730000-4",
+        "number_companies_win": 3,
+        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
+        "registered_name": "SYMPORT HOLDING Informatikai Zrt."
+    },
+    {
+        "company_names": "GAMAX Informatikai és Munkaerő-kölcsönző Kft.; SYMPORT HOLDING Informatikai Zrt.; Telekom Rendszerintegráció Zrt.",
+        "contract_value": 272653500.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "01/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1416_2021/",
+        "main_cpv": "48730000-4",
+        "number_companies_win": 3,
+        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése",
+        "registered_name": "SYMPORT HOLDING Informatikai Zrt."
+    },
+    {
+        "company_names": "GAMAX Informatikai és Munkaerő-kölcsönző Kft.; SYMPORT HOLDING Informatikai Zrt.; Telekom Rendszerintegráció Zrt.",
+        "contract_value": 143419486.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "10/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23680_2021/",
+        "main_cpv": "48730000-4",
+        "number_companies_win": 3,
+        "procurement_title": "IT biztonságtechnikai megoldások és kapcsolódó szolgáltatások beszerzése - 2017",
+        "registered_name": "SYMPORT HOLDING Informatikai Zrt."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 500000000.0,
+        "contracting_authority": "Országgyűlés Hivatala",
+        "date": "15/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_0493_2020/",
+        "main_cpv": "45453100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Felújítási, építési beruházási munkák",
+        "registered_name": "FŐVÁROSI ÉPÍTŐ Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 500000000.0,
+        "contracting_authority": "Országgyűlés Hivatala",
+        "date": "09/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_3959_2021/",
+        "main_cpv": "45453100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Felújítási, építési beruházási munkák végzése",
+        "registered_name": "FŐVÁROSI ÉPÍTŐ Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 39072726.0,
+        "contracting_authority": "Budapesti Történeti Múzeum",
+        "date": "04/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8022_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Leletraktár bővítése, klimatizálása",
+        "registered_name": "FŐVÁROSI ÉPÍTŐ Zrt."
+    }
+]

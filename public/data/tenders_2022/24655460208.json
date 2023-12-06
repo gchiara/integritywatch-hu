@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Középülettervező Zrt.; TSPC Mérnökiroda Kft.",
+        "contract_value": 445000000.0,
+        "contracting_authority": "Veszprém Megyei Jogú Város Önkormányzata",
+        "date": "17/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_8207_2019/",
+        "main_cpv": "71220000-6",
+        "number_companies_win": 2,
+        "procurement_title": "Veszprémi Petőfi Színház tervezési feladatok",
+        "registered_name": "TSPC Mérnökiroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 159000000.0,
+        "contracting_authority": "Győr Megyei Jogú Város Önkormányzata",
+        "date": "19/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_7950_2020/",
+        "main_cpv": "71300000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Győri vízi élménypark kialakítása -műszaki ellenőr",
+        "registered_name": "TSPC Mérnökiroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 65000000.0,
+        "contracting_authority": "Nemzeti Ménesbirtok és Tangazdaság Zrt.",
+        "date": "14/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19170_2021/",
+        "main_cpv": "71300000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Öntözés fejlesztés műszaki ellenőrzése",
+        "registered_name": "TSPC Mérnökiroda Kft."
+    }
+]

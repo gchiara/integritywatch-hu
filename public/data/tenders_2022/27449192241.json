@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 9766843773.0,
+        "contracting_authority": "Bárka Kőbányai Humánszolgáltató Központ, Budapest Főváros X. Kerület Kőbányai Önkormányzat, Kőbányai Bóbita Óvoda, Kőbányai Gesztenye Óvoda, Kőbányai Gézengúz Óvoda, Kőbányai Gyermekek Háza Óvoda, Kőbányai Gyöngyike Óvoda, Kőbányai Hárslevelű Óvoda, Kőbányai Kékvirág Óvoda, Kőbányai Kincskeresők Óvoda, Kőbányai Kiskakas Óvoda, Kőbányai Mászóka Óvoda, Kőbányai Mocorgó Óvoda",
+        "date": "07/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_421/megtekint/portal_18842_2019/",
+        "main_cpv": "55520000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közétkeztetés szolgáltatás nyújtása",
+        "registered_name": "Kórház- és Menzaétkeztetés Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 982366365.0,
+        "contracting_authority": "Budakeszi Város Önkormányzata",
+        "date": "17/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_421/megtekint/portal_16227_2020/",
+        "main_cpv": "55520000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közétkeztetés",
+        "registered_name": "Kórház- és Menzaétkeztetés Szolgáltató Zrt."
+    },
+    {
+        "company_names": "K.O.0.1. Trade Kereskedelmi és Szolgáltató Kft.; Kórház- és Menzaétkeztetés Szolgáltató Kft.",
+        "contract_value": 225000000.0,
+        "contracting_authority": "Adyligeti Rendészeti Szakgimnázium",
+        "date": "18/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6587_2019/",
+        "main_cpv": "55524000-9",
+        "number_companies_win": 2,
+        "procurement_title": "Adyligeti Rendészeti Szakgimnázium konyha és étterem üzemeltetése bérleti szerződéssel",
+        "registered_name": "Kórház- és Menzaétkeztetés Szolgáltató Zrt."
+    }
+]

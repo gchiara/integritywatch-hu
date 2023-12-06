@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "\"Sharan\" Erősáramú Villamosipari Kft.; MECSEK-26. Építő és Szolgáltató Kft.",
+        "contract_value": 1700600000.0,
+        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zrt.",
+        "date": "17/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6296_2019/",
+        "main_cpv": "45232220-0",
+        "number_companies_win": 2,
+        "procurement_title": "Komárom Ipari Park alállomás létesítése",
+        "registered_name": "\"Sharan\" Erősáramú Villamosipari Kft."
+    },
+    {
+        "company_names": "\"Sharan\" Erősáramú Villamosipari Kft.; MECSEK-26. Építő és Szolgáltató Kft.",
+        "contract_value": 766458000.0,
+        "contracting_authority": "E.ON Dél-dunántúli Áramhálózati Zrt.",
+        "date": "12/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_20897_2020/",
+        "main_cpv": "45232220-0",
+        "number_companies_win": 2,
+        "procurement_title": "Mözs alállomás építés",
+        "registered_name": "\"Sharan\" Erősáramú Villamosipari Kft."
+    },
+    {
+        "company_names": "\"Sharan\" Erősáramú Villamosipari Kft.; MaxiContech Vállalkozási és Kereskedelmi Kft.; MECSEK-26. Építő és Szolgáltató Kft.",
+        "contract_value": 427000180.0,
+        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zrt.",
+        "date": "31/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_5182_2021/",
+        "main_cpv": "45232220-0",
+        "number_companies_win": 3,
+        "procurement_title": "Gyermely transzformátor állomás létesítése",
+        "registered_name": "\"Sharan\" Erősáramú Villamosipari Kft."
+    },
+    {
+        "company_names": "\"Sharan\" Erősáramú Villamosipari Kft.; MECSEK-26. Építő és Szolgáltató Kft.; ZSOLDOS Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 167200000.0,
+        "contracting_authority": "E.ON Észak-dunántúli Áramhálózati Zrt.",
+        "date": "10/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19053_2019/",
+        "main_cpv": "45232220-0",
+        "number_companies_win": 3,
+        "procurement_title": "Oroszlány Ipari Park alállomás bővítés",
+        "registered_name": "\"Sharan\" Erősáramú Villamosipari Kft."
+    }
+]

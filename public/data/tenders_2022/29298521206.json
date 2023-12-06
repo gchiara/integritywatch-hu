@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 53288340.0,
+        "contracting_authority": "Csanádpalota Városi Önkormányzat",
+        "date": "29/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13081_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Építési beruházás",
+        "registered_name": "SAPI-VILL Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 35533966.0,
+        "contracting_authority": "Magyarcsanád Községi Önkormányzat",
+        "date": "19/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_3063_2019/",
+        "main_cpv": "45200000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Önkormányzat épületeinek átalakítása, korszerűsítése",
+        "registered_name": "SAPI-VILL Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 17473761.0,
+        "contracting_authority": "Makó Város Önkormányzata",
+        "date": "13/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19813_2021/",
+        "main_cpv": "45213316-1",
+        "number_companies_win": 0,
+        "procurement_title": "Járdaprogram 2021",
+        "registered_name": "SAPI-VILL Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 16800000.0,
+        "contracting_authority": "Makó Város Önkormányzata",
+        "date": "16/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12657_2019/",
+        "main_cpv": "45213316-1",
+        "number_companies_win": 0,
+        "procurement_title": "Makó járdafelújítás",
+        "registered_name": "SAPI-VILL Kereskedelmi és Szolgáltató Kft."
+    }
+]

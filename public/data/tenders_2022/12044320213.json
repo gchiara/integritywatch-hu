@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 31920000.0,
+        "contracting_authority": "Kulturális és Innovációs Minisztérium",
+        "date": "13/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_20609_2020/",
+        "main_cpv": "72250000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Informatikai üzemeltetési feladatok ellátása",
+        "registered_name": "IC KENTAUR Számitástechnikai Szolgáltató Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": 25536000.0,
+        "contracting_authority": "Kulturális és Innovációs Minisztérium",
+        "date": "08/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12400_2019/",
+        "main_cpv": "72250000-2, 72260000-5, 72267100-0, 72300000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Az Emberi Erőforrások Minisztériuma egyes informatikai rendszereihez kapcsolódó üzemeltetési feladatok ellátása",
+        "registered_name": "IC KENTAUR Számitástechnikai Szolgáltató Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": 25200000.0,
+        "contracting_authority": "Kulturális és Innovációs Minisztérium",
+        "date": "13/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_0431_2021/",
+        "main_cpv": "72250000-2",
+        "number_companies_win": 0,
+        "procurement_title": "AP és RINA szoftverüzemeltetés",
+        "registered_name": "IC KENTAUR Számitástechnikai Szolgáltató Korlátolt Felelősségü Társaság"
+    },
+    {
+        "company_names": "",
+        "contract_value": 22920000.0,
+        "contracting_authority": "Kulturális és Innovációs Minisztérium",
+        "date": "04/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19040_2019/",
+        "main_cpv": "72250000-2",
+        "number_companies_win": 0,
+        "procurement_title": "EESSI informatikai rendszereihez üzemeltetés",
+        "registered_name": "IC KENTAUR Számitástechnikai Szolgáltató Korlátolt Felelősségü Társaság"
+    }
+]

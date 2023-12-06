@@ -1,0 +1,68 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 2797245000.0,
+        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
+        "date": "12/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_19356_2021/",
+        "main_cpv": "33111000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közúti röntgen beszerzés",
+        "registered_name": "Z&Z Biztonságtechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 113159396.0,
+        "contracting_authority": "Országgyűlés Hivatala",
+        "date": "18/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_2582_2019/",
+        "main_cpv": "35121000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Csomagvizsgálók, keresőkapuk beszerzése",
+        "registered_name": "Z&Z Biztonságtechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 103218000.0,
+        "contracting_authority": "Készenléti Rendőrség",
+        "date": "12/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_9951_2020/",
+        "main_cpv": "35200000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Hordozható digitális röntgen berendezések",
+        "registered_name": "Z&Z Biztonságtechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 30347838.0,
+        "contracting_authority": "Nyíregyházi Törvényszék",
+        "date": "24/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11494_2021/",
+        "main_cpv": "35120000-1",
+        "number_companies_win": 0,
+        "procurement_title": "3 db röntgen csomagvizsgáló berendezés beszerzése",
+        "registered_name": "Z&Z Biztonságtechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 27769306.0,
+        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
+        "date": "08/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23967_2021/",
+        "main_cpv": "38581000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Kézipoggyász és csomagellenőrző röntgen beszerzése",
+        "registered_name": "Z&Z Biztonságtechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 17686060.0,
+        "contracting_authority": "Magyarországi Zsidó Hitközségek Szövetsége",
+        "date": "07/02/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_2007_2020/",
+        "main_cpv": "35121000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Személyvizsgáló berendezések beszerzése",
+        "registered_name": "Z&Z Biztonságtechnika Kft."
+    }
+]

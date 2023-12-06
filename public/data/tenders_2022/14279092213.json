@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 300000000.0,
+        "contracting_authority": "Magyar Közút Nonprofit Zrt.",
+        "date": "29/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25671_2021/",
+        "main_cpv": "45500000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Finisher, henger és aszfaltmaró bérlése kezelővel",
+        "registered_name": "RBM Úttechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 123570069.0,
+        "contracting_authority": "Felsőpakony Nagyközség Önkormányzata",
+        "date": "17/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18167_2021/",
+        "main_cpv": "45233162-2",
+        "number_companies_win": 0,
+        "procurement_title": "Felsőpakony Kerékpárút építés",
+        "registered_name": "RBM Úttechnika Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 47366000.0,
+        "contracting_authority": "Vecsés Város Önkormányzata",
+        "date": "18/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_10747_2020/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "A vecsési Rózsa utca felújítási munkái",
+        "registered_name": "RBM Úttechnika Kft."
+    }
+]

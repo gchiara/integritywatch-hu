@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 50712348.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "16/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16575_2020/",
+        "main_cpv": "90911200-8",
+        "number_companies_win": 0,
+        "procurement_title": "SE ETK épületeinek teljeskörű takarítása",
+        "registered_name": "Czégel Takarító és Személy- vagyonvédelmi Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 44100000.0,
+        "contracting_authority": "Budapesti Történeti Múzeum",
+        "date": "31/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_16093_2021/",
+        "main_cpv": "90911200-8",
+        "number_companies_win": 0,
+        "procurement_title": "Budapesti Történeti M. telephelyeinek takarítása",
+        "registered_name": "Czégel Takarító és Személy- vagyonvédelmi Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 36860000.0,
+        "contracting_authority": "Budapesti Történeti Múzeum",
+        "date": "31/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14341_2019/",
+        "main_cpv": "90911200-8",
+        "number_companies_win": 0,
+        "procurement_title": "BTM telephelyeinek takarítása",
+        "registered_name": "Czégel Takarító és Személy- vagyonvédelmi Szolgáltató Kft."
+    }
+]

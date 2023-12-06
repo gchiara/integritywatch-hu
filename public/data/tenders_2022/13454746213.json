@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 95455000.0,
+        "contracting_authority": "Ózdi Almási Balogh Pál Kórház",
+        "date": "24/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6287_2019/",
+        "main_cpv": "39300000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Fertőtlenítő eszközök beszerzése",
+        "registered_name": "M-Solution Mérnöki Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 70494000.0,
+        "contracting_authority": "Boldog Gellért Egészségügyi Közhasznú Nonprofit Kft.",
+        "date": "05/03/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_1896_2019/",
+        "main_cpv": "39330000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Betegbiztonsági fejlesztések VEKOP támogatásból",
+        "registered_name": "M-Solution Mérnöki Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 64848000.0,
+        "contracting_authority": "Budapesti Uzsoki Utcai Kórház",
+        "date": "07/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19003_2019/",
+        "main_cpv": "39811200-2",
+        "number_companies_win": 0,
+        "procurement_title": "Légtechnikai fertőtlenítő berendezések beszerzése",
+        "registered_name": "M-Solution Mérnöki Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 19037000.0,
+        "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
+        "date": "31/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_14358_2019/",
+        "main_cpv": "39811200-2",
+        "number_companies_win": 0,
+        "procurement_title": "Légfertőtlenítő rendszer beszerzése",
+        "registered_name": "M-Solution Mérnöki Tanácsadó Kft."
+    }
+]

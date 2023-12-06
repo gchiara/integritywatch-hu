@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Chrome-Soft Informatikai, Kiadói és Grafikai Kft.; INTERMAP Térinformatikai és Közigazgatás-fejlesztési Iroda Kft.",
+        "contract_value": 78125000.0,
+        "contracting_authority": "Magyar Vitorlás Akadémia Nonprofit Kft.",
+        "date": "08/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_24560_2018/",
+        "main_cpv": "63513000-8",
+        "number_companies_win": 2,
+        "procurement_title": "Aktív turisztikai hálózatfejlesztés szolgáltatás",
+        "registered_name": "INTERMAP Térinformatikai és Közigazgatás-fejlesztési Iroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 45897410.0,
+        "contracting_authority": "Debreceni Egyetem",
+        "date": "01/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18697_2021/",
+        "main_cpv": "38900000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Digitális mérőműszerek beszerzése",
+        "registered_name": "INTERMAP Térinformatikai és Közigazgatás-fejlesztési Iroda Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 10280000.0,
+        "contracting_authority": "Törökbálint Város Önkormányzata",
+        "date": "17/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_8679_2021/",
+        "main_cpv": "71241000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Közlekedési koncepció beszerzése",
+        "registered_name": "INTERMAP Térinformatikai és Közigazgatás-fejlesztési Iroda Kft."
+    }
+]

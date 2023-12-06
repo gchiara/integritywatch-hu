@@ -1,0 +1,90 @@
+[
+    {
+        "company_names": "Díjbeszedő Holding Zrt.; Magyar Posta Zrt.; MVM Ügyfélkapcsolati Kft.",
+        "contract_value": 3730000000.0,
+        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.",
+        "date": "01/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1203_2021/",
+        "main_cpv": "79940000-5",
+        "number_companies_win": 3,
+        "procurement_title": "Komplex ügyviteltámogatási feladatok ellátása",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "Díjbeszedő Faktorház Zrt.; Díjbeszedő Holding Zrt.",
+        "contract_value": 3646802000.0,
+        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.",
+        "date": "12/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5829_2021/",
+        "main_cpv": "79999200-5",
+        "number_companies_win": 2,
+        "procurement_title": "Számlázás és követelésértékesítés – Budapest",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "Díjbeszedő Faktorház Zrt.; Díjbeszedő Holding Zrt.",
+        "contract_value": 1345055000.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
+        "date": "14/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25320_2019/",
+        "main_cpv": "79999200-5",
+        "number_companies_win": 2,
+        "procurement_title": "Számlázás, ügyfélszolgálat, követelésvásárlás",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1165747920.0,
+        "contracting_authority": "Fővárosi Csatornázási Művek Zrt.",
+        "date": "14/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_25320_2019/",
+        "main_cpv": "79999200-5",
+        "number_companies_win": 0,
+        "procurement_title": "Számlázás, ügyfélszolgálat, követelésvásárlás",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "Díjbeszedő Faktorház Zrt.; Díjbeszedő Holding Zrt.",
+        "contract_value": 670084800.0,
+        "contracting_authority": "MVM Next Energiakereskedelmi Zrt.",
+        "date": "25/02/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_2928_2020/",
+        "main_cpv": "79940000-5",
+        "number_companies_win": 2,
+        "procurement_title": "Díjbeszedési tevékenység ellátása",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 273149000.0,
+        "contracting_authority": "Nemzeti Eszközkezelő Zrt.",
+        "date": "15/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_0528_2019/",
+        "main_cpv": "79999200-5",
+        "number_companies_win": 0,
+        "procurement_title": "Bérlőmenedzsmenti feladatok",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 45980000.0,
+        "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "12/02/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_2563_2019/",
+        "main_cpv": "64121100-1",
+        "number_companies_win": 0,
+        "procurement_title": "Kézbesítési szolgáltatás",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 19200000.0,
+        "contracting_authority": "Fővárosi Közterület-fenntartó Zártkörűen Működő Nonprofit Részvénytársaság",
+        "date": "16/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_6471_2020/",
+        "main_cpv": "79824000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Kézbesítési szolgáltatás",
+        "registered_name": "Díjbeszedő Holding Zrt."
+    }
+]

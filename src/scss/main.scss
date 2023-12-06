@@ -4,11 +4,27 @@ $color_TI_darker: darken( $color_TI, 20% );
 //$color_lobby: #42b983;
 $color_lobby: #fc3503;
 
-/* HEADER */
 
+/* TOP SPACING*/
+#app {
+  padding-top: 80px;
+  &.organizations-page, &.owners-page {
+    @media only screen and (min-width: 992px) {
+      padding-top: 150px;
+    }
+  }
+}
+
+/* HEADER */
 #iw-nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  z-index: 100;
   font-family: 'Open Sans', sans-serif;
   padding: 10px 25px;
+  box-shadow: 0px 2px 2px rgba(0,0,0,0.1); 
   .navbar-brand {
     img {
       height: 60px;
@@ -49,7 +65,7 @@ $color_lobby: #fc3503;
       position: relative;
       top: 3px;
       transition: .4s all;
-      &:hover, &:active {
+      &:hover, &.active {
         color: #fff;
         background: $color_TI_darker;
       }
@@ -87,6 +103,15 @@ $color_lobby: #fc3503;
     }
   }
 }
+.navbar-collapse {
+  @media only screen and (max-width: 991px) {
+    background: #ffffff;
+    width: 100%;
+    margin-top: 0px;
+    margin-right: -25px;
+    margin-left: -25px;
+  }
+}
 
 /* TOP DESCRIPTION BOX */
 .top-description-container {
@@ -113,6 +138,11 @@ $color_lobby: #fc3503;
       .h1-smaller {
         font-size: 35px;
       }
+    }
+    .top-description-year {
+      font-size: 30px;
+      font-weight: 600;
+      margin-bottom: 10px;
     }
     h2 {
       font-size: 23px;
@@ -408,22 +438,32 @@ $color_lobby: #fc3503;
 
 .footer-bar {
   //background: rgba(darken($color_TI, 10%),0.98);
-  background: darken($color_TI, 5%);
+  //background: darken($color_TI, 5%);
+  background: $color_TI;
   //background: $color_TI;
   position: fixed;
   bottom: 0;
   left: 0;
   position: fixed;
   box-shadow: 0px -2px 2px rgba(0,0,0,0.1); 
-  z-index: 10000;
+  z-index: 1000;
+  @media only screen and (min-width: 992px) {
+    bottom: auto;
+    top: 80px;
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.1); 
+  }
   .footer-col {
     height: 70px;
+  }
+  .footer-col-search {
+    max-width: 420px !important;
   }
   .footer-input {
     position: absolute;
     top: 50%;
     left: 25px;
-    width: 80%;
+    right: 0;
+    //width: 80%;
     -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -495,9 +535,37 @@ $color_lobby: #fc3503;
       }
     }
   }
-  .reset-btn {
+  .footer-buttons-right {
     position: absolute;
     right: 25px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  }
+  .footer-buttons-right {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    button {
+      color: #fff;
+      background: none;
+      border: none;
+      cursor: pointer;
+      position: relative;
+      vertical-align: middle;
+      i {
+        font-size: 35px;
+        vertical-align: middle;
+      }
+    }
+  }
+  .reset-btn {
+    position: absolute;
+    right: 80px;
     top: 50%;
     -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
@@ -518,14 +586,14 @@ $color_lobby: #fc3503;
       font-size: 15px;
       line-height: 26px;
       text-transform: uppercase;
-      @media only screen and (max-width: 767px) {
+      @media only screen and (max-width: 992px) {
         display: none;
       }
     }
     i {
       vertical-align: middle;
       margin-right: 10px;
-      @media only screen and (max-width: 767px) {
+      @media only screen and (max-width: 992px) {
         margin-right: 0;
       }
     }
@@ -934,11 +1002,50 @@ th:nth-child(3) {
   }
 }
 
+.year-select-container {
+  text-align: left;
+  padding-left: 5px;
+  span {
+    padding: 0 5px;
+    font-weight: 600;
+    font-size: 16px;
+  }
+  .link-button {
+    border: none;
+    color: #fff;
+    display: inline-block;
+    margin: 5px 5px;
+    padding: 8px 15px;
+    border-radius: 2px;
+    width: auto;
+    max-width: 90%;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #2a7aae;
+    text-decoration: none;
+    transition: all .4s;
+    &:hover {
+      color: #fff;
+      background-color: #1a6a9e;
+    }
+    &.active {
+      color: #fff;
+      background-color: #205d85;
+    }
+  }
+}
+
 /* DC legend vertical alignment fix */
 .dc-legend{
   .dc-legend-item {
     rect  {
       y: -5px !important;
+    }
+    @supports (-moz-appearance:none) {
+      rect  {
+        y: 0px !important;
+      }
     }
   }
 }

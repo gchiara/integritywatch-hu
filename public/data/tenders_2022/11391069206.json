@@ -1,0 +1,101 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 4545794780.0,
+        "contracting_authority": "Népfőiskola Alapítvány",
+        "date": "04/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_23501_2018/",
+        "main_cpv": "45212000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Építési beruházás",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 2665968150.0,
+        "contracting_authority": "Délalföldi Kertészek Zöldség-Gyümölcs Termelői és Értékesítő Mezőgazdasági Szövetkezete",
+        "date": "06/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23867_2021/",
+        "main_cpv": "45213210-8",
+        "number_companies_win": 0,
+        "procurement_title": "Új komplex logisztikai csarnoképület építése",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "FERROÉP Fővállalkozó és Szerelőipari Zrt.; Possibuild Építőipari és Szolgáltató Kft.",
+        "contract_value": 2093071473.0,
+        "contracting_authority": "Szeged-Csanádi Egyházmegye",
+        "date": "13/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_24385_2021/",
+        "main_cpv": "45212314-0",
+        "number_companies_win": 2,
+        "procurement_title": "Vántus Zeneművészeti Szakközép - Kivitelezés",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1737831791.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
+        "date": "08/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22467_2020/",
+        "main_cpv": "45453100-8",
+        "number_companies_win": 0,
+        "procurement_title": "ELI Science Park Inkubátorház-Szeged",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1345053906.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
+        "date": "20/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13656_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "SZTE-ÁJK Épület fejlesztés",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 643231266.0,
+        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Kft.",
+        "date": "03/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_17007_2021/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 0,
+        "procurement_title": "BME V2 és Goldmann épületek bontási munkái",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 417074263.0,
+        "contracting_authority": "Népfőiskola Alapítvány",
+        "date": "04/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_5889_2019/",
+        "main_cpv": "45215110-1",
+        "number_companies_win": 0,
+        "procurement_title": "A Hotel Club Tisza wellnessépületének kivitelezése",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 259586903.0,
+        "contracting_authority": "Népfőiskola Alapítvány",
+        "date": "10/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_1763_2019/",
+        "main_cpv": "45213200-5",
+        "number_companies_win": 0,
+        "procurement_title": "Raktárépület, déli kerítés és tájépítés",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 251508944.0,
+        "contracting_authority": "KIVING Ingatlangazdálkodó és Beruházásszervező Kft.",
+        "date": "27/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_13593_2020/",
+        "main_cpv": "45453100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Kiszombor, Rónay sírkert helyreállítása",
+        "registered_name": "FERROÉP Fővállalkozó és Szerelőipari Zrt."
+    }
+]

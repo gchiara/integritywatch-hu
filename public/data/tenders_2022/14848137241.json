@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 39751000.0,
+        "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem, Nyugat-Dunántúli Vízügyi Igazgatóság",
+        "date": "25/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22537_2019/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Árvízi előrejelző rendszer fejlesztése",
+        "registered_name": "DHI Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 32073798.0,
+        "contracting_authority": "Budapesti Műszaki és Gazdaságtudományi Egyetem, Észak-Dunántúli Vízügyi Igazgatóság, Nyugat-Dunántúli Vízügyi Igazgatóság",
+        "date": "25/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_22533_2019/",
+        "main_cpv": "48460000-0",
+        "number_companies_win": 0,
+        "procurement_title": "Központi és alközponti alapszoftverek beszerzése",
+        "registered_name": "DHI Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 23611427.0,
+        "contracting_authority": "VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Nonprofit Kft.",
+        "date": "04/06/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_10014_2019/",
+        "main_cpv": "48000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "MIKE szoftverlicenszek vásárlása",
+        "registered_name": "DHI Hungary Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 18811024.0,
+        "contracting_authority": "Nyugat-Dunántúli Vízügyi Igazgatóság",
+        "date": "07/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_10544_2021/",
+        "main_cpv": "71300000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Árvízi előrejelző keretrendszer kifejlesztése",
+        "registered_name": "DHI Hungary Kft."
+    }
+]

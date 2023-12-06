@@ -45,36 +45,44 @@ var vuedata = {
   showInfo: true,
   showShare: true,
   chartMargin: 40,
+  selectedYear: '2022',
+  parameterYears: '2019-2021',
   charts: {
     topOwners: {
-      title: 'A legtöbb közbeszerzést elnyerő végső tulajdonosok, 2018-2020',
+      title: 'Legtöbb közbeszerzést elnyerő végső tulajdonosok',
       info: 'A legtöbb közbeszerzést elnyerő végső tulajdonosok a 2021-ben tulajdonolt, vizsgált érdekeltségeik által összesen, 2018. január 01. és 2020. december 31. között elnyert közbeszerzések értéke szerint rangsorolva. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. A felületen azon cégek végső tulajdonosai szerepelnek, akiknek a személye ismert a nyilvánosan hozzáférhető céginformációs adatokból. Az ábrán azon tulajdonosok szerepelnek névvel, akik a vizsgált cégek többségében legalább 25%-os részesedéssel rendelkeznek. A kritériumnak nem megfelelő tulajdonosok név nélkül, sorszámmal szerepelnek adatvédelmi okok miatt.',
-      filter: 'total_amount_won_2018_2020'
+      info_2022: 'A legtöbb közbeszerzést elnyerő végső tulajdonosok a 2022-ben tulajdonolt, vizsgált érdekeltségeik által összesen, 2019. január 01. és 2021. december 31. között elnyert közbeszerzések értéke szerint rangsorolva.  Az ábra feletti szürke nyílra kattintva megjeleníthetőek az almutatók. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. A felületen azon cégek végső tulajdonosai szerepelnek, akiknek a személye ismert a nyilvánosan hozzáférhető céginformációs adatokból. Az ábrán azon tulajdonosok szerepelnek névvel, akik a vizsgált cégek többségében legalább 25%-os részesedéssel rendelkeznek. A kritériumnak nem megfelelő tulajdonosok név nélkül, sorszámmal szerepelnek adatvédelmi okok miatt.',
+      filter: 'total_amount_won'
     },
     politicalConnections: {
-      title: 'Végső tulajdonosok száma a betöltött közhatalmi pozícióinak száma szerint',
-      info: 'A vizsgált cégek végső tulajdonosainak száma a 2010. január 01. és 2022. szeptember 30.  között a betöltött közhatalmi pozíciók száma szerint. Vizsgálatunk során a kormánytagként ellátott, kormánybiztosi, államtitkári és helyettes államtitkári, parlamenti képviselői, a közérdekű vagyonkezelő alapítványok élén, illetve állami cégek vezetőjeként vagy megyei jogú városok polgármesterek, jegyzőjeként vállalt mandátumokat vettük figyelembe. A legalább egy közhatalmi pozíciót betöltő végső tulajdonosok esetében figyelmeztető jelzés szerepel. Ezt a jelzést különösen azért tartjuk fontosnak, mert közhatalmai pozíciója vagy az azon keresztül létesített direkt kapcsolatai révén az adott vállalkozás tulajdonosa előnyre tehet szert a tekintetben, hogy a közbeszerzési eljárások során kedvező elbírálás alá essenek ajánlatai.'
+      title: 'Betöltött közhatalmi pozíciók száma',
+      info: 'A mutató azt vizsgálja hogy a végső tulajdonosok hány különböző közhatalmi pozíciót töltöttek be  2010. január 01. és 2022. szeptember 30.  között. A grafikonon a végső tulajdonosok száma látható a szerint, hogy mennyi különböző közhatalmi pozícióval rendelkeztek. Vizsgálatunk során a kormánytagként ellátott, kormánybiztosi, államtitkári és helyettes államtitkári, parlamenti képviselői, a közérdekű vagyonkezelő alapítványok élén, illetve állami cégek vezetőjeként vagy megyei jogú városok polgármesterek, jegyzőjeként vállalt mandátumokat vettük figyelembe. A legalább egy közhatalmi pozíciót betöltő végső tulajdonosok esetében figyelmeztető jelzés szerepel. Ezt a jelzést azért tartjuk különösen fontosnak, mert közhatalmai pozíciója vagy az azon keresztül létesített direkt kapcsolatai révén az adott vállalkozás tulajdonosa előnyre tehet szert a tekintetben, hogy a közbeszerzési eljárások során kedvező elbírálás alá essenek ajánlatai.',
+      info_2022: 'A mutató azt vizsgálja hogy a végső tulajdonosok hány különböző közhatalmi pozíciót töltöttek be  2010. január 01. és 2023. szeptember 30.  között. A grafikonon a végső tulajdonosok száma látható aszerint, hogy mennyi különböző közhatalmi pozícióval rendelkeztek. Vizsgálatunk során a kormánytagként ellátott, kormánybiztosi, államtitkári és helyettes államtitkári, parlamenti képviselői, a közérdekű vagyonkezelő alapítványok élén, illetve állami cégek vezetőjeként vagy megyei jogú városok polgármesterek, jegyzőjeként vállalt mandátumokat vettük figyelembe. A legalább egy közhatalmi pozíciót betöltő végső tulajdonosok esetében figyelmeztető jelzés szerepel. Ezt a jelzést azért tartjuk különösen fontosnak, mert közhatalmai pozíciója vagy az azon keresztül létesített direkt kapcsolatai révén az adott vállalkozás tulajdonosa előnyre tehet szert a tekintetben, hogy a közbeszerzési eljárások során kedvező elbírálás alá essenek ajánlatai.'
     },
     amountWonPoliticalConnection: {
-      title: 'Az elnyert közbeszezések összesített értéke közhatalmi pozíciók szerint, 2018-2020 (Ft)',
-      info: 'Az összes vizsgált végső tulajdonos érdekeltségei által, 2018. január 1. és 2020. december 31. között elnyert közbeszerzések összesített értéke a végső tulajdonos által betöltött közhatalmi pozíció szerint. Vizsgálatunk során a kormánytagként ellátott, kormánybiztosi, államtitkári és helyettes államtitkári, parlamenti képviselői, a közérdekű vagyonkezelő alapítványok élén, illetve állami cégek vezetőjeként vagy megyei jogú városok polgármesterek, jegyzőjeként a 2010. január 01. és 2022. szeptember 30. között vállalt mandátumokat vettük figyelembe. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre.'
+      title: 'Közbeszerzések értéke közhatalmi pozíció szerint',
+      info: 'Az összes vizsgált végső tulajdonos érdekeltségei által, 2018. január 1. és 2020. december 31. között elnyert közbeszerzések összesített értéke a végső tulajdonos által betöltött közhatalmi pozíció szerint. Vizsgálatunk során a kormánytagként ellátott, kormánybiztosi, államtitkári és helyettes államtitkári, parlamenti képviselői, a közérdekű vagyonkezelő alapítványok élén, illetve állami cégek vezetőjeként vagy megyei jogú városok polgármesterek, jegyzőjeként a 2010. január 01. és 2022. szeptember 30. között vállalt mandátumokat vettük figyelembe. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre.',
+      info_2022: 'Az összes vizsgált végső tulajdonos érdekeltségei által, 2019. január 1. és 2021. december 31. között elnyert közbeszerzések összesített értéke a végső tulajdonos által betöltött közhatalmi pozíció szerint. Vizsgálatunk során a kormánytagként ellátott, kormánybiztosi, államtitkári és helyettes államtitkári, parlamenti képviselői, a közérdekű vagyonkezelő alapítványok élén, illetve állami cégek vezetőjeként vagy megyei jogú városok polgármesterek, jegyzőjeként a 2010. január 01. és 2023. szeptember 30. között vállalt mandátumokat vettük figyelembe. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. A legalább egy közhatalmi pozíciót betöltő végső tulajdonosok esetében figyelmeztető jelzés szerepel.'
     },
     amountWon: {
-      title: 'Végső tulajdonosok száma az összes érdekeltségük által elnyert közbeszerzések értéke szerint',
+      title: 'Az összes érdekeltség közbeszerzéseinek együttes értéke',
       info: 'Végső tulajdonosok száma a 2021-ben tulajdonolt, vizsgált érdekeltségeik által összesen, 2018. január 01. és 2020. december 31. között elnyert közbeszerzések értéke szerint rangsorolva. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. Figyelmeztető jelzés szerepel azoknál a végső tulajdonosoknál, ahol az az összes tulajdonolt cég által elnyert közbeszerzések értéke legalább 5 milliárd forintot ért el, és a vizsgált cégek többségében legalább 25%-os részesedéssel rendelkeznek. Ez a mutató a piaci koncentrációra világít rá, vagyis hogy kik azok a végső tulajdonosok, akik cégeiken keresztül a legmagasabb értékben nyertek el közbeszerzéseket.',
+      info_2022: 'Végső tulajdonosok száma a 2022-ben tulajdonolt, vizsgált érdekeltségeik által összesen, 2019. január 01. és 2021. december 31. között elnyert közbeszerzések értéke szerint rangsorolva. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. Figyelmeztető jelzés szerepel azoknál a végső tulajdonosoknál, ahol az az összes tulajdonolt cég által elnyert közbeszerzések értéke legalább 5 milliárd forintot ért el, és a vizsgált cégek többségében legalább 25%-os részesedéssel rendelkeznek. Ez a mutató a piaci koncentrációra világít rá, vagyis hogy kik azok a végső tulajdonosok, akik cégeiken keresztül a legmagasabb értékben nyertek el közbeszerzéseket.',
       filter: 'amount_won_category'
     },
     percentageTenders: {
-      title: 'Végső tulajdonosok száma a cégeik által elnyert eljárások összes értékének aránya szerint, 2018-2020 (%)',
-      info: 'Végső tulajdonosok száma a 2021-ben tulajdonolt, vizsgált érdekeltségeik által összesen, 2018. január 01. és 2020. december 31. között elnyert közbeszerzések értékének aránya szerint rangsorolva az összes vizsgált eljárás értékéhez viszonyítva. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre.'
+      title: 'Az elnyert érték súlya az összes vizsgált közbeszerzésen belül',
+      info: 'A mutató azt vizsgálja, hogy a tulajdonosok 2021-es érdekeltségei által 2018-2020-ban összesen elnyert közbeszerzések mekkora arányt (%) képviselnek az összes vizsgált eljárás értékéhez viszonyítva, amely 8,9 ezer milliárd forintot tett ki. A grafikon az egyes sávokba tartozó végső tulajdonosok számát (fő) mutatja.  A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre.',
+      info_2022: 'A mutató azt vizsgálja, hogy a tulajdonosok 2022-es érdekeltségei által 2019-2021-ben összesen elnyert közbeszerzések mekkora arányt (%) képviselnek az összes vizsgált eljárás értékéhez viszonyítva, amely 8,9 ezer milliárd forintot tett ki. A grafikon az egyes sávokba tartozó végső tulajdonosok számát (fő) mutatja.  A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. '
     },
     pressMentions: {
-      title: 'Végső tulajdonosok száma a közpénzekkel kapcsolatos cikkekben való megjelenések száma szerint (db)',
-      info: 'A tulajdonosok korábbi közpénzhasználati gyakorlatát övező visszásságok jelentős részére hagyományos módon a sajtóból derül fény, ezért is alkalmaztuk kiegészítő jelzésként, hogy a vizsgált cégek végső tulajdonosai megjelennek-e és ha igen, hányszor fordulnak elő a K-Monitor (https://adatbazis.k-monitor.hu/index.html) közpénzfelhasználásról és átláthatóságról szóló sajtóadatbázisában. Adatbázisunkban a lekérdezés idején (2022.12.05.)  2010 után megjelent cikkekben legalább 2 találattal rendelkező személyeket jelöltük figyelmeztető jelzéssel.'
+      title: 'Említések száma a sajtóban',
+      info: 'A tulajdonosok korábbi közpénzhasználati gyakorlatát övező visszásságok jelentős részére hagyományos módon a sajtóból derül fény, ezért is alkalmaztuk kiegészítő jelzésként, hogy a vizsgált cégek végső tulajdonosai megjelennek-e és ha igen, hányszor fordulnak elő a K-Monitor (https://adatbazis.k-monitor.hu/index.html) közpénzfelhasználásról és átláthatóságról szóló sajtóadatbázisában. Adatbázisunkban a lekérdezés idején (2022.12.05.)  2010 után megjelent cikkekben legalább 2 találattal rendelkező személyeket jelöltük figyelmeztető jelzéssel.',
+      info_2022: 'A tulajdonosok korábbi közpénzhasználati gyakorlatát övező visszásságok jelentős részére hagyományos módon a sajtóból derül fény, ezért is alkalmaztuk kiegészítő jelzésként, hogy a vizsgált cégek végső tulajdonosai megjelennek-e és ha igen, hányszor fordulnak elő a K-Monitor (https://adatbazis.k-monitor.hu/index.html) közpénzfelhasználásról és átláthatóságról szóló sajtóadatbázisában. Adatbázisunkban a lekérdezés idején (2023.09.30.)  2010 után megjelent cikkekben legalább 2 találattal rendelkező személyeket jelöltük figyelmeztető jelzéssel.'
     },
     flags: {
-      title: 'Végős tulajdonosok száma a red flagek megoszlása szerint',
-      info: 'Összesítés az aloldalon megjelenő figyelmeztető jelzések alapján. A jelzések egy-egy mutató kirívó értékére hívják fel a figyelmet. Összességében, a jelzések potenciális veszélyforrásokat jelölnek, melyek magyarázatát az egyes mutatók leírásában fejtjük ki, de önmagukban nem jelentenek bizonyítékot bűncselekményre, korrupcióra vagy más visszaélésre. Bővebb információ  az egyes grafikonoknál és a Mi ez? menüpontban olvasható.'
+      title: 'Red flagek összesítése',
+      info: 'A grafikon összesíti a Végső tulajdonosok aloldalon megjelenő red flageket és az egyes figyelmeztető jelzésekkel megjelölt tulajdonosok számát. A jelzések egy-egy mutató kirívó értékére hívják fel a figyelmet. Összességében, a jelzések potenciális veszélyforrásokat jelölnek, melyek magyarázatát az egyes mutatók leírásában fejtjük ki, de önmagukban nem jelentenek bizonyítékot bűncselekményre, korrupcióra vagy más visszaélésre. Bővebb információ az egyes grafikonoknál és Az oldalról menüpontban olvasható.'
     },
     table: {
       chart: null,
@@ -85,9 +93,9 @@ var vuedata = {
   },
   selectedOrg: {"Name": ""},
   flagsNames: {
-    "has_political_connections": "Közhatalmi pozícióval bír(t)",
-    "high_amount_won_and_share": "5 Mrd Ft felett az összesen elnyert közbeszerzések értéke és 25% feletti részesedés ",
-    "high_press_mentions": "Több mint 2 említés a sajtóadatbázisban"
+    "has_political_connections": "Közhatalmi pozíció",
+    "high_amount_won_and_share": "5 Mrd Ft feletti közbeszerzési összérték",
+    "high_press_mentions": "Min. 2 említés a sajtóadatbázisban"
   },
   colors: {
     default: "#0aafec",
@@ -122,17 +130,21 @@ new Vue({
     downloadDataset: function () {
       var datatable = charts.table.chart;
       var filteredData = datatable.DataTable().rows( { filter : 'applied'} ).data();
-      var entries = [['"Végső tulajdonos neve/sorszáma"','"Tulajdonolt cégek száma, 2021 (db)"','"Az összesen elnyert közbeszerzési eljárások értéke, 2018-2020 (Ft)"','"Közhatalmi pozíciók száma (db)"','"A közhatalmi pozíció megnevezése"','"Említések száma a sajtóban (db)"']];
+      var entries = [['"Végső tulajdonos neve/sorszáma"','"Tulajdonolt cégek száma, 2021 (db)"','"Az összesen elnyert közbeszerzési eljárások értéke, 2018-2020 (Ft)"','"Közhatalmi pozíciók száma (db)"','"A közhatalmi pozíció megnevezése"','"Említések száma a sajtóban (db)"','"Érdekeltségek"']];
+      if(vuedata.selectedYear == '2022') {
+        entries = [['"Végső tulajdonos neve/sorszáma"','"Tulajdonolt cégek száma, 2022 (db)"','"Az összesen elnyert közbeszerzési eljárások értéke, 2019-2021 (Ft)"','"Közhatalmi pozíciók száma (db)"','"A közhatalmi pozíció megnevezése"','"Említések száma a sajtóban (db)"','"Érdekeltségek"']];
+      }
       _.each(filteredData, function (d) {
         var csvName = d.bo_name;
         if(d.bo_name[0] == '#') { csvName = 'N/A' }
         var entry = [
           '"' + csvName + '"',
           d.companies.length,
-          d.total_amount_won_2018_2020,
+          d.total_amount_won,
           d.public_auth_positions,
           '"' + d.pol_relationship_position_name + '"',
-          d.k_monitor_match];
+          d.k_monitor_match,
+          '"' + d.companiesString + '"'];
         entries.push(entry);
       });
       var csvContent = "data:text/csv;charset=utf-8,";
@@ -159,7 +171,7 @@ new Vue({
       }
       if(platform == 'facebook'){
         //var toShareUrl = window.location.href.split('?')[0];
-        var toShareUrl = 'https://integritywatch.de';
+        var toShareUrl = 'https://tenderbajnok.transparency.hu';
         var shareURL = 'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(toShareUrl);
         window.open(shareURL, '_blank', 'toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250,top=300,left=300');
         return;
@@ -339,6 +351,19 @@ jQuery.extend( jQuery.fn.dataTableExt.oSort, {
       return ((a < b) ? 1 : ((a > b) ? -1 : 0));
   }
 });
+jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+  "stringhu-pre": function (str) {
+    str = str.replaceAll('Ú','U').replaceAll('Ú','U').replaceAll('Ö','O').replaceAll('É','E').replaceAll('Á','A');
+    if(str == 'ifj. Mészáros Lőrinc') { console.log(str); }
+    return str.toUpperCase();
+  },
+  "stringhu-asc": function (a, b) {
+      return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+  },
+  "stringhu-desc": function ( a, b ) {
+      return ((a < b) ? 1 : ((a > b) ? -1 : 0));
+  }
+});
 
 //Custom ordering for min and max
 jQuery.extend( jQuery.fn.dataTableExt.oSort, {
@@ -490,9 +515,37 @@ function formatAmount(amt){
   return addcommas(amt);
 }
 
+//Get URL parameters
+function getParameterByName(name, url) {
+  if (!url) url = window.location.href;
+  name = name.replace(/[\[\]]/g, '\\$&');
+  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+      results = regex.exec(url);
+  if (!results) return null;
+  if (!results[2]) return '';
+  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+var ownersDataset = './data/owners_2022.json';
+vuedata.selectedYear = '2022';
+vuedata.parameterYears = '2019-2021';
+
+if(getParameterByName('year') == '2021') {
+  ownersDataset = './data/owners.json';
+  vuedata.selectedYear = '2021';
+  vuedata.parameterYears = '2018-2020';
+}
+
+if(vuedata.selectedYear == '2022') {
+  _.each(vuedata.charts, function (c) {
+    if(c.info_2022) {
+      c.info = c.info_2022;
+    }
+  });
+}
+
 //Load data and generate charts
 //Generate random parameter for dynamic dataset loading (to avoid caching)
-
 var randomPar = '';
 var randomCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 for ( var i = 0; i < 5; i++ ) {
@@ -500,15 +553,15 @@ for ( var i = 0; i < 5; i++ ) {
 }
 
 var totalAmountWon = 0;
-json('./data/owners.json?' + randomPar, (err, owners) => {
+json(ownersDataset + '?' + randomPar, (err, owners) => {
   //Parse data
   _.each(owners, function (d) {
-    d.amount_won_category = amountWonStramlining(d.total_amount_won_2018_2020);
-    totalAmountWon += d.total_amount_won_2018_2020; 
+    d.amount_won_category = amountWonStramlining(d.total_amount_won);
+    totalAmountWon += d.total_amount_won; 
     d.press_mentions_category = pressMentionsStreamlining(d.k_monitor_match); 
     d.companies_num_category = companiesNumStreamlining(d.companies.length);
     d.public_auth_positions_category = authPositionsStreamlining(d.public_auth_positions);
-    d.percentage_tenders_won_category = percentageTendersStreamlining(d.total_amount_won_2018_2020_percentage);
+    d.percentage_tenders_won_category = percentageTendersStreamlining(d.total_amount_won_percentage);
     //Companies names string for search
     d.companiesNamesString = "";
     _.each(d.companies, function (c) {
@@ -522,7 +575,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
       d.risk_indicators_list.push("has_political_connections");
     }
     //This one also depends on shares
-    if(d.amount_won_category == "> 5 Mrd Ft" && d.bo_share_5billion_2018_2020 == "Több mint 25%") {
+    if(d.amount_won_category == "> 5 Mrd Ft" && d.bo_share_5billion == "Több mint 25%") {
       d.risk_indicators ++;
       d.risk_indicators_list.push("high_amount_won_and_share");
     }
@@ -537,6 +590,12 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
     });
     //Assign person id string to avoid issue with custom counter
     d.person_id_str = String(d.person_id);
+    //Generate companies string for csv download
+    d.companiesString = "";
+    _.each(d.companies, function (c) {
+      var companyString = c.name + '(' + c.tax_number + '); '
+      d.companiesString += companyString;
+    });
   });
 
   //Set totals for footer counters
@@ -552,11 +611,10 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
   var createTopOwnersChart = function() {
     var chart = charts.topOwners.chart;
     var dimension = ndx.dimension(function (d) {
-      return d.bo_name;
+      return d.bo_name + '###' + d.person_id;
     }); 
     var group = dimension.group().reduceSum(function (d) {
-      //return d.total_amount_won_2018_2020;
-      if(vuedata.charts.topOwners.filter == "total_amount_won_2018_2020") {
+      if(vuedata.charts.topOwners.filter == "total_amount_won") {
           return shortenNumber(parseFloat(d[vuedata.charts.topOwners.filter]));
       }
       return parseFloat(d[vuedata.charts.topOwners.filter]);
@@ -582,13 +640,15 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
         return vuedata.colors.default;
       })
       .label(function (d) {
-          if(d.key.length > charsLength){
-            return d.key.substring(0,charsLength) + '...';
-          }
-          return d.key;
+        var key = d.key.split('###')[0];
+        if(key.length > charsLength){
+          return key.substring(0,charsLength) + '...';
+        }
+        return key;
       })
       .title(function (d) {
-          return d.key + ': ' + formatAmount(d.value);
+        var key = d.key.split('###')[0];
+        return key + ': ' + formatAmount(d.value);
       })
       .elasticX(true)
       .xAxis().ticks(4);
@@ -642,7 +702,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
       return "Közhatalmi pozíció nélkül";
     });
     var group = dimension.group().reduceSum(function (d) {
-      return d.total_amount_won_2018_2020;
+      return d.total_amount_won;
     });
     var filteredGroup = (function(source_group) {
       return {
@@ -657,7 +717,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(370)
+      .height(395)
       .margins({top: 0, left: 0, right: 20, bottom: 20})
       .gap(45)
       .group(filteredGroup)
@@ -705,7 +765,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
     var order = ["> 5 Mrd Ft", "> 1 - 5 Mrd Ft", "> 500 M - 1 Mrd Ft", "<= 500 M Ft"];
     chart
       .width(width)
-      .height(370)
+      .height(390)
       .margins({top: 0, left: 0, right: 20, bottom: 20})
       .group(filteredGroup)
       .dimension(dimension)
@@ -814,7 +874,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(410)
+      .height(430)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
       .group(group)
       .dimension(dimension)
@@ -904,6 +964,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
           "orderable": true,
           "targets": 0,
           "defaultContent":"N/A",
+          "type":"stringhu",
           "data": function(d) {
             return d.bo_name;
           }
@@ -928,7 +989,7 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
           "className": "dt-body-right",
           "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return formatAmount(shortenNumber(d.total_amount_won_2018_2020));
+            return formatAmount(shortenNumber(d.total_amount_won));
           }
         },
         {
@@ -1028,7 +1089,8 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
               }
             },
             "columns" : [
-              { "data" : function(a) { 
+              { "type":"stringhu",
+                "data" : function(a) { 
                   return a.name;
                 }
               },
@@ -1038,8 +1100,9 @@ json('./data/owners.json?' + randomPar, (err, owners) => {
               },
               { "type": "num-html",
                 "orderSequence": ["desc", "asc"],
+                "className": "dt-body-right",
                 "data" : function(a) { 
-                  return formatAmount(a.total_amount_won_2018_2020);
+                  return formatAmount(shortenNumber(a.total_amount_won));
                 } 
               },
             ]

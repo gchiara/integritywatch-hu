@@ -1,0 +1,101 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 20000000000.0,
+        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
+        "date": "02/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16306_2021/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Mosodai szolgáltatás",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "B + N Referencia Ipari, Kereskedelmi és Szolgáltató Zrt.; Referencia Mosodák Szolgáltató Zrt.",
+        "contract_value": 3599889600.0,
+        "contracting_authority": "Ferencvárosi Torna Club",
+        "date": "08/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0267_2021/",
+        "main_cpv": "77320000-9",
+        "number_companies_win": 2,
+        "procurement_title": "Üzemeltetési feladatok ellátása",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1848815375.0,
+        "contracting_authority": "Szegedi Tudományegyetem",
+        "date": "24/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22921_2021/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Mosodai szolgáltatások az SZTE SZAKK részére",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1728000000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "10/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17041_2021/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Egészségügyi mosodai szolgáltatás beszerzése",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 446953381.0,
+        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
+        "date": "01/08/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_14098_2019/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Gottsegen mosatás, bértextília, mikrochip",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 408204000.0,
+        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
+        "date": "09/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5853_2020/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Mosodai- és bértextília szolgáltatás",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 174000000.0,
+        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
+        "date": "14/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_8420_2021/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Mosodai szolgáltatás a Bács-Kiskun Megyei Oktatókórház részére",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 127055599.0,
+        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
+        "date": "20/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_13190_2021/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Mosodai és bértextília szolgáltatás - Szt. Imre Kórház",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 122859720.0,
+        "contracting_authority": "Büntetés-Végrehajtás Országos Parancsnoksága",
+        "date": "13/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_5893_2021/",
+        "main_cpv": "98310000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Mosodai és bértextília szolgáltatás - Markhot Kórház",
+        "registered_name": "Referencia Mosodák Szolgáltató Zrt."
+    }
+]

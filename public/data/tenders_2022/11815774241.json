@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "MediPixel Kereskedelmi Kft.; Pannon Diagnosztika Kereskedelmi és Szolgáltató Kft.",
+        "contract_value": 109437430.0,
+        "contracting_authority": "Budapest Főváros XXIII. Kerület Soroksár Önkormányzata",
+        "date": "22/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_10331_2021/",
+        "main_cpv": "33100000-1",
+        "number_companies_win": 2,
+        "procurement_title": "Orvosi eszközök beszerzése",
+        "registered_name": "MediPixel Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 64600000.0,
+        "contracting_authority": "Százhalombattai Egészségügyi Közalapítvány",
+        "date": "09/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_434/megtekint/portal_22535_2018/",
+        "main_cpv": "33111000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Digitális felvételi rtg berendezés",
+        "registered_name": "MediPixel Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 63500000.0,
+        "contracting_authority": "Pécsi Tudományegyetem",
+        "date": "23/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_16169_2020/",
+        "main_cpv": "33111000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Radiológiai röntgen beszerzése a PTE részére",
+        "registered_name": "MediPixel Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 24800000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "27/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9568_2021/",
+        "main_cpv": "33111000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Digitális mobil felvételi röntgen berendezés",
+        "registered_name": "MediPixel Kereskedelmi Kft."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company_names": "4iG Nyrt.; ANSWARE Informatikai Szolgáltató Kft.; ATOS Magyarország Kft.; BlackBelt Technology Kft.; Care All Kereskedelmi és Szolgáltató Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; Delta Systems Kft.; e-Corvina Informatikai Szolgáltató Kft.; E-GROUP ICT SOFTWARE Informatikai Zrt.; EN-CO Software Zrt.; EURO ONE Számítástechnikai Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; Grepton Informatikai Zrt.; GriffSoft Informatikai Zrt.; GVSX Szolgáltató Kft.; i-Cell Mobilsoft Zrt.; IMG Solution Zrt.; Intelliport Systems Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Zrt.; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Kft.; Kontron Operations Hungary Kft.; Lillyneir Rendszermérnök Kft.; NÁDOR Rendszerház Irodaautomatizálási Kft.; NEW LINE TECHNOLOGIES Kft.; PRINTNET Kereskedelmi és Szolgáltató Kft.; Sagemcom Magyarország Elektronikai Kft.; SBP Systems Kft.; SDA Informatika Zrt.; Soloron IT Zrt.; Sonrisa Informatikai Kft.; Techwave Hungary Számítástechnikai Szolgáltató Zrt.; Telekom Rendszerintegráció Zrt.; TRACO Kereskedelmi és Szolgáltató Zrt.; Training360 Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.; VFT Vezetési Tanácsadó és Informatikai Zrt.; WSH Számítástechnikai, Oktató és Szolgáltató Kft.",
+        "contract_value": 180000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "06/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18585_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 37,
+        "procurement_title": "Alkalmazásfejlesztési szolgáltatás EU-s forrásból (SWFE)",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "ANSWARE Informatikai Szolgáltató Kft.; ATOS Magyarország Kft.; BlackBelt Technology Kft.; Care All Kereskedelmi és Szolgáltató Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; Delta Systems Kft.; e-Corvina Informatikai Szolgáltató Kft.; E-GROUP ICT SOFTWARE Informatikai Zrt.; EURO ONE Számítástechnikai Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; Grepton Informatikai Zrt.; GVSX Szolgáltató Kft.; IMG Solution Zrt.; Intelliport Systems Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Zrt.; KIBU Innováció Műszaki Kutató Fejlesztő Szolgáltató Nonprofit Kft.; Kontron Operations Hungary Kft.; NEW LINE TECHNOLOGIES Kft.; PRINTNET Kereskedelmi és Szolgáltató Kft.; SBP Systems Kft.; SDA Informatika Zrt.; Soloron IT Zrt.; Sonrisa Informatikai Kft.; Techwave Hungary Számítástechnikai Szolgáltató Zrt.; Telekom Rendszerintegráció Zrt.; TRACO Kereskedelmi és Szolgáltató Zrt.; Training360 Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.; VFT Vezetési Tanácsadó és Informatikai Zrt.",
+        "contract_value": 30000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "30/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18345_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 29,
+        "procurement_title": "Alkalmazásfejlesztési és üzemeltetés támogatási szolgáltatások nyújtása",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 67272872.0,
+        "contracting_authority": "Állami Számvevőszék",
+        "date": "04/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_19183_2021/",
+        "main_cpv": "72261000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Elektronikus iratkezelési rendszer támogatása",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 60000000.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
+        "date": "15/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_15431_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Iratkezelő rendszerhez tartozó fejlesztési keret",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 47133612.0,
+        "contracting_authority": "NIF Nemzeti Infrastruktúra Fejlesztő Zrt.",
+        "date": "26/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12789_2019/",
+        "main_cpv": "72200000-7",
+        "number_companies_win": 0,
+        "procurement_title": "adActa iratkezelő rendszer támogatása",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 45525000.0,
+        "contracting_authority": "MKK Magyar Követeléskezelő Zrt.",
+        "date": "09/08/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_15001_2019/",
+        "main_cpv": "72200000-7",
+        "number_companies_win": 0,
+        "procurement_title": "adActa rendszer támogatási szolgáltatás",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "Care All Kereskedelmi és Szolgáltató Kft.; e-Corvina Informatikai Szolgáltató Kft.; ERP2U Software Kft.; IMG Solution Zrt.; MLR Tech Üzemeltetési és Szolgáltató Kft.; rEVOLUTION SOFTWARE Kereskedelmi Kft.",
+        "contract_value": 27550800.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "16/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_23058_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 6,
+        "procurement_title": "A 2014-2020 programozási időszak Európai Uniós forrásból finanszírozott szoftverfejlesztési projektek megvalósításához kapcsolódó fejlesztési tanácsadás",
+        "registered_name": "e-Corvina Informatikai Szolgáltató Kft."
+    }
+]

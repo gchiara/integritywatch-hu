@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 120000000.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
+        "date": "24/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_7328_2020/",
+        "main_cpv": "45300000-0",
+        "number_companies_win": 0,
+        "procurement_title": "Építőmesteri gyorsszolgálati feladatok ellátása",
+        "registered_name": "CONSTRUM Építőipari Fővállalkozó KFT"
+    },
+    {
+        "company_names": "",
+        "contract_value": 83938551.0,
+        "contracting_authority": "Kőbányai Vagyonkezelő Zrt.",
+        "date": "30/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_19922_2020/",
+        "main_cpv": "45300000-0",
+        "number_companies_win": 0,
+        "procurement_title": "M3 magastetők felújítása",
+        "registered_name": "CONSTRUM Építőipari Fővállalkozó KFT"
+    },
+    {
+        "company_names": "",
+        "contract_value": 69702734.0,
+        "contracting_authority": "Terézvárosi Vagyonkezelő Nonprofit Zrt.",
+        "date": "09/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_5849_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "11 db önkormányzati lakás felújítása",
+        "registered_name": "CONSTRUM Építőipari Fővállalkozó KFT"
+    }
+]

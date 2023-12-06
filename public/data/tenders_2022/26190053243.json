@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 63800000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "01/10/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_17393_2020/",
+        "main_cpv": "33124100-6",
+        "number_companies_win": 0,
+        "procurement_title": "Nagy érzékenységű áramlási citométer beszerzése",
+        "registered_name": "I.T.A. Life Science Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 60615000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "29/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18687_2021/",
+        "main_cpv": "38434510-4",
+        "number_companies_win": 0,
+        "procurement_title": "Cytométer beszerzése",
+        "registered_name": "I.T.A. Life Science Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 23534800.0,
+        "contracting_authority": "Természettudományi Kutatóközpont",
+        "date": "22/12/2020",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_23990_2020/",
+        "main_cpv": "31640000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Pipettázó robot beszerzése",
+        "registered_name": "I.T.A. Life Science Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 14870000.0,
+        "contracting_authority": "Debreceni Egyetem",
+        "date": "19/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4544_2020/",
+        "main_cpv": "38000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Laboratóriumi eszközök beszerzése",
+        "registered_name": "I.T.A. Life Science Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 2501067.0,
+        "contracting_authority": "Pécsi Tudományegyetem",
+        "date": "02/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20693_2021/",
+        "main_cpv": "33696500-0",
+        "number_companies_win": 0,
+        "procurement_title": "Vegyszerbeszerzés",
+        "registered_name": "I.T.A. Life Science Kft."
+    }
+]

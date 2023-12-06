@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 150000000.0,
+        "contracting_authority": "MFB Magyar Fejlesztési Bank Zrt.",
+        "date": "23/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_6823_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Portfólió és alrendszer továbbfejlesztése és támogatása",
+        "registered_name": "NORG Számitástechnikai Rendszerház Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 109935000.0,
+        "contracting_authority": "MFB Magyar Fejlesztési Bank Zrt.",
+        "date": "29/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_1202_2020/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Portfólió és alrendszerei ejlesztése",
+        "registered_name": "NORG Számitástechnikai Rendszerház Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 67920000.0,
+        "contracting_authority": "MFB Magyar Fejlesztési Bank Zrt.",
+        "date": "06/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16682_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Portfólió-SAFOR alrendszer továbbfejlesztés és támogatás",
+        "registered_name": "NORG Számitástechnikai Rendszerház Kft."
+    }
+]

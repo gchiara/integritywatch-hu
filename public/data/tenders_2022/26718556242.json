@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 85984586.0,
+        "contracting_authority": "Pannon Egyetem",
+        "date": "29/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16433_2021/",
+        "main_cpv": "38300000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Kromatográfiás rendszer (GPC-HPLC) beszerzése",
+        "registered_name": "BVB Laboratory Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 43349800.0,
+        "contracting_authority": "Miskolci Egyetem",
+        "date": "15/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16617_2021/",
+        "main_cpv": "38000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "N2 permeameter beszerzése",
+        "registered_name": "BVB Laboratory Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 16673403.0,
+        "contracting_authority": "Miskolci Egyetem",
+        "date": "08/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_18310_2021/",
+        "main_cpv": "38410000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Digitális pumpák beszerzése",
+        "registered_name": "BVB Laboratory Kft."
+    }
+]

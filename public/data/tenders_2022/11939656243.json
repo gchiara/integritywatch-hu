@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "4iG Nyrt.; ATOS Magyarország Kft.; BRAVONET Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; Compliance Data Systems Kft.; Delta Systems Kft.; FORNAX SI Nagyvállalati Megoldások Kft.; Grepton Informatikai Zrt.; i-Cell Mobilsoft Zrt.; Invigor Informatika Kft.; NETvisor Informatikai és Kommunikációs Zrt.; Omnit Solutions Szolgáltató és Kereskedelmi Kft.; REMEDIOS Zrt.; Soloron IT Zrt.; Sysman Informatikai Zrt.; Telekom Rendszerintegráció Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Tigra Rendszerház Kft.; TRACO Kereskedelmi és Szolgáltató Zrt.; WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft.",
+        "contract_value": 17400000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "04/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_19987_2020/",
+        "main_cpv": "72268000-1",
+        "number_companies_win": 20,
+        "procurement_title": "Meglévő Oracle licencek bővítése (OLIC20)",
+        "registered_name": "WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 40499000.0,
+        "contracting_authority": "Kormányzati Informatikai Fejlesztési Ügynökség",
+        "date": "23/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_4278_2021/",
+        "main_cpv": "48190000-6",
+        "number_companies_win": 0,
+        "procurement_title": "IKT képzési programcsomag",
+        "registered_name": "WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft."
+    },
+    {
+        "company_names": "ATOS Magyarország Kft.; RacioNet Számítástechnikai Kereskedelmi és Szolgáltató Zrt.; WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft.",
+        "contract_value": 22354800.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "09/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22269_2020/",
+        "main_cpv": "48000000-8",
+        "number_companies_win": 3,
+        "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése,cseréje, és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
+        "registered_name": "WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 6900000.0,
+        "contracting_authority": "IdomSoft Informatikai Zrt.",
+        "date": "05/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9730_2020/",
+        "main_cpv": "72261000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Oracle kompetencia beszerzése",
+        "registered_name": "WEBváltó Számítástechnikai és Internet-adatbanki Szolgáltató Kft."
+    }
+]

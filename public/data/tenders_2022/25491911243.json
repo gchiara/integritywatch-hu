@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 349886120.0,
+        "contracting_authority": "Budapest-Rákoscsabai Református Egyházközség",
+        "date": "29/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20701_2021/",
+        "main_cpv": "71220000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Tervezési szolgáltatás beszerzése - RJM ROK",
+        "registered_name": "DAW Építész Stúdió Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 319100000.0,
+        "contracting_authority": "Budapest-Rákoscsabai Református Egyházközség",
+        "date": "29/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20703_2021/",
+        "main_cpv": "71220000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Tervezési szolgáltatás beszerzése - ROK",
+        "registered_name": "DAW Építész Stúdió Szolgáltató Kft."
+    },
+    {
+        "company_names": "DAW Építész Stúdió Szolgáltató Kft.; PANNON PROJECT Tervező és Szolgáltato Kft",
+        "contract_value": 227400000.0,
+        "contracting_authority": "Állami Egészségügyi Ellátó Központ",
+        "date": "20/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0167_2020/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Egészséges Budapest Program keretében az Észak-pesti Centrum ÉPC társkórházai infrastrukturális fejlesztéséhez szükséges tervezési feladatok ellátása",
+        "registered_name": "DAW Építész Stúdió Szolgáltató Kft."
+    }
+]

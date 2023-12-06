@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "4iG Nyrt.; ANSWARE Informatikai Szolgáltató Kft.; ASH Szoftverház Kft.; ATOS Magyarország Kft.; BIS-INFORMr Szolgáltató Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; Delta Systems Kft.; DMS Services Kft.; E-GROUP ICT SOFTWARE Informatikai Zrt.; EN-CO Software Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; Grepton Informatikai Zrt.; GVSX Szolgáltató Kft.; i-Cell Mobilsoft Zrt.; IMG Solution Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Zrt.; Kontron Operations Hungary Kft.; MOLARIS Informatikai Fejlesztő és Szolgáltató Kft.; NETvisor Informatikai és Kommunikációs Zrt.; PRINTNET Kereskedelmi és Szolgáltató Kft.; Sagemcom Magyarország Elektronikai Kft.; SBP Systems Kft.; Soloron IT Zrt.; Sonrisa Informatikai Kft.; Telekom Rendszerintegráció Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Training360 Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.; VFT Vezetési Tanácsadó és Informatikai Zrt.; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Kft.",
+        "contract_value": 340000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "06/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18585_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 31,
+        "procurement_title": "Alkalmazásfejlesztési szolgáltatás EU-s forrásból (SWFE)",
+        "registered_name": "MOLARIS Informatikai Fejlesztő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "4iG Nyrt.; ANSWARE Informatikai Szolgáltató Kft.; ASH Szoftverház Kft.; ATOS Magyarország Kft.; BIS-INFORMr Szolgáltató Kft.; CLARMONT I.S. Kereskedelmi és Szolgáltató Kft.; EN-CO Software Zrt.; FORNAX ICT Infokommunikációs Megoldások Kft.; Grepton Informatikai Zrt.; GVSX Szolgáltató Kft.; i-Cell Mobilsoft Zrt.; IMG Solution Zrt.; Kermann Műszaki Fejlesztő és Tanácsadó Zrt.; MOLARIS Informatikai Fejlesztő és Szolgáltató Kft.; Sagemcom Magyarország Elektronikai Kft.; SBP Systems Kft.; Sonrisa Informatikai Kft.; Telekom Rendszerintegráció Zrt.; TIGRA Computer - és Irodatechnikai Kft.; Training360 Kft.; ULYSSYS Számitástechnikai Fejlesztő és Tanácsadó Kft.; VFT Vezetési Tanácsadó és Informatikai Zrt.; Virgo Systems Informatikai Korlátolt Felelősségü Társaság; ZALASZÁM Informatika Kft.",
+        "contract_value": 60000000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "30/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18345_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 24,
+        "procurement_title": "Alkalmazásfejlesztési és üzemeltetés támogatási szolgáltatások nyújtása",
+        "registered_name": "MOLARIS Informatikai Fejlesztő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 450086667.0,
+        "contracting_authority": "IdomSoft Informatikai Zrt.",
+        "date": "12/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21291_2021/",
+        "main_cpv": "72230000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Architektúrális, technológiai erőforrás beszerzése",
+        "registered_name": "MOLARIS Informatikai Fejlesztő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "Grepton Informatikai Zrt.; GVSX Szolgáltató Kft.; Kermann Műszaki Fejlesztő és Tanácsadó Zrt.; MOLARIS Informatikai Fejlesztő és Szolgáltató Kft.; SBP Systems Kft.; Telekom Rendszerintegráció Zrt.",
+        "contract_value": 130500400.0,
+        "contracting_authority": "Pillér Informatikai Kft.",
+        "date": "29/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25090_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 6,
+        "procurement_title": "Fejlesztői tevékenységét támogató szolgáltatás",
+        "registered_name": "MOLARIS Informatikai Fejlesztő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 18992500.0,
+        "contracting_authority": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
+        "date": "25/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9169_2020/",
+        "main_cpv": "72261000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Elastic Search licenc és hozzá kapcsolódó szakértői támogatás",
+        "registered_name": "MOLARIS Informatikai Fejlesztő és Szolgáltató Kft."
+    }
+]

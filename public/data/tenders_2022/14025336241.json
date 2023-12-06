@@ -1,0 +1,90 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 23884417083.0,
+        "contracting_authority": "DKV Debreceni Közlekedési Zrt.",
+        "date": "19/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_6205_2021/",
+        "main_cpv": "34121000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Autóbuszok rendelkezésre állásának biztosítása.",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1290909000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
+        "date": "20/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_17776_2021/",
+        "main_cpv": "60112000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Közforgalmú autóbuszjáratok üzemeltetése",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 514887000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
+        "date": "20/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_17776_2021/",
+        "main_cpv": "60112000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Közforgalmú autóbuszjáratok üzemeltetése",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "\"BALATON-BUSZ\" Idegenforgalmi és Kereskedelmi Bt.; Adria Transport Kft.; B Euro Car Kft.; EGALTRANS Személyszállító és Szolgáltató Kft.; INFINITOURS Személyszállító, Kereskedelmi és Szolgáltató Kft.; INTER TAN-KER Tanácsadó és Kereskedelmi Zrt.; Levissimo Kereskedelmi és Szolgáltató Kft.; NEVOL BUSZ Kft.; SZALAI-BUSZ PLUSZ Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 289952000.0,
+        "contracting_authority": "VOLÁNBUSZ Közlekedési Zrt.",
+        "date": "11/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_7994_2021/",
+        "main_cpv": "60112000-6",
+        "number_companies_win": 9,
+        "procurement_title": "Vonatpótlási személyszállítási szolgáltatások",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 68479604.0,
+        "contracting_authority": "Budapesti Közlekedési Zrt.",
+        "date": "29/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_13990_2019/",
+        "main_cpv": "50117000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Conecto autóbuszok vezetőfülkéinek átalakítása",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 64512000.0,
+        "contracting_authority": "Magyar Úszó Szövetség",
+        "date": "09/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2235_2021/",
+        "main_cpv": "60140000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Gyermekszállítás",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 48332200.0,
+        "contracting_authority": "Magyar Úszó Szövetség",
+        "date": "23/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17760_2021/",
+        "main_cpv": "60140000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Gyermekszállítás II.",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 2000000.0,
+        "contracting_authority": "Debreceni Nemzetközi Iskola",
+        "date": "29/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_17216_2020/",
+        "main_cpv": "60100000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Iskolabusz szolgáltatás",
+        "registered_name": "INTER TAN-KER Tanácsadó és Kereskedelmi Zrt."
+    }
+]

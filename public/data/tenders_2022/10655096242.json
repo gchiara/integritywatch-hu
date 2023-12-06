@@ -1,0 +1,57 @@
+[
+    {
+        "company_names": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft.; Energy Network Solutions Villamos Hálózati Létesítményeket Tervező és Kivitelező Kft.; Forest-Vill Villamosipari és Energetikai Létesítményeket Tervező és Kivitelező Kft.; MVM OVIT Országos Villamostávvezeték Zrt.; SPIE Hungaria Kft.",
+        "contract_value": 45000000000.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "16/12/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_23353_2019/",
+        "main_cpv": "45232200-4",
+        "number_companies_win": 5,
+        "procurement_title": "Nagyfeszültségű távvezeték építése, távvezeték átalakítása (bontás és építés)",
+        "registered_name": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft.; MVM OVIT Országos Villamostávvezeték Zrt.",
+        "contract_value": 678657683.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "03/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_277/megtekint/portal_5790_2019/",
+        "main_cpv": "45232200-4",
+        "number_companies_win": 2,
+        "procurement_title": "M44 autópálya miatti távvezeték átépítésekhez szükséges kivitelezési munkák elvégzése  ",
+        "registered_name": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft.; MVM OVIT Országos Villamostávvezeték Zrt.",
+        "contract_value": 342842835.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "15/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_277/megtekint/portal_743_2019/",
+        "main_cpv": "45231400-9",
+        "number_companies_win": 2,
+        "procurement_title": "M4 autópálya miatti távvezeték átépítésekhez szükséges kivitelezési munkák elvégzése",
+        "registered_name": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft.; MVM OVIT Országos Villamostávvezeték Zrt.",
+        "contract_value": 242495237.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "07/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_277/megtekint/portal_19209_2019/",
+        "main_cpv": "45232200-4",
+        "number_companies_win": 2,
+        "procurement_title": "Munkács-Tiszalök és Kisvárda-Sajószöged 220 kV-os távvezeték helyreállítása",
+        "registered_name": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft.; MVM OVIT Országos Villamostávvezeték Zrt.",
+        "contract_value": 110295140.0,
+        "contracting_authority": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "date": "29/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_277/megtekint/portal_20953_2019/",
+        "main_cpv": "44212222-1, 45231400-9, 45232200-4, 71323100-9",
+        "number_companies_win": 2,
+        "procurement_title": "Pécs Erőmű I-II. 132 kV-os távvezeték átépítésének kivitelezése",
+        "registered_name": "EKS Service Korrózióvédelmi, Ipari, Szolgáltató és Kereskedelmi Kft."
+    }
+]

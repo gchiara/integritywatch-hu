@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 30327300.0,
+        "contracting_authority": "Természettudományi Kutatóközpont",
+        "date": "12/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_2501_2021/",
+        "main_cpv": "33121100-5",
+        "number_companies_win": 0,
+        "procurement_title": "EEG rendszerek beszerzése",
+        "registered_name": "QUALITIS Számítástechnikai Szolgáltató és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 29510000.0,
+        "contracting_authority": "Pécsi Tudományegyetem",
+        "date": "05/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_18908_2021/",
+        "main_cpv": "38000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Kutatási eszközök 1. - PTE ÁOK (RRF)",
+        "registered_name": "QUALITIS Számítástechnikai Szolgáltató és Kereskedelmi Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 13714000.0,
+        "contracting_authority": "Természettudományi Kutatóközpont",
+        "date": "09/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_4116_2020/",
+        "main_cpv": "33121100-5",
+        "number_companies_win": 0,
+        "procurement_title": "Csecsemő EEG rendszer beszerzése",
+        "registered_name": "QUALITIS Számítástechnikai Szolgáltató és Kereskedelmi Kft."
+    }
+]

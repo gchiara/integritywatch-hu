@@ -46,56 +46,65 @@ var vuedata = {
   showInfo: true,
   showShare: true,
   chartMargin: 40,
+  selectedYear: '2022',
+  parameterYears: '2019-2021',
+  tendersFolder: 'tenders',
   fullCpvList: [],
   fullAuthList: [],
   charts: {
     topCompanies: {
-      title: 'A legtöbb közbeszerzést elnyerő cégek, 2018-2020 (million Ft)',
-      info: 'A legtöbb közbeszerzést egyedül vagy konzorciumban elnyerő cégek a 2018. január 01. és 2020. december 31. között összesen elnyert közbeszerzések érteke szerint rangsorolva a vizsgált szervezetek közül, amelyeknél a közbeszerzések értéke legalább a 2021-es árbevétel 50%-át tette ki. A konzorciumban elnyert eljárások értéke a tagok számával osztva szerepel, mivel pontos összeg nem áll rendelkezésre.',
-      filter: 'amount_won_18_20'
+      title: 'A legtöbb közbeszerzést elnyerő cégek',
+      info: 'A mutató 2018. január 01. és 2020. december 31. között összesen elnyert közbeszerzéseinek érteke (millió Ft) szerint rangsorolja a cégeket. Az egyedül vagy konzorciumban elnyert közbeszerzések értéke is lekérdezhető a grafikon felett lenyitható almutatók segítségével. Vizsgálatra csak azon vállalatok kerültek, amelyeknél a 2018-tól 2020-ig elnyert összes közbeszerzéseik értéke legalább a 2021-es árbevétel 50%-át tette ki. A konzorciumban elnyert eljárások értéke a tagok számával osztva szerepel, mivel pontos összeg nem áll rendelkezésre.',
+      info_2022: 'Itt a legtöbb közbeszerzést egyedül vagy konzorciumban elnyerő cégek 2019. január 01. és 2021. december 31. között összesen elnyert közbeszerzéseinek érteke (millió Ft) rangsorolva szerepel. Vizsgálatra csak azon vállalatok kerültek, amelyeknél a közbeszerzéseik értéke legalább a 2022-es árbevétel 50%-át tette ki. A konzorciumban elnyert eljárások értéke a tagok számával osztva szerepel, mivel pontos összeg nem áll rendelkezésre.',
+      filter: 'amount_won'
     },
     cpv: {
-      title: 'Az elnyert eljárások száma az eljárás tárgya szerint, 2018-2020 (db)',
-      info: 'Az eljárás tárgya a CPV kódok rendszere szerint szerepel. Ez az egységes osztályozási rendszer univerzális kódokkal utal minden olyan tevékenységre, amelyre közbeszerzés írható ki.'
+      title: 'Eljárások a közbeszerzés tárgya szerint',
+      info: 'A mutató azt vizsgálja, hogy hány megbízást nyertek el a vizsgált cégek a 2018-2020-as időszakban a megbízás tárgya szerint. A megbízás tárgya az ábra feletti szürke sávban a nyílra kattinva kiválasztható. A kiválasztást követően az érintett cégek által megnyert többi közbeszerzés tárgya is megjelenik. Az eljárás tárgya a CPV kódok rendszere szerint szerepel. Ez az egységes osztályozási rendszer univerzális kódokkal utal minden olyan tevékenységre, amelyre közbeszerzés írható ki. Több CPV kód esetén a megbízás mindegyik tárgynál szerepel.',
+      info_2022: 'A mutató azt vizsgálja, hogy hány megbízást nyertek el a vizsgált cégek a 2019-2021-es időszakban a megbízás tárgya szerint. A megbízás tárgya az ábra feletti szürke sávban a nyílra kattinva kiválasztható. A kiválasztást követően az érintett cégek által megnyert többi közbeszerzés tárgya is megjelenik. Az eljárás tárgya a CPV kódok rendszere szerint szerepel. Ez az egységes osztályozási rendszer univerzális kódokkal utal minden olyan tevékenységre, amelyre közbeszerzés írható ki. Több CPV kód esetén a megbízás mindegyik tárgynál szerepel.'
     },
     contractingAuth: {
-      title: 'Az elnyert eljárások száma ajánlatkérő szervezet szerint, 2018-2020 (db)',
-      info: 'Az eljárások száma a közbeszerzési eljárást lebonyolító ajánlatkérő szervezet szerinti bontásban. Több kiíró esetén az eljárás mindegyik kiírónál szerepel.'
+      title: 'Eljárások ajánlatkérő szervezet szerint',
+      info: 'A mutató azt vizsgálja, hogy hány eljárást nyertek el a vizsgált cégek a 2018-2020-as időszakban az egyes ajánlatkérő szervezeteknél. Az ajánlatkérő szervezet az ábra feletti szürke sávban a nyílra kattinva kiválasztható. A kiválasztást követően az érintett cégek által megnyert többi közbeszerzés kiírója is megjelenik. Több kiíró esetén a megbízás mindegyik kiírónál szerepel.',
+      info_2022: 'A mutató azt vizsgálja, hogy hány eljárást nyertek el a vizsgált cégek a 2019-2021-es időszakban az egyes ajánlatkérő szervezeteknél. Az ajánlatkérő szervezet az ábra feletti szürke sávban a nyílra kattinva kiválasztható. A kiválasztást követően az érintett cégek által megnyert többi közbeszerzés kiírója is megjelenik. Több kiíró esetén a megbízás mindegyik kiírónál szerepel.'
     },
     amountWon: {
-      title: 'Cégek száma (db) a közbeszerzésen 2018 és 2020 között elnyert összeg alapján',
-      info: 'A legtöbb közbeszerzést elnyerő cégek a 2018. január 01. és 2020. december 31. között összesen elnyert közbeszerzések érteke szerint rangsorolva a vizsgált szervezetek közül, amelyeknél a közbeszerzések értéke legalább a 2021-es árbevétel 50%-át tette ki. A legmagasabb összes (legalább 5 milliárd Ft) vagy legnagyobb átlagos (legalább 1 milliárd Ft) értékben elnyert közbeszerzések figyelmeztető jelzéssel szerepelnek.',
+      title: 'Közbeszerzésen elnyert összeg',
+      info: 'A mutató a vizsgált cégek által 2018. január 01. és 2020. december 31. között elnyert közbeszerzések összes, illetve átlagos értékét vizsgálja. A grafikon az egyes sávokba tartozó cégek darabszámát mutatja. Az ábra feletti szürke sávban a nyílra kattintva almutatók is megjeleníthetőek. A legnagyobb összes (legalább 5 milliárd Ft), illettve a legnagyobb átlagos (legalább 1 milliárd Ft) értékben elnyert közbeszerzések eltérő színnel kiemelt figyelmeztető jelzéssel szerepelnek.',
+      info_2022: 'A mutató a vizsgált cégek által 2019. január 01. és 2021. december 31. között elnyert közbeszerzések összes, illetve átlagos értékét vizsgálja. A grafikon az egyes sávokba tartozó cégek darabszámát mutatja. Az ábra feletti szürke sávban a nyílra kattintva almutatók is megjeleníthetőek. A legnagyobb összes (legalább 5 milliárd Ft), illettve a legnagyobb átlagos (legalább 1 milliárd Ft) értékben elnyert közbeszerzések eltérő színnel kiemelt figyelmeztető jelzéssel szerepelnek.',
       filter: 'amount_won_category'
     },
     tendersRevenueRatio: {
-      title: 'A 2018 és 2020 között elnyert közbeszerzések és a 2021-es árbevétel aránya (%)',
-      info: 'Az egyes cégek által 2018. január 01. és 2020. december 31. között elnyert eljárások összege az adott vállalkozás 2021-es évi nettó árbevételéhez viszonyítva. A legnagyobb arányban, legalább 300%-os mértékben közbeszerzések elnyerő cégek a koncentráció miatt figyelmeztető jelzéssel (red flag-gel) szerepelnek.'
+      title: 'Közbeszerzések aránya a nettó árbevételhez képest',
+      info: 'A mutató azt vizsgalja, hogy miként aránylik egymáshoz a 2018-ban, 2019-ben és 2020-ban elnyert közbeszerzések összértékének éves átlaga és az adott vállalkozás 2021-es évi nettó árbevétele. A grafikon az egyes sávokba tartozó cégek darabszámát mutatja. Az összehasonlításban azért szerepelnek különböző időszakok, mivel az elnyert közbeszerzések értéke gyakorta csak a közbeszerzés eredményének kihirdetését követő években, a megbízás megvalósítását követően jelenik meg a cégek eredményében. A konzorciumban elnyert eljárások értéke a tagok számával egyenlően elosztva szerepel, mivel pontos összeg nem áll rendelkezésre. A legalább 100%-ot elérő cégek a közbeszerzések súlya miatt eltérő színnel ábrázolt figyelmeztető jelzéssel (red flag-gel) szerepelnek.',
+      info_2022: 'A mutató azt vizsgalja, hogy miként aránylik egymáshoz a 2019-ban, 2020-ben és 2021-ban elnyert közbeszerzések összértékének éves átlaga és az adott vállalkozás 2021-es évi nettó árbevétele. A grafikon az egyes sávokba tartozó cégek darabszámát mutatja. Az összehasonlításban azért szerepelnek különböző időszakok, mivel az elnyert közbeszerzések értéke gyakorta csak a közbeszerzés eredményének kihirdetését követő években, a megbízás megvalósítását követően jelenik meg a cégek eredményében. A konzorciumban elnyert eljárások értéke a tagok számával egyenlően elosztva szerepel, mivel pontos összeg nem áll rendelkezésre. A legalább 100%-ot elérő cégek a közbeszerzések súlya miatt eltérő színnel ábrázolt figyelmeztető jelzéssel (red flag-gel) szerepelnek.'
     },
     beneficiaries: {
       title: 'Ismert végső tulajdonosok száma, 2021 (fő)',
       info: 'A végső tulajdonosok a cég tevékenységének fő haszonélvezői. Számuk céginformációs adatok alapján áll rendelkezésre. A tulajdonos ismeretének hiánya a cég formájából is adódhat, azonba utalhat arra is, hogy a vállalkozás nem kívánja ezt az információt megosztani, ezért szerepel ez a mutató figyelmeztető jelzéssel.'
     },
     salesRevenueRatio: {
-      title: 'Az adózott eredmény és az értékesítés nettó árbevételének aránya, 2021 (%)',
-      info: 'Az adózott eredmény az értékesítés nettó árbevételéhez viszonyított aránya az egyes cégeknél, mely a cég jövedelmezőségét mutatja. A legnagyobb arányú, legalább 30%-os mértékű ROS (return on sales) mutatóval rendelkező cégek figyelmeztető jelzéssel (red flag-gel) szerepelnek.'
+      title: 'Nyereségráta',
+      info: 'A mutató a 2021-es adózott eredmény és a 2021-es értékesítés nettó árbevételének arányát vizsgálja. A grafikon az egyes sávokba tartozó cégek darabszámát mutatja. A legnagyobb arányú, legalább 20%-os mértékű jövedelmezőségi mutatóval rendelkező cégek eltérő színnel kiemelve, figyelmeztető jelzéssel (red flag-gel) szerepelnek.',
+      info_2022: 'A mutató a 2022-es adózott eredmény és a 2022-es értékesítés nettó árbevételének arányát vizsgálja. A grafikon az egyes sávokba tartozó cégek darabszámát mutatja. A legnagyobb arányú, legalább 20%-os mértékű jövedelmezőségi mutatóval rendelkező cégek eltérő színnel kiemelve, figyelmeztető jelzéssel (red flag-gel) szerepelnek.'
     },
     flags: {
-      title: 'Cégek száma a red flagek megoszlása szerint',
-      info: 'Összesítés az aloldalon megjelenő figyelmeztető jelzések alapján. A jelzések egy-egy mutató kirívó értékére hívják fel a figyelmet. Összességében, a jelzések potenciális veszélyforrásokat jelölnek, melyek magyarázatát az egyes mutatók leírásában fejtjük ki, de önmagukban nem jelentenek bizonyítékot bűncselekményre, korrupcióra vagy más visszaélésre. Bővebb információ az egyes grafikonoknál és a Mi ez? menüpontban olvasható.'
+      title: 'Red flagek összesítése',
+      info: 'A grafikon összesíti a Cégek és közbeszerzések aloldalon megjelenő red flageket és az egyes figyelmeztető jelzésekkel megjelölt cégek számát. A red flagek egy-egy mutató kirívó értékére hívják fel a figyelmet. Összességében, a jelzések potenciális veszélyforrásokat jelölnek, melyek magyarázatát az egyes mutatók leírásában fejtjük ki, de önmagukban nem jelentenek bizonyítékot bűncselekményre, korrupcióra vagy más visszaélésre. Bővebb információ az egyes grafikonoknál és Az oldalról menüpontban olvasható.'
     },
     table: {
       chart: null,
       type: 'table',
       title: 'Cégek',
-      info: 'A kiválasztott cégek főbb mutatói és adatai beleértve a keletkező figyelmeztető jelzések számát. A cégek nevére kattintva további részletek érhetőek el az adott cég által elnyert eljárásokról. A megnyíló táblázatban az eljárásrészre kattintva elérhető az eredeti eredménytájékoztató Közbeszerzési Hatóság oldalán. A konzorciumban elnyert eljárások értéke a tagok számával egyenlően osztva és az eredeti értékkel is szerepel, mivel pontos érték nem érhető el nyilvánosan a konzorciumi tagok részesedéséről. Az előbbi okokból kifolyólag tört értékek is előfordulnak.'
+      info: 'A kiválasztott végső tulajdonosokkal kapcsolatos főbb mutatók, beleértve az oldalon keletkező figyelmeztető jelzések számát. A tulajdonosok nevére kattintva további részletek érhetőek el az érdekeltségekről. A konzorciumban elnyert eljárások értéke a tagok számával egyenlő arányban osztva szerepel, mivel pontos összeg nem áll rendelkezésre. Adatvédelmi okok miatt névvel azokat a tulajdonosokat szerepeltetjük, akik (i) a vizsgált cégek többségében legalább 25%-os részesedéssel rendelkeznek, és cégeik összesen legalább  5 milliárd forint értékben nyertek el közbeszerzést a vizsgált időszakban; (ii) akik közhatalmi pozíciót töltenek/töltöttek be; (iii) akik legalább 2 említéssel szerepelnek a sajtóadatbázisban.'
     }
   },
   selectedOrg: {"Name": ""},
   flagsNames: {
-    "high_revenue_ratio_percent": "20% felett az adózott eredmény és az árbevétel aránya",
-    "high_revenue_tender_percent": "100% felett az elnyert közbeszerzések és az árbevétel aránya",
-    "high_amount_won": "5 Mrd Ft felett az elnyert közbeszerzések összes értéke",
-    "high_amount_won_avg": "1 Mrd Ft felett az elnyert közbeszerzések átlagos értéke",
+    "high_revenue_ratio_percent": "20% feletti nyereségráta",
+    "high_revenue_tender_percent": "100% feletti közbeszerzési arány",
+    "high_amount_won": "5 Mrd Ft feletti közbeszerzési összérték",
+    "high_amount_won_avg": "1 Mrd Ft feletti közbeszerzési átlagos értéke",
   },
   colors: {
     default: "#0aafec",
@@ -131,14 +140,17 @@ new Vue({
       var datatable = charts.table.chart;
       var filteredData = datatable.DataTable().rows( { filter : 'applied'} ).data();
       var entries = [['"Cégnév","A cég székhelye (megye)"','"Alkalmazottak száma, 2021 (fő)"','"Az értékesítés nettó árbevétele, 2021 (Ft)"','"Adózott eredmény, 2021 (Ft)"','"Elnyert eljárások értéke, 2018-2020 (Ft)"','"Elnyert eljárások száma, 2018-2020 (db)"','"Ismert végső tulajdonosok száma, 2021 (fő)"']];
+      if(vuedata.selectedYear == '2022') {
+        entries = [['"Cégnév","A cég székhelye (megye)"','"Alkalmazottak száma, 2022 (fő)"','"Az értékesítés nettó árbevétele, 2022 (Ft)"','"Adózott eredmény, 2022 (Ft)"','"Elnyert eljárások értéke, 2019-2021 (Ft)"','"Elnyert eljárások száma, 2019-2021 (db)"','"Ismert végső tulajdonosok száma, 2022 (fő)"']];
+      }
       _.each(filteredData, function (d) {
         var entry = [
-          '"' + d.registered_name + '"',
+          '"' + d.registered_name.replaceAll('"','\'') + '"',
           '"' + d.county_registered + '"',
-          d.employees_2021,
-          d.net_sales_revenue_2021,
-          d.tax_profit_2021,
-          d.amount_won_18_20,
+          d.employees_latestyear,
+          d.net_sales_revenue_latestyear,
+          d.tax_profit_latestyear,
+          d.amount_won,
           d.single_bids_number + d.consortium_number,
           d.beneficiaries_number];
         entries.push(entry);
@@ -167,7 +179,7 @@ new Vue({
       }
       if(platform == 'facebook'){
         //var toShareUrl = window.location.href.split('?')[0];
-        var toShareUrl = 'https://integritywatch.de';
+        var toShareUrl = 'https://tenderbajnok.transparency.hu';
         var shareURL = 'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(toShareUrl);
         window.open(shareURL, '_blank', 'toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250,top=300,left=300');
         return;
@@ -397,6 +409,31 @@ jQuery.extend( jQuery.fn.dataTableExt.oSort, {
   }
 });
 
+var specialCharactersToPlain = {
+  'Ú': 'U',
+  'Ü': 'U',
+  'Ó': 'O',
+  'Ö': 'O',
+  'É': 'E',
+  'Á': 'A',
+  'Í': 'I'
+}
+
+jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+  "stringhu-pre": function (str) {
+    for (var key in specialCharactersToPlain) {
+      str = str.replaceAll(key, specialCharactersToPlain[key]);
+    }
+    return str.toUpperCase();
+  },
+  "stringhu-asc": function (a, b) {
+      return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+  },
+  "stringhu-desc": function ( a, b ) {
+      return ((a < b) ? 1 : ((a > b) ? -1 : 0));
+  }
+});
+
 function tendersRevenueRatioStreamlining(percentage) {
   /*
   if(percentage <= 50) {
@@ -488,6 +525,37 @@ function formatAmount(amt){
   return addcommas(amt);
 }
 
+//Get URL parameters
+function getParameterByName(name, url) {
+  if (!url) url = window.location.href;
+  name = name.replace(/[\[\]]/g, '\\$&');
+  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+      results = regex.exec(url);
+  if (!results) return null;
+  if (!results[2]) return '';
+  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+var organizationsDataset = './data/organizations_2022.json';
+vuedata.selectedYear = '2022';
+vuedata.parameterYears = '2019-2021';
+vuedata.tendersFolder = 'tenders_2022';
+
+if(getParameterByName('year') == '2021') {
+  organizationsDataset = './data/organizations.json';
+  vuedata.selectedYear = '2021';
+  vuedata.parameterYears = '2018-2020';
+  vuedata.tendersFolder = 'tenders';
+}
+
+if(vuedata.selectedYear == '2022') {
+  _.each(vuedata.charts, function (c) {
+    if(c.info_2022) {
+      c.info = c.info_2022;
+    }
+  });
+}
+
 //Load data and generate charts
 //Generate random parameter for dynamic dataset loading (to avoid caching)
 
@@ -498,16 +566,16 @@ for ( var i = 0; i < 5; i++ ) {
 }
 
 var totalTenders = 0;
-json('./data/organizations.json?' + randomPar, (err, organizations) => {
+json(organizationsDataset + '?' + randomPar, (err, organizations) => {
 csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
   var fullCpvList = [];
   var fullAuthList = []
   //Parse data
   _.each(organizations, function (d) {
-    d.revenue_tender_percent_category = tendersRevenueRatioStreamlining(d.revenue_tender_percent_2021);
+    d.revenue_tender_percent_category = tendersRevenueRatioStreamlining(d.revenue_tender_percent_latestyear);
     d.beneficiaries_range = beneficiariesStreamlining(d.beneficiaries_number);
-    d.salesreturn_percent_category = returnOnSalesStreamlining(d.revenue_ratio_percent_2021);
-    d.amount_won_category = amountWonStramlining(d.amount_won_18_20);
+    d.salesreturn_percent_category = returnOnSalesStreamlining(d.revenue_ratio_percent_latestyear);
+    d.amount_won_category = amountWonStramlining(d.amount_won);
     d.amount_won_category_avg = amountWonStramlining(d.average_amt_tenders_won);
     totalTenders += d.tenders_num;
     //CPV Names
@@ -525,12 +593,12 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
       }
     }); 
     _.each(d.contractingAuth, function (auth) {
+      //auth = auth.replaceAll('&Quot','');
       if(fullAuthList.indexOf(auth) == -1) {
         fullAuthList.push(auth);
       }
     });
-    vuedata.fullCpvList = fullCpvList;
-    vuedata.fullAuthList = fullAuthList;
+    
     //Count risk indicators
     d.risk_indicators_list = [];
     d.risk_indicators = 0;
@@ -539,11 +607,11 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
       d.risk_indicators ++;
     }
     */
-    if(d.revenue_ratio_percent_2021 > 20) {
+    if(d.revenue_ratio_percent_latestyear > 20) {
       d.risk_indicators ++;
       d.risk_indicators_list.push("high_revenue_ratio_percent");
     }
-    if(d.revenue_tender_percent_2021 > 100) {
+    if(d.revenue_tender_percent_latestyear > 100) {
       d.risk_indicators ++;
       d.risk_indicators_list.push("high_revenue_tender_percent");
     }
@@ -560,6 +628,19 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     _.each(d.risk_indicators_list, function (f) {
       d.risk_indicators_list_strings.push(vuedata.flagsNames[f]);
     });
+  });
+  //Order cpv and auth lists and then apply to vuedata
+  vuedata.fullCpvList = fullCpvList.sort(function(a, b){
+    var aNum = parseFloat(a.split('(')[1].replace(')','').replace('-','.'));
+    var bNum = parseFloat(b.split('(')[1].replace(')','').replace('-','.'));
+    if(aNum < bNum) { return -1; }
+    if(aNum > bNum) { return 1; }
+    return 0;
+  });
+  vuedata.fullAuthList = fullAuthList.sort(function(a, b){
+    if(a.replace('"','').replace('&','').trim() < b.replace('"','').replace('&','').trim()) { return -1; }
+    if(a.replace('"','').replace('&','').trim() > b.replace('"','').replace('&','').trim()) { return 1; }
+    return 0;
   });
 
   //Set totals for footer counters
@@ -635,7 +716,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(400)
+      .height(415)
       .cap(10)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
       .group(group)
@@ -684,7 +765,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     var order = ["> 5 Mrd Ft", "> 1 - 5 Mrd Ft", "> 500 M - 1 Mrd Ft", "<= 500 M Ft"];
     chart
       .width(width)
-      .height(400)
+      .height(430)
       .margins({top: 0, left: 0, right: 20, bottom: 20})
       .group(filteredGroup)
       .dimension(dimension)
@@ -838,7 +919,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(400)
+      .height(415)
       .cap(10)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
       .group(group)
@@ -875,7 +956,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(465)
+      .height(475)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
       .group(group)
       .dimension(dimension)
@@ -927,6 +1008,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "orderable": true,
           "targets": 0,
           "defaultContent":"N/A",
+          "type":"stringhu",
           "data": function(d) {
             return d.registered_name.trim();
           }
@@ -948,7 +1030,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "className": "dt-body-right",
           "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return d.employees_2021;
+            return d.employees_latestyear;
           }
         },
         {
@@ -960,7 +1042,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "className": "dt-body-right",
           "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return formatAmount(shortenNumber(d.net_sales_revenue_2021));
+            return formatAmount(shortenNumber(d.net_sales_revenue_latestyear));
           }
         },
         {
@@ -972,7 +1054,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "className": "dt-body-right",
           "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return formatAmount(d.tax_profit_2021);
+            return formatAmount(shortenNumber(d.tax_profit_latestyear));
           }
         },
         {
@@ -984,7 +1066,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
           "className": "dt-body-right",
           "orderSequence": ["desc", "asc"],
           "data": function(d) {
-            return formatAmount(shortenNumber(d.amount_won_18_20));
+            return formatAmount(shortenNumber(d.amount_won));
           }
         },
         {
@@ -1052,7 +1134,7 @@ csv('./data/cpv.csv?' + randomPar, (err, cpvNames) => {
 
     $('#dc-data-table tbody').on('click', 'tr', function () {
       var data = datatable.DataTable().row( this ).data();
-      json('./data/tenders/'+data.tax_number+'.json', (err, tenders) => {
+      json('./data/'+vuedata.tendersFolder+'/'+data.tax_number+'.json', (err, tenders) => {
         data.tenders = tenders;
         vuedata.selectedOrg = data;
         $('#detailsModal').modal();

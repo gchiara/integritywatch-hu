@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "Design Plan Zrt.; FEJÉR Tervező és Mérnökiroda Kft.; INCORSO ÉPÍTÉSZ és ÉPÍTŐ MŰHELY Szolgáltató Kft.; MAGYAR ENERGIA CENTRUM Projektfejlesztő és Koordinációs Szolgáltató Kft.; OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Kft.",
+        "contract_value": 1000000000.0,
+        "contracting_authority": "Eötvös Loránd Tudományegyetem",
+        "date": "29/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_25783_2021/",
+        "main_cpv": "71240000-2",
+        "number_companies_win": 5,
+        "procurement_title": "Energetikai tervezési feladatok",
+        "registered_name": "OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Kft."
+    },
+    {
+        "company_names": "FEJÉR Tervező és Mérnökiroda Kft.; OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Kft.",
+        "contract_value": 548100000.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
+        "date": "22/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0067_2021/",
+        "main_cpv": "71220000-6",
+        "number_companies_win": 2,
+        "procurement_title": "NOIKK - megvalósíthatósági tanulmány, engedélyezési és kivitelezési tervdokumentációk elkészítése",
+        "registered_name": "OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 539000000.0,
+        "contracting_authority": "BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.",
+        "date": "07/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23861_2021/",
+        "main_cpv": "71315200-1",
+        "number_companies_win": 0,
+        "procurement_title": "Kovács Katalin NKK Sp.akadémia-mérnök",
+        "registered_name": "OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 115000000.0,
+        "contracting_authority": "Semmelweis Egyetem",
+        "date": "22/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22477_2021/",
+        "main_cpv": "71220000-6",
+        "number_companies_win": 0,
+        "procurement_title": "PAK infrastruktúra felújítás és korszerűsítés tervezés",
+        "registered_name": "OPTIMUM TERM Hőtechnikai Szerelő, Kivitelező és Üzemeltető Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 194838500.0,
+        "contracting_authority": "Magyar Nemzeti Bank",
+        "date": "31/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_9381_2019/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "IT szolgáltatásmenedzsment program",
+        "registered_name": "GPIT Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 138204250.0,
+        "contracting_authority": "Magyar Nemzeti Bank",
+        "date": "07/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_16716_2021/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "ITSM keretszerződés megújítása",
+        "registered_name": "GPIT Informatikai Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 67407025.0,
+        "contracting_authority": "Magyar Exporthitel Biztosító Zrt., Magyar Export-Import Bank Zrt.",
+        "date": "15/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13489_2021/",
+        "main_cpv": "72262000-9",
+        "number_companies_win": 0,
+        "procurement_title": "ITSM-jogosultság kezelő rendszer továbbfejlesztése",
+        "registered_name": "GPIT Informatikai Szolgáltató Kft."
+    }
+]

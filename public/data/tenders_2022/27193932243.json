@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "Electric Four Energetikai Zrt.; ENERGY HUNGARY Energetikai Zrt.; Green Plan Energy Környezetvédelmi Korlátolt Felelősségü Társaság; HelioActive Rendszerintegrátor Kft.; Optimum Solar Építőipari Szolgáltató Kft.; Turbo Tech Hungary Kft.; VABEKO Müszaki Kereskedelmi és Szolgáltató Korlátolt Felelősségü Társaság",
+        "contract_value": 140000000000.0,
+        "contracting_authority": "MVM Zöld Generáció Kft.",
+        "date": "15/09/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_16181_2020/",
+        "main_cpv": "45262000-1",
+        "number_companies_win": 7,
+        "procurement_title": "PV erőművek kiviteli tervezése és kivitelezése",
+        "registered_name": "Optimum Solar Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 208750000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
+        "date": "15/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19883_2019/",
+        "main_cpv": "45317000-2",
+        "number_companies_win": 0,
+        "procurement_title": "1,5 MVA naperőmű tervezés kivitelezés - Tahitótfalu",
+        "registered_name": "Optimum Solar Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 23569000.0,
+        "contracting_authority": "SEFAG Erdészeti és Faipari Zrt.",
+        "date": "03/09/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_16377_2019/",
+        "main_cpv": "45315000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Zselici Csillagpark napelemes rendszer kivitelezése",
+        "registered_name": "Optimum Solar Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 9000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
+        "date": "06/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7899_2019/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 0,
+        "procurement_title": "1 MW alatti naperőmű tervezése",
+        "registered_name": "Optimum Solar Zrt."
+    }
+]

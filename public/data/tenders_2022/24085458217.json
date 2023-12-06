@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Közép-Dunántúli Vízügyi Igazgatóság; VIKIV Vízügyi Kivitelező Kft.",
+        "contract_value": 1196533414.0,
+        "contracting_authority": "MVM Paksi Atomerőmű Zrt.",
+        "date": "31/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_9583_2021/",
+        "main_cpv": "65130000-3",
+        "number_companies_win": 2,
+        "procurement_title": "Hűtővíz biztosítás, gyakorlat alacsony vízállásnál",
+        "registered_name": "VIKIV Vízügyi Kivitelező Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 278598374.0,
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "12/08/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_14759_2020/",
+        "main_cpv": "45240000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Mérőplatformok tervezése és kivitelezése",
+        "registered_name": "VIKIV Vízügyi Kivitelező Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 55001300.0,
+        "contracting_authority": "Dél-Dunántúli Vízügyi Igazgatóság",
+        "date": "17/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_20141_2019/",
+        "main_cpv": "45247230-1",
+        "number_companies_win": 0,
+        "procurement_title": "Zsdála patak mentén manőverút kialakítása",
+        "registered_name": "VIKIV Vízügyi Kivitelező Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 515400000.0,
+        "contracting_authority": "Nemzeti Népegészségügyi és Gyógyszerészeti Központ",
+        "date": "19/03/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_4206_2020/",
+        "main_cpv": "33190000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Tájékoztató eljárás eredményéről",
+        "registered_name": "BIOSAN Egészségügyi Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "BIOSAN Egészségügyi Kereskedelmi és Szolgáltató Kft.; Sysmex Hungária Orvosi Laborszervezési és Laborméréstechnikai Kft.",
+        "contract_value": 490680000.0,
+        "contracting_authority": "Nemzeti Népegészségügyi és Gyógyszerészeti Központ",
+        "date": "21/01/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2018/0/targy/portal_403/megtekint/portal_22024_2018/",
+        "main_cpv": "33190000-8",
+        "number_companies_win": 2,
+        "procurement_title": "Szűrési kitek és a vizsgálathoz szükséges reagenskészletek, gumikesztyűk, nejlon tasakok, légpárnás borítékok szállítása, diagnosztikai eszközök biztosítása, szűrési egységcsomagok összeállítása",
+        "registered_name": "BIOSAN Egészségügyi Kereskedelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "BIOSAN Egészségügyi Kereskedelmi és Szolgáltató Kft.; SANARBOR Tanácsadó és Kereskedelmi Kft.",
+        "contract_value": 12600600.0,
+        "contracting_authority": "Debreceni Egyetem",
+        "date": "29/10/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_20921_2021/",
+        "main_cpv": "33140000-3",
+        "number_companies_win": 2,
+        "procurement_title": "Szemészeti műlencsék és fogyóanyagok",
+        "registered_name": "BIOSAN Egészségügyi Kereskedelmi és Szolgáltató Kft."
+    }
+]

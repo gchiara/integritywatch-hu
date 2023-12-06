@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 3000000000.0,
+        "contracting_authority": "Pro-M Professzionális Mobilszolgáltató Zrt.",
+        "date": "17/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15284_2021/",
+        "main_cpv": "32230000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Airbus vagy egyenértékű rádióterminálok beszerzése",
+        "registered_name": "DunaSafeCom Távközléstechnikai Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 100000000.0,
+        "contracting_authority": "Pro-M Professzionális Mobilszolgáltató Zrt.",
+        "date": "18/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20817_2020/",
+        "main_cpv": "50000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "EDR TETRA terminálok szervizelése",
+        "registered_name": "DunaSafeCom Távközléstechnikai Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 25190700.0,
+        "contracting_authority": "Pro-M Professzionális Mobilszolgáltató Zrt.",
+        "date": "10/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_6031_2019/",
+        "main_cpv": "32230000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Az EDR rendszerben használható rádióterminálok és azok üzemeltetéséhez szükséges kiegészítők, szoftverek és tartozékok beszerzése",
+        "registered_name": "DunaSafeCom Távközléstechnikai Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 1737600000.0,
+        "contracting_authority": "Békés Vármegyei Központi Kórház",
+        "date": "06/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_7610_2019/",
+        "main_cpv": "90910000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Takarítási szolgáltatások beszerzése",
+        "registered_name": "\"DIG-BUILD\" Környezetvédelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "\"DIG-BUILD\" Környezetvédelmi és Szolgáltató Kft.; TISZA-MAROS TÉRSÉG Kertgondozó Szociális Szövetkezet",
+        "contract_value": 144000000.0,
+        "contracting_authority": "Csongrád-Csanád Vármegyei Rendőr-Főkapitányság",
+        "date": "10/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22658_2020/",
+        "main_cpv": "90910000-9",
+        "number_companies_win": 2,
+        "procurement_title": "Takarítási feladatok a CSCSMRFK-nak",
+        "registered_name": "\"DIG-BUILD\" Környezetvédelmi és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 35801448.0,
+        "contracting_authority": "Gyulai Törvényszék",
+        "date": "27/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_454/megtekint/portal_13523_2020/",
+        "main_cpv": "90900000-6",
+        "number_companies_win": 0,
+        "procurement_title": "Gyulai Törvényszék takarítási feladatok",
+        "registered_name": "\"DIG-BUILD\" Környezetvédelmi és Szolgáltató Kft."
+    }
+]

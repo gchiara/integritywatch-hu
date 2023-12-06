@@ -1,0 +1,24 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 150000000.0,
+        "contracting_authority": "Fővárosi Vízművek Zrt.",
+        "date": "22/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_0908_2020/",
+        "main_cpv": "50511000-0",
+        "number_companies_win": 0,
+        "procurement_title": "Flygt típusú szennyvíz szivattyúk és keverők javítása",
+        "registered_name": "AQUA VERTEX Ipari Szolgáltató és Kereskedelmi Zrt."
+    },
+    {
+        "company_names": "AQUA VERTEX Ipari Szolgáltató és Kereskedelmi Zrt.; ECODAN KÖRNYEZETÉPÍTŐ Szolgáltató és Kereskedelmi Kft.; Hírös Mester Szolgáltató és Kereskedelmi Kft.",
+        "contract_value": 110000000.0,
+        "contracting_authority": "Kiskunsági Víziközmű-Szolgáltató Kft.",
+        "date": "21/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1110_2021/",
+        "main_cpv": "50511000-0",
+        "number_companies_win": 3,
+        "procurement_title": "Szivattyú javítási és felújítási szolgáltatás",
+        "registered_name": "AQUA VERTEX Ipari Szolgáltató és Kereskedelmi Zrt."
+    }
+]

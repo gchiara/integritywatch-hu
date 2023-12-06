@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 50800000.0,
+        "contracting_authority": "Vas Vármegyei Rendőr-Főkapitányság",
+        "date": "11/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_6037_2019/",
+        "main_cpv": "50110000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Szolgálati gépjárművek javítása.",
+        "registered_name": "Nagy Autószerviz Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 25000000.0,
+        "contracting_authority": "Vas Vármegyei Rendőr-Főkapitányság",
+        "date": "15/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_6207_2020/",
+        "main_cpv": "50110000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Skoda szgk. és tehergépjárművek javítása.",
+        "registered_name": "Nagy Autószerviz Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 22000000.0,
+        "contracting_authority": "Vas Vármegyei Rendőr-Főkapitányság",
+        "date": "05/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_12350_2021/",
+        "main_cpv": "50112000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Szolgálati gépjárművek javítása",
+        "registered_name": "Nagy Autószerviz Kft."
+    }
+]

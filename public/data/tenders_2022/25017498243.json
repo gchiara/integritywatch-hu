@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 86657824.0,
+        "contracting_authority": "Tatabánya Megyei Jogú Város Önkormányzata",
+        "date": "15/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8167_2020/",
+        "main_cpv": "50232100-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közvilágítási hálózat aktív elemeinek üzemeltetése",
+        "registered_name": "PROJECT LIGHT HUNGARY Kft."
+    },
+    {
+        "company_names": "PROJECT LIGHT HUNGARY Kft.; SMHV Energetika Kft.",
+        "contract_value": 49486240.0,
+        "contracting_authority": "Zalaegerszeg Megyei Jogú Város Önkormányzata",
+        "date": "10/06/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_9887_2020/",
+        "main_cpv": "50232100-1",
+        "number_companies_win": 2,
+        "procurement_title": "Közvilágítás aktív elemeinek karbantartása",
+        "registered_name": "PROJECT LIGHT HUNGARY Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 11919600.0,
+        "contracting_authority": "Tolna Város Önkormányzata",
+        "date": "23/04/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_6529_2021/",
+        "main_cpv": "50232100-1",
+        "number_companies_win": 0,
+        "procurement_title": "Tolna város közvilágítási rendszer - üzemeltetés",
+        "registered_name": "PROJECT LIGHT HUNGARY Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 4180800.0,
+        "contracting_authority": "Enying Város Önkormányzata",
+        "date": "10/12/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_24670_2021/",
+        "main_cpv": "50232100-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közvilágítás aktív elemek üzemeltetése, karbantartása",
+        "registered_name": "PROJECT LIGHT HUNGARY Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Budai Villamos Tervező Kft.; DEVELOP-INVEST Technical Consulting Kft.; ECSEDI-VILL Szolgáltató Bt.; EL-CO TECH Elektromos-Kommunikációs Technológiák Kft.; Energy Network Solutions Villamos Hálózati Létesítményeket Tervező és Kivitelező Kft.; ÉSZAK-BUDAI Tervező, Szerelő és Szolgáltató Zrt.; FABRICOM ELECTRICAL-PVV Villanyszerelő Ipari Kft.; GTF Tervező és Fővállalkozó Kft.; JUKO Építőipari és Szolgáltató Kft.; JUKOŐR Ingatlanhasznosító Kft.; Kábel Team Villamosipari Szolgáltató és Kereskedelmi Kft.; Kőhegyi Mérnöki Iroda Tervező és Szolgáltató Kft.; MULTI Villany Villamosipari, Tervező és Kivitelező Kft.; OPTOKOM Hálózattervező, Kivitelező és Üzemeltető Kft.; SPIE Hungaria Kft.; SzEL-TERV Műszaki Tervező és Szolgáltató Kft.; SZLÁ-VILL Kereskedelmi és Szolgáltató Kft.; T-TECH 2000 Biztonságtechnikai és Vagyonvédelmi Kft.; URBAVILL Tervező és Szolgáltató Bt.",
+        "contract_value": 4000000000.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
+        "date": "23/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_6369_2019/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 19,
+        "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
+        "registered_name": "DEVELOP-INVEST Technical Consulting Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 144000000.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
+        "date": "11/03/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_406/megtekint/portal_3781_2021/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
+        "registered_name": "DEVELOP-INVEST Technical Consulting Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 120000000.0,
+        "contracting_authority": "ELMÜ Hálózati Elosztó Kft., MVM Émász Áramhálózati Kft.",
+        "date": "15/11/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_20711_2019/",
+        "main_cpv": "71320000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Elosztóhálózat, valamint csatlakozó és mérőhely tervezés az ELMŰ Hálózati Kft. és az ÉMÁSZ Hálózati Kft. teljes áramszolgáltatási területén",
+        "registered_name": "DEVELOP-INVEST Technical Consulting Kft."
+    }
+]

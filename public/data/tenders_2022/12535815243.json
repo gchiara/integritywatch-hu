@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 360000000.0,
+        "contracting_authority": "UD INFOPARK Nonprofit Kft.",
+        "date": "17/08/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_15086_2021/",
+        "main_cpv": "72261000-2",
+        "number_companies_win": 0,
+        "procurement_title": "UD-109 UD MED Medikai informatikai rendszer üzemeltetése",
+        "registered_name": "E-Consult 2000 Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 70126000.0,
+        "contracting_authority": "Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzat",
+        "date": "11/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_24978_2020/",
+        "main_cpv": "48000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Modulbeszerzés",
+        "registered_name": "E-Consult 2000 Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 49000000.0,
+        "contracting_authority": "Mátrai Gyógyintézet",
+        "date": "25/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7128_2019/",
+        "main_cpv": "50312600-1, 72267100-0",
+        "number_companies_win": 0,
+        "procurement_title": "MÁGY- informatikai rendszer karbantartása- 2018",
+        "registered_name": "E-Consult 2000 Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 9600000.0,
+        "contracting_authority": "Mátrai Gyógyintézet",
+        "date": "25/04/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_7128_2019/",
+        "main_cpv": "50312600-1, 72267100-0",
+        "number_companies_win": 0,
+        "procurement_title": "MÁGY- informatikai rendszer karbantartása- 2018",
+        "registered_name": "E-Consult 2000 Kft."
+    }
+]

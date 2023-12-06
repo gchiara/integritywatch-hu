@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 993010000.0,
+        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
+        "date": "26/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_23140_2021/",
+        "main_cpv": "71221000-3",
+        "number_companies_win": 0,
+        "procurement_title": "KEF épület felmérések, CAFM rendszerbe illesztés",
+        "registered_name": "NEW VERSION Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 570000000.0,
+        "contracting_authority": "Közbeszerzési és Ellátási Főigazgatóság",
+        "date": "28/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_13326_2020/",
+        "main_cpv": "72416000-9",
+        "number_companies_win": 0,
+        "procurement_title": "KEF épület felmérések, CAFM rendszerbe illesztés",
+        "registered_name": "NEW VERSION Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 14990000.0,
+        "contracting_authority": "MVM Informatika Zrt.",
+        "date": "15/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12691_2020/",
+        "main_cpv": "72267000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Archi FM support és licenszkövetés",
+        "registered_name": "NEW VERSION Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 6960000.0,
+        "contracting_authority": "MVM Informatika Zrt.",
+        "date": "15/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12691_2020/",
+        "main_cpv": "72267000-4",
+        "number_companies_win": 0,
+        "procurement_title": "Archi FM support és licenszkövetés",
+        "registered_name": "NEW VERSION Szolgáltató Kft."
+    }
+]

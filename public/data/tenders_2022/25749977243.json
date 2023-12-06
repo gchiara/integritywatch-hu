@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "Adept Enviro Kft.; Eurofins Analytical Services Hungary Kft.; NATURAQUA Környezetvédelmi, Tervező és Szolgáltató Zrt.",
+        "contract_value": 1500000000.0,
+        "contracting_authority": "Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.",
+        "date": "02/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_5491_2020/",
+        "main_cpv": "71900000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Laboratóriumi vizsgálatok és mintavételek",
+        "registered_name": "Adept Enviro Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 260636864.0,
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "07/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_18633_2019/",
+        "main_cpv": "45110000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Gyálai Holt-Tisza kármentesítésének tényfeltárása",
+        "registered_name": "Adept Enviro Kft."
+    },
+    {
+        "company_names": "Adept Enviro Kft.; GEO-LOG Környezetvédelmi és Geofizikai Kft.",
+        "contract_value": 158040000.0,
+        "contracting_authority": "Országos Vízügyi Főigazgatóság",
+        "date": "03/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0779_2021/",
+        "main_cpv": "76441000-6",
+        "number_companies_win": 2,
+        "procurement_title": "Monitoring kutak felülvizsgálata",
+        "registered_name": "Adept Enviro Kft."
+    }
+]

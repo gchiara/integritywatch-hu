@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "BIT-ÉP Építőipari és Kereskedelmi Bt.; SZÁRNYASÉP Építő és Szolgáltató Kft.",
+        "contract_value": 322398326.0,
+        "contracting_authority": "Kőszeg Város Önkormányzata",
+        "date": "08/07/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_12235_2019/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 2,
+        "procurement_title": "Városmajor környezettudatos rehabilitációja",
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "BIT-ÉP Építőipari és Kereskedelmi Kft.; BOROSTYÁN REC Kft.; SZÁRNYASÉP Építő és Szolgáltató Kft.",
+        "contract_value": 296178542.0,
+        "contracting_authority": "Körmend Város Önkormányzata",
+        "date": "22/07/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_13688_2021/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 3,
+        "procurement_title": "Cipőgyári területek kivitelezési munkálatai",
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 170363600.0,
+        "contracting_authority": "Kőszeg Város Önkormányzata",
+        "date": "16/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_12749_2020/",
+        "main_cpv": "45000000-7",
+        "number_companies_win": 0,
+        "procurement_title": "Városháza energetikai korszerűsítése",
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 129608185.0,
+        "contracting_authority": "Lukácsháza Község Önkormányzata",
+        "date": "19/05/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_9161_2021/",
+        "main_cpv": "45453100-8",
+        "number_companies_win": 0,
+        "procurement_title": "Egészségház kivitelezése",
+        "registered_name": "SZÁRNYASÉP Építő és Szolgáltató Kft."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 2200000000.0,
+        "contracting_authority": "Újpesti Városgondnokság Szolgáltató Kft.",
+        "date": "06/07/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_11397_2020/",
+        "main_cpv": "90611000-3",
+        "number_companies_win": 0,
+        "procurement_title": "Köztisztasági és parkfenntartási munkák",
+        "registered_name": "KEREKERDŐ 1998 Kertészeti és Erdészeti Kft."
+    },
+    {
+        "company_names": "KEREKERDŐ 1998 Kertészeti és Erdészeti Kft.; Magyar kőris Kertészeti és Szolgáltató Kft.",
+        "contract_value": 495000000.0,
+        "contracting_authority": "Budapest Főváros II. Kerületi Önkormányzat",
+        "date": "30/01/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_0717_2020/",
+        "main_cpv": "90610000-6",
+        "number_companies_win": 2,
+        "procurement_title": "Járdatisztítási szolgáltatás 2019.",
+        "registered_name": "KEREKERDŐ 1998 Kertészeti és Erdészeti Kft."
+    },
+    {
+        "company_names": "DeerGarden Kertészeti és Szolgáltató Kft.; KEREKERDŐ 1998 Kertészeti és Erdészeti Kft.",
+        "contract_value": 455400000.0,
+        "contracting_authority": "Erzsébetváros Fejlesztési és Beruházási Kft.",
+        "date": "20/11/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_20315_2020/",
+        "main_cpv": "90610000-6",
+        "number_companies_win": 2,
+        "procurement_title": "Közterületek kézi takarítása",
+        "registered_name": "KEREKERDŐ 1998 Kertészeti és Erdészeti Kft."
+    }
+]

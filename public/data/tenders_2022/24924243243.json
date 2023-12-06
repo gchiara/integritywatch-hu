@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 2569517250.0,
+        "contracting_authority": "MVM Démász Áramhálózati Kft., MVM Égáz-Dégáz Földgázhálózati Zrt., MVM Főgáz Földgázhálózati Kft., MVM Next Energiakereskedelmi Zrt., MVM Otthon Plusz Zrt.",
+        "date": "31/12/2020",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_406/megtekint/portal_24120_2020/",
+        "main_cpv": "79800000-2",
+        "number_companies_win": 0,
+        "procurement_title": "Direct Mailing Szolgáltatás",
+        "registered_name": "EPDB Nyomtatási Központ Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1562068000.0,
+        "contracting_authority": "NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.",
+        "date": "03/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_403/megtekint/portal_18766_2019/",
+        "main_cpv": "79810000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Nyomtatási és egyéb szolgáltatások",
+        "registered_name": "EPDB Nyomtatási Központ Zrt."
+    },
+    {
+        "company_names": "",
+        "contract_value": 681310000.0,
+        "contracting_authority": "MVM Démász Áramhálózati Kft., MVM Égáz-Dégáz Földgázhálózati Zrt., MVM Főgáz Földgázhálózati Kft., NKM Áramszolgáltató Zrt., NKM Földgázszolgáltató Zrt.",
+        "date": "20/06/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_406/megtekint/portal_11027_2019/",
+        "main_cpv": "79800000-2",
+        "number_companies_win": 0,
+        "procurement_title": "NKM Cégcsoport részére direct mailing szolgáltatás",
+        "registered_name": "EPDB Nyomtatási Központ Zrt."
+    }
+]

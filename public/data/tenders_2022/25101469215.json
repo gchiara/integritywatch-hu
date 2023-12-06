@@ -1,0 +1,35 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 293925903.0,
+        "contracting_authority": "Nyírbátor Város Önkormányzata, Nyírgyulaj Község Önkormányzata",
+        "date": "14/10/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_19777_2019/",
+        "main_cpv": "45233162-2",
+        "number_companies_win": 0,
+        "procurement_title": "Kerékpárút fejlesztés Nyírgyulaj",
+        "registered_name": "Petrucz Transz Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 164997378.0,
+        "contracting_authority": "Nyírgelse Község Önkormányzata",
+        "date": "03/04/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_434/megtekint/portal_5942_2020/",
+        "main_cpv": "45233162-2",
+        "number_companies_win": 0,
+        "procurement_title": "Nyírgelse belterületi kerékpárút megvalósítása",
+        "registered_name": "Petrucz Transz Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 69899048.0,
+        "contracting_authority": "Bököny Község Önkormányzata",
+        "date": "24/05/2019",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2019/0/targy/portal_434/megtekint/portal_9347_2019/",
+        "main_cpv": "45200000-9",
+        "number_companies_win": 0,
+        "procurement_title": "Belterületi vízrendezés Bököny településen",
+        "registered_name": "Petrucz Transz Szolgáltató Kft."
+    }
+]

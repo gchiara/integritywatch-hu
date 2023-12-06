@@ -1,0 +1,90 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 1083000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "14/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17333_2021/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Meglévő SAS licencek megújítása, támogatása",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 400000000.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "14/05/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_8160_2020/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Meglévő IBM licencek terméktámogatása (ISUP2020)",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 284108751.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "12/12/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_22865_2020/",
+        "main_cpv": "48000000-8",
+        "number_companies_win": 0,
+        "procurement_title": "Oracle, SAP, IBM, Novell, SAS szoftverlicencek bővítése, kiegészítése, meghosszabbítása, verzió-követése,cseréje, és új szoftverlicencek beszerzése és kapcsolódó szolgáltatások teljesítése",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 266029920.0,
+        "contracting_authority": "Digitális Kormányzati Ügynökség Zrt.",
+        "date": "10/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_1218_2021/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "Meglévő SAS licencek megújítása és támogatása",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 82320000.0,
+        "contracting_authority": "Nemzeti Adó- és Vámhivatal",
+        "date": "24/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_22264_2021/",
+        "main_cpv": "48612000-1",
+        "number_companies_win": 0,
+        "procurement_title": "SAS Detection and Investigation for Government",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 22084116.0,
+        "contracting_authority": "Magyar Nemzeti Bank",
+        "date": "03/02/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_1927_2021/",
+        "main_cpv": "72260000-5",
+        "number_companies_win": 0,
+        "procurement_title": "SAS IML szerver licenc beszerzése",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 11060000.0,
+        "contracting_authority": "Szerencsejáték Zrt.",
+        "date": "25/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_0146_2021/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 0,
+        "procurement_title": "SAS Maintenance Level váltás fejlesztési feladatok",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 5259600.0,
+        "contracting_authority": "Magyar Nemzeti Bank",
+        "date": "21/06/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_454/megtekint/portal_11447_2021/",
+        "main_cpv": "72212460-1",
+        "number_companies_win": 0,
+        "procurement_title": "SAS licencek tesztrendszer kialakításához",
+        "registered_name": "SAS Institute Szoftver Értékesítő és Tanácsadó Kft."
+    }
+]

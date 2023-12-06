@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "",
+        "contract_value": 5583471850.0,
+        "contracting_authority": "Hódmezővásárhely Megyei Jogú Város Önkormányzata, Hódmezővásárhelyi Többcélú Kistérségi Társulás Kapcsolat Központ",
+        "date": "23/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_22386_2021/",
+        "main_cpv": "55520000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közétkeztetési szolgáltatás",
+        "registered_name": "Prizma Food Szolgáltató Kft."
+    },
+    {
+        "company_names": "Prizma Food Szolgáltató Kft.; Prizma-Junior Közétkeztetési Zrt.",
+        "contract_value": 4416201937.0,
+        "contracting_authority": "Budapest XXI. Kerület Csepel Önkormányzata Gazdasági Szolgáltató Igazgatóság, Budapest XXI. Kerület Csepel Önkormányzata Humán Szolgáltatások Igazgatósága",
+        "date": "31/07/2019",
+        "link_notice": "https://kozbeszerzes.hu/adatbazis/megtekint/hirdetmeny/portal_14211_2019/",
+        "main_cpv": "55520000-1",
+        "number_companies_win": 2,
+        "procurement_title": "Csepel Önkormányzat közétkeztetési szolgáltatás",
+        "registered_name": "Prizma Food Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 1264497843.0,
+        "contracting_authority": "Magyar Honvédség Egészségügyi Központ",
+        "date": "29/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_23070_2021/",
+        "main_cpv": "55523000-2",
+        "number_companies_win": 0,
+        "procurement_title": "MH EK élelmezési szolgáltatás 2022",
+        "registered_name": "Prizma Food Szolgáltató Kft."
+    },
+    {
+        "company_names": "",
+        "contract_value": 317831196.0,
+        "contracting_authority": "Ercsi Város Önkormányzat",
+        "date": "21/01/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_421/megtekint/portal_0098_2021/",
+        "main_cpv": "55520000-1",
+        "number_companies_win": 0,
+        "procurement_title": "Közétkeztetés",
+        "registered_name": "Prizma Food Szolgáltató Kft."
+    }
+]

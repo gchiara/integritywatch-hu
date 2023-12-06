@@ -1,0 +1,46 @@
+[
+    {
+        "company_names": "Gabesz SZOFT Informatikai Kereskedelmi, Szolgáltató és Tanácsadó Kft.; UDEMX Szoftverfejlesztő és Tanácsadó Kft.",
+        "contract_value": 200000000.0,
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "13/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17313_2021/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 2,
+        "procurement_title": "BIIR fejlesztése 24 hónapra 2021.",
+        "registered_name": "UDEMX Szoftverfejlesztő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "Gabesz SZOFT Informatikai Kereskedelmi, Szolgáltató és Tanácsadó Kft.; UDEMX Szoftverfejlesztő és Tanácsadó Kft.",
+        "contract_value": 140900000.0,
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "17/08/2020",
+        "link_notice": "http://www.kozbeszerzes.hu/ertesito/2020/0/targy/portal_403/megtekint/portal_14783_2020/",
+        "main_cpv": "72253200-5",
+        "number_companies_win": 2,
+        "procurement_title": "CIIR rendszer üzemeltetése és fejlesztése",
+        "registered_name": "UDEMX Szoftverfejlesztő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "Gabesz SZOFT Informatikai Kereskedelmi, Szolgáltató és Tanácsadó Kft.; UDEMX Szoftverfejlesztő és Tanácsadó Kft.",
+        "contract_value": 139200000.0,
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "14/09/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_17316_2021/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 2,
+        "procurement_title": "Dokumentum és üzenetkezelő rendszer üzemeltetése 24 hónapra és fejlesztése 2021.",
+        "registered_name": "UDEMX Szoftverfejlesztő és Tanácsadó Kft."
+    },
+    {
+        "company_names": "Gabesz SZOFT Informatikai Kereskedelmi, Szolgáltató és Tanácsadó Kft.; UDEMX Szoftverfejlesztő és Tanácsadó Kft.",
+        "contract_value": 70000000.0,
+        "contracting_authority": "ORSZÁGOS BÍRÓSÁGI HIVATAL ",
+        "date": "02/11/2021",
+        "link_notice": "https://www.kozbeszerzes.hu/ertesito/2021/0/targy/portal_403/megtekint/portal_21130_2021/",
+        "main_cpv": "72000000-5",
+        "number_companies_win": 2,
+        "procurement_title": "BIIR Interfész üzemeltetése és fejlesztése",
+        "registered_name": "UDEMX Szoftverfejlesztő és Tanácsadó Kft."
+    }
+]
