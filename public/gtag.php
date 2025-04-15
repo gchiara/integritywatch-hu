@@ -1,9 +1,9 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8750968-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PLY5WP7CE8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-8750968-3', { 'anonymize_ip': true });
+  gtag('config', 'G-PLY5WP7CE8');
 </script>
